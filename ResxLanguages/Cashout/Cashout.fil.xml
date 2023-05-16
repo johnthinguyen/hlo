@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LocalLanguages>
+  <data name="">
+    <value>
+    </value>
+  </data>
+  <data name="CashOutNotEnoughGold">
+    <value>
+    </value>
+  </data>
+  <data name="TransferGold_Valid_Label">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_Valid_Address">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_Valid_Type">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_Valid_Amount">
+    <value>
+    </value>
+  </data>
+</LocalLanguages>

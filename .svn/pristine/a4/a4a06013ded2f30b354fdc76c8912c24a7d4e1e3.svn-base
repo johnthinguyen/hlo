@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="ForumAction">
+    <value>Aksyon</value>
+  </data>
+  <data name="ForumApprove">
+    <value>Aprubahan</value>
+  </data>
+  <data name="ForumArticleNotFound">
+    <value>Ang artikulo ay wala</value>
+  </data>
+  <data name="ForumArticleStatus">
+    <value>Katayuan</value>
+  </data>
+  <data name="ForumAuthor">
+    <value>May-akda</value>
+  </data>
+  <data name="ForumCategoryArticleText">
+    <value>Kategorya ng artikulo</value>
+  </data>
+  <data name="ForumCategoryText">
+    <value>Kategorya</value>
+  </data>
+  <data name="ForumCheckInputData">
+    <value>Suriin muli ang input</value>
+  </data>
+  <data name="ForumClan">
+    <value>Grupo</value>
+  </data>
+  <data name="ForumClanMemberOnlyText">
+    <value>Pahintulutan lamang ang mga miyembro na tumingin</value>
+  </data>
+  <data name="ForumCoin">
+    <value>CHIPS</value>
+  </data>
+  <data name="ForumCommentContent">
+    <value>Nilalaman</value>
+  </data>
+  <data name="ForumCommentNotFound">
+    <value>Walang nakitang komento</value>
+  </data>
+  <data name="ForumCommentText">
+    <value>Magkomento</value>
+  </data>
+  <data name="ForumContainBadWord">
+    <value>Di-wasto ang mga salita</value>
+  </data>
+  <data name="ForumContentArticleText">
+    <value>Nilalaman</value>
+  </data>
+  <data name="ForumCountArticles">
+    <value>Bilang ng mga artikulo</value>
+  </data>
+  <data name="ForumCountComments">
+    <value>Bilang ng mga komento</value>
+  </data>
+  <data name="ForumCreateArticle">
+    <value>Lumikha</value>
+  </data>
+  <data name="ForumCreateArticleText">
+    <value>Gumawa ng post</value>
+  </data>
+  <data name="ForumCreateCommentFailed">
+    <value>Hindi naipadala ang komento</value>
+  </data>
+  <data name="ForumCreateCommentSuccessed">
+    <value>Matagumpay na naipadala ang komento</value>
+  </data>
+  <data name="ForumDate">
+    <value>Oras ng post</value>
+  </data>
+  <data name="ForumEdit">
+    <value>I-edit</value>
+  </data>
+  <data name="ForumEditArticleText">
+    <value>I-edit ang post</value>
+  </data>
+  <data name="ForumFailed">
+    <value>tststs</value>
+  </data>
+  <data name="ForumHasErrorTryAgainLater">
+    <value>May naganap na error. Mangyaring subukan muli sa ibang pagkakataon</value>
+  </data>
+  <data name="ForumHiddenStatusText">
+    <value>Nakatago</value>
+  </data>
+  <data name="ForumInvalidData">
+    <value>Ang data na ito ay hindi tama</value>
+  </data>
+  <data name="ForumInvalidSign">
+    <value>Di-wastong lagda</value>
+  </data>
+  <data name="ForumLatest">
+    <value>Pinakabago</value>
+  </data>
+  <data name="ForumLatestArticle">
+    <value>Pinakabagong post</value>
+  </data>
+  <data name="ForumLatestCommentedArticle">
+    <value>Mga bagong post na komento</value>
+  </data>
+  <data name="ForumLikeArticleText">
+    <value>Gaya ng</value>
+  </data>
+  <data name="ForumLogin">
+    <value>Mag log in</value>
+  </data>
+  <data name="ForumLogOut">
+    <value>Mag-sign out</value>
+  </data>
+  <data name="ForumMostView">
+    <value>Pinaka tinitingnan</value>
+  </data>
+  <data name="ForumNoData">
+    <value>Walang data</value>
+  </data>
+  <data name="ForumNoRelativeArticleText">
+    <value>Walang mga artikulo</value>
+  </data>
+  <data name="ForumOverloadMaxStringLength">
+    <value>Masyadong mahaba ang nai-input na text</value>
+  </data>
+  <data name="ForumPendingStatusText">
+    <value>Nakabinbin</value>
+  </data>
+  <data name="ForumPolicyRules">
+    <value>Patakaran</value>
+  </data>
+  <data name="ForumPostedArticle">
+    <value>Na-post</value>
+  </data>
+  <data name="ForumProfilePage">
+    <value>Profile</value>
+  </data>
+  <data name="ForumRegister">
+    <value>Magrehistro</value>
+  </data>
+  <data name="ForumRelativeArticleText">
+    <value>Kaugnay na Post</value>
+  </data>
+  <data name="ForumRequiredInputContentArticlePlease">
+    <value>Mangyaring ipasok ang artikulo ng nilalaman</value>
+  </data>
+  <data name="ForumRequiredInputContentPlease">
+    <value>Mangyaring mag-input ng nilalaman</value>
+  </data>
+  <data name="ForumRequiredInputSummaryPlease">
+    <value>Mangyaring ipasok ang buod ng paglalarawan</value>
+  </data>
+  <data name="ForumRequiredInputTitlePlease">
+    <value>Paki-input ang pamagat</value>
+  </data>
+  <data name="ForumRequiredLogin">
+    <value>Hindi ka naka-log in. Mangyaring mag-log in at subukang muli</value>
+  </data>
+  <data name="ForumRequiredPermission">
+    <value>Wala kang pahintulot na gawin ang operasyong ito</value>
+  </data>
+  <data name="ForumRequiredShortDescriptionArticle">
+    <value>Ang buod ay dapat nasa pagitan ng {2} at {1} na mga character</value>
+  </data>
+  <data name="ForumRequiredTitleArticle">
+    <value>Ang pamagat ay dapat nasa pagitan ng {2} at {1} na mga character</value>
+  </data>
+  <data name="ForumRuleCommentText">
+    <value>Kailangan mong maabot ang antas {0} at hindi bababa sa {1} CHIP upang makasali sa komento</value>
+  </data>
+  <data name="ForumSameAvatar">
+    <value>Di-wasto ang avatar</value>
+  </data>
+  <data name="ForumSelectFileUpload">
+    <value>Pumili ng larawan</value>
+  </data>
+  <data name="ForumSendComment">
+    <value>Mag-post ng komento</value>
+  </data>
+  <data name="ForumShareArticleText">
+    <value>Ibahagi</value>
+  </data>
+  <data name="ForumShortDescriptionArticleText">
+    <value>Buod ng paglalarawan</value>
+  </data>
+  <data name="ForumShowStatusText">
+    <value>Ipakita</value>
+  </data>
+  <data name="ForumSuccess">
+    <value>Tagumpay</value>
+  </data>
+  <data name="ForumText">
+    <value>Forum</value>
+  </data>
+  <data name="ForumTitleArticleText">
+    <value>Pamagat ng post</value>
+  </data>
+  <data name="ForumUpdateArticleSuccessed">
+    <value>Ang artikulo ay na-update, mangyaring i-reload ang pahina</value>
+  </data>
+  <data name="ForumUpdateArticleText">
+    <value>I-update ang artikulo</value>
+  </data>
+  <data name="ForumUpdateAvatarFailed">
+    <value>Nabigo ang pag-upload ng avatar pakisubukang muli</value>
+  </data>
+  <data name="ForumUpdateCommentSuccessed">
+    <value>Ang mga komento ay na-update, mangyaring i-reload ang pahina</value>
+  </data>
+  <data name="ForumView">
+    <value>Mga view</value>
+  </data>
+  <data name="ForumWelcome">
+    <value>Hi</value>
+  </data>
+  <data name="ForumWrongAccount">
+    <value>Mali ang account</value>
+  </data>
+  <data name="ForumWrongArticle">
+    <value>Mali ang artikulo</value>
+  </data>
+  <data name="ForumWrongContent">
+    <value>Mali ang nilalaman</value>
+  </data>
+  <data name="activity">
+    <value>Operasyon sa laro</value>
+  </data>
+  <data name="community">
+    <value>Komunidad</value>
+  </data>
+  <data name="eventt">
+    <value>Kaganapan</value>
+  </data>
+  <data name="how_to_play">
+    <value>Paano laruin</value>
+  </data>
+  <data name="suggestions_error">
+    <value>Feedback - Mensahe ng error</value>
+  </data>
+  <data name="summary_award">
+    <value>Buod - Gantimpala</value>
+  </data>
+  <data name="toggle_dropdown">
+    <value>I-toggle ang Dropdown</value>
+  </data>
+  <data name="accept">
+    <value>OKAY</value>
+  </data>
+  <data name="cancel">
+    <value>Kanselahin</value>
+  </data>
+  <data name="error">
+    <value>Error</value>
+  </data>
+  <data name="ErrorWhileProcess">
+    <value>Nagkaroon ng error habang pinoproseso ang iyong kahilingan.</value>
+  </data>
+  <data name="ForumBeFirstComment">
+    <value>Maunang magkomento!</value>
+  </data>
+</LocalLanguages>

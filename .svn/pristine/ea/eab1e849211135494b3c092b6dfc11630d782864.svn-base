@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="BoxEventTichCodeMailTitle" xml:space="preserve">
+        <value>test</value>
+    </data>
+  <data name="UserNameInvalit4" xml:space="preserve">
+        <value>ឈ្មោះបញ្ចូលគណនីមានរួចហើយ</value>
+    </data>
+  <data name="RegisterBouns" xml:space="preserve">
+    <value>អបអរសាទរសម្រាប់ការចុះឈ្មោះដោយជោគជ័យ! រដ្ឋបាលនឹងអោយអ្នក {0} CHIPS លេងហ្គេម។TEST</value>
+  </data>
+  <data name="RegisterBounsTitle" xml:space="preserve">
+    <value>អបអរសាទរសម្រាប់ការចុះឈ្មោះដោយជោគជ័យ! </value>
+	</data>
+  <data name="Level_LevelUp" xml:space="preserve">
+    <value>អអ្នកបានឡើងកម្រិត</value>
+  </data>
+  <data name="Level_LogPointSuccess" xml:space="preserve">
+    <value>សន្សំពិន្ទុះកម្រិតជោគជ័យ</value>
+  </data>
+  <data name="Level_LogPointError" xml:space="preserve">
+    <value>សន្សំពិន្ទុះកម្រិតបរាជ័យ</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigListGameText" xml:space="preserve">
+    <value>អ្នកត្រូវជាប់កម្រិត {0}</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigBanCaRoomText" xml:space="preserve">
+    <value>អ្នកត្រូវជាប់កម្រិត {0} </value>
+  </data>
+  <data name="Level_DescriptionUnlockGame" xml:space="preserve">
+    <value>ស្វាគមន៍អ្នកបានបើកសោហ្គេម{0}</value>
+  </data>
+  <data name="UpdateInfoSuccess" xml:space="preserve">
+        <value>ធ្វើបច្ចុប្បន្នភាពព័ត៌មានដោយជោគជ័យ</value>
+    </data>
+  <data name="EmailExists" xml:space="preserve">
+        <value>អ៊ីមែលនេះត្រូវបានប្រើ</value>
+    </data>
+  <data name="ValidationPhone2" xml:space="preserve">
+        <value>លេខទូរស័ព្ទកំពុងប្រើរួចហើយ</value>
+    </data>
+  <data name="ErrorMessValidation7" xml:space="preserve">
+        <value>លេខទូរស័ព្ទមិនត្រឹមត្រូវ។</value>
+    </data>
+  <data name="ValidationDisplayName6" xml:space="preserve">
+    <value>ឈ្មោះបង្ហាញរួចហើយ</value>
+  </data>
+  <data name="ValidationLogin12" xml:space="preserve">
+    <value>មិនមានគណនី</value>
+  </data>
+  <data name="Reason_538" xml:space="preserve">
+    <value>ដក Pi Pay</value>
+  </data>
+  <data name="gifts_code_mail_title" xml:space="preserve">
+    <value>សូមស្វាគមន៍វិបផតថលហ្គេម អនឡាយ win8 គួឧ្យមានទំនុកចិត្ត - 
+Welcome to the most trusted game online WIN8</value>
+  </data>
+  <data name="gifts_code_mail_content" xml:space="preserve">
+    <value>អ្នកទទួលបាន {0} CHIPS សំរាប់ចូលរួមលេងហ្គេម Win888 ពីគេហទំព័រ &lt;a href="http://nagagamestudio.com" target="_blank" &gt;nagagamestudio.com&lt;/a&gt; និងកាដូជាច្រើនទៀតកំពុងរង់ចាំអ្នក។ -
+You receive {0} CHIPS to play game WIN8 from page &lt;a href="http://nagagamestudio.com" target="_blank"&gt;nagagamestudio.com&lt;/a&gt; and many other gifts are waiting for you.
+</value>
+  </data>
+  <data name="FacebookLoginNewError" xml:space="preserve">
+    <value>ការចូលភ្ជាប់បរាជ័យ សូមទាក់ទងadminដើម្បីជំនួយ</value>
+  </data>
+  <data name="Reason_CTV_blockAcc" xml:space="preserve">
+    <value>អ្នកត្រូវបានចាក់សោរដោយសារតែសង្ស័យនៃលេងបន្លំហ្គេមទៀងលេន admin នឹងពិនិត្យមើលម្តងទៀត-អាខោននឹងចាក់សោររហូតដល់ម៉ោង 10AM។ រាល់ការចម្ងល់ណាមួយសូមទាក់ទងសេវាកម្មអតិថិជនសម្រាប់ព័ត៌មានលំអិត។</value>
+  </data>
+  <data name="SystemMaintenance" xml:space="preserve">
+    <value>ប្រព័ន្ធកំពុងរក្សា។សូមព្យាយាមម្ដងទៀត</value>
+  </data>
+  <data name="VerifyAccountNotify" xml:space="preserve">
+    <value>សូមផ្ទៀងផ្ទាត់គណនីអ្នក level 2 តាម link &lt;a href='{0}' target='_blank'&gt;{0}&lt;/a&gt;  នេះ ដើម្បីទទួលបាន 1.000.000 chips ដំណើរការពិនិត្យនឹងត្រូវបញ្ចប់ក្នុងរយៈពេល 48 ម៉ោង។'</value>
+  </data>
+  <data name="VerifyEmailTitle" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="registerV3_Registration" xml:space="preserve">
+    <value>ចុះឈ្មោះ</value>
+  </data>
+  <data name="registerV3_Support" xml:space="preserve">
+    <value>ការគាំទ្រ</value>
+  </data>
+  <data name="registerV3_Other_way_to_login" xml:space="preserve">
+    <value>ភ្ជាប់ចូលវិធីផ្សេង</value>
+  </data>
+  <data name="AcceptAward" xml:space="preserve">
+    <value>Mag-browse ng mga application ng reward</value>
+  </data>
+</LocalLanguages>

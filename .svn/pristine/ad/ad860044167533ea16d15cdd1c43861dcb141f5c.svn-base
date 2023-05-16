@@ -1,0 +1,942 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="TopMemberDongGopLevelGuild">
+    <value>Nangungunang Pag-iipon ng Antas ng Grupo</value>
+  </data>
+  <data name="GuildNoExist">
+    <value>Wala ang grupo</value>
+  </data>
+  <data name="ReportMemberGuildContributesAward">
+    <value>Nangungunang kontribusyon ng pangkat</value>
+  </data>
+  <data name="GuildAdmin">
+    <value>admin</value>
+  </data>
+  <data name="GuildBang">
+    <value>Grupo</value>
+  </data>
+  <data name="GuildBangChu">
+    <value>May-ari</value>
+  </data>
+  <data name="GuildCap">
+    <value>antas</value>
+  </data>
+  <data name="GuildChinhSach">
+    <value>GROUP NG PATAKARAN</value>
+  </data>
+  <data name="GuildChiTietTTUser">
+    <value>IMPORMASYON DETALYE NG GUMAGAMIT</value>
+  </data>
+  <data name="GuildChonBangGiaNhap">
+    <value>Pumili ng grupong sasalihan.</value>
+  </data>
+  <data name="GuildCmt">
+    <value>Magkomento</value>
+  </data>
+  <data name="GuildCoppy">
+    <value>Kopya</value>
+  </data>
+  <data name="GuildDaiBang">
+    <value>Nangungunang Pinakamalaking Grupo sa Buwan</value>
+  </data>
+  <data name="GuildDangBoi">
+    <value>Post ni:</value>
+  </data>
+  <data name="GuildDangNhap">
+    <value>Mag log in</value>
+  </data>
+  <data name="GuildDanhSachBang">
+    <value>LISTAHAN NG GROUP</value>
+  </data>
+  <data name="GuildDanhSachSuKienMoi">
+    <value>Ilista ang mga bagong kaganapan</value>
+  </data>
+  <data name="GuildDongGop">
+    <value>Mag-ambag</value>
+  </data>
+  <data name="GuildDongY">
+    <value>Sige</value>
+  </data>
+  <data name="GuildError">
+    <value>May pagkakamaling naganap! Subukang muli mamaya.</value>
+  </data>
+  <data name="GuildGiaNhap">
+    <value>Sumali</value>
+  </data>
+  <data name="GuildGiaNhapSuccess">
+    <value>Mangyaring matagumpay na sumali. Pakihintay na tanggapin ng host group.</value>
+  </data>
+  <data name="GuildGiaNhapSuccess2">
+    <value>Nag-apply para sumali sa grupong ito. Pakihintay na tanggapin ng host group.</value>
+  </data>
+  <data name="GuildGiayTruoc">
+    <value>ilang segundo ang nakalipas</value>
+  </data>
+  <data name="GuildGioTruoc">
+    <value>oras ang nakalipas</value>
+  </data>
+  <data name="GuildGui">
+    <value>Ipadala</value>
+  </data>
+  <data name="GuildHaiQuan">
+    <value>hukbong-dagat</value>
+  </data>
+  <data name="GuildHaiTac">
+    <value>Mga pirata</value>
+  </data>
+  <data name="GuildID">
+    <value>pagkakakilanlan</value>
+  </data>
+  <data name="GuildKCoBinhLuan">
+    <value>Walang komento</value>
+  </data>
+  <data name="GuildKCoDataChoDuyet">
+    <value>Walang miyembrong naghihintay ng pag-apruba</value>
+  </data>
+  <data name="GuildKCoTTBang">
+    <value>Walang impormasyon ng estado.</value>
+  </data>
+  <data name="GuildKhauHieu">
+    <value>Slogan</value>
+  </data>
+  <data name="GuildKich">
+    <value>Sipa</value>
+  </data>
+  <data name="GuildKinhNghiem">
+    <value>karanasan</value>
+  </data>
+  <data name="GuildLevel">
+    <value>Antas</value>
+  </data>
+  <data name="GuildLinkFanPage">
+    <value>Fanpage</value>
+  </data>
+  <data name="GuildLoginDeSuDung">
+    <value>Mangyaring mag-login upang magamit ang function na ito</value>
+  </data>
+  <data name="GuildMember">
+    <value>Miyembro</value>
+  </data>
+  <data name="GuildMoiDay">
+    <value>Kamakailan lang</value>
+  </data>
+  <data name="GuildMoiThanhVien">
+    <value>Mag-imbita ng mga miyembro</value>
+  </data>
+  <data name="GuildNgayTao">
+    <value>kaarawan</value>
+  </data>
+  <data name="GuildNgayTruoc">
+    <value>kahapon</value>
+  </data>
+  <data name="GuildNhapfanpagefb">
+    <value>Ipasok ang facebook fanpage</value>
+  </data>
+  <data name="GuildNhapKhauHieu">
+    <value>Ipasok ang slogan</value>
+  </data>
+  <data name="GuildNhapTenBang">
+    <value>Ilagay ang pangalan ng grupo</value>
+  </data>
+  <data name="GuildNoData">
+    <value>Walang data</value>
+  </data>
+  <data name="GuildPhe">
+    <value>pangkatin</value>
+  </data>
+  <data name="GuildPhutTruoc">
+    <value>minuto ang nakalipas</value>
+  </data>
+  <data name="GuildQuanLyBang">
+    <value>EMANAGE SANG GROUPO</value>
+  </data>
+  <data name="GuildReport">
+    <value>Istatistika</value>
+  </data>
+  <data name="GuildRoiBang">
+    <value>pag-alis ng grupo</value>
+  </data>
+  <data name="GuildSave">
+    <value>I-save</value>
+  </data>
+  <data name="GuildSearchBang">
+    <value>Ilagay ang pangalan ng pangkat na hahanapin</value>
+  </data>
+  <data name="GuildSTT">
+    <value>Huwag!</value>
+  </data>
+  <data name="GuildSuKien">
+    <value>PANGYAYARI</value>
+  </data>
+  <data name="GuildTaiKhoan">
+    <value>salaysay</value>
+  </data>
+  <data name="GuildTaoBang">
+    <value>GUMAWA NG GRUPO</value>
+  </data>
+  <data name="GuildTenBang">
+    <value>Pangalan ng grupo</value>
+  </data>
+  <data name="GuildThoiGian">
+    <value>Oras</value>
+  </data>
+  <data name="GuildThongTin">
+    <value>Impormasyon</value>
+  </data>
+  <data name="GuildThongTinBangHoi">
+    <value>IMPORMASYON NG GRUPO</value>
+  </data>
+  <data name="GuildTimKiem">
+    <value>Maghanap</value>
+  </data>
+  <data name="GuildTongXu">
+    <value>Kabuuang CHIPS</value>
+  </data>
+  <data name="GuildTuChoi">
+    <value>Tanggihan</value>
+  </data>
+  <data name="GuildUserJoin">
+    <value>User na sumali</value>
+  </data>
+  <data name="GuildValidate">
+    <value>Pinapayagan ka lamang na makatanggap ng {0} higit pang mga miyembro sa antas ng pangkat na ito.</value>
+  </data>
+  <data name="GuildValidate10">
+    <value>Pinapayagan ka lamang na makatanggap ng {0} higit pang mga miyembro sa antas ng pangkat na ito.</value>
+  </data>
+  <data name="GuildValidate11">
+    <value>Hindi matanggal ang iyong sarili.</value>
+  </data>
+  <data name="GuildValidate12">
+    <value>Sipa lang ang mga user sa mga tinukoy na araw.</value>
+  </data>
+  <data name="GuildValidate13">
+    <value>* Dapat ay mayroon kang sapat na {0} upang makagawa ng isang grupo</value>
+  </data>
+  <data name="GuildValidate14">
+    <value>Mga miyembro lang ang makakakita ng komento</value>
+  </data>
+  <data name="GuildValidate2">
+    <value>Error sa pagtanggap ng User {0}</value>
+  </data>
+  <data name="GuildValidate3">
+    <value>Error sa pagtanggi sa User {0}</value>
+  </data>
+  <data name="GuildValidate4">
+    <value>Ang mga slogan ng grupo ay naglalaman ng mga character na hindi pinapayagan</value>
+  </data>
+  <data name="GuildValidate5">
+    <value>Ang mga slogan ng pangkat ay dapat na higit sa 5 at mas mababa sa 60 character</value>
+  </data>
+  <data name="GuildValidate6">
+    <value>Ang pangalan ng grupo ay dapat na higit sa 5 at mas mababa sa 30 character</value>
+  </data>
+  <data name="GuildValidate7">
+    <value>Ang pangalan ng grupo ay naglalaman ng mga character na hindi pinapayagan</value>
+  </data>
+  <data name="GuildValidate8">
+    <value>Kailangan mo ng {0} CHIPS upang lumikha ng isang pangkat</value>
+  </data>
+  <data name="GuildValidate9">
+    <value>Umiiral na ang pangalan ng grupo</value>
+  </data>
+  <data name="GuildVip">
+    <value>VIP</value>
+  </data>
+  <data name="GuildXoaBinhLuan">
+    <value>Tanggalin ang komento</value>
+  </data>
+  <data name="Account">
+    <value>salaysay</value>
+  </data>
+  <data name="BtnSearch">
+    <value>Maghanap</value>
+  </data>
+  <data name="ChooseeImage">
+    <value>Pumili ng larawan</value>
+  </data>
+  <data name="ClickToView">
+    <value>I-click upang tingnan</value>
+  </data>
+  <data name="ClickViewInfo">
+    <value>I-click upang tingnan ang personal na impormasyon</value>
+  </data>
+  <data name="Coin">
+    <value>CHIPS</value>
+  </data>
+  <data name="CommentNull">
+    <value>Walang komento</value>
+  </data>
+  <data name="Contribution">
+    <value>Kontribusyon ng chips</value>
+  </data>
+  <data name="Copy">
+    <value>Kopya</value>
+  </data>
+  <data name="CreateGuildUppercase">
+    <value>GUMAWA NG GRUPO</value>
+  </data>
+  <data name="CreateGuildValidation1">
+    <value>Ang pangalan ng grupo ay dapat na higit sa 5 at mas mababa sa 30 character.</value>
+  </data>
+  <data name="CreateGuildValidation2">
+    <value>* Ang pangalan ng grupo ay naglalaman ng mga character na hindi pinapayagan.</value>
+  </data>
+  <data name="CreateGuildValidation3">
+    <value>* Kailangan mo ng {0} CHIPS para makagawa ng grupo.</value>
+  </data>
+  <data name="CreateGuildValidation4">
+    <value>Umiiral na ang pangalan ng grupo.</value>
+  </data>
+  <data name="CreateGuildValidation5">
+    <value>* Dapat ay mayroon kang sapat na {0} CHIPS upang lumikha ng isang grupo.</value>
+  </data>
+  <data name="Date">
+    <value>Petsa</value>
+  </data>
+  <data name="DateFrom">
+    <value>Petsa mula</value>
+  </data>
+  <data name="DeleteCmt">
+    <value>Tanggalin ang komento</value>
+  </data>
+  <data name="DongGop">
+    <value>Mag-ambag</value>
+  </data>
+  <data name="Edit">
+    <value>I-edit</value>
+  </data>
+  <data name="EnterFanPage">
+    <value>Ilagay ang address ng Facebook page</value>
+  </data>
+  <data name="EnterGuildName">
+    <value>Ilagay ang pangalan ng grupo</value>
+  </data>
+  <data name="Event">
+    <value>Kaganapan</value>
+  </data>
+  <data name="Exp">
+    <value>Exp</value>
+  </data>
+  <data name="Faction">
+    <value>pangkatin</value>
+  </data>
+  <data name="GuildKey">
+    <value>Grupo</value>
+  </data>
+  <data name="GuildKey2">
+    <value>pangkat:</value>
+  </data>
+  <data name="GuildOwne">
+    <value>May-ari</value>
+  </data>
+  <data name="GuildSuggest">
+    <value>Iminumungkahi ng pangkat</value>
+  </data>
+  <data name="GuildValidation1">
+    <value>Pinapayagan ka lamang na makatanggap ng {0} sa antas ng pangkat na ito</value>
+  </data>
+  <data name="GuildValidation10">
+    <value>Pumili ng grupong sasalihan.</value>
+  </data>
+  <data name="GuildValidation11">
+    <value>Mangyaring matagumpay na sumali. Pakihintay na tanggapin ng master ng grupo.</value>
+  </data>
+  <data name="GuildValidation12">
+    <value>Nag-apply para sumali sa grupong ito. Pakihintay na tanggapin ng master ng grupo.</value>
+  </data>
+  <data name="GuildValidation13">
+    <value>Walang impormasyon ng grupo.</value>
+  </data>
+  <data name="GuildValidation2">
+    <value>Error sa pagtanggap ng user {0}</value>
+  </data>
+  <data name="GuildValidation3">
+    <value>Error sa pagtanggi sa user na {0}</value>
+  </data>
+  <data name="GuildValidation4">
+    <value>Mangyaring piliin ang miyembro na gusto mong alisin</value>
+  </data>
+  <data name="GuildValidation5">
+    <value>Hindi ka master ng grupo</value>
+  </data>
+  <data name="GuildValidation6">
+    <value>Hindi matanggal ang iyong sarili ok</value>
+  </data>
+  <data name="GuildValidation7">
+    <value>Sipa lang ang mga user sa mga tinukoy na araw</value>
+  </data>
+  <data name="GuildValidation8">
+    <value>Ang mga slogan ng grupo ay naglalaman ng mga character na hindi pinapayagan.</value>
+  </data>
+  <data name="GuildValidation9">
+    <value>Ang mga slogan ng pangkat ay dapat na higit sa 5 at mas mababa sa 60 character.</value>
+  </data>
+  <data name="Hello">
+    <value>Kamusta</value>
+  </data>
+  <data name="HoursAgo">
+    <value>Ilang oras ang nakalipas</value>
+  </data>
+  <data name="ID">
+    <value>pagkakakilanlan</value>
+  </data>
+  <data name="InfoAccount">
+    <value>Personal na impormasyon</value>
+  </data>
+  <data name="InfoGuild">
+    <value>Impormasyon ng pangkat</value>
+  </data>
+  <data name="InfomationNull">
+    <value>Walang impormasyon</value>
+  </data>
+  <data name="Join">
+    <value>Sumali</value>
+  </data>
+  <data name="Kick">
+    <value>Sipa</value>
+  </data>
+  <data name="LeavGuild">
+    <value>Umalis sa grupo</value>
+  </data>
+  <data name="Level">
+    <value>Antas</value>
+  </data>
+  <data name="LinkFanpage">
+    <value>Fanpage</value>
+  </data>
+  <data name="LinkInvitesMembers">
+    <value>Link ng imbitasyon</value>
+  </data>
+  <data name="ListMember">
+    <value>Mga miyembro</value>
+  </data>
+  <data name="ListMemberUppercase">
+    <value>MGA MIYEMBRO</value>
+  </data>
+  <data name="ListMemberWaitting">
+    <value>Listahan ng mga miyembrong nag-aaplay para sumali sa grupo</value>
+  </data>
+  <data name="LoginUseFunction">
+    <value>Kailangan mong mag-login upang magamit ang function na ito</value>
+  </data>
+  <data name="LoginViewInfoGuild">
+    <value>Mag-login upang tingnan ang impormasyon ng grupo</value>
+  </data>
+  <data name="ManaGuild">
+    <value>Pamamahala ng pangkat</value>
+  </data>
+  <data name="MetaTitle">
+    <value>Grupo</value>
+  </data>
+  <data name="MinuteAgo">
+    <value>Minuto ang nakalipas</value>
+  </data>
+  <data name="Navy">
+    <value>hukbong-dagat</value>
+  </data>
+  <data name="OK">
+    <value>Sumang-ayon</value>
+  </data>
+  <data name="Pirates">
+    <value>Pirata</value>
+  </data>
+  <data name="PolicyGuild">
+    <value>Patakaran ng grupo</value>
+  </data>
+  <data name="Recently">
+    <value>Kamakailan lang</value>
+  </data>
+  <data name="Register">
+    <value>Magrehistro</value>
+  </data>
+  <data name="Reject">
+    <value>Tanggihan</value>
+  </data>
+  <data name="Report">
+    <value>Hanggang ngayon</value>
+  </data>
+  <data name="ReportMemberActive">
+    <value>Mga istatistika ng mga aktibong miyembro</value>
+  </data>
+  <data name="ReportMemberActive2">
+    <value>Aktibo ang mga istatistika</value>
+  </data>
+  <data name="ReportMemberActive3">
+    <value>Tsart ng mga istatistika ng aktibong miyembro</value>
+  </data>
+  <data name="ReportRevenuGuild">
+    <value>Tsart ng mga istatistika ng kita ng pangkat</value>
+  </data>
+  <data name="ReportTotalRechargeMember">
+    <value>Mga istatistika ng kabuuang bayad ng mga miyembro</value>
+  </data>
+  <data name="ReportTotalRechargeMember2">
+    <value>Mga istatistika ng kabuuang pagbabayad</value>
+  </data>
+  <data name="ReportTotalRechargeMember3">
+    <value>Kabuuang istatistika ng pagbabayad ng mga miyembro</value>
+  </data>
+  <data name="RequestJoinGuildNull">
+    <value>Walang data</value>
+  </data>
+  <data name="ResponseCode1">
+    <value>Naka-lock ang account</value>
+  </data>
+  <data name="ResponseCode10">
+    <value>Ang function na ito ay kasalukuyang pansamantalang naka-lock</value>
+  </data>
+  <data name="ResponseCode11">
+    <value>Nabigo ang pagkuha ng impormasyon ng account</value>
+  </data>
+  <data name="ResponseCode12">
+    <value>Nabigo ang pagkuha ng impormasyon ng configuration</value>
+  </data>
+  <data name="ResponseCode13">
+    <value>Kunin ang nabigong listahan ng banner</value>
+  </data>
+  <data name="ResponseCode14">
+    <value>Nabigo ang listahan ng balita</value>
+  </data>
+  <data name="ResponseCode15">
+    <value>Kunin ang listahan ng CHIPS history failure</value>
+  </data>
+  <data name="ResponseCode16">
+    <value>Kunin ang listahan ng nabigong history ng pagkuha ng reward</value>
+  </data>
+  <data name="ResponseCode17">
+    <value>Kunin ang listahan ng nabigong kasaysayan ng pagbabayad sa card</value>
+  </data>
+  <data name="ResponseCode18">
+    <value>Kumuha ng nabigong impormasyon sa mailbox</value>
+  </data>
+  <data name="ResponseCode19">
+    <value>Mali ang security code</value>
+  </data>
+  <data name="ResponseCode2">
+    <value>Pinoproseso</value>
+  </data>
+  <data name="ResponseCode20">
+    <value>Walang serbisyo</value>
+  </data>
+  <data name="ResponseCode21">
+    <value>Wala ang grupo</value>
+  </data>
+  <data name="ResponseCode22">
+    <value>Ang account ay hindi isang may-ari ng grupo</value>
+  </data>
+  <data name="ResponseCode23">
+    <value>Tanggapin lamang ang jpg, png, gif ... mga larawan</value>
+  </data>
+  <data name="ResponseCode24">
+    <value>Laki ng file&gt; = 500Kb.</value>
+  </data>
+  <data name="ResponseCode25">
+    <value>Hindi maaaring walang laman ang pangalan ng grupo.</value>
+  </data>
+  <data name="ResponseCode26">
+    <value>Ang pangalan ng grupo ay nasa pagitan ng 5 at 30 character ang haba.</value>
+  </data>
+  <data name="ResponseCode27">
+    <value>Hindi maaaring blangko ang password ng grupo.</value>
+  </data>
+  <data name="ResponseCode28">
+    <value>Hindi tamang password.</value>
+  </data>
+  <data name="ResponseCode29">
+    <value>Nabigo ang paggawa ng grupo.</value>
+  </data>
+  <data name="ResponseCode3">
+    <value>Nabigo ang paggawa ng grupo.</value>
+  </data>
+  <data name="ResponseCode30">
+    <value>Hindi naka-log in ang user</value>
+  </data>
+  <data name="ResponseCode31">
+    <value>Kahilingan na lumabas sa lumang grupo.</value>
+  </data>
+  <data name="ResponseCode32">
+    <value>,Hindi tugma ang kasalukuyang pangkat.</value>
+  </data>
+  <data name="ResponseCode33">
+    <value>Nabigo ang pagsali sa grupo.</value>
+  </data>
+  <data name="ResponseCode34">
+    <value>Matagumpay na sumali sa grupo.</value>
+  </data>
+  <data name="ResponseCode35">
+    <value>Walang data.</value>
+  </data>
+  <data name="ResponseCode4">
+    <value>Error sa system</value>
+  </data>
+  <data name="ResponseCode41">
+    <value>Bawal kang magkomento.</value>
+  </data>
+  <data name="ResponseCode42">
+    <value>Lampas sa limitasyon ang bilang ng mga character</value>
+  </data>
+  <data name="ResponseCode43">
+    <value>Ang bilang ng mga komento sa araw ay lumampas sa limitasyon</value>
+  </data>
+  <data name="ResponseCode44">
+    <value>Hindi naaangkop ang nilalaman.</value>
+  </data>
+  <data name="ResponseCode45">
+    <value>Hindi pa nagaganap ang kaganapan</value>
+  </data>
+  <data name="ResponseCode46">
+    <value>Matagumpay na lumabas sa grupo.</value>
+  </data>
+  <data name="ResponseCode47">
+    <value>Matagumpay na lumabas sa grupo.</value>
+  </data>
+  <data name="ResponseCode48">
+    <value>Hindi sumali sa grupo.</value>
+  </data>
+  <data name="ResponseCode49">
+    <value>Ang pangalan ng grupo ay hindi naglalaman ng mga ipinagbabawal na character.</value>
+  </data>
+  <data name="ResponseCode5">
+    <value>Mag-e-expire ang token</value>
+  </data>
+  <data name="ResponseCode50">
+    <value>Ang slogan ay hindi naglalaman ng mga ipinagbabawal na character.</value>
+  </data>
+  <data name="ResponseCode51">
+    <value>Sipa lang ang mga user sa mga tinukoy na araw.</value>
+  </data>
+  <data name="ResponseCode52">
+    <value>Ang user ay wala sa grupo.</value>
+  </data>
+  <data name="ResponseCode53">
+    <value>Tagumpay</value>
+  </data>
+  <data name="ResponseCode6">
+    <value>Oras para magproseso</value>
+  </data>
+  <data name="ResponseCode7">
+    <value>Pagpapanatili ng system</value>
+  </data>
+  <data name="ResponseCode8">
+    <value>Walang account</value>
+  </data>
+  <data name="ResponseCode9">
+    <value>Nabigo ang pagkuha ng impormasyon ng account</value>
+  </data>
+  <data name="Save">
+    <value>I-save</value>
+  </data>
+  <data name="SearchGuildPH">
+    <value>Ilagay ang pangalan ng pangkat na hahanapin</value>
+  </data>
+  <data name="SecondsAgo">
+    <value>Ilang segundo ang nakalipas</value>
+  </data>
+  <data name="Send">
+    <value>Ipadala</value>
+  </data>
+  <data name="Share">
+    <value>Ibahagi</value>
+  </data>
+  <data name="Sologan">
+    <value>sawikain</value>
+  </data>
+  <data name="Title">
+    <value>Pamagat</value>
+  </data>
+  <data name="TopDaiBang">
+    <value>Nangungunang mahuhusay na grupo</value>
+  </data>
+  <data name="TopGuildMonth1">
+    <value>Nangungunang mapagkumpitensyang pangkat</value>
+  </data>
+  <data name="TopGuildMonth2">
+    <value>Nangungunang pangkat</value>
+  </data>
+  <data name="View">
+    <value>Ipakita</value>
+  </data>
+  <data name="Vip">
+    <value>VIP</value>
+  </data>
+  <data name="VipPoint">
+    <value>VIP point</value>
+  </data>
+  <data name="Yesterday">
+    <value>Kahapon</value>
+  </data>
+  <data name="NotUpdate">
+    <value>Hindi update</value>
+  </data>
+  <data name="Guild_Invitation_Owner">
+    <value>Ang Master ng Grupo lamang ang maaaring mag-imbita ng mga miyembro</value>
+  </data>
+  <data name="Guild_Invitation_UserHaveGuild">
+    <value>Maaari ka lamang mag-imbita ng mga miyembro na hindi pa sumali sa anumang grupo</value>
+  </data>
+  <data name="Guild_Invitation_UserWaitting">
+    <value>Inimbitahan na ang miyembrong ito dati</value>
+  </data>
+  <data name="Guild_Invitation_Success">
+    <value>Matagumpay na naimbitahan, mangyaring maghintay para sa kasunduan ng miyembro</value>
+  </data>
+  <data name="Guild_Invitation_UrlError">
+    <value>Di-wastong link o nag-expire na ang link</value>
+  </data>
+  <data name="Guild_Invitation_JoinSuccess">
+    <value>Matagumpay na sumali sa grupo</value>
+  </data>
+  <data name="Guild_Invitation_AddSuccess">
+    <value>Matagumpay na naidagdag ang mga manlalaro sa clan</value>
+  </data>
+  <data name="UserNotGuildTitle">
+    <value>Ang mga nangungunang user ay hindi pa nakakasali sa anumang grupo</value>
+  </data>
+  <data name="SearchUserNotGuildPH">
+    <value>Ilagay ang userid para maghanap</value>
+  </data>
+  <data name="Guild_Invitation_SendMailContent">
+    <value>Nakatanggap ka ng imbitasyon ng grupo {0}, i-click ang button na ito para sumali sa Grupo: &lt;button class='ohyea-margin-top-12 ohyea__btn ohyea__btn--medium ohyea__btn--center ohyea__btn--green ohyea__btn--default ohyea__btn-- uppercase' onclick="ClientWebHelper.GuildApproverInvitation('{1}')"&gt;&lt;label&gt;Tanggapin&lt;/label&gt;&lt;span class='pattern'&gt;&lt;/span&gt;&lt;span class='overlay'&gt;&lt;/span&gt;&lt; span class='light'&gt;&lt;/span&gt;&lt;/button&gt;&lt;button class='ohyea-margin-top-12 ohyea__btn ohyea__btn--medium ohyea__btn--center ohyea__btn--red ohyea__btn--default ohyea__btn--uppercase' onclick ="ClientWebHelper.GuildRejectInvitation('{1}', 4, RejectInvitationUpdateMail)"&gt;&lt;label&gt;Kanselahin&lt;/label&gt;&lt;span class='pattern'&gt;&lt;/span&gt;&lt;span class='overlay'&gt;&lt;/span&gt; &lt;span class='light'&gt;&lt;/span&gt;&lt;/button&gt;</value>
+  </data>
+  <data name="Guild_Invitation_SendMailTitle">
+    <value>Imbitasyon ng Grupo {0}</value>
+  </data>
+  <data name="Guild_Invitation_GuildOwnerAdd_SendMailContent">
+    <value>Idinagdag ka ni master {0} sa pangkat {1}</value>
+  </data>
+  <data name="Guild_Invitation_GuildOwnerAdd_SendMailTitle">
+    <value>Sumali sa grupong {0}</value>
+  </data>
+  <data name="Guild_Invitation_ShareLinkJoinGuild_SendMailContent">
+    <value>Matagumpay kang nakasali sa pangkat na {0}</value>
+  </data>
+  <data name="Guild_Invitation_ShareLinkJoinGuild_SendMailTitle">
+    <value>Sumali sa grupong {0}</value>
+  </data>
+  <data name="Guild_JoinGuild_SendMailContent">
+    <value>Matagumpay kang nakasali sa pangkat na {0}</value>
+  </data>
+  <data name="Guild_JoinGuild_SendMailTitle">
+    <value>Sumali sa grupong {0}</value>
+  </data>
+  <data name="Guild_KickUser_SendMailTitle">
+    <value>Alisin sa pangkat {0}</value>
+  </data>
+  <data name="Guild_KickUser_SendMailContent">
+    <value>Pinaalis ka ng Master ng Grupo sa grupong {0}</value>
+  </data>
+  <data name="Guild_QuitGuild_SendMailContent">
+    <value>Matagumpay kang umalis sa {0}</value>
+  </data>
+  <data name="Guild_QuitGuild_SendMailTitle">
+    <value>Umalis sa pangkat {0}</value>
+  </data>
+  <data name="TopGuildByLevelTitle">
+    <value>Top level na pangkat</value>
+  </data>
+  <data name="TopUserVipInMonthTitle">
+    <value>Nangungunang User vip month</value>
+  </data>
+  <data name="TopUserTichLuyInMonthFullSystemTitle">
+    <value>NANGUNGUNANG USER CONTRIBUTE NG MGA GRUPO</value>
+  </data>
+  <data name="Point">
+    <value>Punto</value>
+  </data>
+  <data name="TopGuildNewTitle">
+    <value>Nangungunang bagong pangkat</value>
+  </data>
+  <data name="TopGuildOwnerLastMonthTitle">
+    <value>Nangungunang master ng grupo noong nakaraang buwan</value>
+  </data>
+  <data name="TopMemberDongGopFullTimeTitle">
+    <value>Ang mga nangungunang miyembro ay nag-aambag ng buong oras</value>
+  </data>
+  <data name="TopGuildVipPointFullTimeTitle">
+    <value>Nangungunang grupo exp</value>
+  </data>
+  <data name="ExpLabel">
+    <value>Kabuuang Exp</value>
+  </data>
+  <data name="TylePoint">
+    <value>kabayaran</value>
+  </data>
+  <data name="MasterLabel">
+    <value>PINUNO</value>
+  </data>
+  <data name="TopMemberThisMonth">
+    <value>TOP MEMBER NGAYONG BUWAN</value>
+  </data>
+  <data name="TopMemberLastMonth">
+    <value>NANGUNGUNANG MIYEMBRO SA KATAPUSAN BUWAN</value>
+  </data>
+  <data name="TOP_MEMBER_EXP_THIS_MONTH">
+    <value>NANGUNGUNANG NUMERO EXP.</value>
+  </data>
+  <data name="TOP_MEMBER_TOTAL_EXP">
+    <value>NANGUNGUNANG EXP TOTAL</value>
+  </data>
+  <data name="TransferGoldInGuilNotMemberInGuild">
+    <value>Ang isang receiver ay wala sa iyong grupo</value>
+  </data>
+  <data name="TransferGoldInGuilOnlyAllowOwner">
+    <value>Tanging ang master ng grupo ang maaaring maglipat ng CHIPS</value>
+  </data>
+  <data name="TransferGoldInGuilOnlyAllowMember">
+    <value>Tanging miyembro ng grupo ang maaaring maglipat ng CHIPS</value>
+  </data>
+  <data name="TransferGoldInGuil_MustTransferMember">
+    <value>Maaari lamang ilipat sa miyembro</value>
+  </data>
+  <data name="TransferGoldInGuil_MustTransferOwner">
+    <value>Maaari lamang ilipat sa master ng grupo</value>
+  </data>
+  <data name="TransferGoldInGuilMinLevel">
+    <value>Ang isang pangkat ay dapat na mas mataas o katumbas ng antas {0} upang buksan ang tampok na paglilipat ng CHIPS</value>
+  </data>
+  <data name="TransferGoldInGuilBtnLabel">
+    <value>Paglipat ng CHIPS</value>
+  </data>
+  <data name="TransferGoldInGuilForMemberBtnLabel">
+    <value>Ilipat ang CHIPS sa mga miyembro</value>
+  </data>
+  <data name="TransferGoldInGuilForMasterBtnLabel">
+    <value>Ilipat ang CHIPS sa master</value>
+  </data>
+  <data name="TransferGoldInGuilCanOnlyMemberLabel">
+    <value>Maaari ka lamang maglipat ng CHIPS sa mga miyembro sa iyong grupo</value>
+  </data>
+  <data name="TransferGoldInGuilCanOnlyMasterLabel">
+    <value>Maaari mo lamang ilipat ang CHIPS sa iyong master</value>
+  </data>
+  <data name="UserQuitMyGuildOneMore">
+    <value>Hindi mo maaaring idagdag ang miyembrong ito na nakatakas sa iyong grupo dati</value>
+  </data>
+  <data name="HistoryTransferGoldGuild_UserSenderLabel">
+    <value>Ang nagpadala</value>
+  </data>
+  <data name="HistoryTransferGoldGuild_UserReceiveLabel">
+    <value>Ang tagatanggap</value>
+  </data>
+  <data name="HistoryTransferGoldGuild_ChipTransferLabel">
+    <value>CHIPS</value>
+  </data>
+  <data name="HistoryTransferGoldGuildTitleLabel">
+    <value>History ng paglilipat ng Groupo Chips</value>
+  </data>
+  <data name="GuildMemberVip_GoldAwardLabel">
+    <value>CHIPS gantimpala</value>
+  </data>
+  <data name="GuildMemberVip_ContributionbylevelLabel">
+    <value>Listahan ng mga Kontribusyon ayon sa antas</value>
+  </data>
+  <data name="CreateGuildNotificationSuccess">
+    <value>Matagumpay na magpadala ng mga mensahe sa mga miyembro</value>
+  </data>
+  <data name="CreateGuildNotificationError">
+    <value>Nabigong magpadala ng mga mensahe sa mga miyembro</value>
+  </data>
+  <data name="CreateGuildNotificationStatus">
+    <value>Katayuan</value>
+  </data>
+  <data name="CreateGuildNotificationContentLabel">
+    <value>Nilalaman</value>
+  </data>
+  <data name="ReportContributeOfMemberLablel">
+    <value>Kontribusyon ng miyembro</value>
+  </data>
+  <data name="CreateGuildNotificationLabel">
+    <value>Magpadala ng mensahe sa mga miyembro</value>
+  </data>
+  <data name="ListGuildNotificationLabel">
+    <value>Listahan ng mga mensahe para sa master ng grupo</value>
+  </data>
+  <data name="ListGuildNotificationShowPlaceholderLabel">
+    <value>Pindutin para ipakita</value>
+  </data>
+  <data name="ListGuildNotificationHidenPlaceholderLabel">
+    <value>Pindutin upang itago</value>
+  </data>
+  <data name="GuildBtnClose">
+    <value>Isara</value>
+  </data>
+  <data name="CreateGuildInputContentPlaceholder">
+    <value>Mag-click dito upang i-type ang iyong mga nilalaman</value>
+  </data>
+  <data name="TopMemberTichLuyGuildEvent200">
+    <value>Nangungunang miyembro ng grupo 01/04 - 12/04 Manalo ng 200,000,000 CHIPS</value>
+  </data>
+  <data name="TopMemberTichLuyGuildEvent200Note">
+    <value>Nangungunang miyembro ng grupo 01/04 - 12/04 Manalo ng 200,000,000 CHIPS</value>
+  </data>
+  <data name="LimitCommentOfUserInDate">
+    <value>Hindi ka makakapagkomento nang mahigit {0} (na) beses sa isang araw</value>
+  </data>
+  <data name="TopDongGopPlayGameThisMonth">
+    <value>NANGUNGUNANG CHIPS</value>
+  </data>
+  <data name="TopDongGopPlayGameLastMonth">
+    <value>NANGUNGUNANG CHIPS</value>
+  </data>
+  <data name="TopTichExpLevelHienTai">
+    <value>NANGUNGUNANG EXP LEVEL</value>
+  </data>
+  <data name="TopTichExpLevelTruocDo">
+    <value>Nangungunang EXP Accumulation level</value>
+  </data>
+  <data name="TotalRewardLabel">
+    <value>CHIPS</value>
+  </data>
+  <data name="Contribute_group_this_month_hint">
+    <value>Kabuuang CHIPS na makukuha mo ngayong buwan na maglaro ka at Mag-ambag sa grupo. Maglaro ng higit pa upang makakuha ng higit pa.</value>
+  </data>
+  <data name="Contribute_group_last_month_hint">
+    <value>Kabuuang CHIPS na natanggap mo noong nakaraang buwan na naglaro ka at Nag-ambag sa grupo.</value>
+  </data>
+  <data name="GuildInvitionUser_ErrorMessageReject">
+    <value>Hindi maaaring magdagdag ng mga miyembrong tumanggi sa iyong imbitasyon</value>
+  </data>
+  <data name="Guild_Invitation_RejectSuccess">
+    <value>Tumangging matagumpay na sumali sa guild</value>
+  </data>
+  <data name="GuildRejectActionResult">
+    <value>Tinanggihan mo ang imbitasyon {0}</value>
+  </data>
+  <data name="GuildAcceptActionResult">
+    <value>Tinanggap mo ang imbitasyon na sumali sa Grupo {0}</value>
+  </data>
+  <data name="GuildApproveActionResult">
+    <value>Matagumpay kang sumali sa Pangkat {0}</value>
+  </data>
+  <data name="WaitingApproval">
+    <value>Naghihintay ng pag-apruba</value>
+  </data>
+  <data name="Hint_GuildNew">
+    <value>Nangungunang bagong nilikhang pangkat</value>
+  </data>
+  <data name="Hint_TopGuildVipPointFullTime">
+    <value>Nangungunang pangkat ng mga puntos ng karanasan</value>
+  </data>
+  <data name="Hint_TopDongGopFullSystemLastMonth">
+    <value>Mga nangungunang miyembro na may mataas na kontribusyon noong nakaraang buwan.</value>
+  </data>
+  <data name="Hint_TopDongGop">
+    <value>Ang mga nangungunang miyembro ay inaasahang makakatanggap ng mga parangal ng Grupo sa buwang {0}</value>
+  </data>
+  <data name="Hint_TopDongGopPreMonth">
+    <value>Mga nangungunang miyembro na tumatanggap ng mga parangal ng Grupo sa buwang {0}</value>
+  </data>
+  <data name="Hint_TopMemberDongGopLevelGuild">
+    <value>Nangungunang mga punto ng karanasan ng antas ng Pangkat {0}</value>
+  </data>
+  <data name="Hint_TopMemberDongGopFullTime">
+    <value>Nangungunang kabuuang mga puntos ng karanasan</value>
+  </data>
+  <data name="Hint_TopGuildOwnerLastMonth">
+    <value>Nangungunang master ng grupo noong nakaraang buwan6</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Tagumpay</value>
+  </data>
+</LocalLanguages>

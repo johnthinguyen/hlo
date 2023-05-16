@@ -1,0 +1,1090 @@
+﻿@using Newtonsoft.Json;
+@{
+    ViewBag.Title = "Home Page";
+    Layout = null;
+
+    IEnumerable<SelectListItem> list_folder = (IEnumerable<SelectListItem>)ViewBag.CateList;
+    IEnumerable<SelectListItem> xmlListImport = (IEnumerable<SelectListItem>)ViewBag.listLangImport;
+    List<WebResxLanguage.Models.ElementModel> list_item = new List<WebResxLanguage.Models.ElementModel>();
+    List<WebResxLanguage.Models.ElementV2Model> list_item_V2 = new List<WebResxLanguage.Models.ElementV2Model>();
+    List<string> list_item_Lang = new List<string>();
+    List<List<WebResxLanguage.Models.ElementV2Model>> list_item_V3 = new List<List<WebResxLanguage.Models.ElementV2Model>>();
+    list_item_V2 = (List<WebResxLanguage.Models.ElementV2Model>)ViewBag.ListItV2;
+    list_item_V3 = (List<List<WebResxLanguage.Models.ElementV2Model>>)ViewBag.ListItV3;
+    list_item_Lang = (List<string>)ViewBag.list_item_Lang == null ? null : (List<string>)ViewBag.list_item_Lang;
+    var list_header = ViewBag.headerTable;
+    var list_header1 = ViewBag.headerTable1;
+    var ListNewKey1 = ViewBag.ListNewKey_V;
+    var index = 0;
+    var index2 = 0;
+    var index3 = 0;
+    var list_folder_V3 = list_folder.ToList();
+    var folderID_search = ViewBag.folderID_search == null ? 0 : ViewBag.folderID_search;
+}
+
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Resx Language</title>
+        <link href="~/Scripts/bootstrap-4.4.1-dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/Content/sweeralert2/sweetalert2.min.css" rel="stylesheet" />
+        <link href="~/dist/css/main.css?version=0.1" rel="stylesheet" />
+        <link href="~/dist/css/btnCss.css" rel="stylesheet" />
+    </head>
+
+    <body>
+        <div class="lang-wrapper lang-bg">
+            <div class="lang-header">
+            </div>
+            <div class="lang-main lang-table-config">
+                <div class="lang-table table-responsive">
+                    <div class="lang-table-title border-bottom">
+                        <h3 class="mb-2">Language</h3>
+                    </div>
+                    <hr>
+                    @using (Html.BeginForm("Index", "Home", FormMethod.Get,new { @class = "f_search"} ))
+                    {
+                        <div class="col form-inline table-head-config my-2 ">
+                            <div class="col-2 form-inline table-head-config ">
+
+                                @Html.DropDownList("folderID", (IEnumerable<SelectListItem>)ViewBag.CateList, new
+                           {
+                               @class = "row form-control form-inline ddlFolder",
+                               @style = "width: 100%; position: relative;", 
+
+                           })
+
+                            </div>
+                            <div class="col-10 table-head-config">
+                                <div class="input-group">
+                                    <input id="input_search" name="searchString" value="@ViewBag.SearchString" type="text" class="form-control bg-light" placeholder="Tìm kiếm theo mã key..." aria-label="Search" onclick="this.select()">
+                                    <div class="input-group-append">
+                                        <button type="submit" class="btn btn-secondary">Tìm kiếm</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                    <hr>
+                    @if (list_item_V2.Any())
+                    {
+                        <div class="lang-table-content">
+                            <table class="table table-striped table-hover table-bordered" id="table" data-mode="columntoggle">
+                                <thead class="thead-dark" id="thead">
+                                    <tr>
+                                        <th class="table-func ">Chức Năng</th>
+                                        <th class="table-item">Key</th>
+                                        @foreach (var item in list_header)
+                                        {
+                                            <th class="@item table-item">@item</th>
+                                        }
+
+                                    </tr>
+                                </thead>
+                                <tbody class="">
+                                    @foreach (var item in list_item_V2.FirstOrDefault().Detail)
+                                    {
+                                    <tr class="key_@index">
+                                        <td class="table-item">
+                                            <div class="table-func td_chucNang ">
+                                                <button data-name="@item.Key" data-key="@index" class="btn btn-info btn_updateModal" data-toggle="modal" data-target="#themDuLieuModal" title="Sửa nội dung @item.Key">Chỉnh sửa</button>
+                                                <button data-name="@item.Key" data-key="@index" class="btn btn-danger btn_deleteModal" title="Xóa nội dung @item.Key">Xóa</button>
+                                                <button data-name="@item.Key" data-key="@index" class="btn btn-success btn_coppy" title="Sao chép nội dung @item.Key">Coppy</button>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="table-key table-item" style="margin:4%">@item.Key</div>
+                                        </td>
+
+                                        @foreach (var itemDetail in list_item_V2)
+                                        {
+
+                                            if (!string.IsNullOrEmpty(@itemDetail.Detail.FirstOrDefault(x => x.Key == item.Key).Name))
+                                            {
+                                                <td class="@itemDetail.Lang table-item">
+                                                    <div class="table-@itemDetail.Lang.ToLower() table-item" style="margin:4%">@itemDetail.Detail.FirstOrDefault(x => x.Key == item.Key).Name</div>
+                                                </td>
+                                            }
+                                            else
+                                            {
+                                                <td class="bg-warning">
+                                                    <div class="t-item text-danger" style="margin:4%; font-size:12px;" title="@itemDetail.Lang"><strong>@itemDetail.Lang</strong>: không có nội dung</div>
+                                                </td>
+                                            }
+                                        }
+
+                                    </tr>
+                                        index++;
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+
+                    @if (list_item_V3.Any())
+                    {
+                        <div class="lang-table-content">
+                            <table class="table table-striped table-hover table-bordered">
+                                <thead class="thead-dark">
+                                    <tr>
+                                        <th>Thư mục</th>
+                                        <th class="table-func t-item">Chức Năng</th>
+                                        <th class="t-item">Key</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item_V2 in list_item_V3)
+                                    {
+                                        foreach (var item in item_V2.FirstOrDefault().Detail)
+                                        {
+
+                                    <tr class="key_@index2">
+                                        <td class="t-item"><div class="table-key" >@list_folder_V3[index3].Text</div></td>
+                                        <td class="t-item">
+                                            <div class="table-func td_chucNang t-item">
+                                                <button data-name="@item.Key" data-content="@list_folder_V3[index3].Text" data-key="@index2" class="btn btn-info btn_updateModal" data-toggle="modal" data-target="#themDuLieuModal" title="Sửa nội dung @item.Key">Chỉnh sửa</button>
+                                                <button data-name="@item.Key" data-key="@list_folder_V3[index3].Text" class="btn btn-danger btn_deleteModal" title="Xóa nội dung @item.Key">Xóa</button>
+                                                <button data-name="@item.Key" data-content="@list_folder_V3[index3].Text"  data-key="@index2" class="btn btn-success btn_coppy" title="Sao chép nội dung @item.Key">Coppy</button>
+                                            </div>
+                                        </td>
+                                        <td class="t-item">
+                                            <div class="table-key t-item" style="margin:4%">@item.Key</div>
+                                        </td>
+                                        @foreach (var item1 in item_V2)
+                                        {
+                                            if (!string.IsNullOrEmpty(@item1.Detail.FirstOrDefault(x => x.Key == item.Key).Name))
+                                            {
+                                                <td class="@item1.Lang ">
+                                                    <div class="table-@item1.Lang.ToLower() t-item" style="margin:4%" title="@item1.Lang">@item1.Detail.FirstOrDefault(x => x.Key == item.Key).Name</div>
+                                                </td>
+                                            }
+                                            else
+                                            {
+                                                <td class="bg-warning">
+                                                    <div class="t-item text-danger" style="margin:4%; font-size:12px;" title="@item1.Lang"><strong>@item1.Lang</strong>: không có nội dung</div>
+                                                </td>
+                                            }
+
+                                        }
+                                    </tr>
+                                            index2++;
+
+                                        }
+                                        index3++;
+                                    }
+
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                </div>
+            </div>
+
+            <div class="fixed"></div>
+            <!-- thêm dữ liệu Modal -->
+            <div class="modal  fade" id="themDuLieuModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content modal-custom">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body p-4">
+
+                            <div class="form-group">
+                                <label for="exampleInputKey">JSON</label>
+                                <textarea name="JsonName" type="text" class="form-control " id="jsonInput" placeholder="Paste phần key và value đã coppy vào đây" onclick="this.select()"></textarea>
+                            </div>
+                            <div class="modal-footer">
+                                <button id="btn_ConfirmAdd" class="btn btn-primary btn_Mycss btnAdd">Thêm</button>
+                                <button id="btn_ConfirmUpdate" class="btn btn-primary btn_Mycss btnUpdate">Sửa</button>
+                                <button id="btn_Convert" class="btn btn-primary btn_Mycss">Convert</button>
+                                <button id="btn_Clear" class="btn btn-warning btn_Mycss">Clear</button>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputKey">Key</label>
+                                <input name="Key" type="text" class="form-control " id="exampleInputKey" placeholder="Nhập Key">
+                                <label class="field-validation-error" id="validationLabelKey" for="exampleInputKey">Vui lòng nhập dữ liệu</label>
+                            </div>
+
+                            @if (list_item_V2.Any())
+                            {
+                                foreach (var itemDetail in list_item_Lang)
+                                {
+                                    <div class="form-group @string.Format("group{0}",itemDetail)">
+                                        <label for="@Html.Raw(string.Format("exampleInput{0}",itemDetail))"> @itemDetail.ToUpper()</label>
+                                        <textarea name="@itemDetail" class="form-control checkedValidata" id="@Html.Raw(string.Format("exampleInput{0}",itemDetail))" placeholder="Nhập @itemDetail ..." onclick="this.select()"></textarea>
+                                        <label class="field-validation-error" id="@Html.Raw(string.Format("validationLabel{0}",itemDetail))" for="exampleInputKey">Vui lòng nhập dữ liệu</label>
+                                    </div>
+                                }
+                            }
+                            @if (list_item_V3.Any())
+                            {
+                                foreach (var itemDetail in list_item_V3.First())
+                                {
+                                    <div class="form-group @string.Format("group{0}",itemDetail.Lang)">
+                                        <label for="@Html.Raw(string.Format("exampleInput{0}",itemDetail.Lang))"> @itemDetail.Lang.ToUpper()</label>
+                                        <textarea name="@itemDetail.Lang" class="form-control checkedValidata" id="@Html.Raw(string.Format("exampleInput{0}",itemDetail.Lang))" placeholder="Nhập @itemDetail.Lang ..." onclick="this.select()"></textarea>
+                                        <label class="field-validation-error" id="@Html.Raw(string.Format("validationLabel{0}",itemDetail.Lang))" for="exampleInputKey">Vui lòng nhập dữ liệu</label>
+                                    </div>
+                                }
+                            }
+                        </div>
+                        <div class="modal-footer">
+                            <button id="btn_ConfirmAdd" class="btn btn-primary btnAdd">Thêm</button>
+                            <button id="btn_ConfirmUpdate" class="btn btn-primary btnUpdate">Sửa</button>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="loading"></div>
+            @*modal info*@
+            <div class="modal fade bd-info-modal-lg " tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content p-4">
+                        <h2>Chức năng import:</h2>
+                        <p>- File import hợp lệ là file excel: .xls, .xlsx </p>
+                        <p>- File lưu tên theo cấu trúc [tên_folder].[ngôn_ngữ].xml, Ví dụ: Account.en.xml. Trong đó tên_folder dựa trên folder đang hiển thị hoặc tên sheet trong file import, tên ngôn_ngữ được lưu dựa trên ngôn ngữ chọn trên giao diện</p>
+                        <p>- Trường hợp File chỉ có 1 sheet:</p>
+                        <ul>
+                            <li>Nếu file có tên sheet trùng với tên của một trong các folder lưu thì File được lưu vào chính folder đó, ví dự sheet có tên Account thì khi import dữ liệu đó được lưu vào folder Acount : Acount.en.xml</li>
+                            <li>Ngược lại lưu vào thư mục được chọn để hiển thị dự liệu</li>
+                        </ul>
+                        <p>- Trường hợp File chỉ có nhiều sheet:</p>
+                        <ul>
+                            <li>Nếu file có tên sheet trùng với tên của một trong các folder lưu thì File được lưu vào chính folder đó</li>
+                            <li>Ngược lại lưu vào thư mục được chọn để hiển thị dự liệu</li>
+                            <li>Có sheet nhưng không có dữ liệu bên trong thì cũng không được lưu</li>
+                        </ul>
+                        <p>- Trường hợp các folder đã có sẵn file thì sheet mới tương ứng không được lưu.</p>
+                    </div>
+                </div>
+            </div>
+
+            @*Export to excel*@
+            <div class="modal fade bd-export-modal-lg " tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                <div class="modal-dialog ">
+                    <div class="modal-content p-4">
+                        <div class="row" style="width:100%">
+                            <div class="col form-inline table-head-config">
+                                <label style="margin-right:1%">Chọn ngôn ngữ Export:</label>
+                                @using (Html.BeginForm("ExportToExcel", "Home", FormMethod.Post))
+                                {
+                                    @Html.DropDownList("ddlLanguage",
+                                  new SelectList(
+                                      list_item_V2.Select(x => new { value = x.Lang, text = x.Lang }).ToArray(), "value", "text"
+                                  ),
+                                  new
+                                  {
+                                      onchange = "this.form.submit();",
+                                      @class = "form-control mr-2 btn_Mycss",
+
+                                  })
+                                    <input type="submit" value="Export" class="btn btn-success btn_input_export btn_Mycss" />
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            @*Search*@
+            <div class="modal fade bd-search-modal-lg " tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg modal-dialog-centered">
+                    <div class="modal-content row p-4">
+                        @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+                        {
+                            <div class="col form-inline table-head-config my-2 ">
+                                <div class="col-3 form-inline table-head-config ">
+
+                                    @Html.DropDownList("folderID", (IEnumerable<SelectListItem>)ViewBag.CateList, new
+                               {
+                                   @class = "row form-control form-inline ",
+                                   @style = "width: 100%; position: relative;"
+                               })
+
+                                </div>
+                                <div class="col-9 table-head-config">
+                                    <div class="input-group">
+                                        <input id="input_search" name="searchString" value="@ViewBag.SearchString" type="text" class="form-control bg-light" placeholder="Tìm kiếm theo mã key..." aria-label="Search">
+                                        <div class="input-group-append">
+                                            <button type="submit" class="btn btn-secondary btn_Mycss">Tìm kiếm</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+
+            @*Import*@
+            @if (list_item_V2.Any())
+            {
+                <div class="modal fade bd-import-modal-lg " tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content p-4" id="modal-content">
+                            <div class="col form-inline table-head-config my-2">
+                                <label class="align-items-end" style="position: relative;top:12px">Chọn ngôn ngữ :</label>
+
+                                @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+                                {
+                                    if (xmlListImport.Count() != 0)
+                                    {
+                                        @Html.DropDownList("ddlLanguageImport",
+                                    (IEnumerable<SelectListItem>)ViewBag.listLangImport,
+                                    new
+                                    {
+                                        onchange = "this.form.submit();",
+                                        @class = "form-control mr-2 btn_Mycss",
+                                        @style = "position: relative; top: 13px"
+                                    });
+                                    }
+                                    else
+                                    {
+                                        <label class="align-items-end text-danger " style="position: relative;top:12px"> *Ngôn ngữ đã được thêm đầy đủ</label>
+                                    }
+
+                                }
+
+                            </div>
+                            <div class="col form-inline table-head-config my-2 pl-2">
+                                <div class="input-group">
+                                    <form id="formImport">
+                                        <div class="col p-0 pt-1 pr-4">
+                                            <div class="custom-file">
+                                                <input id="excelFile" name="excelFile" type="file" class="custom-file-input" />
+                                                <label class="custom-file-label btn_Mycss"></label>
+                                            </div>
+                                        </div>
+                                    </form>
+                                    <div class="col p-0 pt-1 ">
+                                        <button class="btn btn-outline-primary btn_Mycss" name="btn_import" id="btn_import">Import</button>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                            <div class="row" style="margin:2%">
+                                <h3>Chức năng import:</h3>
+                                <p class="form-text text-danger">*Cấu trúc file import giống file export.</p>
+                                <p>- File import hợp lệ là file excel: .xls, .xlsx </p>
+                                <p>- File lưu tên theo cấu trúc [tên_folder].[ngôn_ngữ].xml, Ví dụ: Account.en.xml. Trong đó tên_folder dựa trên folder đang hiển thị hoặc tên sheet trong file import, tên ngôn_ngữ được lưu dựa trên ngôn ngữ chọn trên giao diện</p>
+                                <p>- Trường hợp File chỉ có 1 sheet:</p>
+                                <ul>
+                                    <li>Nếu file có tên sheet trùng với tên của một trong các folder lưu thì File được lưu vào chính folder đó, ví dự sheet có tên Account thì khi import dữ liệu đó được lưu vào folder Acount : Acount.en.xml</li>
+                                    <li>Ngược lại lưu vào thư mục được chọn để hiển thị dự liệu</li>
+                                </ul>
+                                <p>- Trường hợp File chỉ có nhiều sheet:</p>
+                                <ul>
+                                    <li>Nếu file có tên sheet trùng với tên của một trong các folder lưu thì File được lưu vào chính folder đó</li>
+                                    <li>Ngược lại lưu vào thư mục được chọn để hiển thị dự liệu</li>
+                                    <li>Có sheet nhưng không có dữ liệu bên trong thì cũng không được lưu</li>
+                                </ul>
+                                <p>- Trường hợp các folder đã có sẵn file thì sheet mới tương ứng không được lưu.</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            }
+
+            @*checkLang*@
+            <div class="modal fade bd-checkLang-modal-lg " tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                <div class="modal-dialog ">
+                    <div class="modal-content p-4">
+                        <div class="row" style="width:100%">
+                            <div class="col-12 form-inline table-head-config">
+                                @if (list_item_V2.Any())
+                                {
+                                    foreach (var itemDetail in list_item_Lang)
+                                    {
+                                        <div class="input-group" style="margin-right:9px">
+                                            <input type="checkbox" class="langCheck" id="@itemDetail" name="@itemDetail"><label>@itemDetail</label>
+                                        </div>
+                                    }
+                                    <button id="SaveLangCheck" name="" class="btn btn-success btn_LangDefault btn_Mycss">Lưu</button>
+                                    //<button id="" name="" class="btn btn-dark btn_LangClear btn_Mycss">Clear</button>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        @*Chức năng*@
+
+        <div class="col list_ChucNang_right">
+            <button class="btn btn_Mycss btn-warning btnThemNoiDung" id="btn_addModal" title="Home">
+                <a href='@Url.Action("Index", "Home")' style="text-decoration: none ">Home</a>
+            </button>
+            @if (list_item_V2.Any())
+            {
+                <button class="btn btn_Mycss btn-success btnThemNoiDung" id="btn_addModal" title="Thêm nội dung"
+                        data-toggle="modal" data-target="#themDuLieuModal">
+                    Add
+                </button>
+                <button class="btn btn_Mycss btn-secondary btnExport" id="btn_searchModal" title="Tìm kiếm" data-toggle="modal"
+                        data-target=".bd-search-modal-lg">
+                    Search
+                </button>
+                <button class="btn btn_Mycss btn-info " id="btn_exportModal" title="Expot to excel" data-toggle="modal"
+                        data-target=".bd-export-modal-lg">
+                    Expot to excel
+                </button>
+                <button class="btn btn_Mycss btn-primary" id="btn_importModal" title="Import" data-toggle="modal"
+                        data-target=".bd-import-modal-lg">
+                    Import
+                </button>
+                <button class="btn btn_Mycss btn-light btn_dropdown_lang border-secondary" id="btn-checkLang" title="Ngôn ngữ" data-toggle="modal"
+                        data-target=".bd-checkLang-modal-lg">
+                    Language
+                </button>
+            }
+        </div>
+
+        <button class="btn btn_circle btn-dark d-none btnBackToTop btn_Mycss" onclick="scrollToTop()" id="back-to-up">
+            Lên
+        </button>
+
+        <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+        <script src="~/Scripts/Blugins/sweetalert2.all.min.js"></script>
+        <script src="~/Scripts/bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
+        <script src="~/dist/js/Script_UXUI.js"></script>
+
+        @if (list_item_V3.Any())
+        {
+            <script>
+                var Langs = @Html.Raw(JsonConvert.SerializeObject(list_item_V3.First().Select(x => x.Lang).ToList()));
+                var folder_Id = @folderID_search;
+            </script>
+        }
+        @if (list_item_V2.Any())
+        {
+            <script>
+                var Langs = @Html.Raw(JsonConvert.SerializeObject(list_item_Lang.Select(x => x).ToList()));
+                var folder_name = $("#folderID").children("option:selected").text();
+                var folder_Id = @folderID_search;
+
+            </script>
+        }
+
+    <script>
+        $(document).ready(function () {
+            
+            var input_key = $('#exampleInputKey')
+            var valid_key = $('validationLabelKey')
+
+            $("#folderID").change(function () {
+                $("#input_search").val("");
+                this.form.submit();
+            })
+
+            //check khoang trắng
+            function CheckWhiteSpace(input, label, text) {
+                var value = $(input).val();
+                var res = /^\S+$/.test(value);
+                if (!res) {
+                    $(label).text(text);
+                    $(label).show();
+                    return false;
+                }
+                else {
+                    $(label).hide();
+                }
+                return true;
+            }
+
+            //check rỗng
+            function CheckEmpty(input, label, text) {
+                var value = $(input).val();
+                if (value.length === 0) {
+                    $(label).text(text);
+                    $(label).show();
+                    return false;
+                }
+                else {
+                    $(label).hide();
+                }
+                return true;
+            }
+
+            function HideLabel() {
+                valid_key.hide();
+                for (var i = 0; i < Langs.length; i++) {
+                    $("#validationLabel" + Langs[i]).hide();
+                }
+            }
+
+            function Validation() {
+                var checkKey = CheckEmpty($(input_key), $('#validationLabelKey'), "Vui lòng nhập dữ liệu")
+                if (checkKey == false) {
+                    return false;
+                } else {
+                    for (var i = 0; i < Langs.length; i++) {
+                        var check = CheckEmpty($("#exampleInput" + Langs[i]), $("#validationLabel" + Langs[i]), "Vui lòng nhập dữ liệu");
+                        var check1 = CheckEmpty($(".checkedValidata"), $("#validationLabel" + Langs[i]), "Vui lòng nhập dữ liệu");
+                        if (check == false && check1 == false) {
+                            return false;
+                        }
+                    }
+                    var check_key_white_space = CheckWhiteSpace(input_key, "#validationLabelKey", "Vui lòng dữ liệu không được rỗng và có khoảng trắng");
+                    return check_key_white_space;
+                }
+
+            }
+
+            // Function Add
+            function AddLang(folder_name, model) {
+                let test = {
+                    url: "/Home/Add",
+                    data: {
+                        folder_name: folder_name,
+                        model: model
+                    },
+                    dataType: "json",
+                    type: "POST",
+                }
+                console.log(test)
+                return $.ajax({
+                    url: "/Home/Add",
+                    data: {
+                        folder_name: folder_name,
+                        model: model
+                    },
+                    dataType: "json",
+                    type: "POST",
+                })
+            }
+
+            $(".btnAdd").on("click", function () {
+                var model = [];
+                var value_key = $("#exampleInputKey").val()
+                for (var i = 0; i < Langs.length; i++) {
+                    model.push({
+                        Lang: Langs[i],
+                        Detail: [
+                            {
+                                Key: value_key,
+                                Name: $("#exampleInput" + Langs[i]).val()
+                            }
+                        ]
+                    });
+                }
+
+                var res = Validation();
+                if (res) {
+                    AddLang(folder_name, model)
+                        .done(function (kq) {
+                            if (kq.status == 1) {
+
+                                Swal.fire({
+                                    icon: 'success',
+                                    title: 'Bạn đã thêm thành công !.',
+                                    showConfirmButton: true,
+                                    timer: 1000
+                                }).then((result) => {
+                                    /* Phần code */
+                                    location.reload();
+                                    /* End Phần code */
+                                })
+                            }
+
+                            else if (kq.status == -1) {
+                                Swal.fire({
+                                    icon: 'error',
+                                    title: 'Dữ liệu không được trống !.',
+                                    showConfirmButton: true,
+                                    timer: 1000
+                                }).then((result) => {
+                                    /* Phần code */
+
+                                    /* End Phần code */
+                                })
+                            }
+                            else if (kq.status == -2) {
+                                Swal.fire({
+                                    icon: 'error',
+                                    title: 'Key đã tồn tại !',
+                                    html: 'Vui lòng kiểm tra lại !',
+                                    showConfirmButton: true,
+                                    timer: 1000
+                                }).then((result) => {
+                                    /* Phần code */
+
+                                    /* End Phần code */
+                                })
+                            }
+                        })
+                        .fail(function (kq) {
+
+                        })
+                }
+            });
+
+            // Function Update lang
+            function UpdateLang(folder_name, model, key_name) {
+                return $.ajax({
+                    url: "/Home/Update",
+                    data: {
+                        folder_name: folder_name,
+                        model: model,
+                        key_name: key_name
+                    },
+                    dataType: "json",
+                    type: "POST",
+
+                })
+            }
+
+            $(".btnThemNoiDung").on("click", function () {
+                HideLabel();
+                document.getElementById("exampleInputKey").value = "";
+                document.getElementById("exampleInputKey").readOnly = false;
+                try {
+                    folder_name
+                }
+                catch {
+                    folder_name = $(this).data("content")
+                }
+                for (var i = 0; i < Langs.length; i++) {
+                    $("#exampleInput" + Langs[i]).val("");
+
+                }
+
+                $(".btnUpdate").hide();
+                $(".btnAdd").show();
+
+                $("#exampleModalLabel").text("Thêm Dữ Liệu Vào " + folder_name);
+                input_key.prop('disabled', false);
+            });
+
+            $(".btn_updateModal").on("click", function (e) {
+                e.preventDefault();
+                HideLabel();
+                var key = $(this).data("key");
+                var f_name = $(this).data("content")
+                try {
+                    folder_name
+                }
+                catch {
+                    folder_name = $(this).data("content")
+                }
+
+                var row = ".key_" + key;
+                var value_key = $(row + " " + ".table-key").text();
+
+                var key_name = $(this).data("name");
+                document.getElementById("exampleInputKey").value = key_name;
+                document.getElementById("exampleInputKey").readOnly = true;
+
+                $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("SearchAll","Home")',
+                    data: {
+                        searchString: key_name,
+                        folderID: folder_Id,
+                        f_name: f_name,
+                    },
+                    success: function (query) {
+                        var _LangShow = []
+                        var _LangHide = []
+
+                        
+                        for (var i = 0; i < query.length; i++) {
+                            try {
+                                $(".group" + query[i]["Lang"]).show();
+                                $("#exampleInput" + query[i]["Lang"]).addClass('checkedValidata');
+                                $("#exampleInput" + query[i]["Lang"]).val(query[i]["Detail"][0]["Name"]);
+                                _LangShow.push(query[i]["Lang"])
+                            } catch {
+                                $("#exampleInput" + query[i]["Lang"]).removeClass('checkedValidata');
+                                $(".group" + query[i]["Lang"]).hide()
+                            }
+                        }
+                        _LangHide = Langs.filter(x => !_LangShow.includes(x));
+                        _LangHide.forEach(function (item) {
+                            $("#exampleInput" + item).removeClass('checkedValidata');
+                            $(".group" + item).hide()
+                        })
+
+                    }
+                })
+
+                $(".btnUpdate").show();
+                $(".btnAdd").hide();
+
+                $("#exampleModalLabel").text("Sửa Dữ Liệu " + folder_name);
+                input_key.prop('disabled', true);
+            });
+
+            $(".btnUpdate").on("click", function () {
+                
+                var model = [];
+                var key_name = $(input_key).val();
+                try {
+                    folder_name
+                }
+                catch {
+                    folder_name = $(this).data("key")
+                }
+                for (var i = 0; i < Langs.length; i++) {
+                    model.push({
+                        Lang: Langs[i],
+                        Detail: [
+                            {
+                                Key: key_name,
+                                Name: $("#exampleInput" + Langs[i]).val()
+                            }
+                        ]
+                    });
+                }
+                console.log(model)
+                var res = Validation();
+                if (res) {
+                    Swal.fire({
+                        title: '<div>Bạn chắc chắn có muốn cập nhật dữ liệu <span class="text-danger">' + folder_name + '</span> Tại Key <span class="text-danger">' + key_name + '</span></div>',
+                        icon: 'warning',
+                        showCancelButton: true,
+                        cancelButtonColor: '#d33',
+                        confirmButtonColor: '#3085d6',
+                        confirmButtonText: 'Xác nhận!',
+                        cancelButtonText: 'Đóng',
+                    }).then((result) => {
+                        if (result.value) {
+                            /* Phần code */
+                            UpdateLang(folder_name, model, key_name)
+                                .done(function (kq) {
+                                    if (kq.status == 1) {
+
+                                        Swal.fire({
+                                            icon: 'success',
+                                            title: 'Bạn đã cập nhật thành công !.',
+                                            showConfirmButton: true,
+                                            timer: 1000
+                                        }).then((result) => {
+                                            /* Phần code */
+                                            location.reload();
+                                            /* End Phần code */
+                                        })
+
+                                    }
+                                    else if (kq.status == -1) {
+                                        Swal.fire({
+                                            icon: 'warning',
+                                            title: 'Dữ liệu không được trống !.',
+                                            showConfirmButton: true,
+                                            timer: 1000
+                                        }).then((result) => {
+                                            /* Phần code */
+
+                                            /* End Phần code */
+                                        })
+                                    }
+                                })
+                                .fail(function (kq) {
+
+                                })
+                            /*End Phần code */
+                        }
+                    })
+                }
+            });
+
+            // Function Delete
+            // Ajax Delete
+            function DeleteLang(folder_name, key_name) {
+                return $.ajax({
+                    url: "/Home/Delete",
+                    data: {
+                        folder_name: folder_name,
+                        key_name: key_name
+                    },
+                    dataType: "json",
+                    type: "POST",
+                })
+            }
+
+            // Sự kiện nút delete
+            $(".btn_deleteModal").on("click", function (e) {
+                e.preventDefault();
+                /* Phần code */
+                var key_name = $(this).data("name");
+                try {
+                    folder_name
+                }
+                catch {
+                    folder_name = $(this).data("key")
+                }
+                /*End Phần code */
+
+                Swal.fire({
+                    title: '<div>Xóa dữ liệu ở thư mục <span class="text-danger">' + folder_name + '</span> ?</div>',
+                    html: '<div>Bạn có chắc chắn muốn xóa dữ liệu KEY <p class="text-danger m-0"> ' + key_name + '</p></div>',
+                    icon: 'warning',
+                    showCancelButton: true,
+                    cancelButtonColor: '#d33',
+                    confirmButtonColor: '#3085d6',
+                    confirmButtonText: 'Xác nhận!',
+                    cancelButtonText: 'Đóng',
+                }).then((result) => {
+                    if (result.value) {
+                        /* Phần code */
+                        DeleteLang(folder_name, key_name)
+                            .done(function (kq) {
+                                if (kq) {
+
+                                    Swal.fire({
+                                        icon: 'success',
+                                        title: 'Bạn đã xóa thành công !.',
+                                        showConfirmButton: true,
+                                        timer: 1000
+                                    }).then((result) => {
+                                        /* Phần code */
+                                        location.reload();
+                                        /* End Phần code */
+                                    })
+                                }
+                                else {
+
+                                }
+                            })
+                            .fail(function (kq) {
+
+                            })
+                        /*End Phần code */
+                    }
+                })
+            });
+        });
+
+    </script>
+
+    @if (list_item_V2.Any())
+    {
+        <script>
+            $(document).ready(function () {
+                loadLangsCooki();
+                $("#btn_import").on("click", function () {
+                    var checkNullLang = @xmlListImport.Count()
+                    if (checkNullLang == 0) {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Danh sách ngôn ngữ đã được thêm đầy đủ!',
+                            showConfirmButton: true,
+                            timer: time
+                        }).then((result) => {
+                            /* Phần code */
+
+                            /* End Phần code */
+                        })
+                    }
+                    else {
+                        document.body.style.cursor = 'wait'
+                        var fileUpload = $('#formImport').get(0);
+                        var formdata = new FormData(fileUpload);
+                        var time = 1000;
+                        $.ajax({
+                            url: '/Home/ImportFromXML',
+                            type: 'post',
+                            datatype: 'json',
+                            contentType: false,
+                            processData: false,
+                            async: false,
+                            data: formdata,
+                            success: function (response) {
+                                document.body.style.cursor = 'default'
+                                if (response.status == 1) {
+                                    Swal.fire({
+                                        icon: 'success',
+                                        title: 'Bạn đã import thành công !',
+                                        showConfirmButton: true,
+                                        timer: time
+                                    }).then((result) => {
+                                        /* Phần code */
+                                        location.reload();
+                                        /* End Phần code */
+                                    })
+                                }
+
+                                else if (response.status == -1) {
+                                    Swal.fire({
+                                        icon: 'error',
+                                        title: 'File truyền vào không đúng!',
+                                        showConfirmButton: true,
+                                        timer: time
+                                    }).then((result) => {
+                                        /* Phần code */
+
+                                        /* End Phần code */
+                                    })
+                                }
+
+                                else if (response.status == -3) {
+                                    Swal.fire({
+                                        icon: 'error',
+                                        title: 'Quá import xảy ra lỗi!',
+                                        showConfirmButton: true,
+                                        timer: time
+                                    }).then((result) => {
+                                        /* Phần code */
+
+                                        /* End Phần code */
+                                    })
+                                }
+                                else if (response.status == -4) {
+                                    Swal.fire({
+                                        icon: 'error',
+                                        title: 'Chưa có file!',
+                                        showConfirmButton: true,
+                                        timer: time
+                                    }).then((result) => {
+                                        /* Phần code */
+
+                                        /* End Phần code */
+                                    })
+                                }
+                            }
+                        })
+                    }
+
+                });
+            })
+            //reload bảng
+            function reload() {
+                $.ajax({
+                    type: 'GET',
+                    url: '@Url.Action("Index", "Home")'
+                })
+                //$(".lang-table-content").load(location.href + " .lang-table-content")
+                location.reload()
+
+            }
+
+            //save cookie
+            function saveLangsCooki() {
+                for (var i = 0; i < Langs.length; i++) {
+                    var checkBox = document.getElementById(Langs[i])
+                    localStorage.setItem(Langs[i], checkBox.checked)
+                }
+            }
+
+            //load cookie
+            function loadLangsCooki() {
+                var stringLang = ""
+                for (var i = 0; i < Langs.length; i++) {
+                    var shcolumn = "." + Langs[i]
+                    var checked = JSON.parse(localStorage.getItem(Langs[i]))
+                    if (checked === null) {
+                        //chưa có cooki thì hiện 3 ngôn ngư đầu tiên
+                        //checked = true 3 ngôn ngữ đầu tiên các ngôn ngữ còn lại checked = fasle
+                        if (!checked) {
+                            for (var i = 0; i < Langs.length; i++) {
+                                var name = Langs[i]
+                                //set check = true cho check box
+                                if (i < 4) {
+                                    $('#' + name).prop('checked', true)
+                                    stringLang += Langs[i] + ","
+                                } else {
+                                    $('#' + name).prop('checked', false)
+                                    var className = "." + name
+                                    //hiện cột thông tin theo class check box
+                                    $(className).toggle()
+                                }
+                            }
+                        }
+                    } else {
+                        $('#' + Langs[i]).prop('checked', checked)
+                        if (!checked) {
+                            //checked false
+                            $(shcolumn).toggle()
+                        } else {
+                            stringLang += Langs[i] + ","
+                        }
+                    }
+                }
+                stringLang = stringLang.slice(0, stringLang.length - 1)
+                $.ajax({
+                    type: 'GET',
+                    url: '@Url.Action("list_Languare_cookie", "Home")',
+                    data: {
+                        cookie: stringLang
+                    }
+                })
+            }
+
+            function wis() {
+                location.reload();
+                localStorage.clear()
+                loadLangsCooki()
+                }
+
+            $(document).ready(function () {
+
+                //Thông báo có key mới được thêm tự động
+                var list_Key_new = @Html.Raw(Json.Encode(ListNewKey1));
+
+                if (list_Key_new != null) {
+                    for (var i = 0; i < list_Key_new.length; i++) {
+                        text += list_Key_new[i] + ', '
+                    }
+                    Swal.fire({
+                        title: 'Một số key mới đã được thêm!',
+                        text: 'Key: ' + text,
+                        confirmButtonText: 'Ok',
+                        allowEscapeKey: false,
+                        allowOutsideClick: false
+                    }).then((result) => {
+                        /* Read more about isConfirmed, isDenied below */
+                        if (result.isConfirmed) {
+                            Swal.fire('Reload!', '', 'success')
+                            location.reload()
+                        } else {
+                            location.reload()
+                        }
+                    })
+                }
+
+                //Clear cookie
+                $(".btn_LangClear").on("click", function () {
+                    wis();
+                })
+
+                //click check box list Language
+                $('#SaveLangCheck').on('click', function () {
+                    $('.langCheck[type="checkbox"]:checked').each(function () {
+                        saveLangsCooki()
+                        loadLangsCooki();
+                    });
+                    //reload()
+                    $('.bd-checkLang-modal-lg').modal('toggle');
+                })
+
+            })
+        </script>
+    }
+
+    @if (list_item_V3.Any())
+    {
+        <script>
+            $('.t-item').addClass('table-item')
+            width_table = $('table').width()
+            $('.lang-table').css('width', width_table + 50)
+        </script>
+    }
+
+
+    </body>
+</html >

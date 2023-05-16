@@ -1,0 +1,2854 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="BoxEventTichCodeMailTitle">
+    <value>test</value>
+  </data>
+  <data name="BoxEventTichCodeMailContentAnd">
+    <value>and</value>
+  </data>
+  <data name="UserNameInvalit4">
+    <value>Username already exists</value>
+  </data>
+  <data name="RegisterBouns">
+    <value>Congratulation for successfully register! Admin will give you {0} CHIPS to play games</value>
+  </data>
+  <data name="RegisterBounsTitle">
+    <value>Congratulation for successfully register! </value>
+  </data>
+  <data name="Level_LevelUp">
+    <value>Level up successfully</value>
+  </data>
+  <data name="Level_LogPointSuccess">
+    <value>	Store up point level successfully </value>
+  </data>
+  <data name="Level_LogPointError">
+    <value>Fail to store up point level</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigListGameText">
+    <value>You need to reach level {0}</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigBanCaRoomText">
+    <value>You need to reach level {0}</value>
+  </data>
+  <data name="Level_DescriptionUnlockGame">
+    <value>Congratulation! You have unlocked the game {0}</value>
+  </data>
+  <data name="UpdateInfoSuccess">
+    <value>Successfully updated</value>
+  </data>
+  <data name="EmailExists">
+    <value>This e-mail is already taken</value>
+  </data>
+  <data name="ValidationPhone2">
+    <value>Phone number already in use</value>
+  </data>
+  <data name="ErrorMessValidation7">
+    <value>Invalid phone number.</value>
+  </data>
+  <data name="ValidationDisplayName6">
+    <value>The display name already exists</value>
+  </data>
+  <data name="ValidationLogin12">
+    <value>Account does not exist</value>
+  </data>
+  <data name="Reason_538">
+    <value>ដកPi Pay</value>
+  </data>
+  <data name="gifts_code_mail_title">
+    <value>សូមស្វាគមន៍វិបផតថលហ្គេម អនឡាយ win8 គួឧ្យមានទំនុកចិត្ត - 
+Welcome to the most trusted game online WIN8</value>
+  </data>
+  <data name="gifts_code_mail_content">
+    <value>
+អ្នកទទួលបាន {0} CHIPS សំរាប់ចូលរួមលេងហ្គេម Win888 ពីគេហទំព័រ &lt;a href="http://nagagamestudio.com" target="_blank" &gt;nagagamestudio.com&lt;/a&gt; និងកាដូជាច្រើនទៀតកំពុងរង់ចាំអ្នក។ -
+You receive {0} CHIPS to play game WIN8 from page &lt;a href="http://nagagamestudio.com" target="_blank"&gt;nagagamestudio.com&lt;/a&gt; and many other gifts are waiting for you.
+</value>
+  </data>
+  <data name="FacebookLoginNewError">
+    <value>Login failed, please contact customer service for supporting</value>
+  </data>
+  <data name="Reason_CTV_blockAcc">
+    <value>You are locked because of suspicion of cheating in TEANG LEN, admin will check again - your account will be locked until 10am. Any questions please contact customer service for more details</value>
+  </data>
+  <data name="SystemMaintenance">
+    <value>The system is under maintenance, please try again.</value>
+  </data>
+  <data name="VerifyAccountNotify">
+    <value>Please verify your account level 2 by following this link &lt;a href='{0}' target='_blank'&gt;{0} &lt;/a&gt; to receive 1.000.000 chips. The checking process will be completed within 48 hours</value>
+  </data>
+  <data name="VerifyEmailTitle">
+    <value>Verify</value>
+  </data>
+  <data name="registerV3_Registration">
+    <value>Registration</value>
+  </data>
+  <data name="registerV3_Support">
+    <value>SUPPORT</value>
+  </data>
+  <data name="registerV3_Other_way_to_login">
+    <value>Other way to login</value>
+  </data>
+  <data name="INFO_USER_LASTED_ACHIEVEMENT">
+    <value></value>
+  </data>
+  <data name="INFO_USER_CHANGE_PASSWORD">
+    <value></value>
+  </data>
+  <data name="INFO_USER_UPDATE_INFO">
+    <value></value>
+  </data>
+  <data name="INFO_USER_COPY">
+    <value></value>
+  </data>
+  <data name="NeedMoreVP">
+    <value></value>
+  </data>
+  <data name="BUY_NOW">
+    <value></value>
+  </data>
+  <data name="ListHistoryCoin_No">
+    <value></value>
+  </data>
+  <data name="ListHistoryCoin_Balance">
+    <value></value>
+  </data>
+  <data name="ListHistoryCoin_ChangeChips">
+    <value></value>
+  </data>
+  <data name="ListHistoryCoin_Time">
+    <value></value>
+  </data>
+  <data name="ListHistoryCoin_Note">
+    <value></value>
+  </data>
+  <data name="About">
+    <value></value>
+  </data>
+  <data name="AboutItem1">
+    <value></value>
+  </data>
+  <data name="AboutItem2">
+    <value></value>
+  </data>
+  <data name="AboutItem3">
+    <value></value>
+  </data>
+  <data name="AcceptAward">
+    <value>Mag-browse ng mga application ng reward</value>
+  </data>
+  <data name="AcceptGuild">
+    <value></value>
+  </data>
+  <data name="AcceptImgType">
+    <value></value>
+  </data>
+  <data name="AcceptRule">
+    <value></value>
+  </data>
+  <data name="AcceptRules">
+    <value></value>
+  </data>
+  <data name="AccMTopError">
+    <value></value>
+  </data>
+  <data name="AccountFb">
+    <value></value>
+  </data>
+  <data name="AccountHasUpdatedBefore">
+    <value></value>
+  </data>
+  <data name="AccountNoExist">
+    <value></value>
+  </data>
+  <data name="AccountReceivedFriendInvalid">
+    <value></value>
+  </data>
+  <data name="AccountRequestFriendInvalid">
+    <value></value>
+  </data>
+  <data name="AccountUsed">
+    <value></value>
+  </data>
+  <data name="AccountWeb">
+    <value></value>
+  </data>
+  <data name="AccoutEnoughGold">
+    <value></value>
+  </data>
+  <data name="AccVnKashError">
+    <value></value>
+  </data>
+  <data name="AccWingError">
+    <value></value>
+  </data>
+  <data name="Agency">
+    <value></value>
+  </data>
+  <data name="And">
+    <value></value>
+  </data>
+  <data name="AssCoin">
+    <value></value>
+  </data>
+  <data name="Asset">
+    <value></value>
+  </data>
+  <data name="Avatar">
+    <value></value>
+  </data>
+  <data name="AwardActivityGuild">
+    <value></value>
+  </data>
+  <data name="BackToTop">
+    <value></value>
+  </data>
+  <data name="BanNickNote">
+    <value></value>
+  </data>
+  <data name="BanNickShowPopup">
+    <value></value>
+  </data>
+  <data name="BigGuild">
+    <value></value>
+  </data>
+  <data name="Birthday">
+    <value></value>
+  </data>
+  <data name="BirthdayInvalid">
+    <value></value>
+  </data>
+  <data name="BlackFriday">
+    <value></value>
+  </data>
+  <data name="BlockAccContactCS">
+    <value></value>
+  </data>
+  <data name="BlockAccTransferTo">
+    <value></value>
+  </data>
+  <data name="BlockComment">
+    <value></value>
+  </data>
+  <data name="BlockTranferGold">
+    <value></value>
+  </data>
+  <data name="BongBong">
+    <value></value>
+  </data>
+  <data name="BuildingOffline">
+    <value></value>
+  </data>
+  <data name="ButtonDongY">
+    <value></value>
+  </data>
+  <data name="ButtonLogin">
+    <value></value>
+  </data>
+  <data name="ButtonTuChoi">
+    <value></value>
+  </data>
+  <data name="BuyGoldFail">
+    <value></value>
+  </data>
+  <data name="BuySuccWithGold">
+    <value></value>
+  </data>
+  <data name="CanChangeNickNotRegMobile">
+    <value></value>
+  </data>
+  <data name="Captcha">
+    <value></value>
+  </data>
+  <data name="CaptchaNotNull">
+    <value></value>
+  </data>
+  <data name="Card">
+    <value></value>
+  </data>
+  <data name="CardInvalid">
+    <value></value>
+  </data>
+  <data name="CardValue">
+    <value></value>
+  </data>
+  <data name="ChangeAvatar">
+    <value></value>
+  </data>
+  <data name="ChangePass">
+    <value></value>
+  </data>
+  <data name="ChangePassFail">
+    <value></value>
+  </data>
+  <data name="ChangePassSuccess">
+    <value></value>
+  </data>
+  <data name="ChangeXu">
+    <value></value>
+  </data>
+  <data name="Charater">
+    <value></value>
+  </data>
+  <data name="Chart">
+    <value></value>
+  </data>
+  <data name="Chat">
+    <value></value>
+  </data>
+  <data name="ChatAll">
+    <value></value>
+  </data>
+  <data name="CheckEmailOrderResetPassword">
+    <value></value>
+  </data>
+  <data name="ChoseCard">
+    <value></value>
+  </data>
+  <data name="ChoseCardToExchange">
+    <value></value>
+  </data>
+  <data name="ChoseCmtDel">
+    <value></value>
+  </data>
+  <data name="ChoseMemberGuild">
+    <value></value>
+  </data>
+  <data name="ChoseOnlyOneUser">
+    <value></value>
+  </data>
+  <data name="ChoseType">
+    <value></value>
+  </data>
+  <data name="Click">
+    <value></value>
+  </data>
+  <data name="CoinHistoryErrorConfirm">
+    <value></value>
+  </data>
+  <data name="CoinHistoryErrorContent">
+    <value></value>
+  </data>
+  <data name="CoinHistoryErrorRequested">
+    <value></value>
+  </data>
+  <data name="Colm2D">
+    <value></value>
+  </data>
+  <data name="Comment">
+    <value></value>
+  </data>
+  <data name="ConfirmExclude">
+    <value></value>
+  </data>
+  <data name="ConfirmPass">
+    <value></value>
+  </data>
+  <data name="ConsequenceDisplayNameNotCorrect">
+    <value></value>
+  </data>
+  <data name="ContactCustomerCare">
+    <value></value>
+  </data>
+  <data name="ContentIsNull">
+    <value></value>
+  </data>
+  <data name="Coppyright">
+    <value></value>
+  </data>
+  <data name="CreateAccount">
+    <value></value>
+  </data>
+  <data name="CreateAccSucc">
+    <value></value>
+  </data>
+  <data name="CreateComment">
+    <value></value>
+  </data>
+  <data name="CreateDate">
+    <value></value>
+  </data>
+  <data name="CreateDay">
+    <value></value>
+  </data>
+  <data name="CreateDeputyGuild">
+    <value></value>
+  </data>
+  <data name="CreateGuild">
+    <value></value>
+  </data>
+  <data name="CreateGuildPlay">
+    <value></value>
+  </data>
+  <data name="CreatePassLv2">
+    <value></value>
+  </data>
+  <data name="CreateViFail">
+    <value></value>
+  </data>
+  <data name="CurrentXu">
+    <value></value>
+  </data>
+  <data name="DataNull">
+    <value></value>
+  </data>
+  <data name="DateCreate">
+    <value></value>
+  </data>
+  <data name="DateTo">
+    <value></value>
+  </data>
+  <data name="DateWin">
+    <value></value>
+  </data>
+  <data name="DaysAllowKickUser">
+    <value></value>
+  </data>
+  <data name="DealCancelSucc">
+    <value></value>
+  </data>
+  <data name="DealFail">
+    <value></value>
+  </data>
+  <data name="DealFailTryAgain">
+    <value></value>
+  </data>
+  <data name="DealInvalid">
+    <value></value>
+  </data>
+  <data name="DealSuccess">
+    <value></value>
+  </data>
+  <data name="DelBannerSucc">
+    <value></value>
+  </data>
+  <data name="DelCmt">
+    <value></value>
+  </data>
+  <data name="DelectSuccess">
+    <value></value>
+  </data>
+  <data name="Delete">
+    <value></value>
+  </data>
+  <data name="DeleteComment">
+    <value></value>
+  </data>
+  <data name="DepositExchange">
+    <value></value>
+  </data>
+  <data name="DepositGoldFailReason">
+    <value></value>
+  </data>
+  <data name="DepositNganLuong">
+    <value></value>
+  </data>
+  <data name="DepositSuccess">
+    <value></value>
+  </data>
+  <data name="Detail">
+    <value></value>
+  </data>
+  <data name="DialogKeyboard">
+    <value></value>
+  </data>
+  <data name="DieuKhoan">
+    <value></value>
+  </data>
+  <data name="DisplayNameComplex">
+    <value></value>
+  </data>
+  <data name="DisplayNameError">
+    <value></value>
+  </data>
+  <data name="DisplayNameExist">
+    <value></value>
+  </data>
+  <data name="DisplayNameInvalid">
+    <value></value>
+  </data>
+  <data name="DisplayNameLengthMin6">
+    <value></value>
+  </data>
+  <data name="DisplayNameNotBadWord">
+    <value></value>
+  </data>
+  <data name="DisplayNameNotNull">
+    <value></value>
+  </data>
+  <data name="DisplayNameRule">
+    <value></value>
+  </data>
+  <data name="DoiGold">
+    <value></value>
+  </data>
+  <data name="DoiThuong">
+    <value></value>
+  </data>
+  <data name="DontExchangeSMS">
+    <value></value>
+  </data>
+  <data name="EditProfile">
+    <value></value>
+  </data>
+  <data name="EmailNotExists">
+    <value></value>
+  </data>
+  <data name="EmailWrongFormat">
+    <value></value>
+  </data>
+  <data name="ErrorCmt">
+    <value></value>
+  </data>
+  <data name="ErrorDeposit">
+    <value></value>
+  </data>
+  <data name="ErrorInfo">
+    <value></value>
+  </data>
+  <data name="ErrorProcess">
+    <value></value>
+  </data>
+  <data name="ErrorSytem">
+    <value></value>
+  </data>
+  <data name="EventPage">
+    <value></value>
+  </data>
+  <data name="Exchange">
+    <value></value>
+  </data>
+  <data name="ExchangeCardSucc1">
+    <value></value>
+  </data>
+  <data name="ExchangeCardSucc2">
+    <value></value>
+  </data>
+  <data name="ExchangeCardSucc3">
+    <value></value>
+  </data>
+  <data name="ExchangeCardSucc4">
+    <value></value>
+  </data>
+  <data name="ExchangeItem">
+    <value></value>
+  </data>
+  <data name="ExchangeNow">
+    <value></value>
+  </data>
+  <data name="ExchangeSuccess">
+    <value></value>
+  </data>
+  <data name="ExchangeSuccess1">
+    <value></value>
+  </data>
+  <data name="ExchangeSuccess2">
+    <value></value>
+  </data>
+  <data name="ExpNo">
+    <value></value>
+  </data>
+  <data name="ExpPoint">
+    <value></value>
+  </data>
+  <data name="FacebookFooterCopyright">
+    <value></value>
+  </data>
+  <data name="FacebookFooterEmail">
+    <value></value>
+  </data>
+  <data name="FacebookFooterHotLine">
+    <value></value>
+  </data>
+  <data name="FacebookHeaderDoi">
+    <value></value>
+  </data>
+  <data name="FacebookHeaderHuongDan">
+    <value></value>
+  </data>
+  <data name="FacebookLayoutOgDescription">
+    <value></value>
+  </data>
+  <data name="FacebookLayoutOgTitle">
+    <value></value>
+  </data>
+  <data name="FacebookLayoutTitle">
+    <value></value>
+  </data>
+  <data name="FacebookLayoutTwitterDescription">
+    <value></value>
+  </data>
+  <data name="FacebookLayoutTwitterTitle">
+    <value></value>
+  </data>
+  <data name="Fail">
+    <value></value>
+  </data>
+  <data name="FailMaxUserTranferGold">
+    <value></value>
+  </data>
+  <data name="FailTimesToTranfer">
+    <value></value>
+  </data>
+  <data name="FailTranferGoldTryAgain">
+    <value></value>
+  </data>
+  <data name="FailUpdateInfo">
+    <value></value>
+  </data>
+  <data name="FailUserPlayingGame">
+    <value></value>
+  </data>
+  <data name="FAQs">
+    <value></value>
+  </data>
+  <data name="FAQsMobileEmty">
+    <value></value>
+  </data>
+  <data name="FAQsMobileLink">
+    <value></value>
+  </data>
+  <data name="FeatureMaintance">
+    <value></value>
+  </data>
+  <data name="Female">
+    <value></value>
+  </data>
+  <data name="FileCheck">
+    <value></value>
+  </data>
+  <data name="FinalAward">
+    <value></value>
+  </data>
+  <data name="Finance">
+    <value></value>
+  </data>
+  <data name="Footer">
+    <value></value>
+  </data>
+  <data name="FormRegisterAccount">
+    <value></value>
+  </data>
+  <data name="FormRegisterTitle">
+    <value></value>
+  </data>
+  <data name="Forum">
+    <value></value>
+  </data>
+  <data name="From">
+    <value></value>
+  </data>
+  <data name="GameBai">
+    <value></value>
+  </data>
+  <data name="Gender">
+    <value></value>
+  </data>
+  <data name="GeneralGuild">
+    <value></value>
+  </data>
+  <data name="GiftToReaching">
+    <value></value>
+  </data>
+  <data name="Gold">
+    <value></value>
+  </data>
+  <data name="GoldAccuDay">
+    <value></value>
+  </data>
+  <data name="GoldAccuMount">
+    <value></value>
+  </data>
+  <data name="GoldBorrow">
+    <value></value>
+  </data>
+  <data name="GoldGiftLevelUp">
+    <value></value>
+  </data>
+  <data name="GoldGiftLogin">
+    <value></value>
+  </data>
+  <data name="GoldGiftVip">
+    <value></value>
+  </data>
+  <data name="GoldGuild">
+    <value></value>
+  </data>
+  <data name="GoldInvalidToTranfer">
+    <value></value>
+  </data>
+  <data name="GoldNumberInterger">
+    <value></value>
+  </data>
+  <data name="GoldOwner">
+    <value></value>
+  </data>
+  <data name="Guide">
+    <value></value>
+  </data>
+  <data name="GuidePlay">
+    <value></value>
+  </data>
+  <data name="GuidePlayGameLink">
+    <value></value>
+  </data>
+  <data name="Guild">
+    <value></value>
+  </data>
+  <data name="GuildAccumulationMemberInfo">
+    <value></value>
+  </data>
+  <data name="GuildAccumulationPoint">
+    <value></value>
+  </data>
+  <data name="GuildCoinWillReceive">
+    <value></value>
+  </data>
+  <data name="GuildCommentDisable">
+    <value></value>
+  </data>
+  <data name="GuildCommentDisableAsk">
+    <value></value>
+  </data>
+  <data name="GuildCommentDisabled">
+    <value></value>
+  </data>
+  <data name="GuildCreate">
+    <value></value>
+  </data>
+  <data name="GuildInfoAccumulationByLevel">
+    <value></value>
+  </data>
+  <data name="GuildInputToSearch">
+    <value></value>
+  </data>
+  <data name="GuildInviteLink">
+    <value></value>
+  </data>
+  <data name="GuildKickMember">
+    <value></value>
+  </data>
+  <data name="GuildKickMemberAsk">
+    <value></value>
+  </data>
+  <data name="GuildListUserReceiveCoin">
+    <value></value>
+  </data>
+  <data name="GuildListUserWaiting">
+    <value></value>
+  </data>
+  <data name="GuildMemberCount">
+    <value></value>
+  </data>
+  <data name="GuildMemberLeave">
+    <value></value>
+  </data>
+  <data name="GuildMemberList">
+    <value></value>
+  </data>
+  <data name="GuildMemberRemoveAsk">
+    <value></value>
+  </data>
+  <data name="GuildMemberTopPayment">
+    <value></value>
+  </data>
+  <data name="GuildMyGuild">
+    <value></value>
+  </data>
+  <data name="GuildName">
+    <value></value>
+  </data>
+  <data name="GuildNewComment">
+    <value></value>
+  </data>
+  <data name="GuildNewTitle">
+    <value></value>
+  </data>
+  <data name="GuildNewView">
+    <value></value>
+  </data>
+  <data name="GuildNotExist">
+    <value></value>
+  </data>
+  <data name="GuildNotify">
+    <value></value>
+  </data>
+  <data name="GuildNotifyCreate">
+    <value></value>
+  </data>
+  <data name="GuildNotifyDeleteAsk">
+    <value></value>
+  </data>
+  <data name="GuildNotifyList">
+    <value></value>
+  </data>
+  <data name="GuildOutAsk">
+    <value></value>
+  </data>
+  <data name="GuildOwner">
+    <value></value>
+  </data>
+  <data name="GuildPolicy">
+    <value></value>
+  </data>
+  <data name="GuildRevenueInfo">
+    <value></value>
+  </data>
+  <data name="GuildSetting">
+    <value></value>
+  </data>
+  <data name="GuildTop">
+    <value></value>
+  </data>
+  <data name="GuildTopCreateNew">
+    <value></value>
+  </data>
+  <data name="GuildTopMemberAccumulation">
+    <value></value>
+  </data>
+  <data name="GuildTopRich">
+    <value></value>
+  </data>
+  <data name="GuildTopSuggest">
+    <value></value>
+  </data>
+  <data name="GuildTopVip">
+    <value></value>
+  </data>
+  <data name="GuildTopVipPoint">
+    <value></value>
+  </data>
+  <data name="GuildTotalAccumulation">
+    <value></value>
+  </data>
+  <data name="GuildUpdateFanpage">
+    <value></value>
+  </data>
+  <data name="GuildUpdateFanpageError">
+    <value></value>
+  </data>
+  <data name="Have">
+    <value></value>
+  </data>
+  <data name="HistoryCoin">
+    <value></value>
+  </data>
+  <data name="HistoryCoinNote">
+    <value></value>
+  </data>
+  <data name="HistoryCoinTime">
+    <value></value>
+  </data>
+  <data name="HistoryJackpot">
+    <value></value>
+  </data>
+  <data name="HistoryMiniBossHopQua">
+    <value></value>
+  </data>
+  <data name="HistoryMiniBossNhan">
+    <value></value>
+  </data>
+  <data name="HistoryMissionBanCaIncomplete">
+    <value></value>
+  </data>
+  <data name="HistoryMissionBanCaProcessing">
+    <value></value>
+  </data>
+  <data name="HistoryMoney">
+    <value></value>
+  </data>
+  <data name="HistoryMoneyError">
+    <value></value>
+  </data>
+  <data name="HistoryNL">
+    <value></value>
+  </data>
+  <data name="HistoryTranferGold">
+    <value></value>
+  </data>
+  <data name="HistoryXu">
+    <value></value>
+  </data>
+  <data name="Hobpy">
+    <value></value>
+  </data>
+  <data name="HomePage">
+    <value></value>
+  </data>
+  <data name="HowToGetStar">
+    <value></value>
+  </data>
+  <data name="HowToGetStarAnswer">
+    <value></value>
+  </data>
+  <data name="HowToUseMTOP">
+    <value></value>
+  </data>
+  <data name="IdCardsHasNotSpecialChar">
+    <value></value>
+  </data>
+  <data name="IdCardsIsEmpty">
+    <value></value>
+  </data>
+  <data name="IdCardsMustNumber">
+    <value></value>
+  </data>
+  <data name="IdNumberLength">
+    <value></value>
+  </data>
+  <data name="IdReasonRemoveMoney">
+    <value></value>
+  </data>
+  <data name="ImgSize">
+    <value></value>
+  </data>
+  <data name="InfoCardInvalid">
+    <value></value>
+  </data>
+  <data name="InfoInvalid">
+    <value></value>
+  </data>
+  <data name="Infor">
+    <value></value>
+  </data>
+  <data name="InputAccBaoKim">
+    <value></value>
+  </data>
+  <data name="InputAccMTop">
+    <value></value>
+  </data>
+  <data name="InputAccReceive">
+    <value></value>
+  </data>
+  <data name="InputAccTransferTo">
+    <value></value>
+  </data>
+  <data name="InputAccVnKash">
+    <value></value>
+  </data>
+  <data name="InputCapcha">
+    <value></value>
+  </data>
+  <data name="InputCmt">
+    <value></value>
+  </data>
+  <data name="InputConfirmPassWallet">
+    <value></value>
+  </data>
+  <data name="InputDisplayname">
+    <value></value>
+  </data>
+  <data name="InputFullName">
+    <value></value>
+  </data>
+  <data name="InputGold">
+    <value></value>
+  </data>
+  <data name="InputIdNumber">
+    <value></value>
+  </data>
+  <data name="InputIDOrUsername">
+    <value></value>
+  </data>
+  <data name="InputMessage">
+    <value></value>
+  </data>
+  <data name="InputNewPassWallet">
+    <value></value>
+  </data>
+  <data name="InputNickName">
+    <value></value>
+  </data>
+  <data name="InputNote">
+    <value></value>
+  </data>
+  <data name="InputPassWallet">
+    <value></value>
+  </data>
+  <data name="InputPhoneRequire">
+    <value></value>
+  </data>
+  <data name="InputPinCard">
+    <value></value>
+  </data>
+  <data name="InputRuleGuild">
+    <value></value>
+  </data>
+  <data name="InputSeri">
+    <value></value>
+  </data>
+  <data name="InputSlogan">
+    <value></value>
+  </data>
+  <data name="Instruction">
+    <value></value>
+  </data>
+  <data name="Introduce">
+    <value></value>
+  </data>
+  <data name="IntroItem">
+    <value></value>
+  </data>
+  <data name="IntroUserVip">
+    <value></value>
+  </data>
+  <data name="IntroWeb">
+    <value></value>
+  </data>
+  <data name="IntroWeb1">
+    <value></value>
+  </data>
+  <data name="IntroWeb2">
+    <value></value>
+  </data>
+  <data name="InvalidGold">
+    <value></value>
+  </data>
+  <data name="InvalidSign">
+    <value></value>
+  </data>
+  <data name="InvalidUser">
+    <value></value>
+  </data>
+  <data name="InviteFriend">
+    <value></value>
+  </data>
+  <data name="InviteFriend1">
+    <value></value>
+  </data>
+  <data name="InviteFriend2">
+    <value></value>
+  </data>
+  <data name="InviteGuild">
+    <value></value>
+  </data>
+  <data name="InviteJoinGuild">
+    <value></value>
+  </data>
+  <data name="Item">
+    <value></value>
+  </data>
+  <data name="JoinGuild">
+    <value></value>
+  </data>
+  <data name="KCard">
+    <value></value>
+  </data>
+  <data name="Keywords">
+    <value></value>
+  </data>
+  <data name="KickMember">
+    <value></value>
+  </data>
+  <data name="LeftGuildCurrent">
+    <value></value>
+  </data>
+  <data name="LevelNo">
+    <value></value>
+  </data>
+  <data name="LimitCmt10">
+    <value></value>
+  </data>
+  <data name="LimitTranferGold">
+    <value></value>
+  </data>
+  <data name="LimitTranferGoldInGuild">
+    <value></value>
+  </data>
+  <data name="LimitTranferUser">
+    <value></value>
+  </data>
+  <data name="Line">
+    <value></value>
+  </data>
+  <data name="Listdoithe">
+    <value></value>
+  </data>
+  <data name="ListExchangeCard">
+    <value></value>
+  </data>
+  <data name="ListGuild">
+    <value></value>
+  </data>
+  <data name="ListMemReGold">
+    <value></value>
+  </data>
+  <data name="ListSubOwner">
+    <value></value>
+  </data>
+  <data name="LogicError">
+    <value></value>
+  </data>
+  <data name="Login">
+    <value></value>
+  </data>
+  <data name="LoginAgain">
+    <value></value>
+  </data>
+  <data name="LoginAgainTodo">
+    <value></value>
+  </data>
+  <data name="LoginAgainToTranferGold">
+    <value></value>
+  </data>
+  <data name="LoginBy">
+    <value></value>
+  </data>
+  <data name="LoginError">
+    <value></value>
+  </data>
+  <data name="LoginToCmt">
+    <value></value>
+  </data>
+  <data name="LoginToDepositMoney">
+    <value></value>
+  </data>
+  <data name="LoginToDo">
+    <value></value>
+  </data>
+  <data name="LogOut">
+    <value></value>
+  </data>
+  <data name="MakeFriendAlreadyFriend">
+    <value></value>
+  </data>
+  <data name="MakeFriendAlreadyRequestFriend">
+    <value></value>
+  </data>
+  <data name="MakeFriendCanNotMakeFriendYourSelf">
+    <value></value>
+  </data>
+  <data name="Male">
+    <value></value>
+  </data>
+  <data name="ManageGuild">
+    <value></value>
+  </data>
+  <data name="ManagementGuild">
+    <value></value>
+  </data>
+  <data name="Member">
+    <value></value>
+  </data>
+  <data name="MessageContentRequired">
+    <value></value>
+  </data>
+  <data name="MiniGameBVKC">
+    <value></value>
+  </data>
+  <data name="MiniGameBvkcOrient">
+    <value></value>
+  </data>
+  <data name="MiniGameChayTronGau">
+    <value></value>
+  </data>
+  <data name="MiniGameChemTraiCay">
+    <value></value>
+  </data>
+  <data name="MiniGameChimMoVit">
+    <value></value>
+  </data>
+  <data name="MiniGameChonHuong">
+    <value></value>
+  </data>
+  <data name="MiniGameCoTuong">
+    <value></value>
+  </data>
+  <data name="MiniGameCoTuongEasy">
+    <value></value>
+  </data>
+  <data name="MiniGameCoTuongHard">
+    <value></value>
+  </data>
+  <data name="MiniGameCoTuongRedo">
+    <value></value>
+  </data>
+  <data name="MiniGameCoTuongType">
+    <value></value>
+  </data>
+  <data name="MiniGameDoMin">
+    <value></value>
+  </data>
+  <data name="MiniGameEchNhay">
+    <value></value>
+  </data>
+  <data name="MiniGameGiuThanh">
+    <value></value>
+  </data>
+  <data name="MiniGameKeoBong">
+    <value></value>
+  </data>
+  <data name="MiniGameLolita">
+    <value></value>
+  </data>
+  <data name="MiniGameMario">
+    <value></value>
+  </data>
+  <data name="MiniGameMayBay">
+    <value></value>
+  </data>
+  <data name="MiniGameNhanhMat">
+    <value></value>
+  </data>
+  <data name="MiniGameNhaySieuCao">
+    <value></value>
+  </data>
+  <data name="MiniGameNoiDiem">
+    <value></value>
+  </data>
+  <data name="MiniGameNongTrai">
+    <value></value>
+  </data>
+  <data name="MiniGameRong">
+    <value></value>
+  </data>
+  <data name="MiniGameSocNhay">
+    <value></value>
+  </data>
+  <data name="MiniGameTungTrung">
+    <value></value>
+  </data>
+  <data name="MinLenghtUser">
+    <value></value>
+  </data>
+  <data name="MobileCommentUserMustLogin">
+    <value></value>
+  </data>
+  <data name="MobileCommentUserMustPlay">
+    <value></value>
+  </data>
+  <data name="MobileCommentUserSend">
+    <value></value>
+  </data>
+  <data name="MobileCommentUserTitle">
+    <value></value>
+  </data>
+  <data name="MobileCreateGuildbtn">
+    <value></value>
+  </data>
+  <data name="MobileCreateGuildRule">
+    <value></value>
+  </data>
+  <data name="MobileGuildDetailChatTitle">
+    <value></value>
+  </data>
+  <data name="MobileGuildDetailRuleFinish">
+    <value></value>
+  </data>
+  <data name="MobileGuildDetailRuleTitle">
+    <value></value>
+  </data>
+  <data name="MobileGuildDetailTopMember">
+    <value></value>
+  </data>
+  <data name="MobileGuildDetailUserJoin">
+    <value></value>
+  </data>
+  <data name="MobileGuildDetailUserNull">
+    <value></value>
+  </data>
+  <data name="MobileGuildMemberVipFromDay">
+    <value></value>
+  </data>
+  <data name="MobileGuildMemberVipMember">
+    <value></value>
+  </data>
+  <data name="MobileGuildMemberVipPoint">
+    <value></value>
+  </data>
+  <data name="MobileGuildMemberVipSearch">
+    <value></value>
+  </data>
+  <data name="MobileGuildMemberVipTime">
+    <value></value>
+  </data>
+  <data name="MoneyMultipleOf">
+    <value></value>
+  </data>
+  <data name="MoneyTranferInvalid">
+    <value></value>
+  </data>
+  <data name="MoneyWin">
+    <value></value>
+  </data>
+  <data name="More">
+    <value></value>
+  </data>
+  <data name="MostVibrant">
+    <value></value>
+  </data>
+  <data name="MostView">
+    <value></value>
+  </data>
+  <data name="MTK">
+    <value></value>
+  </data>
+  <data name="MTKIsNotNull">
+    <value></value>
+  </data>
+  <data name="MustLogin1">
+    <value></value>
+  </data>
+  <data name="MustLogin2">
+    <value></value>
+  </data>
+  <data name="MustLogin3">
+    <value></value>
+  </data>
+  <data name="Name">
+    <value></value>
+  </data>
+  <data name="NameGuild">
+    <value></value>
+  </data>
+  <data name="NameGuildMaxLenght">
+    <value></value>
+  </data>
+  <data name="NameGuildNotEmpty">
+    <value></value>
+  </data>
+  <data name="NewEvent">
+    <value></value>
+  </data>
+  <data name="NewGuild">
+    <value></value>
+  </data>
+  <data name="NewMessage">
+    <value></value>
+  </data>
+  <data name="NewPass">
+    <value></value>
+  </data>
+  <data name="NewPasswordSameOldPassword">
+    <value></value>
+  </data>
+  <data name="News">
+    <value></value>
+  </data>
+  <data name="NewsEvent">
+    <value></value>
+  </data>
+  <data name="NichnameEqual">
+    <value></value>
+  </data>
+  <data name="Nick">
+    <value></value>
+  </data>
+  <data name="NickMail">
+    <value></value>
+  </data>
+  <data name="NickNameChangedBefore">
+    <value></value>
+  </data>
+  <data name="NicknameContent">
+    <value></value>
+  </data>
+  <data name="NickNameExist">
+    <value></value>
+  </data>
+  <data name="NickNameLeght">
+    <value></value>
+  </data>
+  <data name="NicknameNull">
+    <value></value>
+  </data>
+  <data name="NickNameRule">
+    <value></value>
+  </data>
+  <data name="NickNameWrong">
+    <value></value>
+  </data>
+  <data name="NickOrPasswordIsWrong">
+    <value></value>
+  </data>
+  <data name="No">
+    <value></value>
+  </data>
+  <data name="NoAllowEditArticle">
+    <value></value>
+  </data>
+  <data name="NoData">
+    <value></value>
+  </data>
+  <data name="NoEnoughGold">
+    <value></value>
+  </data>
+  <data name="NoEnoughGoldToUser">
+    <value></value>
+  </data>
+  <data name="NoGuild">
+    <value></value>
+  </data>
+  <data name="NoLogin">
+    <value></value>
+  </data>
+  <data name="NoRequestMakeFriend">
+    <value></value>
+  </data>
+  <data name="NotAwarded">
+    <value></value>
+  </data>
+  <data name="Note">
+    <value></value>
+  </data>
+  <data name="NotExchangeCard">
+    <value></value>
+  </data>
+  <data name="NotExchangeFromMTop">
+    <value></value>
+  </data>
+  <data name="NotExchangeFromVnKash">
+    <value></value>
+  </data>
+  <data name="NotExitReward">
+    <value></value>
+  </data>
+  <data name="NotFindNewArticle">
+    <value></value>
+  </data>
+  <data name="NotGrantTodo">
+    <value></value>
+  </data>
+  <data name="Notify">
+    <value></value>
+  </data>
+  <data name="NotifyError">
+    <value></value>
+  </data>
+  <data name="NotInGuild">
+    <value></value>
+  </data>
+  <data name="NotTranferForYour">
+    <value></value>
+  </data>
+  <data name="NotTransfer">
+    <value></value>
+  </data>
+  <data name="NotTransferCoinCauseMaxReceived">
+    <value></value>
+  </data>
+  <data name="NotTransferForThisUser">
+    <value></value>
+  </data>
+  <data name="NumberAccept">
+    <value></value>
+  </data>
+  <data name="NumberMember">
+    <value></value>
+  </data>
+  <data name="NumMember">
+    <value></value>
+  </data>
+  <data name="OAuNewAcc">
+    <value></value>
+  </data>
+  <data name="OAuPlayerNotActive">
+    <value></value>
+  </data>
+  <data name="OAuSecurityCode">
+    <value></value>
+  </data>
+  <data name="OAuSMSCode">
+    <value></value>
+  </data>
+  <data name="OldPass">
+    <value></value>
+  </data>
+  <data name="OneVipPoint">
+    <value></value>
+  </data>
+  <data name="OnlineFree">
+    <value></value>
+  </data>
+  <data name="OnlinePlayGameCard">
+    <value></value>
+  </data>
+  <data name="OnlyAdminChange">
+    <value></value>
+  </data>
+  <data name="OutGameToTranferGold">
+    <value></value>
+  </data>
+  <data name="OwnerReviewReward">
+    <value></value>
+  </data>
+  <data name="OwnerSub">
+    <value></value>
+  </data>
+  <data name="PageNoExist">
+    <value></value>
+  </data>
+  <data name="PanNickForever">
+    <value></value>
+  </data>
+  <data name="PanNickForeverShowPopup">
+    <value></value>
+  </data>
+  <data name="PassDifferent">
+    <value></value>
+  </data>
+  <data name="PassLenghtMax">
+    <value></value>
+  </data>
+  <data name="PassLenghtMin">
+    <value></value>
+  </data>
+  <data name="PassLv2Wrong">
+    <value></value>
+  </data>
+  <data name="PassMinLenght">
+    <value></value>
+  </data>
+  <data name="PassNewWeak">
+    <value></value>
+  </data>
+  <data name="PassOldWrong">
+    <value></value>
+  </data>
+  <data name="PassRule">
+    <value></value>
+  </data>
+  <data name="PassSMSTimeout">
+    <value></value>
+  </data>
+  <data name="PassTooLong">
+    <value></value>
+  </data>
+  <data name="PassUnlockWrong">
+    <value></value>
+  </data>
+  <data name="PassViWrong">
+    <value></value>
+  </data>
+  <data name="Password">
+    <value></value>
+  </data>
+  <data name="PasswordIsEmpty">
+    <value></value>
+  </data>
+  <data name="PasswordNotNull">
+    <value></value>
+  </data>
+  <data name="Personal">
+    <value></value>
+  </data>
+  <data name="Personality">
+    <value></value>
+  </data>
+  <data name="Phom">
+    <value></value>
+  </data>
+  <data name="PhoneIsRequired">
+    <value></value>
+  </data>
+  <data name="PhoneLength">
+    <value></value>
+  </data>
+  <data name="PhoneMustNumber">
+    <value></value>
+  </data>
+  <data name="Pie2D">
+    <value></value>
+  </data>
+  <data name="PinCard">
+    <value></value>
+  </data>
+  <data name="PlayCardOnline">
+    <value></value>
+  </data>
+  <data name="PlayerIsBlockedAcc">
+    <value></value>
+  </data>
+  <data name="PlayerUnBlockedAcc">
+    <value></value>
+  </data>
+  <data name="PlayFunny">
+    <value></value>
+  </data>
+  <data name="PlayGameMobile">
+    <value></value>
+  </data>
+  <data name="PointAccuDay">
+    <value></value>
+  </data>
+  <data name="PointAccuMonth">
+    <value></value>
+  </data>
+  <data name="Policy">
+    <value></value>
+  </data>
+  <data name="PolicyVip">
+    <value></value>
+  </data>
+  <data name="PrescribeActivitie">
+    <value></value>
+  </data>
+  <data name="Profile">
+    <value></value>
+  </data>
+  <data name="ProfileBasic">
+    <value></value>
+  </data>
+  <data name="QuantityInvalid">
+    <value></value>
+  </data>
+  <data name="Questions">
+    <value></value>
+  </data>
+  <data name="RegisInMobileAccept">
+    <value></value>
+  </data>
+  <data name="RegisInMobileBtnRegis">
+    <value></value>
+  </data>
+  <data name="RegisInMobileConfirmPasswordPH">
+    <value></value>
+  </data>
+  <data name="RegisInMobileDisplayname">
+    <value></value>
+  </data>
+  <data name="RegisInMobileDisplaynamePH">
+    <value></value>
+  </data>
+  <data name="RegisInMobileimgCaptchaPH">
+    <value></value>
+  </data>
+  <data name="RegisInMobilePassword">
+    <value></value>
+  </data>
+  <data name="RegisInMobilePasswordPH">
+    <value></value>
+  </data>
+  <data name="RegisInMobileUserName">
+    <value></value>
+  </data>
+  <data name="RegisInMobileUserNamePH">
+    <value></value>
+  </data>
+  <data name="RegisterSuccess">
+    <value></value>
+  </data>
+  <data name="Reply">
+    <value></value>
+  </data>
+  <data name="Report2Month">
+    <value></value>
+  </data>
+  <data name="ReportDay">
+    <value></value>
+  </data>
+  <data name="ReportMonth">
+    <value></value>
+  </data>
+  <data name="RequestFriendUnknownStatus">
+    <value></value>
+  </data>
+  <data name="ResFail">
+    <value></value>
+  </data>
+  <data name="Responsibility">
+    <value></value>
+  </data>
+  <data name="ResSucc">
+    <value></value>
+  </data>
+  <data name="Reward">
+    <value></value>
+  </data>
+  <data name="RightMemGuild">
+    <value></value>
+  </data>
+  <data name="RightOwner">
+    <value></value>
+  </data>
+  <data name="RuleblockAcc">
+    <value></value>
+  </data>
+  <data name="RuleComment">
+    <value></value>
+  </data>
+  <data name="RuleCreateGuild">
+    <value></value>
+  </data>
+  <data name="SaveGold">
+    <value></value>
+  </data>
+  <data name="SavePoint">
+    <value></value>
+  </data>
+  <data name="SaveSuccess">
+    <value></value>
+  </data>
+  <data name="Search">
+    <value></value>
+  </data>
+  <data name="Search2Month">
+    <value></value>
+  </data>
+  <data name="SearchMember">
+    <value></value>
+  </data>
+  <data name="SecurityCodeAccount">
+    <value></value>
+  </data>
+  <data name="SecurityCodeSMS">
+    <value></value>
+  </data>
+  <data name="SelectImage">
+    <value></value>
+  </data>
+  <data name="SendComment">
+    <value></value>
+  </data>
+  <data name="SendDiscuss">
+    <value></value>
+  </data>
+  <data name="SendMail">
+    <value></value>
+  </data>
+  <data name="Seri">
+    <value></value>
+  </data>
+  <data name="SessionLoginOut">
+    <value></value>
+  </data>
+  <data name="Show">
+    <value></value>
+  </data>
+  <data name="ShowchangeFromDate">
+    <value></value>
+  </data>
+  <data name="SinhNhatVip">
+    <value></value>
+  </data>
+  <data name="SizeChek">
+    <value></value>
+  </data>
+  <data name="Start">
+    <value></value>
+  </data>
+  <data name="SubOwner">
+    <value></value>
+  </data>
+  <data name="SubOwner1">
+    <value></value>
+  </data>
+  <data name="Success">
+    <value></value>
+  </data>
+  <data name="SuccesUpdate">
+    <value></value>
+  </data>
+  <data name="SuccesUpdateGiftXu">
+    <value></value>
+  </data>
+  <data name="Support">
+    <value></value>
+  </data>
+  <data name="Support4room">
+    <value></value>
+  </data>
+  <data name="SupportEmail">
+    <value></value>
+  </data>
+  <data name="SupportOnline">
+    <value></value>
+  </data>
+  <data name="TGBongBong">
+    <value></value>
+  </data>
+  <data name="ThanksUserComeback">
+    <value></value>
+  </data>
+  <data name="Thongbao">
+    <value></value>
+  </data>
+  <data name="TienLen">
+    <value></value>
+  </data>
+  <data name="TimeOutLogin">
+    <value></value>
+  </data>
+  <data name="TokenExpired">
+    <value></value>
+  </data>
+  <data name="TokenNotFound">
+    <value></value>
+  </data>
+  <data name="TopDongGop">
+    <value></value>
+  </data>
+  <data name="TopExpByMonth">
+    <value></value>
+  </data>
+  <data name="TopGuildTitle">
+    <value></value>
+  </data>
+  <data name="TopTichLuyTitle">
+    <value></value>
+  </data>
+  <data name="TopWin">
+    <value></value>
+  </data>
+  <data name="TotalAsset">
+    <value></value>
+  </data>
+  <data name="TotalGold">
+    <value></value>
+  </data>
+  <data name="TotalTimePlay">
+    <value></value>
+  </data>
+  <data name="TouchAvatarOrderToUpdateInfo">
+    <value></value>
+  </data>
+  <data name="TranferCash">
+    <value></value>
+  </data>
+  <data name="TranferGift">
+    <value></value>
+  </data>
+  <data name="TranferGold">
+    <value></value>
+  </data>
+  <data name="TranferGoldFail">
+    <value></value>
+  </data>
+  <data name="TranferGoldFromViSucc">
+    <value></value>
+  </data>
+  <data name="TranferGoldGuild">
+    <value></value>
+  </data>
+  <data name="TranferGoldOwner">
+    <value></value>
+  </data>
+  <data name="TranferGoldSucc">
+    <value></value>
+  </data>
+  <data name="TranferGoldToUser">
+    <value></value>
+  </data>
+  <data name="TranferGoldToViSucc">
+    <value></value>
+  </data>
+  <data name="TranferInvalidUser">
+    <value></value>
+  </data>
+  <data name="TranferNotGuildLeader">
+    <value></value>
+  </data>
+  <data name="TranferWalletVnkash">
+    <value></value>
+  </data>
+  <data name="TransferAccountReceivedInvalid">
+    <value></value>
+  </data>
+  <data name="TransferAccountSendInvalid">
+    <value></value>
+  </data>
+  <data name="TransferBothAccountInvalid">
+    <value></value>
+  </data>
+  <data name="TransferFailCauseMinCoinRequired">
+    <value></value>
+  </data>
+  <data name="TryPassDifficult">
+    <value></value>
+  </data>
+  <data name="TypeJackPot">
+    <value></value>
+  </data>
+  <data name="TypeMember">
+    <value></value>
+  </data>
+  <data name="TypeVip">
+    <value></value>
+  </data>
+  <data name="Unknown">
+    <value></value>
+  </data>
+  <data name="Update">
+    <value></value>
+  </data>
+  <data name="UpdateDay">
+    <value></value>
+  </data>
+  <data name="UpdateFail">
+    <value></value>
+  </data>
+  <data name="UpdateInfo1">
+    <value></value>
+  </data>
+  <data name="UpdateInfo2">
+    <value></value>
+  </data>
+  <data name="UpdateInfo3">
+    <value></value>
+  </data>
+  <data name="UpdateProfileReGold">
+    <value></value>
+  </data>
+  <data name="UpdateRuleSucc">
+    <value></value>
+  </data>
+  <data name="UpdateSuccess">
+    <value></value>
+  </data>
+  <data name="UpLoad">
+    <value></value>
+  </data>
+  <data name="UploadAvatarFailed">
+    <value></value>
+  </data>
+  <data name="UploadBannerSucc">
+    <value></value>
+  </data>
+  <data name="UploadFile">
+    <value></value>
+  </data>
+  <data name="UploadImgSucc">
+    <value></value>
+  </data>
+  <data name="UploadPixel">
+    <value></value>
+  </data>
+  <data name="UserInfoBC3DBoss">
+    <value></value>
+  </data>
+  <data name="UserInfoBC3DGift">
+    <value></value>
+  </data>
+  <data name="UserInfoBC3DInfo">
+    <value></value>
+  </data>
+  <data name="UserInfoBC3DMission">
+    <value></value>
+  </data>
+  <data name="UserInfoBC3DNewPass">
+    <value></value>
+  </data>
+  <data name="UserInfoBC3DOldPass">
+    <value></value>
+  </data>
+  <data name="UserInfoBC3DThanhTich">
+    <value></value>
+  </data>
+  <data name="UserInvalidFormat">
+    <value></value>
+  </data>
+  <data name="UserIsNotActivePopupContent">
+    <value></value>
+  </data>
+  <data name="UserIsNotActivePopupTitle">
+    <value></value>
+  </data>
+  <data name="UserLoginFailsPopupContent">
+    <value></value>
+  </data>
+  <data name="UserLoginFailsPopupTitle">
+    <value></value>
+  </data>
+  <data name="UsernameInvalid">
+    <value></value>
+  </data>
+  <data name="UsernameIsExist">
+    <value></value>
+  </data>
+  <data name="UserNotCompareDis">
+    <value></value>
+  </data>
+  <data name="UserNotInGuild">
+    <value></value>
+  </data>
+  <data name="UserReceiveInboxInvalid">
+    <value></value>
+  </data>
+  <data name="UserSendInboxInvalid">
+    <value></value>
+  </data>
+  <data name="UserTransferGold">
+    <value></value>
+  </data>
+  <data name="UserTransferxu">
+    <value></value>
+  </data>
+  <data name="ValidateCaptcha">
+    <value></value>
+  </data>
+  <data name="ValidateDisplayName">
+    <value></value>
+  </data>
+  <data name="ValidateDisplayNameLeght">
+    <value></value>
+  </data>
+  <data name="ValidateDisplayNameNull">
+    <value></value>
+  </data>
+  <data name="ValidatEmail">
+    <value></value>
+  </data>
+  <data name="ValidateNickName">
+    <value></value>
+  </data>
+  <data name="ValidatePass">
+    <value></value>
+  </data>
+  <data name="ValidatId">
+    <value></value>
+  </data>
+  <data name="ValidatPhone">
+    <value></value>
+  </data>
+  <data name="Value">
+    <value></value>
+  </data>
+  <data name="VersionNotMatch">
+    <value></value>
+  </data>
+  <data name="ViBlocked">
+    <value></value>
+  </data>
+  <data name="ViEnoghGoldToTranfer">
+    <value></value>
+  </data>
+  <data name="ViewGold">
+    <value></value>
+  </data>
+  <data name="ViewGoldAndPoint">
+    <value></value>
+  </data>
+  <data name="ViNotExist">
+    <value></value>
+  </data>
+  <data name="VipPointNum">
+    <value></value>
+  </data>
+  <data name="Wait2Minute">
+    <value></value>
+  </data>
+  <data name="Wallet">
+    <value></value>
+  </data>
+  <data name="WalletBank">
+    <value></value>
+  </data>
+  <data name="WantToMakeFriend">
+    <value></value>
+  </data>
+  <data name="Welcome">
+    <value></value>
+  </data>
+  <data name="WelcomeNewUser">
+    <value></value>
+  </data>
+  <data name="WelcomeNewUserHasEventUpdateInfo">
+    <value></value>
+  </data>
+  <data name="WhatCanStarDo">
+    <value></value>
+  </data>
+  <data name="WhatCanStarDoAnswer">
+    <value></value>
+  </data>
+  <data name="WhoBuy">
+    <value></value>
+  </data>
+  <data name="XiTo">
+    <value></value>
+  </data>
+  <data name="XuReceive">
+    <value></value>
+  </data>
+  <data name="XuToAccount">
+    <value></value>
+  </data>
+  <data name="YouAward">
+    <value></value>
+  </data>
+  <data name="MessageEmpty">
+    <value></value>
+  </data>
+  <data name="MessageNotFound">
+    <value></value>
+  </data>
+  <data name="EmailNotEmpty">
+    <value></value>
+  </data>
+  <data name="NotEnoughLevelTranferGold">
+    <value></value>
+  </data>
+  <data name="FeedbackTitleRequire">
+    <value></value>
+  </data>
+  <data name="FeedbackContentRequire">
+    <value></value>
+  </data>
+  <data name="FeedbackFail">
+    <value></value>
+  </data>
+  <data name="FeedbackSuccess">
+    <value></value>
+  </data>
+  <data name="ExchangeCardSelectCardPls">
+    <value></value>
+  </data>
+  <data name="ExchangeCardSystemMaintainance">
+    <value></value>
+  </data>
+  <data name="ExchangeCardSuccessMessageTitle">
+    <value></value>
+  </data>
+  <data name="ExchangeCardSuccessMessageContent">
+    <value></value>
+  </data>
+  <data name="ExchangeCardSuccessNoticeContent">
+    <value></value>
+  </data>
+  <data name="ExchangeProductInvalid">
+    <value></value>
+  </data>
+  <data name="ExchangeSuccessNoticeContent">
+    <value></value>
+  </data>
+  <data name="ExchangeSuccessNoticeTitle">
+    <value></value>
+  </data>
+  <data name="ExchangeProductInvalidCode">
+    <value></value>
+  </data>
+  <data name="SupportText">
+    <value></value>
+  </data>
+  <data name="DepositSuccessAddCoinFailed">
+    <value></value>
+  </data>
+  <data name="ValidateDisplayNameAZ">
+    <value></value>
+  </data>
+  <data name="ValidateNickName1">
+    <value></value>
+  </data>
+  <data name="ValidateDisplayNameNotEmpty">
+    <value></value>
+  </data>
+  <data name="ValidatePasswordNotEmpty">
+    <value></value>
+  </data>
+  <data name="ValidationPassword4">
+    <value></value>
+  </data>
+  <data name="TurnsInvalid">
+    <value></value>
+  </data>
+  <data name="NewPassword">
+    <value></value>
+  </data>
+  <data name="DisplayNameDoDai">
+    <value></value>
+  </data>
+  <data name="DisplayNameKhoangTrang">
+    <value></value>
+  </data>
+  <data name="DisplayNameNotCorrect">
+    <value></value>
+  </data>
+  <data name="DisplayNameNotCorrect1">
+    <value></value>
+  </data>
+  <data name="DisplayNameNull">
+    <value></value>
+  </data>
+  <data name="ExistedAccount">
+    <value></value>
+  </data>
+  <data name="Failed">
+    <value></value>
+  </data>
+  <data name="GetAvatarSuccess">
+    <value></value>
+  </data>
+  <data name="GetMailSuccess">
+    <value></value>
+  </data>
+  <data name="GetUserOnlineSuccess">
+    <value></value>
+  </data>
+  <data name="HistoriCoinBanCaSuccess">
+    <value></value>
+  </data>
+  <data name="imageLength">
+    <value></value>
+  </data>
+  <data name="InvalidDisplayName">
+    <value></value>
+  </data>
+  <data name="InvalidDisplayName2">
+    <value></value>
+  </data>
+  <data name="InvalidNickName">
+    <value></value>
+  </data>
+  <data name="isValidExtension">
+    <value></value>
+  </data>
+  <data name="LoginFailed">
+    <value></value>
+  </data>
+  <data name="LoginSuccess">
+    <value></value>
+  </data>
+  <data name="NonExistsFaceAccount">
+    <value></value>
+  </data>
+  <data name="NotHaveMail">
+    <value></value>
+  </data>
+  <data name="OAuthLoginError">
+    <value></value>
+  </data>
+  <data name="OAuthLoginError1">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_NotExistAccount">
+    <value></value>
+  </data>
+  <data name="RegisterCaptchaInvalid">
+    <value></value>
+  </data>
+  <data name="RegisterCaptchaNotExists">
+    <value></value>
+  </data>
+  <data name="RegisterFailed">
+    <value></value>
+  </data>
+  <data name="UpdateSuccessAddCoin">
+    <value></value>
+  </data>
+  <data name="UserAndPassError">
+    <value></value>
+  </data>
+  <data name="UserInvalit">
+    <value></value>
+  </data>
+  <data name="UserNameHaveEmpty">
+    <value></value>
+  </data>
+  <data name="UserNameInvalit">
+    <value></value>
+  </data>
+  <data name="UserNameInvalit2">
+    <value></value>
+  </data>
+  <data name="UserNameInvalit3">
+    <value></value>
+  </data>
+  <data name="UserNameLenght">
+    <value></value>
+  </data>
+  <data name="UserNameNull">
+    <value></value>
+  </data>
+  <data name="ValidationLogin15">
+    <value></value>
+  </data>
+  <data name="ValidationPassword">
+    <value></value>
+  </data>
+  <data name="ValidationPassword2">
+    <value></value>
+  </data>
+  <data name="ValidationPassword3">
+    <value></value>
+  </data>
+  <data name="ChangePasswordTitle">
+    <value></value>
+  </data>
+  <data name="PassNewLable">
+    <value></value>
+  </data>
+  <data name="PassNewConfirmLable">
+    <value></value>
+  </data>
+  <data name="ValidationPassword5">
+    <value></value>
+  </data>
+  <data name="ValidationPhone">
+    <value></value>
+  </data>
+  <data name="ValidationPhone3">
+    <value></value>
+  </data>
+  <data name="ValidationPhone4">
+    <value></value>
+  </data>
+  <data name="UpdatePasswordSuccess">
+    <value></value>
+  </data>
+  <data name="UpdatePasswordError">
+    <value></value>
+  </data>
+  <data name="CaptchaIncorrect">
+    <value></value>
+  </data>
+  <data name="ValidationCountryCode">
+    <value></value>
+  </data>
+  <data name="CountryCodeLabel">
+    <value></value>
+  </data>
+  <data name="PhoneLabel">
+    <value></value>
+  </data>
+  <data name="ReceiveOTP">
+    <value></value>
+  </data>
+  <data name="OTPLabel">
+    <value></value>
+  </data>
+  <data name="UserNameLabel">
+    <value></value>
+  </data>
+  <data name="DisplayNameLabel">
+    <value></value>
+  </data>
+  <data name="PassWordLabel">
+    <value></value>
+  </data>
+  <data name="ConfirmPhoneTitle">
+    <value></value>
+  </data>
+  <data name="SDTDaCapNhatTruocDo">
+    <value></value>
+  </data>
+  <data name="AuthRegisterChooseAvatarLabel">
+    <value></value>
+  </data>
+  <data name="AuthRegisterConfirm">
+    <value></value>
+  </data>
+  <data name="AuthRegisterDisplayName">
+    <value></value>
+  </data>
+  <data name="AuthRegisterHelper">
+    <value></value>
+  </data>
+  <data name="AuthRegisterNickname">
+    <value></value>
+  </data>
+  <data name="AuthRegisterWelcome">
+    <value></value>
+  </data>
+  <data name="BounsUpdateMail">
+    <value></value>
+  </data>
+  <data name="BounsUpdateMailHeading">
+    <value></value>
+  </data>
+  <data name="BounsUpdateMailRequireMsg">
+    <value></value>
+  </data>
+  <data name="BounsUpdateMailSuccess">
+    <value></value>
+  </data>
+  <data name="BounsUpdateMailTitle">
+    <value></value>
+  </data>
+  <data name="BounsUpdateMailUpdateEmail">
+    <value></value>
+  </data>
+  <data name="BounsUpdateMailWelcome">
+    <value></value>
+  </data>
+  <data name="EditProfileV2ID">
+    <value></value>
+  </data>
+  <data name="EditProfileV2Phone">
+    <value></value>
+  </data>
+  <data name="EditProfileV2Update">
+    <value></value>
+  </data>
+  <data name="ForgetPasswordPhone">
+    <value></value>
+  </data>
+  <data name="ForgetPasswordTut">
+    <value></value>
+  </data>
+  <data name="HistoryKillMiniBoss3DCongra">
+    <value></value>
+  </data>
+  <data name="HistoryKillMiniBossCongra">
+    <value></value>
+  </data>
+  <data name="HistoryMiniBossOpt_All">
+    <value></value>
+  </data>
+  <data name="HistoryMiniBossOpt_Bullet">
+    <value></value>
+  </data>
+  <data name="HistoryMiniBossOpt_Card">
+    <value></value>
+  </data>
+  <data name="HistoryMiniBossOpt_Coin">
+    <value></value>
+  </data>
+  <data name="HistoryMiniBossOpt_Turns">
+    <value></value>
+  </data>
+  <data name="HistoryMiniBossReceive">
+    <value></value>
+  </data>
+  <data name="HistoryMissionBanCaBuilding">
+    <value></value>
+  </data>
+  <data name="HistoryMissionBanCaNoData">
+    <value></value>
+  </data>
+  <data name="HistoryMissionBanCaUnsucess">
+    <value></value>
+  </data>
+  <data name="HistorySpinHit">
+    <value></value>
+  </data>
+  <data name="HistorySpinMiss">
+    <value></value>
+  </data>
+  <data name="HistorySpinOpt_Date">
+    <value></value>
+  </data>
+  <data name="HistorySpinOpt_Desc">
+    <value></value>
+  </data>
+  <data name="HistorySpinOpt_Order">
+    <value></value>
+  </data>
+  <data name="HistorySpinOpt_Res">
+    <value></value>
+  </data>
+  <data name="ListGunBossLoading">
+    <value></value>
+  </data>
+  <data name="LuckySpinIntroNodata">
+    <value></value>
+  </data>
+  <data name="ManagerAvatarBrowse">
+    <value></value>
+  </data>
+  <data name="ManagerAvatarUpload">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLoginSuccessHeading">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLoginSuccessLabel">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLoginTitle">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AccountUserSecure">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AccountUserSMSSecure">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserHasBeenLocked">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserHasBeenLockedForever">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserLocked">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserLockedLongMessage">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserLockedLongMessageForever">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserNotActive">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserNotActiveLabel">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertWrongUsernameOrPass">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_Failed">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_FailedHTML">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_NotExistSecureCode">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_OtherUser">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_SuccesAndSecureCode">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_SystemError">
+    <value></value>
+  </data>
+  <data name="OpenAuthConfirmLogin_WrongExistSecureCode">
+    <value></value>
+  </data>
+  <data name="RegisterSuccessTitle">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_BoxGift">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_Change">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_ChangeAva">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_Event">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_FishBoss">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_Gem">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_History">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_Info">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_Mission">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_NewPass">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_OldPass">
+    <value></value>
+  </data>
+  <data name="UserInfo3D_Upload">
+    <value></value>
+  </data>
+  <data name="UsersTichCodeHeading">
+    <value></value>
+  </data>
+  <data name="AuthRegisterAddress">
+    <value></value>
+  </data>
+  <data name="AuthRegisterCaptcha">
+    <value></value>
+  </data>
+  <data name="AuthRegisterCMND">
+    <value></value>
+  </data>
+  <data name="AuthRegisterEmail">
+    <value></value>
+  </data>
+  <data name="AuthRegisterFullName">
+    <value></value>
+  </data>
+  <data name="AuthRegisterNgayCap">
+    <value></value>
+  </data>
+  <data name="AuthRegisterNgaySinh">
+    <value></value>
+  </data>
+  <data name="AuthRegisterNoiCap">
+    <value></value>
+  </data>
+  <data name="AuthRegisterPassWord">
+    <value></value>
+  </data>
+  <data name="AuthRegisterSDT">
+    <value></value>
+  </data>
+  <data name="AuthRegisterUserName">
+    <value></value>
+  </data>
+  <data name="EditProfileV2Email">
+    <value></value>
+  </data>
+  <data name="SoLuong">
+    <value></value>
+  </data>
+  <data name="STT">
+    <value></value>
+  </data>
+  <data name="ValidationAddress">
+    <value></value>
+  </data>
+  <data name="ValidationCaptcha">
+    <value></value>
+  </data>
+  <data name="ValidationCaptcha2">
+    <value></value>
+  </data>
+  <data name="ValidationCMND">
+    <value></value>
+  </data>
+  <data name="ValidationDateOfBirthday">
+    <value></value>
+  </data>
+  <data name="ValidationDisplayName">
+    <value></value>
+  </data>
+  <data name="ValidationDisplayName2">
+    <value></value>
+  </data>
+  <data name="ValidationEmail">
+    <value></value>
+  </data>
+  <data name="ValidationFullName">
+    <value></value>
+  </data>
+  <data name="ValidationLogin">
+    <value></value>
+  </data>
+  <data name="ValidationNgayCap">
+    <value></value>
+  </data>
+  <data name="ValidationNoiCap">
+    <value></value>
+  </data>
+  <data name="ValidationRegisterError">
+    <value></value>
+  </data>
+  <data name="ValidationSDT">
+    <value></value>
+  </data>
+  <data name="ValidationSDT2">
+    <value></value>
+  </data>
+  <data name="ValidationUserName">
+    <value></value>
+  </data>
+  <data name="ValidationUserName2">
+    <value></value>
+  </data>
+  <data name="ValidationUserName3">
+    <value></value>
+  </data>
+  <data name="ValidationUserName4">
+    <value></value>
+  </data>
+  <data name="ValidationUserName5">
+    <value></value>
+  </data>
+  <data name="ValidationUserName6">
+    <value></value>
+  </data>
+  <data name="ValidationDisplayName3">
+    <value></value>
+  </data>
+  <data name="ValidationDisplayName4">
+    <value></value>
+  </data>
+  <data name="ValidationDisplayName5">
+    <value></value>
+  </data>
+  <data name="ValidationEmail2">
+    <value></value>
+  </data>
+  <data name="ValidationLogin10">
+    <value></value>
+  </data>
+  <data name="ValidationLogin11">
+    <value></value>
+  </data>
+  <data name="ValidationLogin13">
+    <value></value>
+  </data>
+  <data name="ValidationLogin14">
+    <value></value>
+  </data>
+  <data name="ValidationLogin2">
+    <value></value>
+  </data>
+  <data name="ValidationLogin3">
+    <value></value>
+  </data>
+  <data name="ValidationLogin4">
+    <value></value>
+  </data>
+  <data name="ValidationLogin5">
+    <value></value>
+  </data>
+  <data name="ValidationLogin6">
+    <value></value>
+  </data>
+  <data name="ValidationLogin7">
+    <value></value>
+  </data>
+  <data name="ValidationLogin8">
+    <value></value>
+  </data>
+  <data name="ValidationLogin9">
+    <value></value>
+  </data>
+  <data name="ValidationRegister1">
+    <value></value>
+  </data>
+  <data name="ValidationRegister2">
+    <value></value>
+  </data>
+  <data name="ValidationUserName7">
+    <value></value>
+  </data>
+  <data name="ValidationUserName8">
+    <value></value>
+  </data>
+  <data name="AuthRegisterNhapMa">
+    <value></value>
+  </data>
+  <data name="AuthRegisterDoiMatKhau">
+    <value></value>
+  </data>
+  <data name="ValidationLogin16">
+    <value></value>
+  </data>
+  <data name="UpdateProfileNote">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation1">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation10">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation2">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation3">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation4">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation5">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation6">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation8">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation9">
+    <value></value>
+  </data>
+  <data name="ValidationDisplayName7">
+    <value></value>
+  </data>
+  <data name="EmailSupport">
+    <value></value>
+  </data>
+  <data name="VisitFanpageFacebook">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation11">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation12">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation13">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation14">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation15">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation16">
+    <value></value>
+  </data>
+  <data name="ErrorMessValidation17">
+    <value></value>
+  </data>
+  <data name="ValidationLogin17">
+    <value></value>
+  </data>
+  <data name="ValidationLogin18">
+    <value></value>
+  </data>
+  <data name="ValidationLogin19">
+    <value></value>
+  </data>
+  <data name="RegisterPlayNowButton">
+    <value></value>
+  </data>
+  <data name="LoginBouns">
+    <value></value>
+  </data>
+  <data name="hope_you_have_fun">
+    <value></value>
+  </data>
+  <data name="UserIDAndDisplayName">
+    <value></value>
+  </data>
+  <data name="MessagePleaseSelectUser">
+    <value></value>
+  </data>
+  <data name="MessageMe">
+    <value></value>
+  </data>
+  <data name="MessageTabUserLabel">
+    <value></value>
+  </data>
+  <data name="MessageTabAdminLabel">
+    <value></value>
+  </data>
+  <data name="AccPiPayError">
+    <value></value>
+  </data>
+  <data name="MessageTabGroupLabel">
+    <value></value>
+  </data>
+  <data name="AccAbaError">
+    <value></value>
+  </data>
+  <data name="AccWAVE_MONEYError">
+    <value></value>
+  </data>
+  <data name="AccWaveError">
+    <value></value>
+  </data>
+  <data name="goldBouns_Facebook_Login">
+    <value></value>
+  </data>
+  <data name="UsernameAvailable">
+    <value></value>
+  </data>
+  <data name="AccGCASHError">
+    <value></value>
+  </data>
+  <data name="Use_an_exitsting_account">
+    <value></value>
+  </data>
+  <data name="Register_get_gift">
+    <value></value>
+  </data>
+  <data name="registerV3_Create_a_new_account">
+    <value></value>
+  </data>
+  <data name="registerV3_account_login">
+    <value></value>
+  </data>
+  <data name="registerV3_Login_to_agree">
+    <value></value>
+  </data>
+  <data name="registerV3_Register_agreement">
+    <value></value>
+  </data>
+  <data name="registerV3_submit">
+    <value></value>
+  </data>
+</LocalLanguages>

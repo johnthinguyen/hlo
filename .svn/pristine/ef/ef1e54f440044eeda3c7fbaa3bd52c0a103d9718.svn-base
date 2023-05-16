@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="DepositMessageBlockInDay" xml:space="preserve">
+    <value>you can only deposit a maximum of {0} times a day (SMS)</value>
+  </data>
+  <data name="MessageFirstPurchase" xml:space="preserve">
+    <value>{0}% more coins for your 1st purchase</value>
+  </data>
+  <data name="Please_deposit_more_to_withdraw" xml:space="preserve">
+    <value>Please deposit more to withdraw</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_OneTimeOffer_Title" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_OneTimeOffer_Title</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_OneTimeOffer_Content" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_OneTimeOffer_Content</value>
+  </data>
+  <data name="InAppPurchase_Thanks_First_Purchase_Title" xml:space="preserve">
+    <value>InAppPurchase_Thanks_First_Purchase_Title</value>
+  </data>
+  <data name="InAppPurchase_Thanks_First_Purchase_Content" xml:space="preserve">
+    <value>InAppPurchase_Thanks_First_Purchase_Content</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_SubscribePackage_Title" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_SubscribePackage_Title</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_SubscribePackage_{X}_Content" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_SubscribePackage_{0}_Content</value>
+  </data>
+  <data name="Withdrawal_successful_maill_title" xml:space="preserve">
+    <value>Withdrawal ${0} successful</value>
+  </data>
+  <data name="Withdrawal_successful_maill_content" xml:space="preserve">
+    <value>Your withdrawal has been successful, please check your Wing TID {0}. Hope you have fun!</value>
+  </data>
+  <data name="choose_amount_to_top_up" xml:space="preserve">
+    <value>Please choose the amount to top up</value>
+  </data>
+  <data name="top_up_phone_number_incorrect" xml:space="preserve">
+    <value>Your phone number is incorrect</value>
+  </data>
+  <data name="top_up_check_phone_number_and_confirm" xml:space="preserve">
+    <value>Please check again the Phone Number and confirm this is your Phone Number!</value>
+  </data>
+  <data name="top_up_money_choosing_incorrect" xml:space="preserve">
+    <value>Your money choosing is incorrect</value>
+  </data>
+  <data name="top_up_deposit_succeed" xml:space="preserve">
+    <value>Deposit request from phone number [{0}] ${1} has succeed</value>
+  </data>
+  <data name="top_up_deposit_succeed_check_again" xml:space="preserve">
+    <value>Deposit request from phone number [{0}] ${1} has succeed, please check again your phone number.
+Hope you have fun</value>
+  </data>
+  <data name="top_up_enter_phone_here" xml:space="preserve">
+    <value>Enter your phone number that you want to top up here</value>
+  </data>
+  <data name="topup_name" xml:space="preserve">
+    <value>TOP UP</value>
+  </data>
+  <data name="sms_spam_warning" xml:space="preserve">
+    <value>หมายเหตุ: คุณฝากเกินขีดจำกัด {0} ข้อความ / วัน หากคุณฝากเงิน {1} ดอลลาร์ต่อไปคุณจะได้รับ {2} CHIPS  ผู้ดูแลระบบจะไม่รองรับปัญหาเหล่านี้</value>
+  </data>
+  <data name="sms_spam_warning_title" xml:space="preserve">
+    <value>ฝากเกินขีดจำกัด {0} ข้อความ / วัน</value>
+  </data>
+  <data name="top_up_transaction_phone_incorrect" xml:space="preserve">
+    <value>การทำธุรกรรมไม่ได้เพราะว่าหมายเลขโทรศัพท์ของคุณไม่ถูกต้อง</value>
+  </data>
+  <data name="top_up_transaction_refund" xml:space="preserve">
+    <value>หมายเลขโทรศัพท์ที่ป้อนไม่ถูกต้อง ผู้ดูแลระบบได้รับเงินคืนโปรดเติมเงินอีกครั้งด้วยหมายเลขโทรศัพท์ที่ถูกต้อง-</value>
+  </data>
+  <data name="Coin_play_free_game" xml:space="preserve">
+    <value>Coin play free game Os Phe, Poker,...</value>
+  </data>
+  <data name="Deposit_new_wallet" xml:space="preserve">
+    <value>ใหม่</value>
+  </data>
+  <data name="WalletProductNotConfig" xml:space="preserve">
+    <value>This product is not available. Please buy another one.</value>
+  </data>
+  <data name="FsCashOut_MessageValidation" xml:space="preserve">
+    <value>หมายเลขCHIPSของคุณไม่เพียงพอที่จะถอน </value>
+  </data>
+  <data name="FsCashOut_MessageValidation1" xml:space="preserve">
+    <value> รหัสบัญชี wing ไม่ถูกต้อง </value>
+  </data>
+  <data name="Deposit_ClickWhenCompletedTransfer" xml:space="preserve">
+    <value>When you have completed the transfer, click here go get chips</value>
+  </data>
+  <data name="FsCashOut_MinWithdraw" xml:space="preserve">
+    <value> จำนวนที่ถอนอย่างน้อย {0}</value>
+  </data>
+  <data name="FsCashOutWave_divisible_withdraw" xml:space="preserve">
+    <value> จำนวนเงินที่ถอนจะต้องหารด้วย {0}</value>
+  </data>
+  <data name="MaxDepositInday" xml:space="preserve">
+    <value>Server maintenance</value>
+  </data>
+  <data name="Config_MaximumSmsDay" xml:space="preserve">
+    <value>คำเตือน: คุณสามารถฝากข้อความได้สูงสุด 30 ข้อความต่อวัน</value>
+  </data>
+  <data name="FsCashOut_RequestSuccess" xml:space="preserve">
+    <value> คำขอถอนเงินจากกระเป๋าเงิน wing: {0}@wing ${1} เสร็จสมบูรณ์ </value>
+  </data>
+  <data name="FsCashOut_RequestSuccess2" xml:space="preserve">
+    <value> ขอถอนตัวจากกระเป๋าเงิน wing เรียบร้อยแล้ว </value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapPhilippine" xml:space="preserve">
+    <value>Please choose the method to ដក (Philippines)</value>
+  </data>
+  <data name="FsCashOut_Wave_RequestSuccess" xml:space="preserve">
+    <value>Request to ដក money from the Wave  wallet: {0}@Wave {1} KYAT has been completed</value>
+  </data>
+  <data name="FsCashOut_ABA_RequestSuccess" xml:space="preserve">
+    <value>คำขอถอนเงินจากกระเป๋าเงิน  ABA: {0}@ABA ${1} เสร็จสมบูรณ์</value>
+  </data>
+  <data name="FsCashOut_PiPay_RequestSuccess" xml:space="preserve">
+    <value>คำขอถอนเงินจากกระเป๋าเงิน  Pi Pay: {0}@pipay ${1} เสร็จสมบูรณ์</value>
+  </data>
+  <data name="Waiting" xml:space="preserve">
+    <value>WAITING...</value>
+  </data>
+  <data name="TopupSuccess" xml:space="preserve">
+    <value>TOPUP SUCCESS</value>
+  </data>
+  <data name="WAVE_Service_Maintenance" xml:space="preserve">
+    <value>Wave wallet is under maintenance please come back later! Thank you for your understanding</value>
+  </data>
+  <data name="ABA_Service_Maintenance" xml:space="preserve">
+    <value>Aba wallet is under maintenance please come back later! Thank you for your understanding</value>
+  </data>
+  <data name="TransferCoinMustHigerEqual" xml:space="preserve">
+    <value>จำนวน CHIPS ต้องสูงกว่าหรือเท่ากัน&gt;= {0}</value>
+  </data>
+  <data name="DepositWalletAccountNotNull" xml:space="preserve">
+    <value>DepositWalletAccountNotNull</value>
+  </data>
+  <data name="Deposit_GCASH_AccountID" xml:space="preserve">
+    <value>GCASH Account ID</value>
+  </data>
+  <data name="Deposit_GCASH_AccountName" xml:space="preserve">
+    <value>GCASH ชื่อบัญชี</value>
+  </data>
+  <data name="Deposit_GCASH_Note1" xml:space="preserve">
+    <value>ขั้นตอนที่ 1: ป้อนหมายเลขบัญชี GCASH ของคุณ คุณจะถูกเรียกเก็บเงิน ₱{0}</value>
+  </data>
+  <data name="Deposit_GCASH_Note2" xml:space="preserve">
+    <value>ขั้นตอนที่ 2: หมายเหตุ: คุณต้องถ่ายโอนอย่างถูกต้องไปยังกระเป๋าเงิน GCASH ด้านล่างเราจะไม่สามารถให้การสนับสนุนหากคุณโอนไปยังบัญชี GCASH ที่ไม่ถูกต้อง หมายเลขบัญชี GCASH จะมีการเปลี่ยนแปลงทุกครั้งเมื่อคุณทำการฝากเงินคุณควรตรวจสอบหมายเลขบัญชี GCASH ที่แน่นอนก่อนที่จะทำการโอนเงินในแบบฟอร์ม</value>
+  </data>
+  <data name="GCASH_NUMBER_ARE_YOU_SURE" xml:space="preserve">
+    <value>โปรดตรวจสอบหมายเลขบัญชี GCASH ของคุณอีกครั้ง {0} และยืนยันว่านี่คือหมายเลขบัญชี GCASH ของคุณ</value>
+  </data>
+  <data name="Tab_TitleWithDraw_GCASH" xml:space="preserve">
+    <value>ถอน GCASH</value>
+  </data>
+  <data name="FsCashOut_GCASH_RequestSuccess" xml:space="preserve">
+    <value>คำขอถอนเงินจากกระเป๋าเงิน  GCASH: {0}@GCASH ₱{1} เสร็จสมบูรณ์</value>
+  </data>
+  <data name="CashoutGCASH_MessageTitle_UpdateStatusSuccess" xml:space="preserve">
+    <value>Withdrawal ₱{0} successful</value>
+  </data>
+  <data name="CashoutGCASH_MessageContent_UpdateStatusSuccess" xml:space="preserve">
+    <value>Your withdrawal has been successful, please check your GCASH TID {0}. Hope you have fun!</value>
+  </data>
+  <data name="FsCashOutGCash_lableTyGia" xml:space="preserve">
+    <value>อัตราแลกเปลี่ยน: &lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; = ₱&lt;strong class="ohyea__color-yellow"&gt;{1} &lt;/strong&gt;</value>
+  </data>
+  <data name="FsCashOutGCash_lableSoDu" xml:space="preserve">
+    <value>ยอดเงินของคุณ&lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; (เท่ากับ ₱&lt;strong class="ohyea__color-yellow"&gt;{1} &lt;/strong&gt;)</value>
+  </data>
+  <data name="FsCashOutGCash_minimum_withdraw" xml:space="preserve">
+    <value>จำนวนเงินขั้นต่ำในการถอนคือ ₱{0}</value>
+  </data>
+  <data name="FsCashOutGCash_divisible_withdraw" xml:space="preserve">
+    <value>จำนวนเงินที่ถอนจะต้องหารด้วย {0}</value>
+  </data>
+  <data name="FsCashOutGCash_lableBanMuonRutBnhieu" xml:space="preserve">
+    <value>คุณต้องการถอนเงินเท่าไหร่</value>
+  </data>
+  <data name="FsCashOut_lableDienTKGCash" xml:space="preserve">
+    <value>ป้อนบัญชี GCASH ของคุณเพื่อรับเงิน:</value>
+  </data>
+  <data name="GCASH_TID_successful_mail" xml:space="preserve">
+    <value>You have successful deposited GCASH TID {0} into our game. Have fun time with Live777</value>
+  </data>
+  <data name="GCASH_Service_Maintenance" xml:space="preserve">
+    <value>GCASH wallet is under maintenance please come back later! Thank you for your understanding</value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapPhilippines" xml:space="preserve">
+    <value>Please choose the method to ដក (Philippines)</value>
+  </data>
+  <data name="FsCashOut_GCash_RequestSuccess" xml:space="preserve">
+    <value>คำขอถอนเงินจากกระเป๋าเงิน  GCASH: {0}@GCASH ₱{1} เสร็จสมบูรณ์</value>
+  </data>
+  <data name="ACCOUNT_OR_TID_INVALID" xml:space="preserve">
+    <value>Your account number or tid invalid</value>
+  </data>
+</LocalLanguages>

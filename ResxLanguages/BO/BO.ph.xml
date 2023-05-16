@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="InvalidSecurityCode">
+    <value>Mali ang captcha</value>
+  </data>
+  <data name="InvalidCaptchaCode">
+    <value>Mali ang captcha</value>
+  </data>
+  <data name="BonusLogin">
+    <value>Bonus Login</value>
+  </data>
+  <data name="SoloMode_Default">
+    <value>Pangangaso ng Isda</value>
+  </data>
+  <data name="SoloMode_Medusa">
+    <value>Medusa</value>
+  </data>
+  <data name="SoloMode_NhanMa">
+    <value>Sagittarius</value>
+  </data>
+  <data name="SoloMode_Poseidon">
+    <value>Poseidon</value>
+  </data>
+  <data name="SoloMode_Mermaid">
+    <value>sirena</value>
+  </data>
+  <data name="SoloMode_Cerberus">
+    <value>Cerberus</value>
+  </data>
+  <data name="SoloMode_Dragon">
+    <value>Dragon</value>
+  </data>
+  <data name="SoloMode_Success">
+    <value>Tagumpay</value>
+  </data>
+  <data name="SoloMode_Failed">
+    <value>Kabiguan</value>
+  </data>
+  <data name="SoloMode_InvalidDataInput">
+    <value>Di-wastong data</value>
+  </data>
+  <data name="SoloMode_NotHaveGunKind">
+    <value>Walang angkop na baril ang user</value>
+  </data>
+  <data name="SoloMode_NotConfigGunKind">
+    <value>Hindi naka-configure ang baril</value>
+  </data>
+  <data name="SoloMode_NotConfigGeneration">
+    <value>Hindi naka-configure ang henerasyon ng baril</value>
+  </data>
+  <data name="SoloMode_GunLevelMax">
+    <value>Ang baril ay umabot na sa pinakamataas na antas</value>
+  </data>
+  <data name="SoloMode_OverLimitActiveGun">
+    <value>Masyadong tinukoy ang baril</value>
+  </data>
+  <data name="SoloMode_DuplicateActiveChoiseGun">
+    <value>Hindi mapili ang parehong baril</value>
+  </data>
+  <data name="SoloMode_NotContainsChoiseGun">
+    <value>Huwag pumili ng baril na wala ka.</value>
+  </data>
+  <data name="SoloMode_UpdateIsFailed">
+    <value>Nagkaroon ng error sa proseso ng pag-upgrade</value>
+  </data>
+  <data name="SoloMode_HaveOnlyDefaultGun">
+    <value>Ang user lang ang may default na baril.</value>
+  </data>
+  <data name="SoloMode_NotEnoughLevelToEvolution">
+    <value>Ang baril ay hindi maaaring mag-evolve</value>
+  </data>
+  <data name="SoloMode_EvolutionIsFailed">
+    <value>May evolutionary error</value>
+  </data>
+  <data name="SoloMode_NotAnyMineral">
+    <value>Walang magagamit na materyal.</value>
+  </data>
+  <data name="SoloMode_NotContainsChoiseMineral">
+    <value>Ang mga materyales ay hindi magagamit sa imbentaryo</value>
+  </data>
+  <data name="SoloMode_NotConfigMineral">
+    <value>Ang pagsasaayos ay hindi pa na-configure sa bulsa ng gumagamit</value>
+  </data>
+  <data name="SoloMode_NotAnyMaterial">
+    <value>Walang evolutionary material ang user</value>
+  </data>
+  <data name="SoloMode_IsContainsChoiseMaterial">
+    <value>Ang mga materyales ay hindi magagamit sa imbentaryo</value>
+  </data>
+  <data name="SoloMode_NotConfigMaterial">
+    <value>Hindi naka-configure na Materyal sa bag ng gumagamit</value>
+  </data>
+  <data name="SoloMode_MaterialChoiseNotMatchConfig">
+    <value>Ang materyal ay hindi angkop</value>
+  </data>
+  <data name="SoloMode_NotHaveSkillKind">
+    <value>Wala itong kakayahan</value>
+  </data>
+  <data name="SoloMode_OverLimitActiveSkill">
+    <value>Masyadong tinukoy ang napiling kasanayan</value>
+  </data>
+  <data name="SoloMode_DuplicateActiveChoiseSkill">
+    <value>Huwag pumili ng parehong kasanayan.</value>
+  </data>
+  <data name="SoloMode_NotContainsChoiseSkill">
+    <value>Huwag pumili ng mga kakayahan na wala ka.</value>
+  </data>
+  <data name="SoloMode_WallNotFound">
+    <value>Wala ang pader</value>
+  </data>
+  <data name="SoloMode_WallInvalidStage">
+    <value>Maglaro sa screen ng laro upang payagan ang mga pag-upgrade</value>
+  </data>
+  <data name="SoloMode_NotHaveTowerKind">
+    <value>Walang katugmang tore ang user</value>
+  </data>
+  <data name="SoloMode_NotConfigTowerKind">
+    <value>Ang tore ay hindi pa na-configure</value>
+  </data>
+  <data name="SoloMode_NotConfigTowerGeneration">
+    <value>Ang pagbuo ng tore ay hindi pa na-configure</value>
+  </data>
+  <data name="SoloMode_TowerLevelMax">
+    <value>Naabot na ng tore ang pinakamataas na antas nito</value>
+  </data>
+  <data name="SoloMode_OverLimitActiveTower">
+    <value>Ang tore ay pinili nang lampas sa tinukoy na limitasyon</value>
+  </data>
+  <data name="SoloMode_DuplicateActiveChoiseTower">
+    <value>Huwag piliin ang parehong tore</value>
+  </data>
+  <data name="SoloMode_NotContainsChoiseTower">
+    <value>Huwag piliin ang tore na wala ka.</value>
+  </data>
+  <data name="SoloMode_UpdateTowerIsFailed">
+    <value>Nagkaroon ng error sa proseso ng pag-upgrade</value>
+  </data>
+  <data name="SoloMode_HaveOnlyDefaultTower">
+    <value>Ang user lang ang may default na tore</value>
+  </data>
+  <data name="SoloMode_NotEnoughCoin">
+    <value>Walang sapat na barya ang user.</value>
+  </data>
+  <data name="SoloMode_CheckNotExists">
+    <value>Ang test function ay wala</value>
+  </data>
+  <data name="EventNhapMaDuocTienCongra">
+    <value>Nanalo ka ngayong araw. Ang 1 nick ay maaari lamang CHIPS 1 gift code bawat araw</value>
+  </data>
+  <data name="KhuyenMaiNapGoldThecao">
+    <value>Deposit bonus</value>
+  </data>
+  <data name="PleaseComeBackTomorrow">
+    <value>Please bumalik ka bukas.</value>
+  </data>
+  <data name="NonexistSecurityCode">
+    <value>Mali ang captcha</value>
+  </data>
+  <data name="Game_Type_Fishing">
+    <value>Larong Pangingisda</value>
+  </data>
+  <data name="Game_Type_Slot_Game">
+    <value>Laro ng Slot</value>
+  </data>
+  <data name="Game_Type_Orther">
+    <value>Iba pang Laro</value>
+  </data>
+  <data name="BanNick">
+    <value>Na-lock ang account</value>
+  </data>
+  <data name="BanNickForever">
+    <value>Permanenteng na-lock ang account</value>
+  </data>
+  <data name="Skill">
+    <value>Kasanayan</value>
+  </data>
+  <data name="ConfigFail">
+    <value>Wala ang config</value>
+  </data>
+  <data name="EnoughNotCoins">
+    <value>Wala kang sapat na chips para makabili ng item</value>
+  </data>
+  <data name="InvalidNumber">
+    <value>Di-wastong Dami</value>
+  </data>
+  <data name="InvalidMoneyType">
+    <value>Di-wastong uri ng pera</value>
+  </data>
+  <data name="ContinueBuying">
+    <value>Dapat mong gamitin ang Item na ito upang magpatuloy sa pagbili</value>
+  </data>
+  <data name="NotHaveExhausted">
+    <value>Naubos mo na ang bilang ng mga bagay na binili sa araw</value>
+  </data>
+  <data name="TheNumberIsTooLimited">
+    <value>Masyadong limitado ang bilang</value>
+  </data>
+  <data name="ToBuyANewItem">
+    <value>Upang bumili ng bagong item, mangyaring gamitin ang lahat ng item sa imbentaryo</value>
+  </data>
+  <data name="YouHaveRunOutOfTimes">
+    <value>Naubusan ka na ng oras para bumili ng Item</value>
+  </data>
+  <data name="EventEnds">
+    <value>Matatapos ang Kaganapan</value>
+  </data>
+  <data name="YouMustHaveATurn">
+    <value>Dapat ay mayroon kang hindi bababa sa 1 spin at {0: #, ## 0} coin para makasali</value>
+  </data>
+  <data name="MustWaitMoreDays">
+    <value>Dapat kang maghintay ng {0} pang araw upang mag-dial</value>
+  </data>
+  <data name="ToDayHasBeenAwarded">
+    <value>Ang premyo ngayon ay iginawad</value>
+  </data>
+  <data name="HasBeenAwarded">
+    <value>0Ang mga parangal ay iginawad</value>
+  </data>
+  <data name="CSKHService">
+    <value>Mangyaring makipag-ugnayan sa Customer Service para sa tulong</value>
+  </data>
+  <data name="VipNotRunning">
+    <value>Hindi tumatakbo ang VIP</value>
+  </data>
+  <data name="AccountNotVip">
+    <value>Walang VIP sa account na ito</value>
+  </data>
+  <data name="YourAccountAwarded">
+    <value>Iginawad ka ng {0} sa iyong account</value>
+  </data>
+  <data name="YouPromotioned">
+    <value>You are promotioned {0}% based on the value of the card</value>
+  </data>
+  <data name="GameNotConfig">
+    <value>Ang laro ay hindi pa na-configure</value>
+  </data>
+  <data name="GetDataFail">
+    <value>Nabigong makakuha ng data</value>
+  </data>
+  <data name="InvalidLocationId">
+    <value>Di-wastong locationId</value>
+  </data>
+  <data name="InvalidChannel">
+    <value>Di-wastong Channel</value>
+  </data>
+  <data name="UserNotEnoughWatch">
+    <value>Lumampas ang user sa limitasyon ng bilang ng mga view</value>
+  </data>
+  <data name="GetDataSuccess_v1">
+    <value>Kunin ang tagumpay ng data</value>
+  </data>
+  <data name="Orther">
+    <value>Yung Iba</value>
+  </data>
+  <data name="Bullet">
+    <value>Bala</value>
+  </data>
+  <data name="Guns">
+    <value>Mga baril</value>
+  </data>
+  <data name="Effect">
+    <value>Epekto</value>
+  </data>
+  <data name="NoItem">
+    <value>Walang item</value>
+  </data>
+  <data name="ItemCannotActive">
+    <value>Hindi ma-activate ang item</value>
+  </data>
+  <data name="Itemdoesnotexist">
+    <value>Ang item ay wala</value>
+  </data>
+  <data name="Buyitemssuccessfully">
+    <value>Matagumpay na bumili ng mga item</value>
+  </data>
+  <data name="VipLevelUp">
+    <value>Makakuha ng matagumpay na gantimpala sa antas ng VIP</value>
+  </data>
+  <data name="Norewards">
+    <value>Walang mga reward na matatanggap</value>
+  </data>
+  <data name="Getrewardedfailure">
+    <value>Makakuha ng gantimpala na kabiguan</value>
+  </data>
+  <data name="Norewardfound">
+    <value>Walang nakitang reward na matatanggap</value>
+  </data>
+  <data name="Pointstoachieve">
+    <value>Mga puntos upang makamit</value>
+  </data>
+  <data name="Expshotfish">
+    <value>Exp shot ng isda</value>
+  </data>
+  <data name="Accumulatedskill">
+    <value>Naipon na kasanayan</value>
+  </data>
+  <data name="Transfercoins">
+    <value>Maglipat ng mga barya</value>
+  </data>
+  <data name="Getacointransfer">
+    <value>Kumuha ng makatranfer ng barya</value>
+  </data>
+  <data name="Donatedtimes1">
+    <value>Mga oras ng donasyon 1</value>
+  </data>
+  <data name="Donatedtimes2">
+    <value>Mga oras ng donasyon 2</value>
+  </data>
+  <data name="Expcharacter">
+    <value>Exp na karakter</value>
+  </data>
+  <data name="Invalidinputdata">
+    <value>Di-wastong data ng pag-input</value>
+  </data>
+  <data name="Levelvipup">
+    <value>Ang antas ng Maharlika</value>
+  </data>
+  <data name="Accumulatesuccesspoints">
+    <value>Mag-ipon ng mga puntos ng tagumpay</value>
+  </data>
+  <data name="Failuretoaccumulatepointsfailed">
+    <value>Nabigo ang pagkabigong makaipon ng mga puntos</value>
+  </data>
+  <data name="Youareawardedtoyouraccount">
+    <value>Iginawad ka ng {0} sa iyong account</value>
+  </data>
+  <data name="Addingvipuserinformationfailed">
+    <value>Nabigo ang pagdaragdag ng impormasyon ng user ng vip</value>
+  </data>
+  <data name="Successfullyupdated">
+    <value>Matagumpay na na-update</value>
+  </data>
+  <data name="Emailalreadyexists">
+    <value>Umiiral na ang iyong email</value>
+  </data>
+  <data name="Accountdoesnotexist">
+    <value>Walang account</value>
+  </data>
+  <data name="UserReceivedAReward">
+    <value>Nakatanggap ang user ng reward</value>
+  </data>
+  <data name="BonusDailyDay">
+    <value>Araw</value>
+  </data>
+  <data name="Bronze">
+    <value>Tanso</value>
+  </data>
+  <data name="Silver">
+    <value>pilak</value>
+  </data>
+  <data name="Ruby">
+    <value>Ruby</value>
+  </data>
+  <data name="Emerald">
+    <value>Esmeralda</value>
+  </data>
+  <data name="Diamond">
+    <value>brilyante</value>
+  </data>
+  <data name="EventDoesNotExist">
+    <value>Ang kaganapan ay hindi umiiral</value>
+  </data>
+  <data name="ChannelInvalid">
+    <value>Di-wasto ang channel</value>
+  </data>
+  <data name="UserLimitViews">
+    <value>Lumampas ang user sa limitasyon ng bilang ng mga view</value>
+  </data>
+  <data name="UserAwarded">
+    <value>Gumagamit ay iginawad ng ginto</value>
+  </data>
+  <data name="MissionNotComplte">
+    <value>Ang gawain ay hindi nakumpleto</value>
+  </data>
+  <data name="RewardNotExists">
+    <value>Mga reward na natanggap o wala</value>
+  </data>
+  <data name="EventNotYetRun">
+    <value>Hindi pa nagaganap ang kaganapan</value>
+  </data>
+  <data name="ComeBackAt">
+    <value>Mangyaring bumalik sa {0}</value>
+  </data>
+  <data name="CoinNotMatch">
+    <value>Hindi tugma ang kasalukuyang barya</value>
+  </data>
+  <data name="DevicesFailed">
+    <value>Lampas sa bilang ng mga device</value>
+  </data>
+  <data name="UserFailed">
+    <value>Lampas sa bilang ng mga gumagamit</value>
+  </data>
+  <data name="IPFailed">
+    <value>Lumampas sa bilang ng Ip</value>
+  </data>
+  <data name="UserFreeTurn">
+    <value>Ang gumagamit ay may libreng pagliko</value>
+  </data>
+  <data name="OldNewSame">
+    <value>Ang mga luma at bagong password ay pareho. Pakisuri muli</value>
+  </data>
+  <data name="AllowedNotCharacters">
+    <value>Ang password ay naglalaman ng mga character na hindi pinapayagan.</value>
+  </data>
+  <data name="HardPassword">
+    <value>Mangyaring pumili ng mas mahirap na password upang maprotektahan ang iyong account. Huwag pumili ng password</value>
+  </data>
+  <data name="AllowedLimitPassword">
+    <value>Ang iyong bagong password ay lumampas sa pinapayagang limitasyon</value>
+  </data>
+  <data name="OldPassWordIsNotCorrect">
+    <value>Hindi tama ang lumang password. Mangyaring makipag-ugnayan sa suporta kung hindi mo matandaan ang iyong password.</value>
+  </data>
+  <data name="RegisterDateNotReward">
+    <value>Ang petsa ng pagpaparehistro ay hindi tatanggapin</value>
+  </data>
+  <data name="CoinLessThenBonus">
+    <value>Ang iyong mga barya ay dapat na mas mababa sa {0} upang makatanggap ng bonus</value>
+  </data>
+  <data name="OutOfStock">
+    <value>Naubusan na ng Baraha</value>
+  </data>
+  <data name="AccountHasComplete">
+    <value>Nakumpleto ng Account ang Tutorial</value>
+  </data>
+  <data name="CompeleteTutorialBonus">
+    <value>Pagtuturo</value>
+  </data>
+  <data name="ConfigNotExists">
+    <value>Hindi Umiiral ang Config</value>
+  </data>
+  <data name="AddGoldUserFromEvent">
+    <value>Libreng Gold para sa mga bagong user</value>
+  </data>
+  <data name="AddGoldUserFromEventError">
+    <value>Error sa pagbibigay ng Gold sa user</value>
+  </data>
+  <data name="DeviceIdAlreadyExist">
+    <value>Umiiral na ang device</value>
+  </data>
+  <data name="EventMinChipToReceiveGift">
+    <value>Dapat mas mababa sa 5,000 ang iyong Chip para makatanggap ng regalo</value>
+  </data>
+  <data name="RewardsForTheDay">
+    <value>Natanggap mo ang lahat ng mga gantimpala para sa araw</value>
+  </data>
+  <data name="SignIn">
+    <value>MAG LOG IN</value>
+  </data>
+  <data name="RegisInMobilePassword" xml:space="preserve">
+    <value>Password must be at least 6 characters.</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Tagumpay</value>
+  </data>
+  <data name="Fail" xml:space="preserve">
+    <value>Kabiguante</value>
+  </data>
+  <data name="NoData" xml:space="preserve">
+    <value>Walang data</value>
+  </data>
+  <data name="Gold" xml:space="preserve">
+    <value>manalo</value>
+  </data>
+  <data name="Failed" xml:space="preserve">
+    <value>Nabigo</value>
+  </data>
+</LocalLanguages>

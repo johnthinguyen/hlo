@@ -1,0 +1,981 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="Game_-1">
+    <value>Swerte sa Ikot</value>
+  </data>
+  <data name="Game_434">
+    <value>Kdam Klouk</value>
+  </data>
+  <data name="Game_500">
+    <value>Arcade ng Pangingisda</value>
+  </data>
+  <data name="Game_425">
+    <value>PUSOY</value>
+  </data>
+  <data name="Game_424">
+    <value>DYAMANTE Na LINK</value>
+  </data>
+  <data name="Game_423">
+    <value>MONOPOLYO</value>
+  </data>
+  <data name="Game_420">
+    <value>SAMURAI SLOT</value>
+  </data>
+  <data name="Game_419">
+    <value>INDIAN PANGARAP</value>
+  </data>
+  <data name="Game_417">
+    <value>DIYOS NG YAMAN</value>
+  </data>
+  <data name="Game_416">
+    <value>Kamangha-manghang Hayop</value>
+  </data>
+  <data name="Game_411">
+    <value>TATLONG KAHARIAN</value>
+  </data>
+  <data name="Game_410">
+    <value>Gintong dragon</value>
+  </data>
+  <data name="Game_409">
+    <value>CAO RUA</value>
+  </data>
+  <data name="Game_408">
+    <value>LUCKY SLOT</value>
+  </data>
+  <data name="Game_407">
+    <value>JACKPOT</value>
+  </data>
+  <data name="Game_406">
+    <value>88 FORTUNES</value>
+  </data>
+  <data name="Game_402">
+    <value>PRUTAS SLOT</value>
+  </data>
+  <data name="Game_209">
+    <value>Ses Ku</value>
+  </data>
+  <data name="Game_201">
+    <value>NORTHERN POKER</value>
+  </data>
+  <data name="Game_200">
+    <value>LIENG</value>
+  </data>
+  <data name="Game_48">
+    <value>SICBO</value>
+  </data>
+  <data name="Game_42">
+    <value>HONGKONG POKER</value>
+  </data>
+  <data name="Game_41">
+    <value>PHOM</value>
+  </data>
+  <data name="Game_40">
+    <value>TLMN</value>
+  </data>
+  <data name="Game_34">
+    <value>CHINESE POKER</value>
+  </data>
+  <data name="Game__1">
+    <value>MASWERTENG PAIKUTIN</value>
+  </data>
+  <data name="Game__3">
+    <value>MASWERTENG PAIKUTIN</value>
+  </data>
+  <data name="VipLevelBlockRoomTextSilver">
+    <value>Kailangan ng VIP Silver</value>
+  </data>
+  <data name="GameLevelBlockRoomTextLevel">
+    <value>Kailangan ng Antas {0}</value>
+  </data>
+  <data name="GameConnectUnavailable">
+    <value>Hindi maikonekta ang laro</value>
+  </data>
+  <data name="NotFoundGame">
+    <value>Walang nahanap na laro</value>
+  </data>
+  <data name="RoomFull">
+    <value>Ang silid ng laro ay may sapat na mga manlalaro</value>
+  </data>
+  <data name="UnlockWhenVipSilver">
+    <value>I-unlock kapag naabot ang VIP Silver</value>
+  </data>
+  <data name="VipLevelBlockGameSlotTextSilver">
+    <value>Upgrade Vip Silver to unlock this features</value>
+  </data>
+  <data name="Game_GetConfigBanCa_ArrayInvalidText">
+    <value></value>
+  </data>
+  <data name="Game_GetConfigBanCa_ArrayInvalidText1">
+    <value></value>
+  </data>
+  <data name="Game_GetConfigBanCa_CoinUnit">
+    <value>CHIPS</value>
+  </data>
+  <data name="Game_GetConfigBanCa_CoinUnit1">
+    <value>CHIPS</value>
+  </data>
+  <data name="Game_GetConfigBanCa_LoginOtherSessionMessage">
+    <value>Ang account na ito ay naka-log in sa isa pang computer</value>
+  </data>
+  <data name="Game_GetConfigBanCa_LoginOtherSessionMessage1">
+    <value>Ang account na ito ay naka-log in sa isa pang computer</value>
+  </data>
+  <data name="Game_GetConfigBanCa_PopupGetMessageError">
+    <value>Nagkaroon ng error sa pagkuha ng data. Subukang muli mamaya</value>
+  </data>
+  <data name="Game_GioiThieuNotFound">
+    <value>Walang nahanap na laro</value>
+  </data>
+  <data name="Game_GioiThieuTitle">
+    <value>Abutin ang Isda</value>
+  </data>
+  <data name="Game_GioiThieuTut">
+    <value>Gabay sa paglaro</value>
+  </data>
+  <data name="Game_HomeIndexTitle">
+    <value>Bahay</value>
+  </data>
+  <data name="Game_HomeLoginForgot">
+    <value>Nakalimutan ang password</value>
+  </data>
+  <data name="Game_HomeLoginOther">
+    <value>Mag-login / Magrehistro gamit ang:</value>
+  </data>
+  <data name="Game_HomeLoginPass">
+    <value>hudyat</value>
+  </data>
+  <data name="Game_HomeLoginSignup">
+    <value>MAGREGISTER</value>
+  </data>
+  <data name="Game_HomeLoginUsername">
+    <value>GINAMIT NA PANGALAN</value>
+  </data>
+  <data name="Game_HomePlaygameAppTitle">
+    <value>Maglaro ng Fish Shoot game</value>
+  </data>
+  <data name="Game_HomePlaygameIndexTitle">
+    <value>Maglaro ng Fish Shoot game</value>
+  </data>
+  <data name="Game_HomePlayGameMobileTitle">
+    <value>Maglaro ng Fish Shoot game</value>
+  </data>
+  <data name="Game_HomePlaygameTitle">
+    <value>Maglaro ng Fish Shoot game</value>
+  </data>
+  <data name="Game_HomeRegisterDisplayName">
+    <value>Nakadisplay na pangalan</value>
+  </data>
+  <data name="Game_HomeRegisterInputCaptcha">
+    <value>ENTER CODE</value>
+  </data>
+  <data name="Game_HomeRegisterPass">
+    <value>kontrasenyas</value>
+  </data>
+  <data name="Game_HomeRegisterRegisterButton">
+    <value>MAGREGISTER</value>
+  </data>
+  <data name="Game_HomeRegisterTitle">
+    <value>Magrehistro</value>
+  </data>
+  <data name="Game_HomeRegisterTitle1">
+    <value>Magrehistro</value>
+  </data>
+  <data name="Game_HomeRegisterUsername">
+    <value>GINAMIT NA PANGALAN</value>
+  </data>
+  <data name="Game_HomeShowPopupGuideDetailError">
+    <value>Nagkaroon ng error sa proseso ng pagkuha ng listahan.</value>
+  </data>
+  <data name="Game_HomeShowPopupGuideError">
+    <value>Nagkaroon ng error sa proseso ng pagkuha ng listahan.</value>
+  </data>
+  <data name="Game_HomeShowPopupGuideHeading">
+    <value>Pamagat</value>
+  </data>
+  <data name="Game_HomeShowPopupGuideNodata">
+    <value>Walang data!</value>
+  </data>
+  <data name="Game_LoginTitle">
+    <value>MAG LOG IN</value>
+  </data>
+  <data name="Game_PlayGamesHtml5EmbedLoading">
+    <value>Naglo-load...</value>
+  </data>
+  <data name="PlayJackPot">
+    <value>Maglaro Ngayon1</value>
+  </data>
+  <data name="ActiveFaild">
+    <value>Nabigo ang pag-activate</value>
+  </data>
+  <data name="ActiveSuccess">
+    <value>Matagumpay na pag-activate</value>
+  </data>
+  <data name="ChuaCauHinhTuong">
+    <value>Hindi naka-configure na pader</value>
+  </data>
+  <data name="ChuaChonNguyenLieu">
+    <value>Walang napiling materyales</value>
+  </data>
+  <data name="ChuaChonSung">
+    <value>Wala pang baril</value>
+  </data>
+  <data name="TienHoaThanhCong">
+    <value>Ang matagumpay na ebolusyon</value>
+  </data>
+  <data name="Game_415">
+    <value>Maglaro ng Sicbo Mini</value>
+  </data>
+  <data name="GuessingNameTimeBetRunOut">
+    <value>Hula time out</value>
+  </data>
+  <data name="GuessingNameRequireMinBet">
+    <value>Min bet {0} CHIPS</value>
+  </data>
+  <data name="GuessingNameRequireExitPlayingGame">
+    <value>Hindi mai-save ang paghula. Dapat kang umalis sa laro {0} at maghintay ng {1} minuto</value>
+  </data>
+  <data name="GuessingNameBetSuccessNotice">
+    <value>{0}-{1} taya {2} numero: {3} na may impormasyon : {4}. IPAddress: {5} - UserAgent: {6}</value>
+  </data>
+  <data name="GuessingNameNotEnoughChips">
+    <value>Wala kang sapat na CHIPS para tumaya. Mangyaring pumili ng isa pang CHIPS</value>
+  </data>
+  <data name="GuessingNameErrorWhenBetting">
+    <value>Error kapag nag-save ng paghula, pakisubukang muli sa ibang pagkakataon</value>
+  </data>
+  <data name="GuessingNameFailedBetting">
+    <value>Hindi matagumpay na i-save ang paghula, pakisubukang muli sa ibang pagkakataon</value>
+  </data>
+  <data name="GuessingNameSuccessedBetting">
+    <value>Binabati kita, matagumpay kang tumaya sa uri {0}, numero: {1} at CHIPS: {2}</value>
+  </data>
+  <data name="GuessingNameMinMaxRequiredBetting">
+    <value></value>
+  </data>
+  <data name="GuessingNameMinMaxRequiredXienBetting">
+    <value>Dapat kang pumili ng sapat na {0} mga numero para sa isang taya</value>
+  </data>
+  <data name="GuessingNumerberNoJoinBetting">
+    <value>Hindi ka sumali sa anumang hula</value>
+  </data>
+  <data name="GuessingNumberNoResult">
+    <value>Walang resulta</value>
+  </data>
+  <data name="GuessingNumberTextLotteryTab">
+    <value>Lotto</value>
+  </data>
+  <data name="GuessingNumberTextPlayingTab">
+    <value>Nanghuhula</value>
+  </data>
+  <data name="GuessingNumberTextResultTab">
+    <value>Lupon ng Resulta</value>
+  </data>
+  <data name="GuessingNumberTextHistoryTab">
+    <value>Kasaysayan</value>
+  </data>
+  <data name="GuessingNumberBaoLoTextGuild">
+    <value>Pumili ng 2 huling numero ng linya. Ikaw ay mananalo kung ang mga resulta ay may tamang mga numero. Hula ng tama ng 2 beses =&gt; Makakakuha ka ng 2*3.5=x, Tama N beses=&gt;&gt; Makakakuha ka ng N*3.5. Kasama ang mga numero mula 00 hanggang 99</value>
+  </data>
+  <data name="GuessingNumberXien2TextGuild">
+    <value>0Pumili ng 2 numero (mula 00 hanggang 99) ng bawat premyo. Ikaw ay mananalo kung ang resulta ay may tamang 2 numero o matatalo kung ang resulta ay walang anuman. Kung ang resulta ay may higit sa 2 numero, 1 beses ka pa ring manalo - Maaari kang tumaya ng mix parlay 2.</value>
+  </data>
+  <data name="GuessingNumberXien3TextGuild">
+    <value>Pumili ng 3 numero (mula 00 hanggang 99) ng bawat premyo. Ikaw ay mananalo kung ang resulta ay may tamang 3 numero o matatalo kung ang resulta ay walang anuman. Kung ang resulta ay may higit sa 3 numero, 1 beses ka lang manalo - Maaari kang tumaya ng mix parlay 3.</value>
+  </data>
+  <data name="GuessingNumberXien4TextGuild">
+    <value>Pumili ng 4 na numero (mula 00 hanggang 99) ng bawat premyo. Ikaw ay mananalo kung ang resulta ay may tamang 4 na numero o matatalo kung ang resulta ay wala. Kung ang resulta ay may higit sa 4 na numero, 1 beses ka lang manalo - Maaari kang tumaya ng mix parlay 4.</value>
+  </data>
+  <data name="GuessingNumberDauTextGuild">
+    <value>Piliin ang unang numero ng 2 huling numero mula sa mga espesyal na premyo. Halimbawa: ang espesyal na premyo 56789, kung pipiliin mo ang numero 8, ikaw ang mananalo ng premyo</value>
+  </data>
+  <data name="GuessingNumberDuoiTextGuild">
+    <value>Piliin ang huling numero ng 2 huling numero mula sa mga espesyal na premyo. Halimbawa: ang espesyal na premyo 56789, kung pipiliin mo ang numero 9, ikaw ang mananalo ng premyo</value>
+  </data>
+  <data name="GuessingNumberDacBietTextGuild">
+    <value>Pumili ng 2 huling numero ng espesyal na premyo. Halimbawa: ang espesyal na premyo 56789, kung pipili ka ng numero 89, ikaw ang mananalo sa premyo</value>
+  </data>
+  <data name="GuessingNumberTopWinner">
+    <value>Nangungunang Nagwagi</value>
+  </data>
+  <data name="GuessingNumberLoXienText">
+    <value>Mix parlay</value>
+  </data>
+  <data name="GuessingNumberLoDauDuoiText">
+    <value>Unang pagtatapos</value>
+  </data>
+  <data name="GuessingNumberLoX80Text">
+    <value>Espesyal</value>
+  </data>
+  <data name="GuessingNumberLoXienTabXien2Text">
+    <value>Parlay 2</value>
+  </data>
+  <data name="GuessingNumberLoXienTabXien3Text">
+    <value>Parlay 3</value>
+  </data>
+  <data name="GuessingNumberLoXienTabXien4Text">
+    <value>Parlay 4</value>
+  </data>
+  <data name="GuessingNumberLoDauTabText">
+    <value>Una</value>
+  </data>
+  <data name="GuessingNumberLoDuoiTabText">
+    <value>Tapusin</value>
+  </data>
+  <data name="GuessingNumberDateBettingText">
+    <value>Paghula ng Petsa</value>
+  </data>
+  <data name="GuessingNumberBettingTypeText">
+    <value>Uri ng Paghula</value>
+  </data>
+  <data name="GuessingNumberLoX3.5TypeText">
+    <value>Normal</value>
+  </data>
+  <data name="GuessingNumberLoDauTypeText">
+    <value>Unang numero</value>
+  </data>
+  <data name="GuessingNumberLoDuoiTypeText">
+    <value>Huling numero</value>
+  </data>
+  <data name="GuessingNumberLoX80TypeText">
+    <value>Espesyal</value>
+  </data>
+  <data name="GuessingNumberLoXien2TypeText">
+    <value>Paghula ng halo 2</value>
+  </data>
+  <data name="GuessingNumberLoXien3TypeText">
+    <value>Paghula ng halo 3</value>
+  </data>
+  <data name="GuessingNumberLoXien4TypeText">
+    <value>Paghula ng halo 4</value>
+  </data>
+  <data name="GuessingNumberListGuessingNumberText">
+    <value>Paghula ng mga numero</value>
+  </data>
+  <data name="GuessingNumberChipsWinOverNumber">
+    <value>CHIPS Panalo/Numero</value>
+  </data>
+  <data name="GuessingNumberBetttingButtonText">
+    <value>Kumpirmahin</value>
+  </data>
+  <data name="GuessingNumberFilterButtonText">
+    <value>Salain</value>
+  </data>
+  <data name="GuessingNumberFilterAllButtonText">
+    <value>Lahat</value>
+  </data>
+  <data name="GuessingNumberConfirmTitleText">
+    <value>Kumpirmahin</value>
+  </data>
+  <data name="GuessingNumberConfirmContenText">
+    <value>Ang iyong mga chips ay ibabawas {0} kapag sumali sa paghula ng numero. Gusto mo bang ituloy</value>
+  </data>
+  <data name="GuessingNumberCompareResult">
+    <value>Paghahambing ng mga resulta</value>
+  </data>
+  <data name="GuessingNumberDateGuessingText">
+    <value>Paghula ng Oras</value>
+  </data>
+  <data name="GuessingNumberTypeGuessingText">
+    <value>Uri ng Paghula</value>
+  </data>
+  <data name="GuessingNumberLoadMoreText">
+    <value>Mag-load pa</value>
+  </data>
+  <data name="GuessingNumberChipsWinOrLose">
+    <value>Manalo matalo</value>
+  </data>
+  <data name="GuessingNumberLoX3.5Text">
+    <value>Normal</value>
+  </data>
+  <data name="GuessingNumber_0">
+    <value>Paghula ng normal na numero</value>
+  </data>
+  <data name="GuessingNumber_1">
+    <value>Paghula ng mga espesyal na numero</value>
+  </data>
+  <data name="GuessingNumber_2">
+    <value>Paghula ng halo 2</value>
+  </data>
+  <data name="GuessingNumber_3">
+    <value>Paghula ng halo 3</value>
+  </data>
+  <data name="GuessingNumber_4">
+    <value>Paghula ng halo 4</value>
+  </data>
+  <data name="GuessingNumber_5">
+    <value>Hulaan ang unang numero</value>
+  </data>
+  <data name="GuessingNumber_6">
+    <value>Hulaan ang huling numero</value>
+  </data>
+  <data name="Game_438">
+    <value>Mega Spin</value>
+  </data>
+  <data name="Game_439">
+    <value>Mini Poker</value>
+  </data>
+  <data name="Game_436">
+    <value>Slot Casino</value>
+  </data>
+  <data name="Game_33003206">
+    <value>OceanKing Popular</value>
+  </data>
+  <data name="Game_50000000">
+    <value>Bilyonaryo ng OceanKing</value>
+  </data>
+  <data name="Game_437">
+    <value>Mini Poker</value>
+  </data>
+  <data name="Game_432">
+    <value>Itim na jack</value>
+  </data>
+  <data name="GuessingNumberTotalChips">
+    <value>Kabuuang CHIPS</value>
+  </data>
+  <data name="Guide_Other">
+    <value>IBANG GABAY</value>
+  </data>
+  <data name="GuessingNumberLockingBetWaitResult">
+    <value>Naka-lock at naghihintay ng resulta</value>
+  </data>
+  <data name="GuessingNumberTotalBetting">
+    <value>Kabuuang Taya</value>
+  </data>
+  <data name="GuessingNumberDescriptionToWinChips">
+    <value>Manalo ng {0} CHIPS kung ang posisyon ng pagpili ng numero ay tulad ng larawang ito</value>
+  </data>
+  <data name="GuessingNumberSpecialPrize">
+    <value>Espesyal na Gantimpala</value>
+  </data>
+  <data name="GuessingNumberFirstPrize">
+    <value>Unang Premyo</value>
+  </data>
+  <data name="GuessingNumberSecondPrize">
+    <value>Pangalawang Premyo</value>
+  </data>
+  <data name="GuessingNumberThirdPrize">
+    <value>Pangatlong Premyo</value>
+  </data>
+  <data name="GuessingNumberFourthPrize">
+    <value>Pang apat na Premyo</value>
+  </data>
+  <data name="GuessingNumberFifthPrize">
+    <value>Pang lima na Premyo</value>
+  </data>
+  <data name="GuessingNumberSixthPrize">
+    <value>Pang anim na Premyo</value>
+  </data>
+  <data name="GuessingNumberSeventhPrize">
+    <value>Pang pito na Premyo</value>
+  </data>
+  <data name="GuessingNumberTime">
+    <value>Oras</value>
+  </data>
+  <data name="GuessingNumberBettingNumber">
+    <value>Numero ng taya</value>
+  </data>
+  <data name="GuessingNumberClockLabel">
+    <value>Oras ng Pag-unlock ng Premyo</value>
+  </data>
+  <data name="GuessingNumberHistoryBettingTab">
+    <value>Numero ng pagtaya</value>
+  </data>
+  <data name="GuessingNumberBetType">
+    <value>Uri ng taya</value>
+  </data>
+  <data name="GuessingNumberLoXien2Text">
+    <value>Parlay 2</value>
+  </data>
+  <data name="GuessingNumberLoXien3Text">
+    <value>Parlay 3</value>
+  </data>
+  <data name="GuessingNumberLoXien4Text">
+    <value>Parlay 4</value>
+  </data>
+  <data name="GuessingNumberLoDauText">
+    <value>Unang numero</value>
+  </data>
+  <data name="GuessingNumberLoDuoiText">
+    <value>Numero ng pagtatapos</value>
+  </data>
+  <data name="GuessingNumberBetTime">
+    <value>Oras</value>
+  </data>
+  <data name="GuessingNumberChipsWin">
+    <value>Panalo ang CHIPS</value>
+  </data>
+  <data name="TournamentCodeInvalid">
+    <value>Ang bilog na impormasyon ay hindi wasto</value>
+  </data>
+  <data name="TournamentRoundHasFinished">
+    <value>Natapos na ang round</value>
+  </data>
+  <data name="TournamentRoundDoesNotStart">
+    <value>Hindi pa nagsisimula ang round</value>
+  </data>
+  <data name="TournamentRoundUpdateResult">
+    <value>Ina-update ang Resulta</value>
+  </data>
+  <data name="RoundWillStartIn">
+    <value>Magsisimula ang round sa</value>
+  </data>
+  <data name="RoundWillEndIn">
+    <value>Magtatapos ang round</value>
+  </data>
+  <data name="TournamentChipsRequired">
+    <value>Dapat mayroon kang 20.000 CHIPS para makasali sa tournament</value>
+  </data>
+  <data name="TournamentSeeYouNextTour">
+    <value>See you sa susunod na tournament!</value>
+  </data>
+  <data name="TournamentRegisterTimeout">
+    <value>Naubos na ang oras para sumali sa tournament</value>
+  </data>
+  <data name="TournamentNoEnoughCondition">
+    <value>Hindi ka karapat-dapat na sumali sa round na ito</value>
+  </data>
+  <data name="TournamentLoginRequired">
+    <value>Kailangan mong mag-sign in para sumali sa tournament</value>
+  </data>
+  <data name="GuessingNumberResultDay">
+    <value>Araw ng resulta</value>
+  </data>
+  <data name="Game_441">
+    <value>Tumataas na Kayamanan</value>
+  </data>
+  <data name="Game_49">
+    <value>Lotto</value>
+  </data>
+  <data name="IsPlayingOtherGame">
+    <value>Ang iyong Account ay naglalaro ng isa pang laro</value>
+  </data>
+  <data name="ReturnToTeangLenFinishGame">
+    <value>Mangyaring bumalik sa larong {0} upang tapusin ang laban</value>
+  </data>
+  <data name="Game_433">
+    <value>BET COLOR</value>
+  </data>
+  <data name="GuessingNumberTextEventTopTab">
+    <value>TOP LOTTO COMPETITION</value>
+  </data>
+  <data name="GuessingNumberTextGuideTab">
+    <value>Gabay</value>
+  </data>
+  <data name="SevenSeaBossStoryRewardSkill_6">
+    <value>Medusa</value>
+  </data>
+  <data name="SevenSeaBossStoryRewardSkill_7">
+    <value>Poseidon</value>
+  </data>
+  <data name="SevenSeaBossStoryRewardSkill_8">
+    <value>Hades</value>
+  </data>
+  <data name="Game_422">
+    <value>MINI F88</value>
+  </data>
+  <data name="Game_430">
+    <value>MALAKING DALAWA</value>
+  </data>
+  <data name="Game_428">
+    <value>DRACULA</value>
+  </data>
+  <data name="Game_421">
+    <value>SUPER 777</value>
+  </data>
+  <data name="Game_426">
+    <value>CANDY SLOT</value>
+  </data>
+  <data name="Game_429">
+    <value>PACMAN</value>
+  </data>
+  <data name="Game_45">
+    <value>MALAKI MALIIT</value>
+  </data>
+  <data name="Game_412">
+    <value>POKER SOLO</value>
+  </data>
+  <data name="Game_431">
+    <value>Baccarat</value>
+  </data>
+  <data name="Game_208">
+    <value>MISTERYO NUM</value>
+  </data>
+  <data name="Game_442">
+    <value>Mini F88</value>
+  </data>
+  <data name="Game_444">
+    <value>TEANG LEN</value>
+  </data>
+  <data name="Game_443">
+    <value>Ultimate Fire Link Slot</value>
+  </data>
+  <data name="Game_440">
+    <value>OSPHE</value>
+  </data>
+  <data name="GNV3Lo3SoTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3LoXienTruot4TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3LoXienTruot8TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3LoXienTruot10TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3NhapChonSoTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3BaoLoTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3Lo2SoTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3DauDuoiTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3DauTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3DuoiTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3DeDauTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3DeDacBietTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3BaCangTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3LoTruotTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3LoBaCangTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChatTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3CuocMoiTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3NhapChatTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3GuiTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3DatCuocTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3TienCuoc1ConTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3TongTienCuocTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3TienThang1ConTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3Sologan1TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3Sologan2TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3Sologan3TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3Sologan4TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichLo2SoTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichLo3SoTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichXien2TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichXien3TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichXien4TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichDauTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichDuoiTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichDeDauTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichDeDacBietTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThich3CangTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichTruotXien4TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichTruotXien8TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ChuThichTruotXien10TypeText">
+    <value></value>
+  </data>
+  <data name="GNV3ThongBaoTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3TroVeTypeText">
+    <value>Bumalik</value>
+  </data>
+  <data name="GNV3KetQuaXoSoTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3LichSuTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3HomQuaTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3HomNayTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3XemThemTypeText">
+    <value></value>
+  </data>
+  <data name="GNV3QuayLaiTypeText">
+    <value></value>
+  </data>
+  <data name="GuessingNumberEightthPrize">
+    <value></value>
+  </data>
+  <data name="GNV3Channel_1">
+    <value></value>
+  </data>
+  <data name="GNV3ThangJanTypeText">
+    <value>Enero</value>
+  </data>
+  <data name="GNV3ThangFebTypeText">
+    <value>Pebrero</value>
+  </data>
+  <data name="GNV3ThangMarTypeText">
+    <value>Marso</value>
+  </data>
+  <data name="GNV3ThangAprTypeText">
+    <value>Abril</value>
+  </data>
+  <data name="GNV3ThangMayTypeText">
+    <value>Mayo</value>
+  </data>
+  <data name="GNV3ThangJunTypeText">
+    <value>Hunyo</value>
+  </data>
+  <data name="GNV3ThangJulTypeText">
+    <value>Hulyo</value>
+  </data>
+  <data name="GNV3ThangAugTypeText">
+    <value>Agosto</value>
+  </data>
+  <data name="GNV3ThangSepTypeText">
+    <value>Setyembre</value>
+  </data>
+  <data name="GNV3ThangOctTypeText">
+    <value>Oktubre</value>
+  </data>
+  <data name="GNV3ThangNovTypeText">
+    <value>Nobyembre</value>
+  </data>
+  <data name="GNV3ThangDecTypeText">
+    <value>Disyembre</value>
+  </data>
+  <data name="Game_446">
+    <value>Jungle Wild</value>
+  </data>
+  <data name="Game_448">
+    <value>Shan Koe Mee</value>
+  </data>
+  <data name="Game_455">
+    <value>Shwe Shan</value>
+  </data>
+  <data name="Game_456">
+    <value>MGA PATING</value>
+  </data>
+  <data name="Game_453">
+    <value>Maglaro ng Hari&amp;Reyna</value>
+  </data>
+  <data name="Game_600">
+    <value>Minero ng Ginto</value>
+  </data>
+  <data name="Game_452">
+    <value>BOOGYI</value>
+  </data>
+  <data name="Game_508">
+    <value>Dino</value>
+  </data>
+  <data name="Game_451">
+    <value>DRAGON TIGER</value>
+  </data>
+  <data name="Game_447">
+    <value>Slot ng Eureka Reels</value>
+  </data>
+  <data name="Game_457">
+    <value>Minero ng Ginto</value>
+  </data>
+  <data name="Game_449">
+    <value>Puwang ng ibon</value>
+  </data>
+  <data name="Game_Type_Card_Game">
+    <value>Laro ng Baraha</value>
+  </data>
+  <data name="Game_Type_Bet_Game">
+    <value>,BET LARO</value>
+  </data>
+  <data name="Game_Type_Bonus_Game">
+    <value>BONUS NA LARO</value>
+  </data>
+  <data name="Game_Type_Skills_Game">
+    <value>MGA KASANAYAN SA LARO</value>
+  </data>
+  <data name="Game_509">
+    <value>Kaswal na mga laro</value>
+  </data>
+  <data name="Game_510">
+    <value>Mario</value>
+  </data>
+  <data name="Game_450">
+    <value>Tongits</value>
+  </data>
+  <data name="Game_399">
+    <value>deposito</value>
+  </data>
+  <data name="Game_502">
+    <value>,DINO Hari</value>
+  </data>
+  <data name="Game_-3">
+    <value>LOTTO</value>
+  </data>
+  <data name="Game_418">
+    <value>PACHINKO ROBOT</value>
+  </data>
+  <data name="Game_Return_ContinuePlaying">
+    <value>Mangyaring bumalik sa larong {0} upang magpatuloy sa paglalaro.</value>
+  </data>
+  <data name="Game_Select_ContinueOrEnd">
+    <value>Naglalaro ka ng {0} . Paki-click ang [SANG-AYON] at pagkatapos ay piliin muli ang larong {0} upang laruin, o piliin ang [CANCEL] upang tapusin at matalo ang laban na iyong nilalaro</value>
+  </data>
+  <data name="Game_499">
+    <value>Arcade ng Pangingisda</value>
+  </data>
+  <data name="RoomFreeName">
+    <value>Libreng Kwarto</value>
+  </data>
+  <data name="NotEnoughtCoinToEnterRoomBC">
+    <value>Kailangan mong magkaroon ng pinakamababang {0} chips upang laruin ang kwartong ito. Gusto mo bang mag-recharge ng higit pa?</value>
+  </data>
+  <data name="Game_50000011">
+    <value>Arcade ng Pangingisda</value>
+  </data>
+  <data name="Game_514">
+    <value>Dino 2</value>
+  </data>
+  <data name="Game_1">
+    <value>MASWERTENG PAIKUTIN</value>
+  </data>
+  <data name="Game_3">
+    <value>MASWERTENG PAIKUTIN</value>
+  </data>
+  <data name="Game_2001">
+    <value>Isang prutas</value>
+  </data>
+  <data name="Game_2002">
+    <value>BonusOnline</value>
+  </data>
+  <data name="Game_1001">
+    <value>Koton kendi</value>
+  </data>
+  <data name="Game_1002">
+    <value>Basagin ang mga Bubble</value>
+  </data>
+  <data name="Game_1003">
+    <value>Intsik na Chess</value>
+  </data>
+  <data name="Game_1005">
+    <value>Tumalon na Palaka</value>
+  </data>
+  <data name="Game_1006">
+    <value>Platypus</value>
+  </data>
+  <data name="Game_1008">
+    <value>Prutas Slashing</value>
+  </data>
+  <data name="Game_1010">
+    <value>Jet Fighter</value>
+  </data>
+  <data name="Game_1011">
+    <value>Tumakas kay Bear</value>
+  </data>
+  <data name="Game_1012">
+    <value>Minesweeper</value>
+  </data>
+  <data name="Game_1014">
+    <value>Lolita Plane</value>
+  </data>
+  <data name="Game_1015">
+    <value>Boxing</value>
+  </data>
+  <data name="Game_1020">
+    <value>Pag-uugnay ng mga Punto</value>
+  </data>
+  <data name="Game_1021">
+    <value>Piliin ang Tamang Daan</value>
+  </data>
+  <data name="Game_1024">
+    <value>Klasikong Linya</value>
+  </data>
+  <data name="Game_1025">
+    <value>Minero ng Ginto</value>
+  </data>
+  <data name="Game_1027">
+    <value>Superhero Mario</value>
+  </data>
+  <data name="Game_1029">
+    <value>Ipagtanggol ang Kastilyo</value>
+  </data>
+  <data name="Game_1031">
+    <value>Pagprotekta sa Diamond</value>
+  </data>
+  <data name="Game_1032">
+    <value>aspili kulo</value>
+  </data>
+  <data name="Game_-300">
+    <value>LOTTO</value>
+  </data>
+  <data name="Game_55555">
+    <value>Bagong laro</value>
+  </data>
+  <data name="Game_-100">
+    <value>IKOT- Maswerte</value>
+  </data>
+  <data name="Game_Type_Fishing" xml:space="preserve">
+    <value>Larong Pangingisda</value>
+  </data>
+  <data name="Game_Type_Slot_Game" xml:space="preserve">
+    <value>Laro ng Slot</value>
+  </data>
+  <data name="Game_460" xml:space="preserve">
+    <value>Bet Color</value>
+  </data>
+  <data name="Game_458" xml:space="preserve">
+    <value>Pusoy</value>
+  </data>
+</LocalLanguages>

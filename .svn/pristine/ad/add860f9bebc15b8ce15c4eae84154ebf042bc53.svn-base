@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LocalLanguages>
+  <data name="ActiveItem_UserHasActiveJackpot">
+    <value>Nagkakaroon ka ng 1 jackpot turn. Gusto mo bang maglaro ngayon?</value>
+  </data>
+  <data name="ActiveItem_UserCanNotActiveMoreInJackpot">
+    <value>Hindi ka makakapag-activate ng isa pang item hangga't hindi mo nagamit ang lahat ng Jackpot turn</value>
+  </data>
+</LocalLanguages>

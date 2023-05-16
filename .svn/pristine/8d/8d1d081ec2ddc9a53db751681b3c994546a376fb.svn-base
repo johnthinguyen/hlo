@@ -1,0 +1,698 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="Reason_417" xml:space="preserve">
+		<value>Play game Sicbo Mini</value>
+	</data>
+  <data name="Reason_427" xml:space="preserve">
+		<value>Play game Poker</value>
+	</data>
+  <data name="Reason_526" xml:space="preserve">
+		<value>Deposit</value>
+	</data>
+  <data name="Reason_527" xml:space="preserve">
+		<value>Deposit</value>
+	</data>
+  <data name="Reason_528" xml:space="preserve">
+		<value>Deposit</value>
+	</data>
+  <data name="Reason_2001" xml:space="preserve">
+		<value>Onet fruit</value>
+	</data>
+  <data name="Reason_414" xml:space="preserve">
+		<value>Play game Poker Slot</value>
+	</data>
+  <data name="Reason_433" xml:space="preserve">
+		<value>Chơi game Baccarat</value>
+	</data>
+  <data name="Reason_2" xml:space="preserve">
+		<value>Nạp IAP</value>
+	</data>
+  <data name="Reason_434" xml:space="preserve">
+		<value>Play game BlackJack</value>
+	</data>
+  <data name="Reason_520" xml:space="preserve">
+		<value>Deposit</value>
+	</data>
+  <data name="Reason_129" xml:space="preserve">
+		<value>Deposit</value>
+	</data>
+  <data name="Reason_102" xml:space="preserve">
+		<value>Tặng Win đăng nhập</value>
+	</data>
+  <data name="Reason_435" xml:space="preserve">
+		<value>Chơi game Bet Color</value>
+	</data>
+  <data name="Reason_2">
+    <value>Nạp IAP</value>
+  </data>
+  <data name="Reason_40">
+    <value>Mua Item</value>
+  </data>
+  <data name="Reason_48">
+    <value>Mua Hinh Nen</value>
+  </data>
+  <data name="Reason_49">
+    <value>Mua avatar</value>
+  </data>
+  <data name="Reason_68">
+    <value>Tặng Chips khi bang lên Level</value>
+  </data>
+  <data name="Reason_70">
+    <value>Tặng Chips khi user lên loại thành viên khi nạp Chips</value>
+  </data>
+  <data name="Reason_89">
+    <value>Tặng Chips Lên Level</value>
+  </data>
+  <data name="Reason_524">
+    <value>Tặng Chips Lên Level.</value>
+  </data>
+  <data name="Reason_102">
+    <value>Tặng Chips đăng nhập</value>
+  </data>
+  <data name="Reason_105">
+    <value>Mua Emotion</value>
+  </data>
+  <data name="Reason_108">
+    <value>Chuyển Chips cho bạn bè</value>
+  </data>
+  <data name="Reason_116">
+    <value>Chuyển tiền giữa các thành viên VIP</value>
+  </data>
+  <data name="Reason_117">
+    <value>Chuyển Tiền Bang Hội cho Thành viên</value>
+  </data>
+  <data name="Reason_118">
+    <value>Nạp Chips</value>
+  </data>
+  <data name="Reason_119">
+    <value>Admin tặng Chips</value>
+  </data>
+  <data name="Reason_133">
+    <value>Tặng Chips online</value>
+  </data>
+  <data name="Reason_142">
+    <value>Khuyến mãi nạp Chips</value>
+  </data>
+  <data name="Reason_143">
+    <value>Nhận thành tựu</value>
+  </data>
+  <data name="Reason_161">
+    <value>Khuyến mãi nạp Chips User VIP</value>
+  </data>
+  <data name="Reason_162">
+    <value>Tặng gold cho user mới trong event thêm bạn them vui</value>
+  </data>
+  <data name="Reason_166">
+    <value>Tặng Chips đăng ký bằng OpenID</value>
+  </data>
+  <data name="Reason_168">
+    <value>Tặng Chips event user mới</value>
+  </data>
+  <data name="Reason_169">
+    <value>Tặng Chips cho user đua top vip</value>
+  </data>
+  <data name="Reason_171">
+    <value>Tặng Chips hằng ngày</value>
+  </data>
+  <data name="Reason_173">
+    <value>Admin trừ Chips</value>
+  </data>
+  <data name="Reason_174">
+    <value>Nạp tiền qua sms</value>
+  </data>
+  <data name="Reason_175">
+    <value>Đăng nhập app bắn cá</value>
+  </data>
+  <data name="Reason_176">
+    <value>Thắng Jackpot</value>
+  </data>
+  <data name="Reason_178">
+    <value>Tặng Chips đăng nhập hàng ngày cho mobile</value>
+  </data>
+  <data name="Reason_179">
+    <value>Điểm danh nhận thưởng</value>
+  </data>
+  <data name="Reason_180">
+    <value>Tặng Chips mời bạn bè trên facebook</value>
+  </data>
+  <data name="Reason_181">
+    <value>Tặng Chips khi bạn bè đăng ký trên facebook</value>
+  </data>
+  <data name="Reason_182">
+    <value>Khuyến mãi nạp lần đầu</value>
+  </data>
+  <data name="Reason_183">
+    <value>Tặng Chips khi user đăng nhập liên tục</value>
+  </data>
+  <data name="Reason_184">
+    <value>Tặng Chips like fanpage trên app fb</value>
+  </data>
+  <data name="Reason_187">
+    <value>Tặng Chips khi user hết lượt tặng - user mới</value>
+  </data>
+  <data name="Reason_188">
+    <value>Tặng Chips user mới đăng ký nạp thẻ đầu tiên</value>
+  </data>
+  <data name="Reason_189">
+    <value>Tặng Chips user đăng nhập mobile giờ vàng</value>
+  </data>
+  <data name="Reason_190">
+    <value>Tặng Chips đăng nhập ngày vàng Mobile</value>
+  </data>
+  <data name="Reason_191">
+    <value>Admin gives CHIPS</value>
+  </data>
+  <data name="Reason_192">
+    <value>Tặng Chips khi cập nhật thông tin</value>
+  </data>
+  <data name="Reason_197">
+    <value>Khuyến mãi nạp Chips sms</value>
+  </data>
+  <data name="Reason_198">
+    <value>Khuyến mãi nạp IAP</value>
+  </data>
+  <data name="Reason_213">
+    <value>Chơi game Bắn Cá</value>
+  </data>
+  <data name="Reason_300">
+    <value>Tặng Chips Cho User Mới</value>
+  </data>
+  <data name="Reason_301">
+    <value>Trả Chips Event BONUS TaiXiu</value>
+  </data>
+  <data name="Reason_302">
+    <value>Đổi Chips</value>
+  </data>
+  <data name="Reason_303">
+    <value>Đổi thẻ</value>
+  </data>
+  <data name="Reason_306">
+    <value>Đổi thưởng quay số</value>
+  </data>
+  <data name="Reason_307">
+    <value>Hệ thống cấp gold cho jackpot</value>
+  </data>
+  <data name="Reason_311">
+    <value>Nạp tiền qua Google Wallet</value>
+  </data>
+  <data name="Reason_312">
+    <value>Nạp tiền qua Apple Store</value>
+  </data>
+  <data name="Reason_313">
+    <value>Tạo bang hội</value>
+  </data>
+  <data name="Reason_314">
+    <value>Rút</value>
+  </data>
+  <data name="Reason_315">
+    <value>Nạp</value>
+  </data>
+  <data name="Reason_316">
+    <value>Bang chủ chuyển tiền cho user</value>
+  </data>
+  <data name="Reason_318">
+    <value>User kết thúc game bắn cá</value>
+  </data>
+  <data name="Reason_319">
+    <value>User chơi game bắn cá</value>
+  </data>
+  <data name="Reason_320">
+    <value>Nhận Chips từ bang chủ</value>
+  </data>
+  <data name="Reason_321">
+    <value>Tặng 2% doanh số trong tháng của bang cho bang chủ</value>
+  </data>
+  <data name="Reason_322">
+    <value>Tặng 3% doanh số trong tháng của bang cho người nạp Chips nhiều nhất bang</value>
+  </data>
+  <data name="Reason_325">
+    <value>Trả Chips cho user sau khi vào phòng chơi không thành công</value>
+  </data>
+  <data name="Reason_326">
+    <value>Trả Chips cho user sau khi admin hủy yêu cầu đổi thưởng</value>
+  </data>
+  <data name="Reason_327">
+    <value>Thưởng săn cá boss</value>
+  </data>
+  <data name="Reason_328">
+    <value>Tặng Chips cho user Event đăng nhập giờ vàng</value>
+  </data>
+  <data name="Reason_329">
+    <value>Tặng Chips cho user Event hoàn tiền</value>
+  </data>
+  <data name="Reason_330">
+    <value>Tặng Chips user đăng ký game bắn cá săn thưởng</value>
+  </data>
+  <data name="Reason_331">
+    <value>Tặng Chips user đăng nhập game Bắn cá săn thưởng</value>
+  </data>
+  <data name="Reason_332">
+    <value>Tặng Chips khi ra phòng chờ bắn cá</value>
+  </data>
+  <data name="Reason_333">
+    <value>Nhận thưởng nhiệm vụ hằng ngày</value>
+  </data>
+  <data name="Reason_334">
+    <value>Thưởng share facebook</value>
+  </data>
+  <data name="Reason_335">
+    <value>Hệ thống thưởng Chips jackpot</value>
+  </data>
+  <data name="Reason_336">
+    <value>Hoàn tiền do đổi thẻ không thành công</value>
+  </data>
+  <data name="Reason_337">
+    <value>Tặng tiền hoàn thành nhiệm vụ Bắn Cá</value>
+  </data>
+  <data name="Reason_338">
+    <value>Tặng tiền lên level Bắn Cá</value>
+  </data>
+  <data name="Reason_342">
+    <value>User chuyển tiền cho user khác</value>
+  </data>
+  <data name="Reason_343">
+    <value>User nhận tiền từ user khác chuyển qua</value>
+  </data>
+  <data name="Reason_344">
+    <value>Admin trả Chips Bắn Cá</value>
+  </data>
+  <data name="Reason_345">
+    <value>Admin trả Chips Lather</value>
+  </data>
+  <data name="Reason_347">
+    <value>Thưởng tổng kết bang hội</value>
+  </data>
+  <data name="Reason_350">
+    <value>Tặng Chips vòng quay trong game</value>
+  </data>
+  <data name="Reason_351">
+    <value>Trúng thưởng Game Xóc Rùa</value>
+  </data>
+  <data name="Reason_352">
+    <value>Thắng sự kiện nhập mã được tiền</value>
+  </data>
+  <data name="Reason_353">
+    <value>Thắng game đấu trường</value>
+  </data>
+  <data name="Reason_355">
+    <value>Chơi game bắn cá 3D</value>
+  </data>
+  <data name="Reason_356">
+    <value>Kết thúc bắn cá 3D</value>
+  </data>
+  <data name="Reason_357">
+    <value>Chơi game bắn cá 3D mobile</value>
+  </data>
+  <data name="Reason_358">
+    <value>Kết thúc bắn cá 3D mobile</value>
+  </data>
+  <data name="Reason_359">
+    <value>Nhận thưởng nhiệm vụ hằng ngày</value>
+  </data>
+  <data name="Reason_404">
+    <value>Chơi game Mini Xeng</value>
+  </data>
+  <data name="Reason_406">
+    <value>Chơi game Mini Penalty</value>
+  </data>
+  <data name="Reason_407">
+    <value>Khuyến Mãi Giờ Vàng</value>
+  </data>
+  <data name="Reason_408">
+    <value>Chơi game Mini Fortunes88</value>
+  </data>
+  <data name="Reason_409">
+    <value>Chơi game Jackpot</value>
+  </data>
+  <data name="Reason_410">
+    <value>Chơi game XengLuxury</value>
+  </data>
+  <data name="Reason_412">
+    <value>Chơi game Rồng Vàng Slot</value>
+  </data>
+  <data name="Reason_413">
+    <value>Chơi Game Tam Quốc Slot</value>
+  </data>
+  <data name="Reason_418">
+    <value>Chơi game Thần Thú</value>
+  </data>
+  <data name="Reason_419">
+    <value>Chơi game Thần Tài</value>
+  </data>
+  <data name="Reason_420">
+    <value>Chơi game Pachinko Robot</value>
+  </data>
+  <data name="Reason_422">
+    <value>Chơi game Samurai</value>
+  </data>
+  <data name="Reason_423">
+    <value>Chơi game Super 777</value>
+  </data>
+  <data name="Reason_424">
+    <value>Chơi game Rùa Vàng Mini</value>
+  </data>
+  <data name="Reason_425">
+    <value>Chơi game Monopoly Million Dollar</value>
+  </data>
+  <data name="Reason_426">
+    <value>Chơi game Diamonds Links</value>
+  </data>
+  <data name="Reason_428">
+    <value>Chơi game Candy</value>
+  </data>
+  <data name="Reason_430">
+    <value>Chơi game Fantastic Beasts</value>
+  </data>
+  <data name="Reason_501">
+    <value>Thắng Vòng Quay May Mắn</value>
+  </data>
+  <data name="Reason_502">
+    <value>Mua Lượt Vòng Quay May Mắn</value>
+  </data>
+  <data name="Reason_503">
+    <value>Chơi game Lather</value>
+  </data>
+  <data name="Reason_504">
+    <value>Nạp Paypal</value>
+  </data>
+  <data name="Reason_999">
+    <value>Log phát sinh do IdReason ko tồn tại</value>
+  </data>
+  <data name="Reason_211">
+    <value>Chơi Game Xóc Dĩa</value>
+  </data>
+  <data name="Reason_999">
+    <value>Log phát sinh do IdReason ko tồn tại</value>
+  </data>
+  <data name="Reason_50" xml:space="preserve">
+    <value>Chơi Game Tài Xỉu</value>
+  </data>
+  <data name="Reason_518" xml:space="preserve">
+    <value>Thưởng xem quảng cáo</value>
+  </data>
+  <data name="Reason_421" xml:space="preserve">
+    <value>Chơi game thổ dân</value>
+  </data>
+  <data name="Reason_436" xml:space="preserve">
+        <value>Chơi game bầu cua</value>
+    </data>
+  <data name="Reason_517" xml:space="preserve">
+		<value>Tutorial</value>
+	</data>
+  <data name="Reason_210" xml:space="preserve">
+		<value>Chơi game đoán số</value>
+	</data>
+  <data name="Reason_156" xml:space="preserve">
+		<value>Tham gia Tournament</value>
+	</data>
+  <data name="Reason_360" xml:space="preserve">
+		<value>Thưởng Top Tournament</value>
+	</data>
+  <data name="Reason_36" xml:space="preserve">
+    <value>Chơi game Mậu Binh
+</value>
+  </data>
+  <data name="Reason_532" xml:space="preserve">
+    <value>Tặng xu thay đổi avatar</value>
+  </data>
+  <data name="Reason_440" xml:space="preserve">
+    <value>Play game Mega Spin</value>
+  </data>
+  <data name="Reason_997" xml:space="preserve">
+    <value>Admin gives CHIPS</value>
+  </data>
+  <data name="Reason_533" xml:space="preserve">
+    <value>Give CHIPS - Successfully installed the app</value>
+  </data>
+  <data name="Reason_438" xml:space="preserve">
+    <value>Chơi game Slot Casino</value>
+  </data>
+  <data name="Reason_439" xml:space="preserve">
+    <value>Chơi game Mini Poker</value>
+  </data>
+  <data name="Reason_509" xml:space="preserve">
+    <value>ដកrefund</value>
+  </data>
+  <data name="Reason_431" xml:space="preserve">
+    <value>Play game Pacman</value>
+  </data>
+  <data name="Reason_139" xml:space="preserve">
+    <value>Play game Guessing number</value>
+  </data>
+  <data name="Reason_535" xml:space="preserve">
+    <value>Receive CHIPS from VIP User</value>
+  </data>
+  <data name="Reason_140" xml:space="preserve">
+    <value>Win guessing number</value>
+  </data>
+  <data name="Reason_534" xml:space="preserve">
+    <value>Facebook share bonus</value>
+  </data>
+  <data name="Reason_536" xml:space="preserve">
+    <value>TOP UP</value>
+  </data>
+  <data name="Reason_443" xml:space="preserve">
+    <value>Rising fortunes</value>
+  </data>
+  <data name="Reason_537" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="Reason_538" xml:space="preserve">
+    <value>Rút Pi Pay</value>
+  </data>
+  <data name="Reason_445" xml:space="preserve">
+    <value>Ultimate Fire Link Slot</value>
+  </data>
+  <data name="Reason_446" xml:space="preserve">
+    <value>Play game TEANG LEN</value>
+  </data>
+  <data name="Reason_541" xml:space="preserve">
+    <value>Deposit WAVE</value>
+  </data>
+  <data name="Reason_542" xml:space="preserve">
+    <value>ដកWAVE</value>
+  </data>
+  <data name="Reason_539" xml:space="preserve">
+    <value>ABA DEPOSIT</value>
+  </data>
+  <data name="Reason_540" xml:space="preserve">
+    <value>ដកABA</value>
+  </data>
+  <data name="Reason_448" xml:space="preserve">
+    <value>Play game JUNGLE WILD</value>
+  </data>
+  <data name="Reason_450" xml:space="preserve">
+    <value>Play game SHAN KOE MEE</value>
+  </data>
+  <data name="Reason_453" xml:space="preserve">
+    <value>Play game DRAGON TIGER</value>
+  </data>
+  <data name="Reason_454" xml:space="preserve">
+    <value>Play BOOGYI</value>
+  </data>
+  <data name="Reason_543" xml:space="preserve">
+    <value>welcome back to our game</value>
+  </data>
+  <data name="Reason_457" xml:space="preserve">
+    <value>PLAY GAME SHWESHAN</value>
+  </data>
+  <data name="Reason_455" xml:space="preserve">
+    <value>PLAY GAME KING QUEEN</value>
+  </data>
+  <data name="Reason_458" xml:space="preserve">
+    <value>PLAY GAME SHARKS</value>
+  </data>
+  <data name="Game_453" xml:space="preserve">
+    <value>Play KingQueen</value>
+  </data>
+  <data name="Reason_545" xml:space="preserve">
+    <value>WING DEPOSIT</value>
+  </data>
+  <data name="Reason_365" xml:space="preserve">
+    <value>Play game DinoKing</value>
+  </data>
+  <data name="Reason_602" xml:space="preserve">
+    <value>Play Game Gold Miner</value>
+  </data>
+  <data name="Reason_366" xml:space="preserve">
+    <value>Play game Gold miner</value>
+  </data>
+  <data name="Reason_451" xml:space="preserve">
+    <value>Play Game Bird Slot</value>
+  </data>
+  <data name="Reason_449" xml:space="preserve">
+    <value>Play Game EUREKA REEL</value>
+  </data>
+  <data name="Reason_367" xml:space="preserve">
+    <value>Playing Ocean King 3 Solo</value>
+  </data>
+  <data name="Reason_546" xml:space="preserve">
+    <value>GCASH DEPOSIT</value>
+  </data>
+  <data name="Reason_547" xml:space="preserve">
+    <value>ដក GCASH</value>
+  </data>
+  <data name="Reason_603" xml:space="preserve">
+    <value>Play Game Hot Potato</value>
+  </data>
+  <data name="Reason_452" xml:space="preserve">
+    <value>Play Game Tongits</value>
+  </data>
+  <data name="Reason_500" xml:space="preserve">
+    <value>Play Fishing Games</value>
+  </data>
+  <data name="Reason_1_Sub_3" xml:space="preserve">
+    <value>Deduct for Bonus Game Spins
+</value>
+  </data>
+  <data name="Reason_1_Sub_1" xml:space="preserve">
+    <value>Deduct for Regular Spins
+</value>
+  </data>
+  <data name="Reason_1_Sub_2" xml:space="preserve">
+    <value>Deduct for Free Spins
+</value>
+  </data>
+  <data name="Reason_1_Sub_4" xml:space="preserve">
+    <value>Win Spin Slot
+</value>
+  </data>
+  <data name="Reason_1_Sub_5" xml:space="preserve">
+    <value>Lose Spin Slot
+</value>
+  </data>
+  <data name="Reason_1_Sub_6" xml:space="preserve">
+    <value>Win Bonus Game
+</value>
+  </data>
+  <data name="Reason_1_Sub_7" xml:space="preserve">
+    <value>Buy Bonus Game
+</value>
+  </data>
+  <data name="Reason_1_Sub_21" xml:space="preserve">
+    <value>Deduct the bet
+</value>
+  </data>
+  <data name="Reason_1_Sub_22" xml:space="preserve">
+    <value>Refund the bet</value>
+  </data>
+  <data name="Reason_1_Sub_23" xml:space="preserve">
+    <value>Win bet
+</value>
+  </data>
+  <data name="Reason_1_Sub_24" xml:space="preserve">
+    <value>Lose bet
+</value>
+  </data>
+  <data name="Reason_1_Sub_41" xml:space="preserve">
+    <value>Deduct the bet
+</value>
+  </data>
+  <data name="Reason_1_Sub_42" xml:space="preserve">
+    <value>Deduct for insurance money
+</value>
+  </data>
+  <data name="Reason_1_Sub_43" xml:space="preserve">
+    <value>Insurance refund
+</value>
+  </data>
+  <data name="Reason_1_Sub_44" xml:space="preserve">
+    <value>Bet Refund
+</value>
+  </data>
+  <data name="Reason_1_Sub_45" xml:space="preserve">
+    <value>Win
+</value>
+  </data>
+  <data name="Reason_1_Sub_46" xml:space="preserve">
+    <value>Lose</value>
+  </data>
+  <data name="Reason_1_Sub_47" xml:space="preserve">
+    <value>Beat the 2 
+</value>
+  </data>
+  <data name="Reason_1_Sub_48" xml:space="preserve">
+    <value>Lose in beat the 2 
+</value>
+  </data>
+  <data name="Reason_1_Sub_88" xml:space="preserve">
+    <value>Give Bonus for level up
+</value>
+  </data>
+  <data name="Reason_1_Sub_61" xml:space="preserve">
+    <value>Win the Jackpot Mini
+</value>
+  </data>
+  <data name="Reason_1_Sub_62" xml:space="preserve">
+    <value>Win the Jackpot MINOR
+</value>
+  </data>
+  <data name="Reason_1_Sub_63" xml:space="preserve">
+    <value>Win the Jackpot MAJOR
+</value>
+  </data>
+  <data name="Reason_1_Sub_64" xml:space="preserve">
+    <value>Win the Jackpot GRAND
+</value>
+  </data>
+  <data name="Reason_646" xml:space="preserve">
+    <value>Admin tặng Win</value>
+  </data>
+  <data name="Reason_1_Sub_528" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="Reason_1_Sub_539" xml:space="preserve">
+    <value>Deposit ABA</value>
+  </data>
+  <data name="Reason_1_Sub_129" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="Reason_1_Sub_134" xml:space="preserve">
+    <value>Deposit Paypal</value>
+  </data>
+  <data name="Reason_1_Sub_520" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="Reason_1_Sub_526" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="Reason_1_Sub_527" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="Reason_1_Sub_537" xml:space="preserve">
+    <value>Deposit Pi Pay</value>
+  </data>
+  <data name="Reason_1_Sub_541" xml:space="preserve">
+    <value>Deposit WAVE</value>
+  </data>
+  <data name="Reason_1_Sub_545" xml:space="preserve">
+    <value>WING DEPOSIT</value>
+  </data>
+  <data name="Reason_1_Sub_546" xml:space="preserve">
+    <value>GCASH DEPOSIT</value>
+  </data>
+  <data name="Reason_1_Sub_646" xml:space="preserve">
+    <value>Admin tặng Win</value>
+  </data>
+  <data name="Reason_1_Sub_119" xml:space="preserve">
+    <value>Admin tặng Win</value>
+  </data>
+  <data name="Reason_368" xml:space="preserve">
+    <value>Play game DinoKing 2</value>
+  </data>
+  <data name="Reason_648" xml:space="preserve">
+    <value>Admin tặng CHIPS</value>
+  </data>
+  <data name="Reason_548" xml:space="preserve">
+    <value>GCASH DEPOSIT</value>
+  </data>
+  <data name="Reason_549" xml:space="preserve">
+    <value>Deposit WAVE</value>
+  </data>
+  <data name="Reason_462" xml:space="preserve">
+    <value>Play game Bet Color</value>
+  </data>
+  <data name="Reason_460" xml:space="preserve">
+    <value>Pusoy</value>
+  </data>
+</LocalLanguages>

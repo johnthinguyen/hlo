@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="DepositMessageBlockInDay" xml:space="preserve">
+    <value>អ្នកបញ្ចូលបានខ្ពស់បំផុត{0} SMS ក្នុង1ថ្ងៃ</value>
+  </data>
+  <data name="MessageFirstPurchase" xml:space="preserve">
+    <value>ផ្ដល់ជូនថែម {0}% ​CHIPS រង្វាន់អោយការបញ្ចូល CHIPS លើកដំបូង</value>
+  </data>
+  <data name="Please_deposit_more_to_withdraw" xml:space="preserve">
+    <value>សូមបញ្ចូលបន្ថែមដើម្បីបានប្ដូរ</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_OneTimeOffer_Title" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_OneTimeOffer_Title</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_OneTimeOffer_Content" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_OneTimeOffer_Content</value>
+  </data>
+  <data name="InAppPurchase_Thanks_First_Purchase_Title" xml:space="preserve">
+    <value>InAppPurchase_Thanks_First_Purchase_Title</value>
+  </data>
+  <data name="InAppPurchase_Thanks_First_Purchase_Content" xml:space="preserve">
+    <value>InAppPurchase_Thanks_First_Purchase_Content</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_SubscribePackage_Title" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_SubscribePackage_Title</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_SubscribePackage_{X}_Content" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_SubscribePackage_{0}_Content</value>
+  </data>
+  <data name="Withdrawal_successful_maill_title" xml:space="preserve">
+    <value>Withdrawal ${0} successful - ការបញ្ជាដកលុយ ${0} បានសម្រេច</value>
+  </data>
+  <data name="Withdrawal_successful_maill_content" xml:space="preserve">
+    <value>Your withdrawal has been successful, please check your Wing TID {0}. Hope you have fun!
+ការបញ្ជាដកលុយរបស់អ្នកបានសម្រេច សូមចូលពិនិត្យមើលគណនី Wing TID {0} សូមចូលរួមលេងហ្គេមបានតាមសប្បាយរីករាយ។</value>
+  </data>
+  <data name="choose_amount_to_top_up" xml:space="preserve">
+    <value>សូមជ្រើសរើសចំនួនទឹកប្រាក់ដែលត្រូវបញ្ចូល - Please choose the amount to top up</value>
+  </data>
+  <data name="top_up_phone_number_incorrect" xml:space="preserve">
+    <value>លេខទូរស័ព្ទដែលអ្នកបានបញ្ចូលមិនត្រឹមត្រូវ - Your phone number is incorrect</value>
+  </data>
+  <data name="top_up_check_phone_number_and_confirm" xml:space="preserve">
+    <value>សូមពិនិត្យមើលលេខទូរស័ព្ទរបស់អ្នកម្តងទៀតនិងបញ្ជាក់លេខនេះជាលេខទូរស័ព្ទរបស់អ្នក! - Please check again the Phone Number and confirm this is your Phone Number!</value>
+  </data>
+  <data name="top_up_money_choosing_incorrect" xml:space="preserve">
+    <value>ចំនួនទឹកប្រាក់ដែលអ្នកបានជ្រើសរើសមិនត្រឹមត្រូវ - Your money choosing is incorrect</value>
+  </data>
+  <data name="top_up_deposit_succeed" xml:space="preserve">
+    <value>ការស្នើសុំបញ្ចូលទឹកប្រាក់ក្នុងទូរស័ព្ទ [{0}] ${1}$  ទទួលបានជោគជ័យ - Deposit request from phone number [{0}] ${1} has succeed</value>
+  </data>
+  <data name="top_up_deposit_succeed_check_again" xml:space="preserve">
+    <value>ការស្នើសុំដាក់ប្រាក់តាមទូរស័ព្ទរបស់អ្នក [{0}] ${1} បានជោគជ័យសូមពិនិត្យមើលលេខទូរស័ព្ទរបស់អ្នក។ សង្ឃឹមថាអ្នកនឹងមានភាពសប្បាយរីករាយ! - Deposit request from phone number [{0}] ${1} has succeed, please check again your phone number.
+Hope you have fun</value>
+  </data>
+  <data name="top_up_enter_phone_here" xml:space="preserve">
+    <value>បញ្ចូលលេខទូរស័ព្ទរបស់អ្នកចង់បញ្ចូលប្រាក់ចូលក្នុងនេះ</value>
+  </data>
+  <data name="topup_name" xml:space="preserve">
+    <value>បញ្ចូលលុយ ទូរស័ព្ច</value>
+  </data>
+  <data name="sms_spam_warning" xml:space="preserve">
+    <value>ចំណាំ: អ្នកកំពុងតែបញ្ចូលលុយផុតកំណត់ {0}សារ/ថ្ងៃ។
+បើអ្នកនូវតែមានចេត្តនាបញ្ចូលបន្ត {1}និងទទួល {2} chipsនិងរាល់ការចម្ងាល់adminនិងមិនចំនួយទេណា។
+
+Note: You have deposited over the limit {0} messages/day. If you keep going to deposit {1}, you will receive {2} CHIPS. These problems won't be supported by ADMIN.</value>
+  </data>
+  <data name="sms_spam_warning_title" xml:space="preserve">
+    <value>បញ្ចូលលុយផុតកំណត់ {0}សារ/ថ្ងៃ។
+Deposit over the limit {0} messages/ day</value>
+  </data>
+  <data name="top_up_transaction_phone_incorrect" xml:space="preserve">
+    <value>ប្រតិបត្តិការមិនបានធ្វើទេព្រោះលេខទូរស័ព្ទរបស់អ្នកមិនត្រឹមត្រូវ។ - The transaction was not made cause your phone number is incorrect</value>
+  </data>
+  <data name="top_up_transaction_refund" xml:space="preserve">
+    <value>លេខទូរស័ព្ទដែលអ្នកបានបញ្ចូលមិនត្រឹមត្រូវយើងខ្ញុំបានវេប្រាក់វិញសូមបញ្ចូលម្តងទៀតជាមួយលេខទូរស័ព្ទត្រឹមត្រូវ។ - The phone number entered is invalid, admin has been refunded, please top up again with the correct phone number</value>
+  </data>
+  <data name="Coin_play_free_game" xml:space="preserve">
+    <value>Coin សម្រាប់លេង game free ដូចជា Os Phe, Poker</value>
+  </data>
+  <data name="Deposit_new_wallet" xml:space="preserve">
+    <value>ថ្មី</value>
+  </data>
+  <data name="WalletProductNotConfig" xml:space="preserve">
+    <value>ផលិតផលនេះមិនមានស្រាប់ទេ។ សូមទិញមួយផ្សេងទៀត។</value>
+  </data>
+  <data name="FsCashOut_MessageValidation" xml:space="preserve">
+    <value>ចំនួនកាក់របស់អ្នកមិនគ្រប់គ្រាន់ដើម្បីដក </value>
+  </data>
+  <data name="FsCashOut_MessageValidation1" xml:space="preserve">
+    <value> កូដគណនីស្លាយមិនត្រឹមត្រូវ </value>
+  </data>
+  <data name="Deposit_ClickWhenCompletedTransfer" xml:space="preserve">
+    <value>នៅពេលអ្នកបញ្ចប់នូវការផ្ទេរប្រាក់, សូមចុចកន្លែងនេះ</value>
+  </data>
+  <data name="FsCashOut_MinWithdraw" xml:space="preserve">
+    <value> បានដកយ៉ាងហោចណាស់ {0} </value>
+  </data>
+  <data name="FsCashOutWave_divisible_withdraw" xml:space="preserve">
+    <value>ចំនួនទឹកប្រាក់ដកត្រូវតែអាចចែកបានដោយ 1000 {0}</value>
+  </data>
+  <data name="MaxDepositInday" xml:space="preserve">
+    <value>ថែទាំម៉ាស៊ីនបម្រើ</value>
+  </data>
+  <data name="Config_MaximumSmsDay" xml:space="preserve">
+    <value>អ្នកបញ្ចូលបានខ្ពស់បំផុត 30 SMS ក្នុង1ថ្ងៃ</value>
+  </data>
+  <data name="FsCashOut_RequestSuccess" xml:space="preserve">
+    <value>ស្នើសុំដកប្រាក់ពីកាបូប: {0}@WING ${1} បានបញ្ចប់	</value>
+  </data>
+  <data name="FsCashOut_RequestSuccess2" xml:space="preserve">
+    <value>សំណើការដកប្រាក់ជោគជ័យ</value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapPhilippine" xml:space="preserve">
+    <value>Please choose the method to ដក (Philippines)</value>
+  </data>
+  <data name="FsCashOut_Wave_RequestSuccess" xml:space="preserve">
+    <value>Request to ដក money from the Wave  wallet: {0}@Wave {1} KYAT has been completed</value>
+  </data>
+  <data name="FsCashOut_ABA_RequestSuccess" xml:space="preserve">
+    <value>ស្នើសុំដកប្រាក់ពីកាបូប: {0}@ABA ${1} បានបញ្ចប់</value>
+  </data>
+  <data name="FsCashOut_PiPay_RequestSuccess" xml:space="preserve">
+    <value>ស្នើសុំដកប្រាក់ពីកាបូប: {0}@pipay ${1} បានបញ្ចប់</value>
+  </data>
+  <data name="Waiting" xml:space="preserve">
+    <value>WAITING...</value>
+  </data>
+  <data name="TopupSuccess" xml:space="preserve">
+    <value>TOPUP SUCCESS</value>
+  </data>
+  <data name="WAVE_Service_Maintenance" xml:space="preserve">
+    <value>WAVE - សេកម្មកំពុងថែរក្សា
+សូមជម្រាបសួរអតិថិជន សូមបញ្ចូលពត៏មាន ថារាល់សេវាកម្មរបស់ការបញ្ចូលតាម Wave Money និង WavePay​នឹងបញ្ឈប់សកម្មភាពបណ្តោះអាសន្នតាំងពី 25/10 08:00 ដល់ 26/10 8:00 ព្រឹកដោយសាការថែទាំតាមកាលបរិច្ឆេទ ។
+
+សូមធ្វើការបញ្ចូលលុយបន្ទាប់ពី ព្រឹកថ្ងៃ 26/10 8:00! សូមអរគុណ</value>
+  </data>
+  <data name="ABA_Service_Maintenance" xml:space="preserve">
+    <value>ABA - សេកម្មកំពុងថែរក្សា សូមជម្រាបសួរអតិថិជន សូមបញ្ចូលពត៏មាន ថារាល់សេវាកម្មរបស់ការបញ្ចូលតាម Aba Money និង WavePay​នឹងបញ្ឈប់សកម្មភាពបណ្តោះអាសន្នតាំងពី 25/10 08:00 ដល់ 26/10 8:00 ព្រឹកដោយសាការថែទាំតាមកាលបរិច្ឆេទ ។ សូមធ្វើការបញ្ចូលលុយបន្ទាប់ពី ព្រឹកថ្ងៃ 26/10 8:00! សូមអរគុណ</value>
+  </data>
+  <data name="TransferCoinMustHigerEqual" xml:space="preserve">
+    <value>ចំនួនកាក់ផ្ទេរមួយដង &gt;= {0} CHIPS</value>
+  </data>
+  <data name="DepositWalletAccountNotNull" xml:space="preserve">
+    <value>DepositWalletAccountNotNull</value>
+  </data>
+  <data name="Deposit_GCASH_AccountID" xml:space="preserve">
+    <value>លេខ ID គណនី GCASH</value>
+  </data>
+  <data name="Deposit_GCASH_AccountName" xml:space="preserve">
+    <value>ឈ្មោះគណនី GCASH</value>
+  </data>
+  <data name="Deposit_GCASH_Note1" xml:space="preserve">
+    <value>ជំហានទី 1៖ បញ្ចូលលេខគណនី GCASH របស់អ្នក។ អ្នកនឹងត្រូវបានគិតប្រាក់ចំនួន ₱{0} ដុល្លារ។</value>
+  </data>
+  <data name="Deposit_GCASH_Note2" xml:space="preserve">
+    <value>ជំហានទី 2៖ សំគាល់ៈអ្នកត្រូវតែផ្ទេរអោយបានត្រឹមត្រូវទៅកាបូប GCASH ខាងក្រោម   យើងនឹងមិនអាចជួយបានទេប្រសិនបើអ្នកផ្ទេរទៅគណនី GCASH ខុស។ លេខគណនី GCASH នឹងត្រូវផ្លាស់ប្តូររាល់ពេលដែលអ្នកផ្ញើរប្រាក់ អ្នកគួរតែពិនិត្យមើលលេខគណនី GCASHមុនពេលផ្ទេរប្រាក់ក្នុងទម្រង់ផ្ទេរប្រាក់។</value>
+  </data>
+  <data name="GCASH_NUMBER_ARE_YOU_SURE" xml:space="preserve">
+    <value>សូមពិនិត្យមើលលេខគណនីGCASH {0} ម្ដងទៀតនិងបញ្ជាក់នេះគឺជាលេខគណនីGCASH របស់អ្នក!</value>
+  </data>
+  <data name="Tab_TitleWithDraw_GCASH" xml:space="preserve">
+    <value>ដកGCASH</value>
+  </data>
+  <data name="FsCashOut_GCASH_RequestSuccess" xml:space="preserve">
+    <value>ស្នើសុំដកប្រាក់ពីកាបូប: {0}@GCASH ₱{1} បានបញ្ចប់</value>
+  </data>
+  <data name="CashoutGCASH_MessageTitle_UpdateStatusSuccess" xml:space="preserve">
+    <value>ការបញ្ជាដកលុយ ₱{0} បានសម្រេច</value>
+  </data>
+  <data name="CashoutGCASH_MessageContent_UpdateStatusSuccess" xml:space="preserve">
+    <value>ការបញ្ជាដកលុយរបស់អ្នកបានសម្រេច សូមចូលពិនិត្យមើលគណនី GCASH TID {0} សូមចូលរួមលេងហ្គេមបានតាមសប្បាយរីករាយ។</value>
+  </data>
+  <data name="FsCashOutGCash_lableTyGia" xml:space="preserve">
+    <value>អត្រាប្តូរប្រាក់: &lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; = ₱&lt;strong class="ohyea__color-yellow"&gt; {1} &lt;/strong&gt;</value>
+  </data>
+  <data name="FsCashOutGCash_lableSoDu" xml:space="preserve">
+    <value>ចំនួនប្រាក់របស់អ្នកគឺ &lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; (ស្មើនឹង ₱&lt;strong class="ohyea__color-yellow"&gt; {1} &lt;/strong&gt;)</value>
+  </data>
+  <data name="FsCashOutGCash_minimum_withdraw" xml:space="preserve">
+    <value>ចំនួនទឹកប្រាក់តិចបំផុតដើម្បីដកទៅគណនី  GCash គឺ ₱{0}</value>
+  </data>
+  <data name="FsCashOutGCash_divisible_withdraw" xml:space="preserve">
+    <value>ចំនួនទឹកប្រាក់ដកត្រូវតែអាចចែកបានដោយ {0}</value>
+  </data>
+  <data name="FsCashOutGCash_lableBanMuonRutBnhieu" xml:space="preserve">
+    <value>អ្នកចង់ដកចំនួនប៉ុន្មាន?</value>
+  </data>
+  <data name="FsCashOut_lableDienTKGCash" xml:space="preserve">
+    <value>សូមបំពេញលេខគណនីកាបូបវីងរបស់អ្នក</value>
+  </data>
+  <data name="GCASH_TID_successful_mail" xml:space="preserve">
+    <value>You have successful deposited GCASH TID {0} into our game. Have fun time with Live777</value>
+  </data>
+  <data name="GCASH_Service_Maintenance" xml:space="preserve">
+    <value>GCASH - សេកម្មកំពុងថែរក្សា
+សូមជម្រាបសួរអតិថិជន សូមបញ្ចូលពត៏មាន ថារាល់សេវាកម្មរបស់ការបញ្ចូលតាម Wave Money និង WavePay​នឹងបញ្ឈប់សកម្មភាពបណ្តោះអាសន្នតាំងពី 25/10 08:00 ដល់ 26/10 8:00 ព្រឹកដោយសាការថែទាំតាមកាលបរិច្ឆេទ ។
+
+សូមធ្វើការបញ្ចូលលុយបន្ទាប់ពី ព្រឹកថ្ងៃ 26/10 8:00! សូមអរគុណ</value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapPhilippines" xml:space="preserve">
+    <value>Please choose the method to ដក (Philippines)</value>
+  </data>
+  <data name="FsCashOut_GCash_RequestSuccess" xml:space="preserve">
+    <value>ស្នើសុំដកប្រាក់ពីកាបូប: {0}@GCASH ₱{1} បានបញ្ចប់</value>
+  </data>
+  <data name="ACCOUNT_OR_TID_INVALID" xml:space="preserve">
+    <value>លេខគណនីរបស់អ្នក ឬលេខសម្ងាត់មិនត្រឹមត្រូវ</value>
+  </data>
+</LocalLanguages>

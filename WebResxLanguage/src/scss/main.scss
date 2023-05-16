@@ -1,0 +1,15 @@
+﻿@import './variable';
+@import './table';
+
+.#{$prj_name} {
+
+    @include table;
+
+}
+.validation-summary-errors,
+    .field-validation-error {
+        color: $red3;
+        font-weight: bold;
+        display:none;
+        margin-bottom:0;
+    }

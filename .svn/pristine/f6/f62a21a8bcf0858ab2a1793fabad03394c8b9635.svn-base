@@ -1,0 +1,1023 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="WING_NUMBER_ARE_YOU_SURE">
+    <value>Pakisuri muli ang iyong Wing Account Number {0} at kumpirmahin na ito ang iyong Wing Account Number</value>
+  </data>
+  <data name="TID_HISTORY">
+    <value>Kasaysayan ng TID</value>
+  </data>
+  <data name="TRANSFER_MIN_COIN_POCKET_AFTER_TRANSFER">
+    <value>Upang makumpleto ang transaksyon ng CHIPS. Ang iyong balanse pagkatapos ng matagumpay na paglipat ay dapat &gt;= {0} CHIPS</value>
+  </data>
+  <data name="CODA_WING_USER_WALLET_NOT_EXISTS">
+    <value>Pinuno mo ang maling wallet ng pakpak; Ang ADMIN ay nag-refund ng CHIPS. Mangyaring punan ang kanang wallet para mag-withdraw.</value>
+  </data>
+  <data name="CODA_WING_TRAN_NOT_COMPLETE">
+    <value>Hindi makumpleto ang transaksyon dahil may error ang iyong Wing wallet, mangyaring makipag-ugnayan sa Wing Service</value>
+  </data>
+  <data name="CODA_WING_GUIDE_6_DIGIT_CODE">
+    <value>PAANO KUMUHA NG 6 DIGIT CODE</value>
+  </data>
+  <data name="WITHDRAW_CARD_DENOMINATION">
+    <value>PILIIN ANG DENOMINASYON</value>
+  </data>
+  <data name="WITHDRAW_CARD_VALUE">
+    <value>kahalagahan</value>
+  </data>
+  <data name="WITHDRAW_CARD_NOW">
+    <value></value>
+  </data>
+  <data name="WITHDRAW_CARD_FAIL">
+    <value>NABIGO NA MAG-WITHDRAW</value>
+  </data>
+  <data name="WITHDRAW_CARD_SUCCESS_TITLE">
+    <value>WITHDRAW ANG TAGUMPAY</value>
+  </data>
+  <data name="WITHDRAW_CARD_Please_choose">
+    <value>Mangyaring pumili ng uri ng card na bawiin</value>
+  </data>
+  <data name="WITHDRAW_CARD_under_maintenance">
+    <value>Ang system {0} ay nasa ilalim ng pagpapanatili, mangyaring pumili ng ibang uri ng card.</value>
+  </data>
+  <data name="WITHDRAW_CARD_successfully_go_mail_box">
+    <value>Matagumpay mong na-withdraw ang [{0} Serial: {1} Pin {2}] Maaari kang pumunta sa iyong mail box at suriin muli ang code.</value>
+  </data>
+  <data name="WITHDRAW_CARD_SUCCESS">
+    <value>Matagumpay kang nag-withdraw {0}</value>
+  </data>
+  <data name="Withdrawal_MaximumSmsDay">
+    <value>Ang iyong Wing Account para sa withdrawal ay na-block dahil sa SMS spamming ngayon. Mangyaring makipag-ugnayan sa aming Customer Support</value>
+  </data>
+  <data name="MaximumSmsDay">
+    <value>Babala: maaari ka lamang magdeposito ng maximum na {0} mga mensahe sa isang araw</value>
+  </data>
+  <data name="DepositMessageBlockInDay">
+    <value>maaari ka lamang magdeposito ng maximum na {0} beses sa isang araw (SMS)</value>
+  </data>
+  <data name="DepositCardAmountNotAllow">
+    <value>Tandaan: Tanging ang pagtanggap ng mga card ng {0} na denominasyon, ang iba pang mga denominasyon ay hindi ire-refund at ang Panalo ay hindi idaragdag</value>
+  </data>
+  <data name="DepositCardIsUsed">
+    <value>Card na ginamit</value>
+  </data>
+  <data name="DepositCreateTransactionFail">
+    <value>Error sa pagtatala ng mga transaksyon. Subukang muli mamaya!</value>
+  </data>
+  <data name="DepositDelayTime">
+    <value>Ang bawat pag-load ng card ay dapat na {0} minuto ang pagitan</value>
+  </data>
+  <data name="DepositErrorCauseBlockMultipleFailed">
+    <value>Error habang naglo-load ng card. Subukang muli mamaya</value>
+  </data>
+  <data name="DepositMultipleFailed">
+    <value>Nagkamali ka ng {0} (na) beses sa loob ng {1} (na) minuto, mangyaring maghintay ng ilang sandali upang makapunta sa susunod na pagkarga</value>
+  </data>
+  <data name="DepositSelectCardAmountWrong">
+    <value>Maling halaga ng mukha ng scratch card ang napili mo. Mangyaring makipag-ugnayan sa customer care para sa tulong</value>
+  </data>
+  <data name="DepositSmsTelcoNoSupport">
+    <value>Hindi sinusuportahan ng mga network operator</value>
+  </data>
+  <data name="DepositSmsTelcoValueNoSupport">
+    <value>Hindi sinusuportahan ang halaga ng mukha</value>
+  </data>
+  <data name="DepositSupportText">
+    <value>&lt;br/&gt; Kung mayroon kang anumang mga katanungan mangyaring makipag-ugnayan sa &lt;a href=\"mailto:{0}\"&gt;"&gt; {1} &lt;/a&gt; para sa tulong. &lt;br/&gt; O makipag-ugnayan sa pangangalaga ng customer sa Suportadong online.</value>
+  </data>
+  <data name="DepositTransactionChargeWithCallback">
+    <value>Ang iyong card ay tinanggap, ang Win ay idaragdag sa iyong account, mangyaring maghintay ng ilang sandali</value>
+  </data>
+  <data name="DepositTransactionError">
+    <value>Error habang naglo-load ng card. Pakisubukang muli sa ibang pagkakataon (Code = {0})</value>
+  </data>
+  <data name="DepositTransactionTimeOut">
+    <value>Nag-expire na ang transaksyon. Mangyaring makipag-ugnayan sa suporta ng Admin</value>
+  </data>
+  <data name="DoiThuongCardOutOfLimit">
+    <value>Naabot mo na ang limitasyon ng pagpapalitan ng card sa loob ng araw. Mangyaring bumalik sa susunod na araw</value>
+  </data>
+  <data name="DoiThuongCardOutOfRangeTime">
+    <value>Pakipalitan ang card sa tabi ng card bago ang {0} minuto. Salamat</value>
+  </data>
+  <data name="DoiThuongCardStockRunOut">
+    <value>Out of stock card</value>
+  </data>
+  <data name="DoiThuongCardSuccess">
+    <value>Ang iyong kahilingang baguhin ang iyong {0} ({1} USD) card ay matagumpay. Ang card ay ipapadala sa PERSONAL LETTER pagkatapos ng ilang minuto!</value>
+  </data>
+  <data name="DoiThuongCardSuccessReview">
+    <value>Ang iyong kahilingang baguhin ang iyong {0} ({1} USD) card ay matagumpay. Pakihintay na mag-censor ang Admin. Ipapadala ang card sa PERSONAL LETTER pagkatapos ng ilang minuto!</value>
+  </data>
+  <data name="DoiThuongCreateTranlogError">
+    <value>Error sa pagsisimula ng transaksyon</value>
+  </data>
+  <data name="DoiThuongMaintainance">
+    <value>Function under maintenance, mangyaring bumalik mamaya.</value>
+  </data>
+  <data name="DoiThuongMaintainanceUpdate">
+    <value>Ang kasalukuyang functionality ay sumasailalim sa mga upgrade sa maintenance. Mangyaring bumalik mamaya</value>
+  </data>
+  <data name="DoiThuongNotEnoughGoldOffset">
+    <value>Wala kang minimum na balanse na {0: #, ## 0} Manalo pagkatapos ng pagbabago</value>
+  </data>
+  <data name="DoiThuongRequireVipLevel">
+    <value>Dapat ay mayroon kang Vip Silver o mas mataas para mapalitan ang iyong card</value>
+  </data>
+  <data name="DoiThuongUpdateCoinError">
+    <value>Error sa pag-update ng balanse ng account</value>
+  </data>
+  <data name="DepositGetProductMethodInvalid">
+    <value>Hindi matukoy ang paraan ng pagbabayad</value>
+  </data>
+  <data name="DepositSuccessAddVipFailed">
+    <value>Matagumpay na na-load ang {0: N0} Win. Ngunit nagkaroon ng error sa pagproseso ng vip point</value>
+  </data>
+  <data name="DepositSuccessAddCoinVipFailed">
+    <value>Matagumpay na i-load ang panalo. Ngunit nagkaroon ng error sa proseso ng paglipat ng Win at pagpoproseso ng vip point</value>
+  </data>
+  <data name="NumberDepositOnDay">
+    <value>Bumalik ka bukas</value>
+  </data>
+  <data name="SuccessButAddGoldFail">
+    <value>Matagumpay na na-load ngunit nagkaroon ng error sa panahon ng paglilipat ng Win</value>
+  </data>
+  <data name="Pending">
+    <value>Matagumpay na na-load ngunit nagkaroon ng error sa panahon ng paglilipat ng Win</value>
+  </data>
+  <data name="TransactionNotExists">
+    <value>Walang nakitang mga transaksyon sa system.</value>
+  </data>
+  <data name="CurrentCoinNotEnought">
+    <value>Ang bilang ng Panalo sa account ay hindi sapat para magawa ang transaksyon</value>
+  </data>
+  <data name="ChonNhaMang">
+    <value>Piliin ang tahanan ng iyong SIM network</value>
+  </data>
+  <data name="CuPhap">
+    <value>palaugnayan</value>
+  </data>
+  <data name="DepositAlert_Card">
+    <value>Naglo-load ng notice</value>
+  </data>
+  <data name="DepositAlert_CardError">
+    <value>Error sa paglo-load ng card, pakisubukang muli sa ibang pagkakataon</value>
+  </data>
+  <data name="DepositBaoKim">
+    <value>BaoKim</value>
+  </data>
+  <data name="DepositCode_Input2">
+    <value>Ipasok ang code</value>
+  </data>
+  <data name="DepositConfirm">
+    <value>Kumpirmahin</value>
+  </data>
+  <data name="DepositInputCaptcha">
+    <value>Ipasok ang captcha</value>
+  </data>
+  <data name="DepositMoneyCost2">
+    <value>Mga denominasyon</value>
+  </data>
+  <data name="DepositSms">
+    <value>SMS</value>
+  </data>
+  <data name="DepositSmsGui">
+    <value>Ipadala</value>
+  </data>
+  <data name="DoiThuongMaXacNhan">
+    <value>Captcha</value>
+  </data>
+  <data name="DoiThuongPhiChuyen">
+    <value>Mga bayarin sa paglilipat</value>
+  </data>
+  <data name="DoiThuongSoTienChuyen">
+    <value>Halaga ng paglilipat ng CHIPS</value>
+  </data>
+  <data name="DoiThuongSoXuHienCo">
+    <value>Magagamit na CHIPS</value>
+  </data>
+  <data name="DoiThuongTaiKhoan">
+    <value>kuwenta</value>
+  </data>
+  <data name="DoiThuongTenTaiKhoan">
+    <value>Pangalan ng account</value>
+  </data>
+  <data name="DoiThuongThucHien">
+    <value>Ipasa</value>
+  </data>
+  <data name="DoiThuongXu">
+    <value>CHIPS</value>
+  </data>
+  <data name="DoiThuongXuBiTru">
+    <value>Ibinawas ang CHIPS</value>
+  </data>
+  <data name="GhiChuNapSMS">
+    <value>&lt;ul&gt; &lt;li&gt; Oras ng pagpoproseso na 30 segundo - 60 segundo &lt;/li&gt; &lt;li&gt; Pansinin ang spacing ng syntax &lt;/li&gt; &lt;li&gt; Suriin nang sapat ang ID, kung maling ID ang nailagay ay hindi idadagdag ang CHIPS &lt; /li&gt; &lt;/ul&gt;</value>
+  </data>
+  <data name="GhiChuNapSMS1">
+    <value>Mag-load ng SMS CHIPS sa pamamagitan ng Network</value>
+  </data>
+  <data name="GhiChuNapSMS2">
+    <value>Dapat mong tandaan ang tamang syntax tulad ng sumusunod:</value>
+  </data>
+  <data name="GhiChuNapSMSMobile">
+    <value>&lt;ul&gt; &lt;li&gt; Oras ng pagpoproseso na 30 segundo - 60 segundo &lt;/li&gt; &lt;li&gt; Pansinin ang spacing ng syntax &lt;/li&gt; &lt;li&gt; Suriin nang sapat ang ID, kung maling ID ang nailagay ay hindi idadagdag ang CHIPS &lt; /li&gt; &lt;/ul&gt;</value>
+  </data>
+  <data name="MenhGia">
+    <value>Mga denominasyon</value>
+  </data>
+  <data name="ValidationMenhGiaThe">
+    <value>Mangyaring piliin ang halaga ng card</value>
+  </data>
+  <data name="ValidationPayment">
+    <value>Pakilagay ang serial at card code</value>
+  </data>
+  <data name="ValidationPayment2">
+    <value>Mangyaring mag-login upang i-load ang card</value>
+  </data>
+  <data name="ValidationPayment3">
+    <value>Walang account</value>
+  </data>
+  <data name="ValidationPayment4">
+    <value>Di-wastong impormasyon ng card (Code: {0})</value>
+  </data>
+  <data name="ValidationPayment5">
+    <value>Error habang pinoproseso ang {0}</value>
+  </data>
+  <data name="ValidationPayment6">
+    <value>Di-wastong impormasyon ng card, pakisubukang muli</value>
+  </data>
+  <data name="LogCardTransNapGoldSuccess">
+    <value>Matagumpay na nabayaran ang VND {0} card. Iginawad ka ng &lt;strong&gt; {1} &lt;/strong&gt; Chip sa account</value>
+  </data>
+  <data name="AccountReceiveNotExists">
+    <value>Ang receiving account ay walaAng receiving account ay wala</value>
+  </data>
+  <data name="AccountTransferMoneyLockedOut">
+    <value>Ang account kung saan mo gustong maglipat ng pera ay kasalukuyang naka-lock out!</value>
+  </data>
+  <data name="AccountTransferNotYetVip">
+    <value>Ang account na gusto mong ilipat ay hindi pa umabot sa VIP</value>
+  </data>
+  <data name="AccountTransferVipLevelNotSatisfactory">
+    <value>Ang account na ito ay hindi nakakatugon sa VIP na kinakailangan upang makatanggap ng CHIPS transfer</value>
+  </data>
+  <data name="ValidAccount">
+    <value>Wastong account</value>
+  </data>
+  <data name="NumberOfTransferDivisible">
+    <value>Ang bilang ng mga paglilipat ay dapat na mahahati ng {0}!</value>
+  </data>
+  <data name="NumberOfMovesSmaller">
+    <value>Ang bilang ng mga galaw ay dapat na mas maliit {0}!</value>
+  </data>
+  <data name="LoginSession">
+    <value>Naabot mo na ang dulo ng session sa pag-log in</value>
+  </data>
+  <data name="CannotTransferCoinYourSeft">
+    <value>Hindi ka maaaring maglipat ng barya sa iyong sarili</value>
+  </data>
+  <data name="AccountTransferLockedPleaseCSKH">
+    <value>Ang account na gusto mong ilipat coin ay kasalukuyang naka-lock. Mangyaring CSKH</value>
+  </data>
+  <data name="AccountNotRoleCoinTransfer">
+    <value>Wala kang karapatang maglipat ng barya!</value>
+  </data>
+  <data name="AccountIsNotEnoughMakeTransaction">
+    <value>Ang bilang ng mga barya sa account ay hindi sapat upang magawa ang transaksyon</value>
+  </data>
+  <data name="TransferCoinSuccessfully">
+    <value>Matagumpay na maglipat ng barya</value>
+  </data>
+  <data name="AccountLockTransferGold">
+    <value>Ang iyong account ay kasalukuyang naka-lock out sa CHIPS</value>
+  </data>
+  <data name="AccountNotYetVip">
+    <value>Ang iyong account ay hindi umabot sa VIP</value>
+  </data>
+  <data name="AccountRequiredVip">
+    <value>Ang iyong antas ng VIP account ay hindi kasiya-siya</value>
+  </data>
+  <data name="AccountExceedTransferOrTransferGold">
+    <value>Lumampas ka sa bilang ng mga transaksyon o sa halagang pinapayagan sa araw</value>
+  </data>
+  <data name="TitleMessBonusDepoistFisrt">
+    <value>Pag-promote ng unang deposito</value>
+  </data>
+  <data name="ContentMessBonusDepoistFisrt">
+    <value>Makakatanggap ka ng 10% na promosyon kapag nag-load ka ng Coin sa unang pagkakataon. Nais mong masaya sa paglalaro!</value>
+  </data>
+  <data name="ContentNoteDeposit">
+    <value>Pagkatapos makumpleto ang transaksyon, mangyaring maghintay ng 5 hanggang 15 minuto. Ang mga chip ay idaragdag sa iyong account. Ang bawat tanong o alalahanin ay kailangang suportahan, mangyaring makipag-ugnayan sa email:ABC.help@gmail.com</value>
+  </data>
+  <data name="FsCashOut_MinWithdraw">
+    <value>Halagang na-withdraw ng hindi bababa sa ${0}</value>
+  </data>
+  <data name="FsCashOut_MessageValidation">
+    <value>Hindi sapat ang iyong CHIPS para ma-withdraw</value>
+  </data>
+  <data name="FsCashOut_MessageValidation1">
+    <value>Ang wing account code ay hindi wasto</value>
+  </data>
+  <data name="FsCashOut_MessageValidation2">
+    <value>Lumampas ka sa bilang ng mga oras ng araw, hanggang {0} (na) beses / araw</value>
+  </data>
+  <data name="FsCashOut_MessageValidation3">
+    <value>Ang bilang ng mga user ay nagbago sa araw, ang maximum na {0} mga user / araw</value>
+  </data>
+  <data name="FsCashOut_MessageValidation4">
+    <value>Ang balanse pagkatapos ng withdrawal ay dapat na hindi bababa sa {0} Coin</value>
+  </data>
+  <data name="FsCashOut_MessageValidation5">
+    <value>Dapat kang magdeposito nang hindi bababa sa {0} beses</value>
+  </data>
+  <data name="FsCashOut_RequestSuccess">
+    <value>Kahilingan na ដក ng pera mula sa wing wallet: {0}@wing ${1} ay nakumpleto na</value>
+  </data>
+  <data name="FsCashOut_RequestSuccess2">
+    <value>Matagumpay na kahilingan sa pag-withdraw</value>
+  </data>
+  <data name="FsCashOut_HistoryCashOutTitle">
+    <value>Kasaysayan</value>
+  </data>
+  <data name="FsCashOut_HistoryCashOut_Col_Amount">
+    <value>Halaga</value>
+  </data>
+  <data name="FsCashOut_HistoryCashOut_Col_Status">
+    <value>Katayuan</value>
+  </data>
+  <data name="FsCashOut_Status_DescRequest">
+    <value>Ipinadala ang kahilingan</value>
+  </data>
+  <data name="FsCashOut_Status_DescSuccess">
+    <value>Tagumpay</value>
+  </data>
+  <data name="FsCashOut_Status_DescCancel">
+    <value>Tanggihan</value>
+  </data>
+  <data name="FsCashOut_Status_DescProcessing">
+    <value>Pinoproseso</value>
+  </data>
+  <data name="FsCashOut_Status_DescError">
+    <value>Pinoproseso</value>
+  </data>
+  <data name="FsCashOut_Status_DescCallbackReturnError">
+    <value>Error sa pagtawag ulit</value>
+  </data>
+  <data name="FsCashOut_lableSoDu">
+    <value>Ang iyong balanse &lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; (katumbas ng $&lt;strong class="ohyea__color-yellow"&gt;{1}&lt;/strong&gt;)</value>
+  </data>
+  <data name="FsCashOut_lableTyGia">
+    <value>Rate ng palitan: &lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; = $&lt;strong class="ohyea__color-yellow"&gt;{1}&lt;/strong&gt;</value>
+  </data>
+  <data name="FsCashOut_lableSoDu2">
+    <value>Ang iyong balanse &lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; (katumbas ng &lt;strong class="ohyea__color-yellow"&gt;{1}{2}&lt;/strong&gt;)</value>
+  </data>
+  <data name="FsCashOut_lableTyGia2">
+    <value>Exchange rate: &lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; = &lt;strong class="ohyea__color-yellow"&gt;{1}{2}&lt;/strong&gt;</value>
+  </data>
+  <data name="FsCashOut_lableBanMuonRutBnhieu">
+    <value>Magkano pera ang gusto mong bawiin?</value>
+  </data>
+  <data name="FsCashOut_lableChonMenhGia">
+    <value>Pakipili</value>
+  </data>
+  <data name="FsCashOut_btnNext">
+    <value>Susunod</value>
+  </data>
+  <data name="FsCashOut_btnBack">
+    <value>Bumalik</value>
+  </data>
+  <data name="FsCashOut_btnRutTien">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableDienTKWing">
+    <value>Ipasok ang iyong Wing account para makatanggap ng pera</value>
+  </data>
+  <data name="FsCashOut_lableDienPhone">
+    <value>Ilagay ang iyong numero ng telepono para makatanggap ng pera</value>
+  </data>
+  <data name="FsCashOut_lableSupport">
+    <value>Mangyaring makipag-ugnayan sa Customer Support sa pamamagitan ng Hotmail</value>
+  </data>
+  <data name="FsCashOut_CoinAndAmountNotMatch">
+    <value>Hindi magkatugma ang CHIPS at Halaga, pakisubukang muli sa ibang pagkakataon.</value>
+  </data>
+  <data name="FsCashOut_Status_ErrorSubtractGold">
+    <value>Error kapag Ibinawas ang CHIPS , pakisubukang muli sa ibang pagkakataon.</value>
+  </data>
+  <data name="FsCashOut_Status_EnoughGold">
+    <value>Hindi sapat ang CHIPS</value>
+  </data>
+  <data name="FsCashOut_MessageValidationType">
+    <value>Walang laman o di-wasto ang uri</value>
+  </data>
+  <data name="FsCashOut_MessageValidationAddress">
+    <value>Di-wastong output address: Masamang address [{0}], dapat ay may 40 character.</value>
+  </data>
+  <data name="FsCashOut_Amount">
+    <value>Halaga</value>
+  </data>
+  <data name="FsCashOut_Type">
+    <value>Uri</value>
+  </data>
+  <data name="FsCashOut_CoinAddress">
+    <value>(**)code ng lugar</value>
+  </data>
+  <data name="FsCashOut_Coinleast">
+    <value>Kailangan mo ng hindi bababa sa {0} CHIPS sa ដក</value>
+  </data>
+  <data name="DepositCoin_Step1">
+    <value>&lt;strong&gt;Hakbang 1:&lt;/strong&gt; Lumikha ng ETH account at bumili ng ETH sa Cryto-Wallet sa &lt;a class="ohyea__color-yellow" href="https://remitano.com" target="_blank"&gt;Remitano.com &lt;/a&gt;, &lt;a class="ohyea__color-yellow" href="https://www.blockchain.com/explorer" target="_blank"&gt;Blockchain.info&lt;/a&gt;, &lt;a class="ohyea__color- yellow" href="https://www.coinbase.com/dashboard" target="_blank"&gt;Coinbase.com&lt;/a&gt;(Paano gumawa ng ETH-wallet?)&lt;/a&gt;</value>
+  </data>
+  <data name="DepositCoin_Step2">
+    <value>&lt;strong&gt;Hakbang 2:&lt;/strong&gt; Kapag mayroon ka nang ETH sa iyong wallet &gt;&gt; Pindutin ang ដក sa Crypto-Wallet at ilagay ang halaga ng ETH para sa pag-withdraw upang makabili ng CHIPS &lt;a class="ohyea__color-yellow" href="javascript:" onclick="ClientWebHelper.ShowPopUpArticleDetail('GUIDE',{1})"&gt;(Paano bumili ng Chips Sa {0}?)&lt;/a&gt;&lt;br /&gt;</value>
+  </data>
+  <data name="DepositCoin_Step2_Note">
+    <value>(*) Address code ay ang iyong ETH Account sa {0}</value>
+  </data>
+  <data name="DepositCoin_Step3">
+    <value></value>
+  </data>
+  <data name="WithdrawCoin_Step1">
+    <value>&lt;strong&gt;Hakbang 1:&lt;/strong&gt; Lumikha ng ETH account at bumili ng ETH sa Cryto-Wallet sa &lt;a class="ohyea__color-yellow" href="https://remitano.com" target="_blank"&gt;Remitano.com &lt;/a&gt;, &lt;a class="ohyea__color-yellow" href="https://www.blockchain.com/explorer" target="_blank"&gt;Blockchain.info&lt;/a&gt;, &lt;a class="ohyea__color- yellow" href="https://www.coinbase.com/dashboard" target="_blank"&gt;Coinbase.com&lt;/a&gt;(Paano gumawa ng ETH-wallet?)&lt;/a&gt;</value>
+  </data>
+  <data name="WithdrawCoin_Step2">
+    <value>&lt;strong&gt;Hakbang 2:&lt;/strong&gt; Pumili ng halaga ng pera na gusto mong ដក sa iyong Crypto-Wallet. Ibawas ng {0} ang mga Chip ayon sa cryptocurrency na gusto mong bawiin. I-paste ang iyong Cryto-Wallet Address Code &lt;a class="ohyea__color-yellow" href="javascript:" onclick="ClientWebHelper.ShowPopUpArticleDetail('GUIDE',{1})"&gt;(Paano ដក ETH mula sa {0}?) &lt;/a&gt;</value>
+  </data>
+  <data name="WithdrawCoin_Step2_Note">
+    <value>(**)Address code ay ang iyong ETH account sa &lt;a class="ohyea__color-yellow" href="https://remitano.com" target="_blank"&gt;Remitano&lt;/a&gt;/ &lt;a class="ohyea__color- yellow" href="https://www.blockchain.com/explorer" target="_blank"&gt;Blockchain&lt;/a&gt;/ &lt;a class="ohyea__color-yellow" href="https://www.coinbase.com /dashboard" target="_blank"&gt;Coinbase&lt;/a&gt;/ …</value>
+  </data>
+  <data name="WithdrawCoin_Step3">
+    <value>&lt;strong&gt;Hakbang 3:&lt;/strong&gt; Pindutin ang "Isumite". Maghintay ng 5 - 15 minuto para sa nakumpletong transaksyon at suriin ang iyong pitaka.&lt;br /&gt;Kung hindi ka makakatanggap ng mga chips pagkalipas ng 15 minuto, mangyaring makipag-ugnayan sa amin upang mag-email:</value>
+  </data>
+  <data name="WithdrawCoin_FsCashOut_RateCashInAndCashOutForUser">
+    <value>Kabuuang ដក sa araw / user na mas mababa sa 2.5 na deposito</value>
+  </data>
+  <data name="FsCashOut_RateCashInAndCashOutForServer">
+    <value>Pakisubukang muli bukas</value>
+  </data>
+  <data name="FsCashOut_Account_IsBanWithdraw">
+    <value>Ipinagbabawal ang Pag-withdraw ng Account</value>
+  </data>
+  <data name="DepositCoin_Noted">
+    <value>Napansin: Isang beses lang magagamit ang Wallet address sa abc.net. Sa susunod na pagbili ng CHIPS, kailangang i-refresh ng player upang makatanggap ng bagong address.</value>
+  </data>
+  <data name="Tab_TitleDeposit">
+    <value>Deposito</value>
+  </data>
+  <data name="Tab_TitleWithDraw">
+    <value></value>
+  </data>
+  <data name="Tab_TitleHistoryWithDraw">
+    <value>History Withdraw</value>
+  </data>
+  <data name="Tab_TitleDepositETH">
+    <value>Ideposito ang ETH</value>
+  </data>
+  <data name="Tab_TitleWithDrawETH">
+    <value>ដក ETH</value>
+  </data>
+  <data name="Deposit_btnBuy">
+    <value>BUMILI</value>
+  </data>
+  <data name="Deposit_FeedBack_Title">
+    <value>Pagpapadala ng Error sa Deposit</value>
+  </data>
+  <data name="Deposit_FeedBack_Amount">
+    <value>Halaga</value>
+  </data>
+  <data name="Deposit_FeedBack_WingAccount">
+    <value>Wing Account</value>
+  </data>
+  <data name="Deposit_FeedBack_TID">
+    <value>TID</value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationCardType">
+    <value>Di-wasto ang uri ng pagbabayad</value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationAmount">
+    <value>Hindi dapat blangko ang value at mas mataas ito sa 0,5 at mas mababa sa 10.000</value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationWingAccount">
+    <value>Ang wing account / numero ng telepono ay hindi dapat blangko at hindi hihigit sa 100 character</value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationTID">
+    <value>Ang TID / Code Error ay hindi dapat blangko at maximum na 100 character</value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationCaptcha">
+    <value>Hindi maaaring blangko ang captcha code</value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationLimitInDay">
+    <value>Hindi maaaring blangko ang captcha code</value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationSendDelay">
+    <value>Mangyaring maghintay ng {0} minuto para sa susunod na pagpapadala ng error</value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationExists">
+    <value>Ang feedback na ito ay umiral na</value>
+  </data>
+  <data name="Deposit_FeedBack_Success">
+    <value>Matagumpay na nagpapadala ng feedback</value>
+  </data>
+  <data name="Deposit_FeedBack_Error">
+    <value>Nabigong ipadala ang feedback. Mangyaring makipag-ugnayan sa aming Customer Support</value>
+  </data>
+  <data name="Deposit_FeedBack_CardType_V2">
+    <value>Pumili ng error deposit Wing/ Smart/ Cellcard</value>
+  </data>
+  <data name="Deposit_FeedBack_CardAmount_V2">
+    <value>Halaga ng deposito</value>
+  </data>
+  <data name="Deposit_FeedBack_PinCard_V2">
+    <value>Wing Account Number/ Phone Number bumili ng CHIPS sa pamamagitan ng Smart/ Cellcard</value>
+  </data>
+  <data name="Deposit_FeedBack_Serial_V2">
+    <value>Ilagay ang TID Wing/ error sa coda</value>
+  </data>
+  <data name="Deposit_FeedBack_BtnSend_V2">
+    <value>Ulat ng Error</value>
+  </data>
+  <data name="Deposit_FeedBack_Noted_V2">
+    <value>*Mangyaring magbigay ng kinakailangang impormasyon upang mas mabilis naming masuportahan ang iyong error sa pagdeposito.</value>
+  </data>
+  <data name="Deposit_FeedBack_V2_CardType_Title">
+    <value>Uri ng Pagbabayad</value>
+  </data>
+  <data name="Deposit_FeedBack_V2_CardAmount_Title">
+    <value>Halaga</value>
+  </data>
+  <data name="Deposit_FeedBack_V2_PinCard_Title">
+    <value>Wing/ Telepono</value>
+  </data>
+  <data name="Deposit_FeedBack_V2_Serial_Title">
+    <value>Nilalaman ng TID Wing/ Error</value>
+  </data>
+  <data name="Deposit_FeedBack_V2_Status_Title">
+    <value>Katayuan</value>
+  </data>
+  <data name="Deposit_FeedBack_V2_Createdate_Title">
+    <value>Oras</value>
+  </data>
+  <data name="Deposit_FeedBack_StatusEnum_Createnew">
+    <value>Bago</value>
+  </data>
+  <data name="Deposit_FeedBack_StatusEnum_Processing">
+    <value>Pinoproseso</value>
+  </data>
+  <data name="Deposit_FeedBack_StatusEnum_Success">
+    <value>Tagumpay</value>
+  </data>
+  <data name="Deposit_FeedBack_StatusEnum_Reject">
+    <value>Tanggihan</value>
+  </data>
+  <data name="HOW_TO_BUY">
+    <value>Kung paano bumili ng?</value>
+  </data>
+  <data name="Deposit_W5_Note_1">
+    <value>Hakbang 1: Ilagay ang iyong Wing account number. Sisingilin ka</value>
+  </data>
+  <data name="Deposit_W5_Note_2">
+    <value>Hakbang 2: Tandaan: dapat kang maglipat ng tama sa Wing wallet sa ibaba, hindi namin masusuportahan kung lumipat ka sa maling wing account. Ang Wing account number ay babaguhin sa tuwing ikaw ay magdeposito, dapat mong suriin ang eksaktong wing account number bago ilipat sa form na deposito</value>
+  </data>
+  <data name="Deposit_W5_WING_ID_INPUT">
+    <value>Ilagay ang account number</value>
+  </data>
+  <data name="Deposit_W5_WING_ID">
+    <value>Wing ID</value>
+  </data>
+  <data name="Deposit_W5_WING_Account_Name">
+    <value>Pangalan ng Account</value>
+  </data>
+  <data name="Deposit_W5_Success_1">
+    <value>Matagumpay na bumili</value>
+  </data>
+  <data name="Deposit_W5_Success_2">
+    <value>sa user id</value>
+  </data>
+  <data name="Deposit_W5_Success_2_2">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_Success_3">
+    <value>Salamat sa paglalaro!</value>
+  </data>
+  <data name="Deposit_W5_WING_ID_Valid_1">
+    <value>Di-wasto ang iyong account number</value>
+  </data>
+  <data name="Deposit_W5_Submit_Notice">
+    <value>Natanggap namin ang iyong paunawa, mangyaring maghintay ng ilang sandali upang maidagdag ang CHIPS</value>
+  </data>
+  <data name="WingTransactionFindID_NotExistsTID">
+    <value>Wala ang TID</value>
+  </data>
+  <data name="WingTransactionFindID_PleaseWaitting">
+    <value>Mangyaring maghintay ng {0} minuto upang maghanap muli</value>
+  </data>
+  <data name="WingTransactionFindID_NotEmptyTID">
+    <value>Pakilagay ang TID</value>
+  </data>
+  <data name="WingTransactionFindID_TID_Placeholder">
+    <value>Ipasok ang TID</value>
+  </data>
+  <data name="WingTransactionFindID_Btn_Search">
+    <value>Maghanap</value>
+  </data>
+  <data name="WingTransactionFindID_Amount_Label">
+    <value>Halaga</value>
+  </data>
+  <data name="WingTransactionFindID_TransactionDate_Label">
+    <value>Petsa ng transaksyon</value>
+  </data>
+  <data name="WingTransactionFindID_UserID_Label">
+    <value>User ID</value>
+  </data>
+  <data name="WingTransactionFindID_DisplayName_Label">
+    <value>Naka display na Pangalan</value>
+  </data>
+  <data name="WingTransactionFindID_FindMyTID">
+    <value>Hanapin ang aking TID</value>
+  </data>
+  <data name="History_Deposit_Title">
+    <value>Deposito sa Kasaysayan</value>
+  </data>
+  <data name="History_Deposit">
+    <value>Deposito sa Kasaysayan</value>
+  </data>
+  <data name="TransferGoldAccountSender">
+    <value>*Ang nagpadala</value>
+  </data>
+  <data name="TransferCoinMustHigerEqual">
+    <value>Ang halaga ng CHIPS ay dapat na mas mataas o katumbas &gt;= {0}</value>
+  </data>
+  <data name="TransferCoinMustDevi">
+    <value>Ang halaga ng CHIPS ay dapat mahahati sa {0}</value>
+  </data>
+  <data name="Metfone_Limits_PerDay">
+    <value>Maaari kang magdeposito sa pamamagitan ng Metfone (Ang maximum ay 10 transaksyon/bawat araw at hindi hihigit sa 100$/bawat araw)</value>
+  </data>
+  <data name="Withdrawal_successful_maill_title">
+    <value>Matagumpay ang pag-withdraw ng ${0}.</value>
+  </data>
+  <data name="Withdrawal_successful_maill_content">
+    <value>Ang iyong pag-withdraw ay matagumpay, pakitingnan ang iyong Wing TID {0}. Sana maging masaya ka!</value>
+  </data>
+  <data name="choose_amount_to_top_up">
+    <value>Mangyaring piliin ang halaga upang mag-top up</value>
+  </data>
+  <data name="top_up_phone_number_incorrect">
+    <value>Ang iyong numero ng telepono ay hindi tama</value>
+  </data>
+  <data name="top_up_money_choosing_incorrect">
+    <value>Mali ang pagpili mo ng pera</value>
+  </data>
+  <data name="top_up_check_phone_number_and_confirm">
+    <value>Pakisuri muli ang Numero ng Telepono at kumpirmahin na ito ang iyong Numero ng Telepono!</value>
+  </data>
+  <data name="top_up_deposit_succeed">
+    <value>Ang kahilingan sa pag-top up mula sa numero ng telepono [{0}] ${1} ay nagtagumpay</value>
+  </data>
+  <data name="top_up_deposit_succeed_check_again">
+    <value>Ang kahilingan sa pag-top up mula sa numero ng telepono [{0}] ${1} ay nagtagumpay, pakisuri muli ang iyong numero ng telepono. Sana maging masaya ka</value>
+  </data>
+  <data name="top_up_transaction_phone_incorrect">
+    <value>Ang transaksyon ay hindi ginawa dahil ang iyong numero ng telepono ay hindi tama</value>
+  </data>
+  <data name="top_up_transaction_refund">
+    <value>Ang numero ng telepono na inilagay ay hindi wasto, ang admin ay na-refund, mangyaring mag-top up muli gamit ang tamang numero ng telepono</value>
+  </data>
+  <data name="top_up_transaction_coinnotvalid">
+    <value>Wala kang sapat na CHIPS para makapag-top up ng ${0}</value>
+  </data>
+  <data name="top_up_transaction_coinneed">
+    <value>I-TOP UP ang ${0} para sa {1}, Bilang ng CHIPS na kailangan {2}</value>
+  </data>
+  <data name="top_up_enter_phone_here">
+    <value>Ilagay ang iyong numero ng telepono na gusto mong i-top up dito</value>
+  </data>
+  <data name="topup_name">
+    <value>Pinakamataas Pataas</value>
+  </data>
+  <data name="top_up_metfone_currentlyUnavailable">
+    <value>*Tandaan: Kasalukuyang hindi available ang Metfone Pinless Top UP, Pakisubukan gamit ang Cellcard/ Smart card</value>
+  </data>
+  <data name="Deposit_PIPAY_AccountID">
+    <value>Pi Pay Account ID</value>
+  </data>
+  <data name="Deposit_PIPAY_AccountName">
+    <value>Pangalan ng Pi Pay Account</value>
+  </data>
+  <data name="Deposit_PIPAY_Note1">
+    <value>Hakbang 1: Ilagay ang iyong Pi Pay account number. Sisingilin ka ng ${0}</value>
+  </data>
+  <data name="Deposit_PIPAY_Note2">
+    <value>Hakbang 2: Tandaan: dapat kang maglipat ng tama sa Pi Pay wallet sa ibaba, hindi namin masusuportahan kung malilipat ka sa maling Pi Pay account. Ang Pi Pay account number ay babaguhin sa tuwing magdedeposito ka, dapat mong tingnan ang eksaktong Pi Pay account number bago ilipat sa form na deposito</value>
+  </data>
+  <data name="sms_spam_warning">
+    <value>Tandaan: Nagdeposito ka ng higit sa limitasyong {0} (na) mensahe/araw. Kung patuloy kang magdedeposito ng {1}, makakatanggap ka ng {2} CHIPS. Ang mga problemang ito ay hindi susuportahan ng ADMIN.</value>
+  </data>
+  <data name="sms_spam_warning_title">
+    <value>Magdeposito sa limitasyong {0} (na) mensahe/araw</value>
+  </data>
+  <data name="PIPAY_NUMBER_ARE_YOU_SURE">
+    <value>Pakisuri muli ang iyong Pi Pay Account Number {0} at kumpirmahin na ito ang iyong Pi Pay Account Number</value>
+  </data>
+  <data name="FsCashOut_lableDienTKPiPay">
+    <value>Ilagay ang iyong Pi Pay account para makatanggap ng pera</value>
+  </data>
+  <data name="Tab_TitleWithDraw_PiPay">
+    <value>ដកPi Pay</value>
+  </data>
+  <data name="Deposit_btnWithdraw">
+    <value></value>
+  </data>
+  <data name="default_par_value_withdraw">
+    <value>Piliin ang halaga sa ibaba o ilagay ang halaga ng pera na gusto mong ដក dito.</value>
+  </data>
+  <data name="Tab_TitleWithDraw_Wing">
+    <value>ដកWing</value>
+  </data>
+  <data name="FsCashOut_PiPay_RequestSuccess">
+    <value>Kahilingan na ដក ng pera mula sa Pi Pay wallet: {0}@pipay ${1} ay nakumpleto na</value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapCam">
+    <value>Mangyaring pumili ng uri ng card sa ដក (Cambodia)</value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapThai">
+    <value></value>
+  </data>
+  <data name="CashoutPipay_MessageTitle_UpdateStatusSuccess">
+    <value>Matagumpay ang pag-withdraw ng ${0}.</value>
+  </data>
+  <data name="CashoutPipay_MessageContent_UpdateStatusSuccess">
+    <value>Ang iyong pag-withdraw ay matagumpay, pakitingnan ang iyong PiPay TID {0}. Sana maging masaya ka!</value>
+  </data>
+  <data name="Deposit_ABA_AccountID">
+    <value>ABA Account ID</value>
+  </data>
+  <data name="Deposit_ABA_AccountName">
+    <value>Pangalan ng Account ng ABA</value>
+  </data>
+  <data name="Deposit_ABA_Note1">
+    <value>Hakbang 1: Ilagay ang iyong ABA account number. Sisingilin ka ng ${0}</value>
+  </data>
+  <data name="Deposit_ABA_Note2">
+    <value>Hakbang 2: Tandaan: dapat kang maglipat ng tama sa wallet ng ABA sa ibaba, hindi namin masusuportahan kung lumipat ka sa maling ABA account. Ang ABA account number ay babaguhin sa tuwing ikaw ay magdeposito, dapat mong suriin ang eksaktong ABA account number bago ilipat sa form na deposito</value>
+  </data>
+  <data name="ABA_NUMBER_ARE_YOU_SURE">
+    <value>Pakisuri muli ang iyong ABA Account Number {0} at kumpirmahin na ito ang iyong ABA Account Number</value>
+  </data>
+  <data name="FsCashOut_lableDienTKABA">
+    <value>Ipasok ang iyong ABA account upang makatanggap ng pera</value>
+  </data>
+  <data name="Tab_TitleWithDraw_ABA">
+    <value>ដកABA</value>
+  </data>
+  <data name="FsCashOut_ABA_RequestSuccess">
+    <value>Kahilingan na ដក ng pera mula sa ABA wallet: {0}@ABA ${1} ay nakumpleto na</value>
+  </data>
+  <data name="CashoutABA_MessageTitle_UpdateStatusSuccess">
+    <value>Matagumpay ang pag-withdraw ng ${0}.</value>
+  </data>
+  <data name="CashoutABA_MessageContent_UpdateStatusSuccess">
+    <value>Ang iyong pag-withdraw ay matagumpay, mangyaring suriin ang iyong ABA Reference {0}. Sana maging masaya ka!</value>
+  </data>
+  <data name="Coin_play_free_game">
+    <value>Coin play ng libreng laro Os Phe, Poker,...</value>
+  </data>
+  <data name="Deposit_WAVE_MONEY_AccountID">
+    <value>KUMABAY Na PERA Account ID</value>
+  </data>
+  <data name="Deposit_WAVE_MONEY_AccountName">
+    <value>WAVE MONEY Pangalan ng Account</value>
+  </data>
+  <data name="Deposit_WAVE_MONEY_Note1">
+    <value>Hakbang 1: Ilagay ang iyong WAVE MONEY account number. Sisingilin ka ng {0} KYAT</value>
+  </data>
+  <data name="Deposit_WAVE_MONEY_Note2">
+    <value>Step 2: Note: dapat magtransfer ka ng tama sa WAVE wallet sa ibaba, hindi namin masusuportahan kung malilipat ka sa WAVE MONEY account. Ang WAVE account number ay babaguhin sa tuwing ikaw ay magdeposito, dapat mong tingnan ang eksaktong WAVE MONEY account number bago ilipat sa form na deposito</value>
+  </data>
+  <data name="WAVE_MONEY_NUMBER_ARE_YOU_SURE">
+    <value>Pakisuri muli ang iyong WAVE MONEY Account Number {0} at kumpirmahin na ito ang iyong WAVE MONEY Account Number</value>
+  </data>
+  <data name="FsCashOut_lableDienTKWAVE_MONEY">
+    <value>Ipasok ang iyong WAVE MONEY account para makatanggap ng pera</value>
+  </data>
+  <data name="Tab_TitleWithDraw_WAVE_MONEY">
+    <value>KUMABAY Ng Pera</value>
+  </data>
+  <data name="FsCashOut_WAVE_MONEY_RequestSuccess">
+    <value>Kahilingan na ដក pera mula sa wallet ng WAVE MONEY: {0}@WAVE MONEY {1} Nakumpleto na ang KYAT</value>
+  </data>
+  <data name="CashoutWAVE_MONEY_MessageTitle_UpdateStatusSuccess">
+    <value>Matagumpay ang pag-withdraw ng ${0}.</value>
+  </data>
+  <data name="CashoutWAVE_MONEY_MessageContent_UpdateStatusSuccess">
+    <value>Ang iyong pag-withdraw ay matagumpay, pakisuri ang iyong WAVE MONEY TID {0}. Sana maging masaya ka!</value>
+  </data>
+  <data name="WAVE_MONEY_TID_successful_mail">
+    <value>Matagumpay mong nadeposito ang WAVE MONEY TID {0} sa aming laro. Magsaya sa ABC</value>
+  </data>
+  <data name="FsCashOutWave_lableTyGia">
+    <value>Pinalit na Bayad: &lt;Malakas class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; = &lt;strong class="ohyea__Kulay-Dilaw"&gt;{1} &lt;/Malakas&gt;KYAT</value>
+  </data>
+  <data name="FsCashOutWave_lableBanMuonRutBnhieu">
+    <value>Magkano pera ang gusto mong bawiin?</value>
+  </data>
+  <data name="FsCashOut_lableDienTKWave">
+    <value>Ipasok ang iyong Wave account upang makatanggap ng pera</value>
+  </data>
+  <data name="WAVE_NUMBER_ARE_YOU_SURE">
+    <value>Pakisuri muli ang iyong WAVE Account Number {0} at kumpirmahin na ito ang iyong WAVE Account Number</value>
+  </data>
+  <data name="FsCashOutWave_lableSoDu">
+    <value>Ang iyong balanse &lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; (katumbas ng &lt;strong class="ohyea__color-yellow"&gt;{1} &lt;/strong&gt;KYAT)</value>
+  </data>
+  <data name="FsCashOutWave_minimum_withdraw">
+    <value>Ang minimum na halaga sa ដក ay {0} KYAT</value>
+  </data>
+  <data name="FsCashOutWave_divisible_withdraw">
+    <value>Ang halagang na-withdraw ay dapat na mahahati ng {0}</value>
+  </data>
+  <data name="FsCashOut_Wave_RequestSuccess">
+    <value>Kahilingan na ដក ng pera mula sa Wave wallet: {0}@Wave {1} Nakumpleto na ang KYAT</value>
+  </data>
+  <data name="CashoutWave_MessageTitle_UpdateStatusSuccess">
+    <value>Matagumpay ang pag-withdraw ng {0} KYAT</value>
+  </data>
+  <data name="CashoutWave_MessageContent_UpdateStatusSuccess">
+    <value>Ang iyong pag-withdraw ay matagumpay, mangyaring suriin ang iyong Wave TID {0}</value>
+  </data>
+  <data name="Coda_warning_withdraw_refund_without_using_game">
+    <value>Kung nag-top up ka ng CODAPAY sa aming laro sa pamamagitan ng top-up form at Sim Cards SMS at gumawa ng ដក o refund nang hindi ginagamit ang laro sa mahabang panahon, isasara ng aming system ang iyong account sa laro, at kukumpirmahin ng aming system ang bawat aksyon patungkol sa mga tagubiling ito.</value>
+  </data>
+  <data name="Config_MaximumSmsDay">
+    <value>Babala: maaari ka lamang magdeposito ng maximum na 30 mensahe sa isang araw</value>
+  </data>
+  <data name="Config_Alert">
+    <value>Gusto mo bang magpatuloy?</value>
+  </data>
+  <data name="Config_TextConfirm">
+    <value>Gusto mo bang magpatuloy?</value>
+  </data>
+  <data name="WalletProductCurrentcyCoin">
+    <value>+{0} CHIPS</value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapMyanmar">
+    <value>Mangyaring piliin ang paraan upang ដក (Myanmar)</value>
+  </data>
+  <data name="Deposit_ClickWhenCompletedTransfer">
+    <value>Kapag nakumpleto mo na ang paglipat, i-click dito go get chips</value>
+  </data>
+  <data name="TRANSFER_CHIPS_FEE_NOTICE">
+    <value>BAYArin sa TRANSFER CHIPS {0}% BAWAT TRANSACTION</value>
+  </data>
+  <data name="MaxDepositInday">
+    <value>Pagpapanatili ng server</value>
+  </data>
+  <data name="Deposit_W6_Note_1">
+    <value>Magpapadala sa iyo si Wing ng mensahe ng kumpirmasyon na may TID kapag nagbayad ka. Mangyaring ipasok ang TID code sa ibaba:</value>
+  </data>
+  <data name="Deposit_W6_WING_TID_Valid_1">
+    <value>Hindi namin makumpirma ang TID na ito. &lt;br /&gt; Kung sigurado kang tama ang TID {0} na ito, ipoproseso namin ang iyong transaksyon sa lalong madaling panahon.</value>
+  </data>
+  <data name="Deposit_W6_Note_2">
+    <value>Mangyaring magdeposito sa account na ipinapakita sa ibaba:</value>
+  </data>
+  <data name="Deposit_W6_WING_ID_INPUT">
+    <value>Ilagay ang account numero</value>
+  </data>
+  <data name="Deposit_W6_WING_ID">
+    <value>Wing ID</value>
+  </data>
+  <data name="Deposit_W6_WING_Account_Name">
+    <value>Pangalan ng Account</value>
+  </data>
+  <data name="Deposit_W6_Success_1">
+    <value>Matagumpay na bumili</value>
+  </data>
+  <data name="Deposit_W6_Success_2">
+    <value>sa ginamit na ID </value>
+  </data>
+  <data name="Deposit_W6_Success_3">
+    <value>Salamat sa paglalaro!</value>
+  </data>
+  <data name="Deposit_W6_WING_ID_Valid_1">
+    <value>Di-wasto ang iyong TID</value>
+  </data>
+  <data name="Deposit_W6_Submit_Notice">
+    <value>Natanggap namin ang iyong paunawa, mangyaring maghintay ng ilang sandali upang maidagdag ang CHIPS</value>
+  </data>
+  <data name="Deposit_W6_Success_2_2">
+    <value>Tagumpay</value>
+  </data>
+  <data name="Deposit_GCASH_AccountID">
+    <value>GCASH Account ID</value>
+  </data>
+  <data name="Deposit_GCASH_AccountName">
+    <value>Pangalan ng GCASH Account</value>
+  </data>
+  <data name="Deposit_GCASH_Note1">
+    <value>Hakbang 1: Ilagay ang iyong GCASH account number. Sisingilin ka ng ₱{0}</value>
+  </data>
+  <data name="Deposit_GCASH_Note2">
+    <value>Step 2: Note: you must transfer correctly to the GCASH wallet below, we will not be able to support if you transfer to wrong GCASH account. The GCASH account number will be changed every time when you deposit, you should check the exact GCASH  account number before transfering in the form deposit</value>
+  </data>
+  <data name="GCASH_NUMBER_ARE_YOU_SURE">
+    <value>Pakisuri muli ang iyong GCASH Account Number {0} at kumpirmahin na ito ang iyong GCASH Account Number</value>
+  </data>
+  <data name="Tab_TitleWithDraw_GCASH">
+    <value>ដកGCASH</value>
+  </data>
+  <data name="CashoutGCASH_MessageTitle_UpdateStatusSuccess">
+    <value>Matagumpay ang withdrawal ₱{0}.</value>
+  </data>
+  <data name="CashoutGCASH_MessageContent_UpdateStatusSuccess">
+    <value>Ang iyong pag-withdraw ay matagumpay, pakitingnan ang iyong GCASH TID {0}. Sana maging masaya ka!</value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapPhilippine">
+    <value>Mangyaring piliin ang paraan sa Philippine</value>
+  </data>
+  <data name="FsCashOutGCash_lableTyGia">
+    <value>Pagpalit ng kabayaran: &lt;Malakas na kalse="ohyea__kulay-Dilaw"&gt;{0}&lt;/Malakas&gt; = ₱&lt;malakas klase="ohyea__kulay-dilaw"&gt;{1} &lt;/malakas&gt;</value>
+  </data>
+  <data name="FsCashOutGCash_lableSoDu">
+    <value>IYONG balanse &lt;malakas klase="ohyea__kulay-dilaw"&gt;{0}&lt;/malakas&gt; (patas to₱&lt;malakas klase="ohyea__kulay-dilaw"&gt;{1} &lt;/malakas&gt;)</value>
+  </data>
+  <data name="FsCashOutGCash_minimum_withdraw">
+    <value>Ang minimum na halaga sa ដក ay ₱{0}</value>
+  </data>
+  <data name="FsCashOutGCash_divisible_withdraw">
+    <value>Ang halagang na-withdraw ay dapat na mahahati ng {0}</value>
+  </data>
+  <data name="FsCashOutGCash_lableBanMuonRutBnhieu">
+    <value>Magkano pera ang gusto mong bawiin?</value>
+  </data>
+  <data name="FsCashOut_lableDienTKGCash">
+    <value>Ilagay ang iyong GCASH account para makatanggap ng pera</value>
+  </data>
+  <data name="WAITING...">
+    <value>NAGHIHINTAY...</value>
+  </data>
+  <data name="TopupSuccess">
+    <value>TAGUMPAY NG TOPUPTAGUMPAY NG TOPUP</value>
+  </data>
+  <data name="Waiting">
+    <value>NAGHIHINTAY...</value>
+  </data>
+  <data name="WAVE_Service_Maintenance">
+    <value>Ang wave wallet ay nasa ilalim ng pagpapanatili, mangyaring bumalik mamaya! Salamat sa iyong pag-unawa</value>
+  </data>
+  <data name="ABA_Service_Maintenance">
+    <value>Aba wallet is under maintenance please balik mamaya! Salamat sa iyong pag-unawa</value>
+  </data>
+  <data name="DepositWalletAccountNotNull">
+    <value>DepositWalletAccountNotNull</value>
+  </data>
+  <data name="GCASH_TID_successful_mail">
+    <value>Matagumpay mong nadeposito ang GCASH TID {0} sa aming laro. Magsaya sa ABC</value>
+  </data>
+  <data name="GCASH_Service_Maintenance">
+    <value>Ang GCASH wallet ay nasa ilalim ng maintenance mangyaring bumalik mamaya! Salamat sa iyong pag-unawa</value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapPhilippines">
+    <value>Mangyaring piliin ang paraan upang ដក (Philippines)</value>
+  </data>
+  <data name="FsCashOut_GCash_RequestSuccess">
+    <value>Kahilingan na ដក ng pera mula sa GCASH wallet: {0}@GCASH ₱{1} ay nakumpleto na</value>
+  </data>
+  <data name="MessageFirstPurchase">
+    <value>{0}% pang coin para sa iyong unang pagbili</value>
+  </data>
+  <data name="Please_deposit_more_to_withdraw">
+    <value>Mangyaring magdeposito ng higit pa upang mag-withdraw</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_OneTimeOffer_Title">
+    <value>SaAppBumili_Bumili_Pansinin_IsangOrasAlok_Pamagat</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_OneTimeOffer_Content">
+    <value>SaAppBumili_Bumili_Pansinin_IsangOrasAlok_nilalaman</value>
+  </data>
+  <data name="InAppPurchase_Thanks_First_Purchase_Title">
+    <value>SaAppBumili_Salamat_Unang_Bumili_Pamagat</value>
+  </data>
+  <data name="InAppPurchase_Thanks_First_Purchase_Content">
+    <value>SaAppBumili_Salamat_Unang_Bumili_Nilalaman</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_SubscribePackage_Title">
+    <value>SaAppBumili_Bumili_Nilalaman_Magsubscribrpackage_Pamagat</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_SubscribePackage_{X}_Content">
+    <value>SaAppBumili_Bumili_Nilalaman_Magsubscribrpackage_Nilalaman</value>
+  </data>
+  <data name="Deposit_new_wallet">
+    <value>Bago</value>
+  </data>
+  <data name="WalletProductNotConfig" xml:space="preserve">
+    <value>Hindi Config ang Produkto ng Wallet</value>
+  </data>
+  <data name="FsCashOut_GCASH_RequestSuccess" xml:space="preserve">
+    <value>Kahilingan na ដក ng pera mula sa GCASH wallet: {0}@GCASH ₱{1} ay nakumpleto na</value>
+  </data>
+  <data name="ACCOUNT_OR_TID_INVALID" xml:space="preserve">
+    <value>Your account number or tid invalid</value>
+  </data>
+</LocalLanguages>

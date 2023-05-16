@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="Game_415" xml:space="preserve">
+    <value>លេងហ្គេម Sicbo Mini</value>
+  </data>
+  <data name="Game_412" xml:space="preserve">
+    <value>POKER SOLO</value>
+  </data>
+  <data name="Game_-1" xml:space="preserve">
+    <value>រង្វង់បង្វិលសំណាង</value>
+  </data>
+  <data name="Game_434" xml:space="preserve">
+    <value>Kdam Klouk</value>
+  </data>
+  <data name="Game_Type_Fishing">
+    <value>Fishing Game</value>
+  </data>
+  <data name="Game_Type_Slot_Game">
+    <value>Slot Game</value>
+  </data>
+  <data name="Game_500">
+    <value>ល្បែកម្រិតឡើងនេសាទ</value>
+  </data>
+  <data name="Game_425">
+    <value>TEXAS HOLD 'EM POKER</value>
+  </data>
+  <data name="Game_424">
+    <value>មហាសេដ្ឋី</value>
+  </data>
+  <data name="Game_420">
+    <value>SAMURAI</value>
+  </data>
+  <data name="Game_419">
+    <value>ប្រជាជនដើម</value>
+  </data>
+  <data name="Game_417">
+    <value>ទេវតា</value>
+  </data>
+  <data name="Game_416">
+    <value>ទេពសត្វ</value>
+  </data>
+  <data name="Game_411">
+    <value>សាមកុក</value>
+  </data>
+  <data name="Game_410">
+    <value>នាគមាស</value>
+  </data>
+  <data name="Game_409">
+    <value>សំណាង</value>
+  </data>
+  <data name="Game_408">
+    <value>បង្វិលសំណាង</value>
+  </data>
+  <data name="Game_407">
+    <value>JACKPOT</value>
+  </data>
+  <data name="Game_406">
+    <value>Golden Turtle</value>
+  </data>
+  <data name="Game_402">
+    <value>ផ្លែឈើ</value>
+  </data>
+  <data name="Game_209">
+    <value>ក្រឡុកចាន</value>
+  </data>
+  <data name="Game_201">
+    <value>សឹមឡុក</value>
+  </data>
+  <data name="Game_200">
+    <value>តាយស៊ីវ</value>
+  </data>
+  <data name="Game_48">
+    <value>តាយស៊ីវ</value>
+  </data>
+  <data name="Game_42">
+    <value>ស៊ីតូ</value>
+  </data>
+  <data name="Game_41">
+    <value>ផម</value>
+  </data>
+  <data name="Game_40">
+    <value>ទៀនលេន</value>
+  </data>
+  <data name="Game_34">
+    <value>មូវបិញ</value>
+  </data>
+  <data name="Game_1">
+    <value>LUCKY SPIN</value>
+  </data>
+  <data name="Game_3">
+    <value>LUCKY SPIN</value>
+  </data>
+  <data name="Game_421">
+    <value>SUPER 777</value>
+  </data>
+  <data name="Game_422">
+    <value>SUPER FORTUNE</value>
+  </data>
+  <data name="Game_423">
+    <value>មហាសេដ្ឋី</value>
+  </data>
+  <data name="Game_428">
+    <value>DRACULA</value>
+  </data>
+  <data name="Game_429">
+    <value>PACMAN</value>
+  </data>
+  <data name="Game_430">
+    <value>BIGTWO</value>
+  </data>
+  <data name="Game_431">
+    <value>BACCARAT</value>
+  </data>
+  <data name="Game_433">
+    <value>BET COLOR</value>
+  </data>
+  <data name="Game_426">
+    <value>CANDY</value>
+  </data>
+  <data name="Game_418">
+    <value>PACHINKO ROBOT</value>
+  </data>
+  <data name="Game_45">
+    <value>BIG SMALL</value>
+  </data>
+  <data name="Game_208">
+    <value>MYSTERY NUM</value>
+  </data>
+  <data name="Game_432">
+    <value>BLACKJACK</value>
+  </data>
+  <data name="Game_2001" xml:space="preserve">
+    <value>Onet fruit</value>
+  </data>
+  <data name="Game_2002" xml:space="preserve">
+    <value>BonusOnline</value>
+  </data>
+  <data name="Game_1001" xml:space="preserve">
+    <value>Cotton Candy</value>
+  </data>
+  <data name="Game_1002" xml:space="preserve">
+    <value>Smash Bubbles</value>
+  </data>
+  <data name="Game_1003" xml:space="preserve">
+    <value>Chinese Chess</value>
+  </data>
+  <data name="Game_1005" xml:space="preserve">
+    <value>Jumping Frog</value>
+  </data>
+  <data name="Game_1006" xml:space="preserve">
+    <value>Platypus</value>
+  </data>
+  <data name="Game_1008" xml:space="preserve">
+    <value>Fruits Slashing</value>
+  </data>
+  <data name="Game_1010" xml:space="preserve">
+    <value>Jet Fighter</value>
+  </data>
+  <data name="Game_1011" xml:space="preserve">
+    <value>Run away from Bear</value>
+  </data>
+  <data name="Game_1012" xml:space="preserve">
+    <value>Minesweeper</value>
+  </data>
+  <data name="Game_1014" xml:space="preserve">
+    <value>Lolita Plane</value>
+  </data>
+  <data name="Game_1015" xml:space="preserve">
+    <value>Boxing</value>
+  </data>
+  <data name="Game_1020" xml:space="preserve">
+    <value>Points Connecting</value>
+  </data>
+  <data name="Game_1021" xml:space="preserve">
+    <value>Pick Right Way</value>
+  </data>
+  <data name="Game_1024" xml:space="preserve">
+    <value>Classic Line</value>
+  </data>
+  <data name="Game_1025" xml:space="preserve">
+    <value>Gold Miner</value>
+  </data>
+  <data name="Game_1027" xml:space="preserve">
+    <value>Super Mario</value>
+  </data>
+  <data name="Game_1029" xml:space="preserve">
+    <value>Castle Defend</value>
+  </data>
+  <data name="Game_1031" xml:space="preserve">
+    <value>Diamond Protecting</value>
+  </data>
+  <data name="Game_1032" xml:space="preserve">
+    <value>Pin Bubble</value>
+  </data>
+  <data name="Game_438" xml:space="preserve">
+    <value>Mega Spin</value>
+  </data>
+  <data name="Game_439" xml:space="preserve">
+    <value>Mini Poker</value>
+  </data>
+  <data name="Game_436" xml:space="preserve">
+    <value>Slot Casino</value>
+  </data>
+  <data name="Game_33003206" xml:space="preserve">
+    <value>OceanKing Popular</value>
+  </data>
+  <data name="Game_50000000" xml:space="preserve">
+    <value>OceanKing Billionaire</value>
+  </data>
+  <data name="Game_437" xml:space="preserve">
+    <value>Mini Poker</value>
+  </data>
+  <data name="Game_441" xml:space="preserve">
+    <value>rising fortunes</value>
+  </data>
+  <data name="IsPlayingOtherGame" xml:space="preserve">
+    <value>គណនីកំពុងលេងហ្គេមផ្សេង</value>
+  </data>
+  <data name="Game_-300" xml:space="preserve">
+    <value>LOTTO</value>
+  </data>
+  <data name="Game_508" xml:space="preserve">
+    <value>Tournament Fish</value>
+  </data>
+  <data name="ReturnToTeangLenFinishGame" xml:space="preserve">
+    <value>សូមអ្នកវិលមកកាន់ហ្គេម{0}ដើម្បីបញ្ចប់ការប្រកួត។</value>
+  </data>
+  <data name="TournamentNoEnoughCondition" xml:space="preserve">
+    <value>មិនគ្រប់លក្ខណ្ឌចូលរួមការប្រកួត</value>
+  </data>
+  <data name="TournamentLoginRequired" xml:space="preserve">
+    <value>អ្នកត្រូវការចូលភ្ជាប់ដើម្បីចូលរួមការប្រកួត</value>
+  </data>
+  <data name="GuessingNumberResultDay" xml:space="preserve">
+    <value>លទ្ធផលថ្ងៃ</value>
+  </data>
+  <data name="TournamentChipsRequired" xml:space="preserve">
+    <value>អ្នកត្រូវមាន20.000 CHIPSដើម្បីចូលរួមការប្រកួត</value>
+  </data>
+  <data name="TournamentSeeYouNextTour" xml:space="preserve">
+    <value>សន្យាជួបបងវិញនៅការប្រកួតពេលក្រោយ។</value>
+  </data>
+  <data name="TournamentRoundUpdateResult" xml:space="preserve">
+    <value>លទ្ធផលកំពុងបានធ្វើការសរុបឡើងវិញ</value>
+  </data>
+  <data name="TournamentRoundDoesNotStart" xml:space="preserve">
+    <value>វគ្គប្រកួតមិនទាន់បានចាប់ផ្តើម</value>
+  </data>
+  <data name="TournamentRegisterTimeout" xml:space="preserve">
+    <value>បានផុតវេលាចូលរួមប្រកួត</value>
+  </data>
+  <data name="Game_600" xml:space="preserve">
+    <value>Ocean King</value>
+  </data>
+  <data name="Game_442" xml:space="preserve">
+    <value>Mini F88</value>
+  </data>
+  <data name="Game_55555" xml:space="preserve">
+    <value>New Game</value>
+  </data>
+  <data name="Game_440" xml:space="preserve">
+    <value>Game </value>
+  </data>
+  <data name="Game_443" xml:space="preserve">
+    <value>Ultimate Fire Link Slot</value>
+  </data>
+  <data name="Game_444" xml:space="preserve">
+    <value>TEANG LEN</value>
+  </data>
+  <data name="Game_448" xml:space="preserve">
+    <value>Shan Koe Mee</value>
+  </data>
+  <data name="Game_446" xml:space="preserve">
+    <value>Jungle Wild</value>
+  </data>
+  <data name="Game_452" xml:space="preserve">
+    <value>BOOGYI</value>
+  </data>
+  <data name="Game_-100" xml:space="preserve">
+    <value>SPIN - Lucky</value>
+  </data>
+  <data name="Game_455" xml:space="preserve">
+    <value>SHWESHAN</value>
+  </data>
+  <data name="Game_456" xml:space="preserve">
+    <value>SHARKS</value>
+  </data>
+  <data name="Game_453" xml:space="preserve">
+    <value>KingQueen</value>
+  </data>
+  <data name="Game_451" xml:space="preserve">
+    <value>Game_451</value>
+  </data>
+  <data name="Game_447" xml:space="preserve">
+    <value>Eureka Reels Slot</value>
+  </data>
+  <data name="Game_457" xml:space="preserve">
+    <value>Gold Miner</value>
+  </data>
+  <data name="Game_449" xml:space="preserve">
+    <value>Bird Slot</value>
+  </data>
+  <data name="Game_509" xml:space="preserve">
+    <value>ហ្គេមធម្មតា</value>
+  </data>
+  <data name="Game_510" xml:space="preserve">
+    <value>Mario</value>
+  </data>
+  <data name="Game_450" xml:space="preserve">
+    <value>Tongits</value>
+  </data>
+  <data name="Game_399" xml:space="preserve">
+    <value>DEPOSIT</value>
+  </data>
+  <data name="Game_502" xml:space="preserve">
+    <value>DINO KING</value>
+  </data>
+  <data name="Game_Return_ContinuePlaying" xml:space="preserve">
+    <value>សូមត្រលប់ទៅហ្គេម {0} ដើម្បីបន្តលេង</value>
+  </data>
+  <data name="Game_Select_ContinueOrEnd" xml:space="preserve">
+    <value>អ្នកកំពុងលេងហ្គេម {0}។ សូមចុច [AGREE] បន្ទាប់មកជ្រើសរើសហ្គេម {0} ម្តងទៀត ដើម្បីបន្តលេង បើមិនដូច្នេះទេ ជ្រើសរើស [CANCEL] ដើម្បីបញ្ចប់ និងចាញ់ហ្គេមដែលអ្នកកំពុងលេង។</value>
+  </data>
+  <data name="Game_499" xml:space="preserve">
+    <value>ល្បែកម្រិតឡើងនេសាទ</value>
+  </data>
+  <data name="NotEnoughtCoinToEnterRoomBC" xml:space="preserve">
+    <value>អ្នកត្រូវការកាក់អប្បបរមា {0} ដើម្បីលេងបន្ទប់នេះ។ តើអ្នកចង់បញ្ចូលទឹកប្រាក់ឬទេ?</value>
+  </data>
+  <data name="RoomFreeName" xml:space="preserve">
+    <value>បន្ទប់ឥតគិតថ្លៃ</value>
+  </data>
+  <data name="Game_50000011" xml:space="preserve">
+    <value>ល្បែកម្រិតឡើងនេសាទ</value>
+  </data>
+  <data name="Game_514" xml:space="preserve">
+    <value>Dino 2</value>
+  </data>
+  <data name="Game_460" xml:space="preserve">
+    <value>Bet Color</value>
+  </data>
+  <data name="Game_458" xml:space="preserve">
+    <value>Pusoy</value>
+  </data>
+</LocalLanguages>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="MissMySqlDatabaseName">
+    <value>MissMySqlDatabaseName</value>
+  </data>
+  <data name="InvalidDataInput">
+    <value>Di-wastong Data Input</value>
+  </data>
+  <data name="UserIsPlayingGame">
+    <value>Naglalaro ang User</value>
+  </data>
+  <data name="ReportTab">
+    <value>Ulat</value>
+  </data>
+  <data name="CodeError">
+    <value>May naganap na error. Mangyaring subukan muli sa ibang pagkakataon.</value>
+  </data>
+  <data name="CodeFail">
+    <value>Error</value>
+  </data>
+  <data name="CodeInvalidData">
+    <value>Di-wastong data</value>
+  </data>
+  <data name="CodeInvalidSign">
+    <value>Maling pirma</value>
+  </data>
+  <data name="CodeSuccess">
+    <value>Tagumpay</value>
+  </data>
+  <data name="CodeTokenExpire">
+    <value>Nag-expire na ang mga token</value>
+  </data>
+  <data name="CodeTokenNotExist">
+    <value>Nag-expire na ang mga token</value>
+  </data>
+  <data name="CodeApiNotExist">
+    <value>Wala si Api.</value>
+  </data>
+  <data name="PleaseLoginFunction">
+    <value>Mangyaring mag-login upang magamit ang function na ito.</value>
+  </data>
+  <data name="BtnUpdate">
+    <value>magpabago</value>
+  </data>
+  <data name="UpdateFaild">
+    <value>Nabigo ang pag-update</value>
+  </data>
+  <data name="FunctionMaintainance">
+    <value>Function under maintenance, pakisubukang muli sa ibang pagkakataon.</value>
+  </data>
+  <data name="EventNotRunning">
+    <value>Ang kaganapan ay sinuspinde</value>
+  </data>
+  <data name="NotLoginOrBeAnother">
+    <value>Hindi naka-log in o naka-log in sa ibang machine</value>
+  </data>
+  <data name="HasErrorContactCustomService">
+    <value>May naganap na error, mangyaring makipag-ugnayan sa online na suporta para sa tulong</value>
+  </data>
+  <data name="FunctionDeveloping">
+    <value>Ang pag-andar ay umuunlad</value>
+  </data>
+  <data name="ValidDataTextRegis">
+    <value>Mangyaring gumamit lamang ng mga titik (a-z), numero (0-9)</value>
+  </data>
+  <data name="New_label">
+    <value>BAGO</value>
+  </data>
+  <data name="Send_mail_tip">
+    <value>Search ID user na gusto mong magpadala ng mensahe, MAG-TYP DITO at i-click ang ipadala</value>
+  </data>
+  <data name="UserNotInGame">
+    <value>Wala sa Laro ang User</value>
+  </data>
+  <data name="FacebookCreateAccountMaintenance">
+    <value>Ang function ng paggawa ng account na naka-link sa Facebook ay nasa ilalim ng maintenance, kung nawala mo ang iyong account sa pamamagitan ng pag-log in gamit ang Facebook, mangyaring makipag-ugnayan sa aming customer service</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigListGameText" xml:space="preserve">
+    <value>You need to reach level {0}</value>
+  </data>
+  <data name="UpdateSuccess" xml:space="preserve">
+    <value>Matagumpay ang pag-update.</value>
+  </data>
+  <data name="NoData" xml:space="preserve">
+    <value>Walang data</value>
+  </data>
+  <data name="KhuyenMaiNapGoldThecao" xml:space="preserve">
+    <value>Deposit bonus</value>
+  </data>
+</LocalLanguages>

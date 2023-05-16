@@ -1,0 +1,1051 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LocalLanguages>
+  <data name="NoData">
+    <value>No Data</value>
+  </data>
+  <data name="DisplaynameAvailable">
+    <value>The display name already exists</value>
+  </data>
+  <data name="AccountalreadyinusePleasechooseanothername">
+    <value>Account already in use. Please choose another name.</value>
+  </data>
+  <data name="CaptchaDoesnotexist">
+    <value>Captcha does not exist</value>
+  </data>
+  <data name="CaptchaInvalid">
+    <value>Captcha Invalid</value>
+  </data>
+  <data name="ConfigFail">
+    <value>Config does not exist</value>
+  </data>
+  <data name="Display3to20characters">
+    <value>Display name at least 3 to 20 characters.</value>
+  </data>
+  <data name="Displaynamecannotspaces">
+    <value>Display name cannot contain spaces.</value>
+  </data>
+  <data name="Displaynamemusthavespecialcharacterscharacters">
+    <value>Display name must not have special characters and characters</value>
+  </data>
+  <data name="Displaynamenotallowed">
+    <value>Display name contains words that are not allowed.</value>
+  </data>
+  <data name="EmailIncorrect">
+    <value>Email is incorrect</value>
+  </data>
+  <data name="Fail">
+    <value>Fail</value>
+  </data>
+  <data name="IncorrectIDcard">
+    <value>Incorrect ID card</value>
+  </data>
+  <data name="Invalidaccountname">
+    <value>Invalid account name</value>
+  </data>
+  <data name="Invaliddisplayname">
+    <value>Invalid display name</value>
+  </data>
+  <data name="RegistrationfailedPleasetryagainlater">
+    <value>Registration failed. Please try again later.</value>
+  </data>
+  <data name="SignUpSuccess">
+    <value>Sign Up Success</value>
+  </data>
+  <data name="Success">
+    <value>Successfully</value>
+  </data>
+  <data name="SystemError">
+    <value>System Error</value>
+  </data>
+  <data name="Usernamecannotbethesameasaccountname">
+    <value>Username cannot be the same as account name</value>
+  </data>
+  <data name="Usernamecannotspaces">
+    <value>Username cannot contain spaces.</value>
+  </data>
+  <data name="Usernamemustnothaveaccentsandspecialcharacters">
+    <value>Username must not have accents and special characters</value>
+  </data>
+  <data name="UserNamepasswordincorrect">
+    <value>UserName and password are incorrect</value>
+  </data>
+  <data name="CommingSoon">
+    <value>Comming Soon</value>
+  </data>
+  <data name="CreateSuccess">
+    <value>Create Success</value>
+  </data>
+  <data name="SuccessfullyTransaction">
+    <value>Successfully Transaction but error in the coin transfer process</value>
+  </data>
+  <data name="TransactionFailed">
+    <value>Transaction Failed</value>
+  </data>
+  <data name="Transactionisprocessed">
+    <value>Transaction is processed</value>
+  </data>
+  <data name="Transactionnotfound">
+    <value>Transaction not found</value>
+  </data>
+  <data name="Transactionnotfoundinsystem">
+    <value>Transaction not found in system</value>
+  </data>
+  <data name="Transactionprocessing">
+    <value>Transaction processing</value>
+  </data>
+  <data name="Transactionprocessingfailed">
+    <value>Transaction processing failed</value>
+  </data>
+  <data name="TransactionSuccess">
+    <value>Transaction Success</value>
+  </data>
+  <data name="CreateFail">
+    <value>Create Failed</value>
+  </data>
+  <data name="ServerMaintenance">
+    <value>Server Maintenance</value>
+  </data>
+  <data name="GetSuccessfulCaptcha">
+    <value>Get successful captcha</value>
+  </data>
+  <data name="InvalidDataInput">
+    <value>Invalid data</value>
+  </data>
+  <data name="AccountDoesNotExist">
+    <value>Account does not exist</value>
+  </data>
+  <data name="GetTheListSuccessfully">
+    <value>Get the list of successes</value>
+  </data>
+  <data name="GetTheConfigSuccessfully">
+    <value>Get the config successfully</value>
+  </data>
+  <data name="GetTheLinkSuccessfully">
+    <value>Get the link successfully</value>
+  </data>
+  <data name="GetTheLinkFailed">
+    <value>Get the link failed</value>
+  </data>
+  <data name="TheGameDoesNotExistContainHasHtml5">
+    <value>The game does not exist or the game does not contain HasHtml5</value>
+  </data>
+  <data name="SKIPAndPort">
+    <value>SK IPAndPort cannot be obtained</value>
+  </data>
+  <data name="InvalidSerialNumber">
+    <value>Invalid serial number</value>
+  </data>
+  <data name="InvalidScratchCardCode">
+    <value>Invalid scratch card code</value>
+  </data>
+  <data name="ErrorDuringProcessing">
+    <value>Error during processing.</value>
+  </data>
+  <data name="InvalidCardInformation">
+    <value>Invalid card information (Code: {0})</value>
+  </data>
+  <data name="InvalidCardNotInformation">
+    <value>Invalid card information, please try again ...</value>
+  </data>
+  <data name="GetTheListOfFailures">
+    <value>Get the list of failures</value>
+  </data>
+  <data name="YouWantToLoad">
+    <value>Do you want to load {0} at {1} K?</value>
+  </data>
+  <data name="SMSChargingSystem">
+    <value>SMS charging system is under maintenance!</value>
+  </data>
+  <data name="InvalidSMSInformation">
+    <value>Invalid SMS information</value>
+  </data>
+  <data name="CardToChange">
+    <value>Please select the type of card to change</value>
+  </data>
+  <data name="SystemIsUnderMaintenance">
+    <value>System {0} is under maintenance, please choose another card type</value>
+  </data>
+  <data name="CannotRedeemRewards">
+    <value>Cannot redeem rewards. Please contact customer care</value>
+  </data>
+  <data name="TheSystemMaintenance">
+    <value>The system is under maintenance, please try again later</value>
+  </data>
+  <data name="TheRewardIsNotTrue">
+    <value>The reward is not true</value>
+  </data>
+  <data name="ItIsNotTimeToAward">
+    <value>It is not time to award. Please try again later</value>
+  </data>
+  <data name="AwardsAreNotSuccessful">
+    <value>Awards are not successful. Please try again later</value>
+  </data>
+  <data name="AwardedSuccessfully">
+    <value>Awarded successfully. Please check your inbox</value>
+  </data>
+  <data name="CannotAuthenticateInformation">
+    <value>Cannot authenticate information</value>
+  </data>
+  <data name="FacebookIncorrect">
+    <value>Facebook information is incorrect, please login again</value>
+  </data>
+  <data name="FunctionDoesNotExist">
+    <value>Function does not exist</value>
+  </data>
+  <data name="IncorrectCode">
+    <value>Incorrect code</value>
+  </data>
+  <data name="UpdateInformationFailed">
+    <value>Update information failed. Please try again later.</value>
+  </data>
+  <data name="UpdateSuccessful">
+    <value>Update successful. You are given {0} cents to your account!</value>
+  </data>
+  <data name="VerificationCodeDoesNotExist">
+    <value>Verification code does not exist</value>
+  </data>
+  <data name="ErrorImage">
+    <value>Must be in jpg, png, gif format</value>
+  </data>
+  <data name="ErrorimageSize">
+    <value>Image capacity is less than 500kb</value>
+  </data>
+  <data name="UploadAvatarSuccess">
+    <value>Upload avatar success</value>
+  </data>
+  <data name="NoEvents">
+    <value>No Events</value>
+  </data>
+  <data name="NoDataRequested">
+    <value>No data you requested</value>
+  </data>
+  <data name="Message">
+    <value>Message</value>
+  </data>
+  <data name="NoNewInstructions">
+    <value>No new instructions</value>
+  </data>
+  <data name="EmailorPasswordIncorrect">
+    <value>Email or password is incorrect</value>
+  </data>
+  <data name="AccountLocked">
+    <value>Account is locked</value>
+  </data>
+  <data name="AccountPermanentlyLocked">
+    <value>Account has been permanently locked</value>
+  </data>
+  <data name="AccountActivatedYet">
+    <value>Account has not been activated yet</value>
+  </data>
+  <data name="UserAnotherDevice">
+    <value>User is using another device</value>
+  </data>
+  <data name="SecurityCodeDoesNotExist">
+    <value>Security code does not exist</value>
+  </data>
+  <data name="SecurityCodeIncorrect">
+    <value>Security code is incorrect</value>
+  </data>
+  <data name="SecurityCodeUsed">
+    <value>Security code has been used. Please write down the new security code!</value>
+  </data>
+  <data name="FacebookAccountNotRegistered">
+    <value>Facebook Account has not been registered</value>
+  </data>
+  <data name="LoggedSuccessfully">
+    <value>Login successfully</value>
+  </data>
+  <data name="LoginError">
+    <value>Login error. Please try again!</value>
+  </data>
+  <data name="FacebookInformationIncorrect">
+    <value>Facebook information is incorrect, please login again</value>
+  </data>
+  <data name="FacebookInformationNotMatch">
+    <value>Facebook information does not match, please try again ..</value>
+  </data>
+  <data name="DisplayNameAlreadyExists">
+    <value> The display name already exists</value>
+  </data>
+  <data name="Display3to15characters">
+    <value>Display name at least 3 to 15 characters.</value>
+  </data>
+  <data name="AccountAlreadyUse">
+    <value>Account already in use. Please choose another name..</value>
+  </data>
+  <data name="RegistrationFailed">
+    <value>Registration failed. Please try again later.</value>
+  </data>
+  <data name="UsernameAvailable">
+    <value>Username already exists</value>
+  </data>
+  <data name="ValidUsername">
+    <value>Valid username</value>
+  </data>
+  <data name="YouNotCoinHistory">
+    <value>You do not have coin history yet</value>
+  </data>
+  <data name="GetAvatarSuccessfully">
+    <value>Get the Link avatar successfully</value>
+  </data>
+  <data name="YouHaveNoMail">
+    <value>You have no mail</value>
+  </data>
+  <data name="InvalidAccount1">
+    <value>Invalid account (code -1)</value>
+  </data>
+  <data name="InformationIsIncorrect">
+    <value>Information is incorrect, please login again</value>
+  </data>
+  <data name="AccountLinked">
+    <value>The account you want the link to have been used for ID: {0} do you want to log out and switch to that account</value>
+  </data>
+  <data name="TieuDeTinNhanVuotQuaKyTu">
+    <value>The title exceeds {0} characters.</value>
+  </data>
+  <data name="NoiDungTinNhanVuotQuaKyTu">
+    <value>The content exceeds {0} characters.</value>
+  </data>
+  <data name="KhongTheGuiTinNhanChoMinh">
+    <value>Cannot send message to yourself</value>
+  </data>
+  <data name="TKNhanTinNhanKTonTai">
+    <value>The account receiving the message does not exist!</value>
+  </data>
+  <data name="TaiKhoanNhanTinNhanBiKhoa">
+    <value>The account you want to send the message to is now locked!</value>
+  </data>
+  <data name="ErrorMessCustomservice">
+    <value>Please contact Customer Service for assistance.</value>
+  </data>
+  <data name="TinNhanDaDuocGui">
+    <value>The message has been sent to {0} - {1} !!!</value>
+  </data>
+  <data name="SuDungHetLuotGuiTinNhan">
+    <value>You have used up the number of messages sent.</value>
+  </data>
+  <data name="NhapTKNhanTinNhan">
+    <value>Please enter the receiving account</value>
+  </data>
+  <data name="EventNhapMaDuocTienCongra">
+    <value>You have won today. 1 nick can only win 1 gift code per day</value>
+  </data>
+  <data name="HistoriCoinBanCaSuccess">
+    <value>Get money history  successfully</value>
+  </data>
+  <data name="AcceptImgType">
+    <value>Only accept jpg, png, gif images.</value>
+  </data>
+  <data name="ImgSize">
+    <value>File size &lt;= 500Kb.</value>
+  </data>
+  <data name="EventChooseNotAllow">
+    <value>Event select invalid key {0}</value>
+  </data>
+  <data name="GetChipFromTheEvent">
+    <value>You get {0} Xu from the event.</value>
+  </data>
+  <data name="HavebeenAwardedChip">
+    <value>You have been awarded {0} Chip. Win event Enter the money code. 1 nick can only win 1 gift code in a day.</value>
+  </data>
+  <data name="EventNotEnoughtTimeToGift">
+    <value>Not enough time to receive gift.</value>
+  </data>
+  <data name="EventEnoughtTimeToGift">
+    <value>Enough time to receive gift.</value>
+  </data>
+  <data name="EventAccountFirstGift">
+    <value>Account received gift for the first time.</value>
+  </data>
+  <data name="ErrorMessInvalidInformation">
+    <value>Invalid information</value>
+  </data>
+  <data name="NotLoginOrBeAnother">
+    <value>Not logged in or logged in at another machine</value>
+  </data>
+  <data name="TurnsInvalid">
+    <value>Invalid play</value>
+  </data>
+  <data name="ErrorMessValidation2">
+    <value>Turns have expired</value>
+  </data>
+  <data name="EventGaveGiftToUser">
+    <value>You received a gift</value>
+  </data>
+  <data name="OutOfChips">
+    <value>Out of chips</value>
+  </data>
+  <data name="ConfigSuccess">
+    <value>Get the configuration information successfully</value>
+  </data>
+  <data name="CoinACcountIsNotEnough">
+    <value>The number of coins in the account is not enough to make the transaction</value>
+  </data>
+  <data name="AmountTransferChipsDivided">
+    <value>The amount must be transferred from {0} Chips and divided by 10,000!</value>
+  </data>
+  <data name="AmountTransferSmaller">
+    <value>The transfer amount must be smaller</value>
+  </data>
+  <data name="TransferChipsSuccess">
+    <value>Transfer chips successfully. {0} received {1}.</value>
+  </data>
+  <data name="VipPromotionForYou">
+    <value>VIP promotion exclusively for you</value>
+  </data>
+  <data name="IPLimit">
+    <value>IP has exceeded the number of bonuses received</value>
+  </data>
+  <data name="DeviceLimit">
+    <value>Device has exceeded the number of bonuses received</value>
+  </data>
+  <data name="ConfigNotExists">
+    <value>Configuration does not exist.</value>
+  </data>
+  <data name="RegisInMobilePassword">
+    <value>Password</value>
+  </data>
+  <data name="user_give_chips_to_user">
+    <value>ខ្ញុំជា [{0}] សូមជូនអ្នក {1} chips ដើម្បីលេងហ្គេម. សូមជូនពរដល់អ្នកថ្ងៃថ្មីតែងលេងហ្គេមកាន់តែឈ្នះនិងមានភាពសប្បាយ.
+
+I am [{0}]. I give my friend {1} CHIPS to play game. Hope you get a lucky and happy day.</value>
+  </data>
+  <data name="receive_chips_at_time">
+    <value>អ្នកនឹងបានជូនរង្វាន់  {0} chips នៅពេល {1}. ក្នុងអន្លុងពេលដែលធ្វើការរងចាំសូមអញ្ជើញអ្នកចូល Free game ({2}) ដើម្បីលេង. ពេលណាដែលដល់វេលាខាងលើសូមបងបញ្ចូលគណនីឡើងវិញដើម្បីទទួលបាន Chips.
+
+You will receive {0} CHIPS at {1}. During waiting time, you can join Free Game ({2}) to play it. When the time comes, you can login again to receive CHIPS. </value>
+  </data>
+  <data name="ErrorMessConfigNotExists">
+    <value>Configuration does not exist.</value>
+  </data>
+  <data name="ErrorMessSuccess">
+    <value>Success</value>
+  </data>
+  <data name="ErrorMessServerError">
+    <value>Server error</value>
+  </data>
+  <data name="Usernamenamenotallowed">
+    <value>User name contains words that are not allowed</value>
+  </data>
+  <data name="Username3to20characters">
+    <value>User name at least 3 to 20 characters</value>
+  </data>
+  <data name="User_NotEnoughCoin">
+    <value>User does not have enough coins.</value>
+  </data>
+  <data name="WalletProductNotConfig">
+    <value>Wallet Product Not Config</value>
+  </data>
+  <data name="Loppy_key_text_select_language">
+    <value>
+    </value>
+  </data>
+  <data name="popup_login_v3_Register">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_title_quit">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_hoyeah_today">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_text_not_data">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_you_need">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_hoyeah_title_latest_achievement">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_profile">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_hoyeah_buy_now">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_titlePopup_LICHSUXU">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_edit_profile">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_text_change_pass">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_send_email">
+    <value>
+    </value>
+  </data>
+  <data name="key_run_out_of_coin_to_join">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTableTitleNote">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTableTitleTime">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTableTitleChangeChips">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTableTitleBalance">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTableTitleChips">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTableTitlePlayer">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTableTitleVIP">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTableTitleRank">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyNormalRoom">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyVIPRoom">
+    <value>
+    </value>
+  </data>
+  <data name="LoppySevenSea">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyMinChipsText">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyPlayText">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyCHAT">
+    <value>
+    </value>
+  </data>
+  <data name="LoppySUPPORT">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTUTORIAL">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyFORUM">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyGUILD">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyLUCKYSPIN">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyLeaderBoard">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyALL">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyNewGame">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyBetGame">
+    <value>
+    </value>
+  </data>
+  <data name="LoppySlotGame">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyCardGame">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyBonusGame">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyBUY">
+    <value>
+    </value>
+  </data>
+  <data name="FirstLoginTitle">
+    <value>
+    </value>
+  </data>
+  <data name="HaveAccountWhenLogin">
+    <value>
+    </value>
+  </data>
+  <data name="GetConfigBanCa_AlertGetMessageError">
+    <value>
+    </value>
+  </data>
+  <data name="GetConfigBanCa_AlertLoginOther">
+    <value>
+    </value>
+  </data>
+  <data name="IndexTitle">
+    <value>
+    </value>
+  </data>
+  <data name="LoginForgot">
+    <value>
+    </value>
+  </data>
+  <data name="LoginPass">
+    <value>
+    </value>
+  </data>
+  <data name="LoginTitle">
+    <value>
+    </value>
+  </data>
+  <data name="LoginUsername">
+    <value>
+    </value>
+  </data>
+  <data name="PlayGameAppTitle">
+    <value>
+    </value>
+  </data>
+  <data name="PlayGameIndexTitle">
+    <value>
+    </value>
+  </data>
+  <data name="PlayGameTitle">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterAddress">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterCaptcha">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterCMND">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterCMNDCreateDate">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterCMNDFrom">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterDateOfBirth">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterDisplay">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterFullName">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterPass">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterPhone">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterPrivateEmail">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterTitle">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterUsername">
+    <value>
+    </value>
+  </data>
+  <data name="ShowPopupGuideDetail_Error">
+    <value>
+    </value>
+  </data>
+  <data name="ShowPopupGuide_ErrorList">
+    <value>
+    </value>
+  </data>
+  <data name="HomeLoginOther">
+    <value>
+    </value>
+  </data>
+  <data name="ShowPopupGuideDetailSTT">
+    <value>
+    </value>
+  </data>
+  <data name="ShowPopupGuideDetailTitle">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessAccountNotExists">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessGetListFaild">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessGetListSuccess">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessInvaliInput">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessNoData">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessNotLoginOrLoginOther">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessServerMaintenance">
+    <value>
+    </value>
+  </data>
+  <data name="Content">
+    <value>
+    </value>
+  </data>
+  <data name="DoiThuongKiemTra">
+    <value>
+    </value>
+  </data>
+  <data name="DoiThuongTaiKhoanNhan">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessFuctionMaintenance">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessOpenVip">
+    <value>
+    </value>
+  </data>
+  <data name="MaTaiKhoan">
+    <value>
+    </value>
+  </data>
+  <data name="NoiDungKhongPhuHop">
+    <value>
+    </value>
+  </data>
+  <data name="SendingMess">
+    <value>
+    </value>
+  </data>
+  <data name="SendMessOther">
+    <value>
+    </value>
+  </data>
+  <data name="SendUserOther">
+    <value>
+    </value>
+  </data>
+  <data name="ThongTinNguoiNhan">
+    <value>
+    </value>
+  </data>
+  <data name="EnableJSAlert">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessProcessing">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_ChonNganHang">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_ChuTKNganHang">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_MaTK">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_PHChuTKNganHang">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_PhiRut">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_PHMaTK">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_PHSoTKNganHang">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_PHSoWinMuonRut">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_Rut">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_SoTKNganHang">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_SoUSDNhanDc">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_SoWinMuonRut">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_TyleDoi">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_Validation1">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_Validation2">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_Validation3">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_Validation4">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_Validation5">
+    <value>
+    </value>
+  </data>
+  <data name="CashOut_Validation6">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessCaptcha">
+    <value>
+    </value>
+  </data>
+  <data name="Notification">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessFaild">
+    <value>
+    </value>
+  </data>
+  <data name="RegisterAgree">
+    <value>
+    </value>
+  </data>
+  <data name="AgreeToTermsOfService">
+    <value>
+    </value>
+  </data>
+  <data name="ValidationAgreeToTermsOfService">
+    <value>
+    </value>
+  </data>
+  <data name="Privatcy">
+    <value>
+    </value>
+  </data>
+  <data name="Term">
+    <value>
+    </value>
+  </data>
+  <data name="ConfirmLabel">
+    <value>
+    </value>
+  </data>
+  <data name="BtnLoadMore">
+    <value>
+    </value>
+  </data>
+  <data name="AutoCompleteNotFound">
+    <value>
+    </value>
+  </data>
+  <data name="PlEnterKeywordToFind">
+    <value>
+    </value>
+  </data>
+  <data name="CountryName_Cambodia">
+    <value>
+    </value>
+  </data>
+  <data name="CountryName_Philippines">
+    <value>
+    </value>
+  </data>
+  <data name="CountryName_Thailand">
+    <value>
+    </value>
+  </data>
+  <data name="InboxTimeDelaySendMessNext">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_info">
+    <value>
+    </value>
+  </data>
+  <data name="CannotFinduser">
+    <value>
+    </value>
+  </data>
+  <data name="ErrorMessFailed">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTRANSFER">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_button_copy">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_titlePopup_Setting">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_label_Sound">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_statusSound_On">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_statusSound_Off">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_button_Recharge">
+    <value>
+    </value>
+  </data>
+  <data name="Loppy_key_button_Close">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyTableTitleIndex">
+    <value>
+    </value>
+  </data>
+  <data name="popup_login_v3_Login">
+    <value>
+    </value>
+  </data>
+  <data name="popup_login_v3_Facebook_Login">
+    <value>
+    </value>
+  </data>
+  <data name="popup_login_v3_Play_now">
+    <value>
+    </value>
+  </data>
+  <data name="popup_login_v3_Sign_In">
+    <value>
+    </value>
+  </data>
+  <data name="popup_login_v3_Sign_Up">
+    <value>
+    </value>
+  </data>
+  <data name="popup_login_v3_support_now">
+    <value>
+    </value>
+  </data>
+  <data name="VP_YOU_GOT">
+    <value>
+    </value>
+  </data>
+  <data name="VP_OBTAINED">
+    <value>
+    </value>
+  </data>
+  <data name="Android">
+    <value>
+    </value>
+  </data>
+  <data name="Ios">
+    <value>
+    </value>
+  </data>
+  <data name="Jackpot">
+    <value>
+    </value>
+  </data>
+  <data name="InboxMessageTitle">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyLanguage">
+    <value>
+    </value>
+  </data>
+  <data name="LoppyMail">
+    <value>
+    </value>
+  </data>
+  <data name="Welcome_to">
+    <value>
+    </value>
+  </data>
+</LocalLanguages>

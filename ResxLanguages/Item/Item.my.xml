@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LocalLanguages>
+  <data name="ActiveItem_UserHasActiveJackpot" xml:space="preserve">
+    <value>You're having 1 jackpot turn. Do you want to play now ?</value>
+  </data>
+  <data name="ActiveItem_UserCanNotActiveMoreInJackpot" xml:space="preserve">
+    <value>You can't activate another item until you have used all the Jackpot turns</value>
+  </data>
+</LocalLanguages>

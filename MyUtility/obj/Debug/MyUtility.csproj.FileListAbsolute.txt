@@ -1,0 +1,9 @@
+D:\code\MyUtility\bin\Debug\MyUtility.dll.config
+D:\code\MyUtility\bin\Debug\MyUtility.dll
+D:\code\MyUtility\bin\Debug\MyUtility.pdb
+D:\code\MyUtility\bin\Debug\Newtonsoft.Json.dll
+D:\code\MyUtility\obj\Debug\MyUtility.csproj.AssemblyReference.cache
+D:\code\MyUtility\obj\Debug\MyUtility.csproj.CoreCompileInputs.cache
+D:\code\MyUtility\obj\Debug\MyUtility.csproj.CopyComplete
+D:\code\MyUtility\obj\Debug\MyUtility.dll
+D:\code\MyUtility\obj\Debug\MyUtility.pdb

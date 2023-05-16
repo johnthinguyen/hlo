@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="Today">
+    <value>Ngayong araw</value>
+  </data>
+  <data name="BoxEventNapXuTichCode">
+    <value>MABILIS NA DEPOSIT- MAKATANGGAP NG MILYON CHIPS</value>
+  </data>
+  <data name="BoxEventScore">
+    <value>Punto</value>
+  </data>
+  <data name="EventAccountFirstGift">
+    <value>Nakatanggap ng regalo ang account sa unang pagkakataon.</value>
+  </data>
+  <data name="EventAchievementBoss">
+    <value>Nakatanggap ng regalo ang account sa unang pagkakataon.</value>
+  </data>
+  <data name="EventAchievementBossDescription">
+    <value>Wasakin ang boss ng isda nang {0} beses</value>
+  </data>
+  <data name="EventAchievementBossName">
+    <value>Wasakin ang isda boss</value>
+  </data>
+  <data name="EventAchievementCaDo">
+    <value>pulang isda</value>
+  </data>
+  <data name="EventAchievementGiftBoxDescription">
+    <value>Wasakin ang kahon ng regalo nang {0} beses</value>
+  </data>
+  <data name="EventAchievementGiftBoxName">
+    <value>Wasakin ang kahon ng regalo</value>
+  </data>
+  <data name="EventAchievementHopQua">
+    <value>Kahon ng regalo</value>
+  </data>
+  <data name="EventAchievementItem">
+    <value>kagamitan</value>
+  </data>
+  <data name="EventAchievementItemDescription">
+    <value>Gamitin ang Item nang {0} (na) beses</value>
+  </data>
+  <data name="EventAchievementItemName">
+    <value>Gamitin ang Item</value>
+  </data>
+  <data name="EventAchievementLoginDescription">
+    <value>Mag-login upang mabaril ng isda</value>
+  </data>
+  <data name="EventAchievementLoginName">
+    <value>Mag-login upang mabaril ng isda</value>
+  </data>
+  <data name="EventAchievementOther">
+    <value>Iba pa</value>
+  </data>
+  <data name="EventAchievementRedFishDescription">
+    <value>Wasakin ang pulang isda nang {0} beses</value>
+  </data>
+  <data name="EventAchievementRedFishName">
+    <value>Wasakin ang pulang isda</value>
+  </data>
+  <data name="EventAchievementSkill">
+    <value>Kasanayan</value>
+  </data>
+  <data name="EventAchievementSkillBombDescription">
+    <value>Gumamit ng kasanayan sa bomba nang {0} (na) beses</value>
+  </data>
+  <data name="EventAchievementSkillBombName">
+    <value>Gamitin ang kasanayan sa Bomba</value>
+  </data>
+  <data name="EventAchievementSkillDescription">
+    <value>Gumamit ng skill gun nang {0} beses</value>
+  </data>
+  <data name="EventAchievementSkillLaserDescription">
+    <value>Gumamit ng laser skill gun nang {0} (na) beses</value>
+  </data>
+  <data name="EventAchievementSkillLaserName">
+    <value>Gumamit ng laser skill gun</value>
+  </data>
+  <data name="EventAchievementSkillName">
+    <value>Gumamit ng mga baril ng kasanayan</value>
+  </data>
+  <data name="EventAchievementSkillWaveAirDescription">
+    <value>Gumamit ng sound wave skill nang {0} beses</value>
+  </data>
+  <data name="EventAchievementSkillWaveAirName">
+    <value>Gumamit ng sound wave skill</value>
+  </data>
+  <data name="EventAchievementUpLevelDescription">
+    <value>Mataas na Antas</value>
+  </data>
+  <data name="EventAchievementUpLevelName">
+    <value>Mataas na Antas</value>
+  </data>
+  <data name="EventAchivementNotComplete">
+    <value>Mga hindi kumpletong tagumpay</value>
+  </data>
+  <data name="EventChipCounts">
+    <value>{0} CHIPS</value>
+  </data>
+  <data name="EventChooseNotAllow">
+    <value>Pinili ng kaganapan ang di-wastong key {0}</value>
+  </data>
+  <data name="EventDailyBonusLoginName">
+    <value>Araw</value>
+  </data>
+  <data name="EventDontHaveNew">
+    <value>Walang bagong kaganapan</value>
+  </data>
+  <data name="EventEnoughtTimeToGift">
+    <value>Sapat na oras para makatanggap ng regalo.</value>
+  </data>
+  <data name="EventGaveGiftToUser">
+    <value>Nakatanggap ka ng regalo</value>
+  </data>
+  <data name="EventGetListSuccess">
+    <value>Matagumpay na makuha ang listahan ng kaganapan</value>
+  </data>
+  <data name="EventGiftIsWrong">
+    <value>Mali ang regalo</value>
+  </data>
+  <data name="EventGiftNotAvailable">
+    <value>Natanggap o hindi available ang regalo</value>
+  </data>
+  <data name="EventGiveGiftFail">
+    <value>Nabigo ang pagbibigay ng regalo. Subukang muli mamaya</value>
+  </data>
+  <data name="EventGiveGiftSuccessAndCheckMail">
+    <value>Matagumpay na magbigay ng regalo. Mangyaring suriin ang mail.</value>
+  </data>
+  <data name="EventMessageYouHasMoneyFromEve">
+    <value>Makakakuha ka ng {0} CHIPS mula sa kaganapan.</value>
+  </data>
+  <data name="EventMissionNotComplete">
+    <value>Hindi natapos ang misyon</value>
+  </data>
+  <data name="EventNoData">
+    <value>Walang data</value>
+  </data>
+  <data name="EventNotEnoughtTimeToGift">
+    <value>Hindi sapat ang oras para makatanggap ng regalo.</value>
+  </data>
+  <data name="EventNotExist">
+    <value>Ang kaganapan ay hindi umiiral</value>
+  </data>
+  <data name="EventNotTimeUp">
+    <value>Hindi pa oras para magregalo. Subukang muli mamaya</value>
+  </data>
+  <data name="EventQuicklyRegisterCannotRegisterMore">
+    <value>Hindi makapagrehistro para maglaro ngayon, mangyaring magparehistro para sa isang bagong account</value>
+  </data>
+  <data name="EventReceivedGift">
+    <value>Nakatanggap ng regalo</value>
+  </data>
+  <data name="EventReceiveGiftSuccess">
+    <value>Matagumpay na makatanggap ng regalo</value>
+  </data>
+  <data name="EventReceiveLevelVip">
+    <value>Tumanggap ng regalo para sa VIP level up</value>
+  </data>
+  <data name="EventSecondCount">
+    <value>{0} (na) segundo</value>
+  </data>
+  <data name="EventSystemMaintainingChooseOther">
+    <value>Ang system {0} ay nasa ilalim ng pagpapanatili, mangyaring pumili ng ibang uri ng card</value>
+  </data>
+  <data name="EventTitleBonusHall">
+    <value>Makukuha mo ang {0} sa iyong account</value>
+  </data>
+  <data name="EventTurnsCount">
+    <value>{0} lumiliko</value>
+  </data>
+  <data name="EventTypeCardCount">
+    <value>Baraha {0} {1}</value>
+  </data>
+  <data name="EventUploadSuccessButFail">
+    <value>Matagumpay na na-upload, nabigo ang pag-update ng kaganapan.</value>
+  </data>
+  <data name="EventVipAnchorPoint">
+    <value>Punto ng Anchor</value>
+  </data>
+  <data name="EventVipDepositBonus">
+    <value>Deposito bonus</value>
+  </data>
+  <data name="EventVipExpFish">
+    <value>Pamamaril ng isda Exp</value>
+  </data>
+  <data name="EventVipNotRunning">
+    <value>Hindi tumatakbo ang VIP</value>
+  </data>
+  <data name="EventVipTichLuySkill">
+    <value>Naipon na kasanayan</value>
+  </data>
+  <data name="EventVipTransferChip">
+    <value>Maglipat ng CHIPS</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_Faile">
+    <value>Ang pagtanggap ng mga gantimpala ay hindi matagumpay</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_BonusFirst">
+    <value>Makakuha ng reward sa unang pagkakataon</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_BonusInDay">
+    <value>Nakatanggap ng reward ngayon</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_ResetBonus">
+    <value>Ang petsa ng pagtanggap ng premyo ay hindi magkakasunod</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_Bonus7Days">
+    <value>Makatanggap ng magkakasunod na araw na reward</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_Bonus7DaysThen">
+    <value>Makatanggap ng mga reward nang higit sa 7 araw</value>
+  </data>
+  <data name="BoxTopEventAppTitle">
+    <value>Nangungunang mga kaganapan sa pagbaril para sa pangangaso ng isda.</value>
+  </data>
+  <data name="EventNhapMaDuocTienCaptcha">
+    <value>Captcha</value>
+  </data>
+  <data name="EventNhapMaDuocTienCode">
+    <value>Regalo ng Code</value>
+  </data>
+  <data name="EventNhapMaDuocTienConfirm">
+    <value>KUMPIRMAHIN</value>
+  </data>
+  <data name="EventNhapMaDuocTienTitle">
+    <value>GIFT IMPORT CODE NA TATANGGAP NG PERA</value>
+  </data>
+  <data name="JackpotMetaDesc">
+    <value>Shoot Hot 2018 Isda. Direktang Maglaro Sa Website O Mobile Walang Kinakailangang Pag-install.</value>
+  </data>
+  <data name="JackpotPlay">
+    <value>MAGLARO NG JACKPOT</value>
+  </data>
+  <data name="JackpotTitle">
+    <value>Abutin ang Isda</value>
+  </data>
+  <data name="ListEvent3DHeading">
+    <value>Pamagat</value>
+  </data>
+  <data name="ListEvent3DMessageNoData">
+    <value>Walang data</value>
+  </data>
+  <data name="ListEvent3DSubTitle">
+    <value>Gift Code</value>
+  </data>
+  <data name="ListEvent3DTitle">
+    <value>BUOD &lt;br /&gt; MGA GAWAD</value>
+  </data>
+  <data name="ListEvent_Event">
+    <value>PANGYAYARI</value>
+  </data>
+  <data name="ListEvent_Gala">
+    <value>MGA GAWAD</value>
+  </data>
+  <data name="ListEvent_GiftCode">
+    <value>Regalo na Code</value>
+  </data>
+  <data name="ListEvent_Heading">
+    <value>Pamagat</value>
+  </data>
+  <data name="ListEvent_MessageNodata">
+    <value>Walang data</value>
+  </data>
+  <data name="ListTongKetTraoGiaiHeading">
+    <value>Pamagat</value>
+  </data>
+  <data name="ListTongKetTraoGiaiMessageNodata">
+    <value>Walang data</value>
+  </data>
+  <data name="ListTongKetTraoGiaiTitle">
+    <value>Recharge - i-redeem ang reward sa pangangaso ng isda</value>
+  </data>
+  <data name="ShareSocialMetaDesc">
+    <value>Shoot Hot 2018 Isda. Direktang Maglaro Sa Website O Mobile Walang Kinakailangang Pag-install.</value>
+  </data>
+  <data name="ShareSocialShareAction">
+    <value>Ibahagi</value>
+  </data>
+  <data name="ShareSocialSharing">
+    <value>Ibahagi sa mga kaibigan:</value>
+  </data>
+  <data name="ShareSocialTitle">
+    <value>Share social title</value>
+  </data>
+  <data name="ShareSocial_CongraFB">
+    <value>Makakatanggap ka ng reward mula sa kaganapan ng pagbabahagi ng pagtanggap ng regalo</value>
+  </data>
+  <data name="Top">
+    <value>Pinakamataas</value>
+  </data>
+  <data name="EventNull">
+    <value>Wala pang mga kaganapan</value>
+  </data>
+  <data name="CoinChange">
+    <value>Baguhin</value>
+  </data>
+  <data name="CurrentCoin">
+    <value>Balanse</value>
+  </data>
+  <data name="Errror1">
+    <value>Nagkaroon ng error sa proseso ng pagkuha ng listahan.</value>
+  </data>
+  <data name="Noted">
+    <value>a</value>
+  </data>
+  <data name="Time">
+    <value>Oras</value>
+  </data>
+  <data name="GuiTinNhan">
+    <value>Magpadala ng Mensahe</value>
+  </data>
+  <data name="HopThu">
+    <value>Mailbox</value>
+  </data>
+  <data name="KhongCoThu">
+    <value>Walang bagong mail!!!</value>
+  </data>
+  <data name="NgayGui">
+    <value>Petsa ng ipinadala</value>
+  </data>
+  <data name="NguoiGui">
+    <value>Nagpadala</value>
+  </data>
+  <data name="DatCuoc">
+    <value>Taya</value>
+  </data>
+  <data name="KetQua">
+    <value>Resulta</value>
+  </data>
+  <data name="MoTa">
+    <value>Paglalarawan</value>
+  </data>
+  <data name="NgayDat">
+    <value>Petsa</value>
+  </data>
+  <data name="Trat">
+    <value>Miss</value>
+  </data>
+  <data name="Trung">
+    <value>Panalo</value>
+  </data>
+  <data name="Message">
+    <value>Mensahe</value>
+  </data>
+  <data name="GiftCodeValidation1">
+    <value>Ang code na iyong inilagay ay mali</value>
+  </data>
+  <data name="GiftCodeValidation2">
+    <value>Nakatanggap ka ng gantimpala. 1 account lang ang makakatanggap ng 1 giftcode sa buong araw</value>
+  </data>
+  <data name="GiftCodeValidation3">
+    <value>Giftcode ay ginamit</value>
+  </data>
+  <data name="GiftCodeValidation4">
+    <value>Giftcode : Naglagay ka ng maling giftcode</value>
+  </data>
+  <data name="GiftCodeValidation5">
+    <value>Nakatanggap ka ng reward na {0} CHIPS. Manalo sa code event para makakuha ng chips. 1 account lang ang makakatanggap ng 1 giftcode sa buong araw.</value>
+  </data>
+  <data name="GiftCodeValidation6">
+    <value>Di-wasto ang Giftcode</value>
+  </data>
+  <data name="GiftCodeValidation7">
+    <value>Ang Giftcode ay wala</value>
+  </data>
+  <data name="GiftCodeValidation8">
+    <value>Na-lock ang Giftcode</value>
+  </data>
+  <data name="GiftCodeValidation9">
+    <value>Hindi matagumpay ang pagdaragdag ng CHIPS</value>
+  </data>
+  <data name="GiftCodeLabel">
+    <value>Regalo ng code </value>
+  </data>
+  <data name="GiftCodeLabelPH">
+    <value>Ilagay ang Regalo ng Code</value>
+  </data>
+  <data name="GiftCodeReceive">
+    <value>Tumanggap</value>
+  </data>
+  <data name="VQMM_WithDrawErrorMess">
+    <value>Hindi na-update para makatanggap ng bonus spin</value>
+  </data>
+  <data name="VQMM_WithDrawMessAward">
+    <value>Panalo ka {0}</value>
+  </data>
+  <data name="VQMM_WithDraw_RequestSuccess">
+    <value>Humiling ng reward na lucky spin mula sa wing wallet: {0}@wing ${1} nakumpleto</value>
+  </data>
+  <data name="E2001_PlayGameTichCode_CodeLabel">
+    <value>Code</value>
+  </data>
+  <data name="E2001_PlayGameTichCode_GameLabel">
+    <value>Laro</value>
+  </data>
+  <data name="HistoryDepositGetCodeEventChipsTitle">
+    <value>DEPOSIT PARA MAKATANGGAP NG 400,000,000 CHIPS</value>
+  </data>
+  <data name="E2004_BonusSharePost_UserHaveBonus">
+    <value>Salamat sa pagbabahagi ng post - maaari mo itong ibahagi nang maraming beses para sa iyong mga kaibigan na maaaring sumali sa kaganapan. Ngunit makakakuha ka ng higit pang +10,000 CHIPS bukas</value>
+  </data>
+  <data name="E2004_BonusSharePost_ShareSuccess">
+    <value>Matagumpay mong naibahagi ang post, at magbibigay ang system ng {0} CHIPS</value>
+  </data>
+  <data name="E2005_InvalidUser">
+    <value>Ang iyong account ay hindi karapat-dapat para sa function na ito</value>
+  </data>
+  <data name="E2005_Title">
+    <value>Magpadala ng Regalo Sa Ibang User</value>
+  </data>
+  <data name="E2004_MailTitle">
+    <value>Ibahagi ang CODE event para makatanggap ng 200.000.000 CHIPS</value>
+  </data>
+  <data name="E2004_MailContent">
+    <value>Binabati kita, matagumpay mong naibahagi. Ibibigay sa iyo ng ADMIN ang CODE {0} para makasali ka sa event na CODE 200.000.000 CHIPS. Hayaan ang patuloy na pagbabahagi upang makatanggap ng higit pang CODE at magkaroon ng kasiyahan sa paglalaro!</value>
+  </data>
+  <data name="E2004_ShareBanner">
+    <value>https://abc.net/Content/banner_share/E2004_ShareBanner_eng.jpg?t=2</value>
+  </data>
+  <data name="E2004_Hashtag">
+    <value>Ang pinakapinagkakatiwalaang Laro online abc.net, Maramihang laro, Maglaro ng libre, Walang limitasyong mga reward, Maglaro at makakuha ng MALALAKING CHIPS</value>
+  </data>
+  <data name="E2004_Title">
+    <value>magbahagi ng kaganapan upang makatanggap ng +10.000 CHIPS</value>
+  </data>
+  <data name="Bonus_Wheel_Mail_Content">
+    <value>Nakatanggap ka ng {0} na pagliko ng BONUS WHEEL</value>
+  </data>
+  <data name="Deposit_Promotion_Mail_Title">
+    <value>Promosyon ng Deposito</value>
+  </data>
+  <data name="Bonus_Mega_Spin_Mail_Content">
+    <value>Nakatanggap ka ng {0} CHIPS BONUS para maglaro ng Mega Spin game. Maglaro Ngayon!!!</value>
+  </data>
+  <data name="EventCodeRunOut">
+    <value>Naubos ang listahan ng mga code, mangyaring bumalik mamaya</value>
+  </data>
+  <data name="EventCodeCreateFail">
+    <value>Nabigo ang pagbuo ng code</value>
+  </data>
+  <data name="ResxEventCalendar">
+    <value>Kalendaryo ng Kaganapan</value>
+  </data>
+  <data name="Code_Event_PlayGame">
+    <value>MAGLARO WIN GET CODE - 200.000.000 CHIPS</value>
+  </data>
+  <data name="ScreenCaptureGame_UserMaxInDay">
+    <value>Lumampas sa bilang ng mga pinapayagang beses, hanggang {0} / araw</value>
+  </data>
+  <data name="ScreenCaptureGame_UserNextTime">
+    <value>Masyadong mabilis ang operasyon, mangyaring maghintay ng {0} minuto upang muling isumite</value>
+  </data>
+  <data name="ScreenCaptureGame_DeviceMaxInDay">
+    <value>Lumampas sa bilang ng mga pinapayagang beses, hanggang {0} / araw</value>
+  </data>
+  <data name="ScreenCaptureGame_DeviceNextTime">
+    <value>Nabigo ang pag-upload</value>
+  </data>
+  <data name="ScreenCaptureGame_UploadFail">
+    <value>Nabigo ang pag-upload</value>
+  </data>
+  <data name="LuckyTIDNumber_Title">
+    <value>LUCKY TID NUMBER - X2 ANG IYONG WALLET</value>
+  </data>
+  <data name="LuckyTIDNumber_Content">
+    <value>Nagdeposito ka lang ng {0} para sa event na Lucky TID number - X2 ang iyong wallet. TID {1} ID GAME {2} - ang huling numero ng ID GAME at TID number ay hindi even/odd na numero. Kaya hindi mo makuha ang halagang X2 sa iyong wallet. Baka palarin sa susunod!</value>
+  </data>
+  <data name="LuckyTIDNumber_Title_Win">
+    <value>Binabati kita sa pagkapanalo sa laro LUCKY TID NUMBER - X2 Your Wallet</value>
+  </data>
+  <data name="LuckyTIDNumber_Content_Win">
+    <value>Inilipat ng admin ang {0} na iyong natanggap at ang mga nanalong halagang {1} (binawas ng 2% na bayad). Good luck sa iyo at patuloy na makakuha ng mga halaga ng X2 sa iyong wallet!</value>
+  </data>
+  <data name="DailyQuest_01_Day">
+    <value>Inilipat ng admin ang {0} na iyong natanggap at ang mga nanalong halagang {1} (binawas ng 2% na bayad). Good luck sa iyo at patuloy na makakuha ng mga halaga ng X2 sa iyong wallet!</value>
+  </data>
+  <data name="DailyQuest_Spin_Slot_{X}_Time">
+    <value>Spin slot {0} (na) oras</value>
+  </data>
+  <data name="DailyQuest_Collect_Ads_{X}_Time">
+    <value>Mangolekta ng mga chip para sa mga ad sa panonood ng {0} (na) oras</value>
+  </data>
+  <data name="DailyQuest_BigWin_{X}_Time">
+    <value>Nanalo ng BigWin {0} (na) beses</value>
+  </data>
+  <data name="DailyQuest_Shot_{X}_Bullet">
+    <value>Nakabaril ng {0} (mga) bala sa larong pangingisda</value>
+  </data>
+  <data name="DailyQuest_Not_Running">
+    <value>Hindi tumatakbo ang Daily Quest</value>
+  </data>
+  <data name="DailyQuest_Contribute_{X}_Point">
+    <value>Makakuha ng {0} (mga) puntos</value>
+  </data>
+  <data name="DailyQuest_Receive_Fail">
+    <value>Nabigong makatanggap ng mga reward</value>
+  </data>
+  <data name="DailyQuest_Receive_Infor_NotMatch">
+    <value>Di-wasto ang impormasyon o nakatanggap ka ng reward</value>
+  </data>
+  <data name="Daily_Quest_Contribute_Value_Invalid">
+    <value>Di-wasto ang naipon na halaga</value>
+  </data>
+  <data name="Daily_Quest_Mission_Not_Config">
+    <value>Ang pang-araw-araw na pakikipagsapalaran ay hindi kino-configure ang paghahanap na ito</value>
+  </data>
+  <data name="Daily_Quest_Not_Running">
+    <value>Hindi tumatakbo ang Daily Quest</value>
+  </data>
+  <data name="SpinBonus_NoSpin">
+    <value>Walang turn para maglaro</value>
+  </data>
+  <data name="SpinBonus_NoItem">
+    <value>Naubos na ang listahan ng reward</value>
+  </data>
+  <data name="SpinBonus_NoSpinHasNotUse">
+    <value>Naubusan ng liko</value>
+  </data>
+  <data name="EventMinChipToReceiveGift" xml:space="preserve">
+    <value>Dapat mas mababa sa 5,000 ang iyong Chip para makatanggap ng regalo</value>
+  </data>
+  <data name="EventNotRunning" xml:space="preserve">
+    <value>Ang kaganapan ay sinuspinde</value>
+  </data>
+  <data name="EventNhapMaDuocTienCongra" xml:space="preserve">
+    <value>Nanalo ka ngayong araw. Ang 1 nick ay maaari lamang CHIPS 1 gift code bawat araw</value>
+  </data>
+  <data name="STT" xml:space="preserve">
+    <value>Hindi</value>
+  </data>
+  <data name="KhuyenMaiNapGoldThecao" xml:space="preserve">
+    <value>Deposit bonus</value>
+  </data>
+</LocalLanguages>

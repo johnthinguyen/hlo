@@ -1,0 +1,1628 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="EventNhapMaDuocTienCongra" xml:space="preserve">
+    <value>You have won today. 1 nick can only CHIPS 1 gift code per day</value>
+  </data>
+  <data name="RegisInMobilePassword" xml:space="preserve">
+        <value>Password must be at least 6 characters.</value>
+    </data>
+  <data name="NonexistSecurityCode" xml:space="preserve">
+        <value>Captcha is incorrect</value>
+    </data>
+  <data name="InvalidSecurityCode" xml:space="preserve">
+        <value>Captcha is incorrect</value>
+    </data>
+  <data name="InvalidCaptchaCode" xml:space="preserve">
+    <value>Captcha is incorrect</value>
+    </data>
+  <data name="BonusLogin" xml:space="preserve">
+        <value>Bonus Login</value>
+    </data>
+  <data name="Game_Type_Fishing">
+    <value>Fishing Game</value>
+  </data>
+  <data name="Game_Type_Slot_Game">
+    <value>Slot Game</value>
+  </data>
+  <data name="Game_Type_Orther">
+    <value>Orther Game</value>
+  </data>
+  <data name="BanNick" xml:space="preserve">
+	<value> The account has been locked </value>
+</data>
+  <data name="BanNickForever" xml:space="preserve">
+	<value> The account has been permanently locked </value>
+</data>
+  <!--Region Descript Defender-->
+  <data name="SoloMode_Default" xml:space="preserve">
+        <value>Fish Hunting Gun</value>
+    </data>
+  <data name="SoloMode_Medusa" xml:space="preserve">
+        <value> Gun Medusa</value>
+    </data>
+  <data name="SoloMode_NhanMa" xml:space="preserve">
+        <value>Sagittarius Gun</value>
+    </data>
+  <data name="SoloMode_Poseidon" xml:space="preserve">
+        <value>Poseidon Gun</value>
+    </data>
+  <data name="SoloMode_Mermaid" xml:space="preserve">
+        <value>Gun Mermaid</value>
+    </data>
+  <data name="SoloMode_Cerberus" xml:space="preserve">
+        <value>Cerberus Gun</value>
+    </data>
+  <data name="SoloMode_Dragon" xml:space="preserve">
+        <value>Dragon gun</value>
+    </data>
+  <data name="SoloMode_Success" xml:space="preserve">
+        <value>Success</value>
+    </data>
+  <data name="SoloMode_Failed" xml:space="preserve">
+        <value>Failure</value>
+    </data>
+  <data name="SoloMode_InvalidDataInput" xml:space="preserve">
+        <value>Invalid data</value>
+    </data>
+  <data name="SoloMode_NotHaveGunKind" xml:space="preserve">
+        <value>User does not have a suitable gun</value>
+    </data>
+  <data name="SoloMode_NotConfigGunKind" xml:space="preserve">
+        <value>Gun not configured</value>
+    </data>
+  <data name="SoloMode_NotConfigGeneration" xml:space="preserve">
+        <value>The gun generation is not configured</value>
+    </data>
+  <data name="SoloMode_GunLevelMax" xml:space="preserve">
+        <value>The gun has reached the maximum level</value>
+    </data>
+  <data name="SoloMode_OverLimitActiveGun" xml:space="preserve">
+        <value>The gun is selected too specified</value>
+    </data>
+  <data name="SoloMode_DuplicateActiveChoiseGun" xml:space="preserve">
+        <value>Cannot select the same gun</value>
+    </data>
+  <data name="SoloMode_NotContainsChoiseGun" xml:space="preserve">
+        <value>Don't choose a gun you don't have.</value>
+    </data>
+  <data name="SoloMode_UpdateIsFailed" xml:space="preserve">
+        <value>There was an error during the upgrade process</value>
+    </data>
+  <data name="SoloMode_HaveOnlyDefaultGun" xml:space="preserve">
+        <value>User only has the default gun.</value>
+    </data>
+  <data name="SoloMode_NotEnoughLevelToEvolution" xml:space="preserve">
+        <value>The gun cannot evolve</value>
+    </data>
+  <data name="SoloMode_EvolutionIsFailed" xml:space="preserve">
+        <value>Has an evolutionary error</value>
+    </data>
+  <data name="SoloMode_NotAnyMineral" xml:space="preserve">
+        <value>No material available.</value>
+    </data>
+  <data name="SoloMode_NotContainsChoiseMineral" xml:space="preserve">
+        <value>Materials are not available in the inventory</value>
+    </data>
+  <data name="SoloMode_NotConfigMineral" xml:space="preserve">
+        <value>The configuration has not been configured in the user pocket</value>
+    </data>
+  <data name="SoloMode_NotAnyMaterial" xml:space="preserve">
+        <value>User has no evolutionary material</value>
+    </data>
+  <data name="SoloMode_IsContainsChoiseMaterial" xml:space="preserve">
+        <value>Materials are not available in the inventory</value>
+    </data>
+  <data name="SoloMode_NotConfigMaterial" xml:space="preserve">
+        <value>Not configured Material in user bag</value>
+    </data>
+  <data name="SoloMode_MaterialChoiseNotMatchConfig" xml:space="preserve">
+        <value>The material is not suitable</value>
+    </data>
+  <data name="SoloMode_NotHaveSkillKind" xml:space="preserve">
+        <value>Does not have this skill</value>
+    </data>
+  <data name="SoloMode_OverLimitActiveSkill" xml:space="preserve">
+        <value>The selected skill is too specified</value>
+    </data>
+  <data name="SoloMode_DuplicateActiveChoiseSkill" xml:space="preserve">
+        <value>Do not select the same skill.</value>
+    </data>
+  <data name="SoloMode_NotContainsChoiseSkill" xml:space="preserve">
+        <value>Don't choose skills you don't have.</value>
+    </data>
+  <data name="SoloMode_WallNotFound" xml:space="preserve">
+        <value>Wall does not exist</value>
+    </data>
+  <data name="SoloMode_WallInvalidStage" xml:space="preserve">
+        <value>Play to the game screen to allow upgrades</value>
+    </data>
+  <data name="SoloMode_NotHaveTowerKind" xml:space="preserve">
+        <value>User has no matching tower</value>
+    </data>
+  <data name="SoloMode_NotConfigTowerKind" xml:space="preserve">
+        <value>The tower has not been configured</value>
+    </data>
+  <data name="SoloMode_NotConfigTowerGeneration" xml:space="preserve">
+        <value>The tower generation has not been configured</value>
+    </data>
+  <data name="SoloMode_TowerLevelMax" xml:space="preserve">
+        <value>The tower has reached its maximum level</value>
+    </data>
+  <data name="SoloMode_OverLimitActiveTower" xml:space="preserve">
+        <value>The tower is selected beyond the specified limit</value>
+    </data>
+  <data name="SoloMode_DuplicateActiveChoiseTower" xml:space="preserve">
+        <value>Do not select the same tower</value>
+    </data>
+  <data name="SoloMode_NotContainsChoiseTower" xml:space="preserve">
+        <value>Do not select the tower you do not have.</value>
+    </data>
+  <data name="SoloMode_UpdateTowerIsFailed" xml:space="preserve">
+        <value>There was an error during the upgrade process</value>
+    </data>
+  <data name="SoloMode_HaveOnlyDefaultTower" xml:space="preserve">
+        <value>User only has the default tower</value>
+    </data>
+  <data name="SoloMode_NotEnoughCoin" xml:space="preserve">
+        <value>User does not have enough coins.</value>
+    </data>
+  <data name="SoloMode_CheckNotExists" xml:space="preserve">
+        <value>The test function does not exist</value>
+    </data>
+  <data name="Success" xml:space="preserve">
+        <value>Success</value>
+    </data>
+  <data name="Fail" xml:space="preserve">
+        <value>test</value>
+    </data>
+  <data name="Skill" xml:space="preserve">
+        <value>Skill</value>
+    </data>
+  <data name="ConfigFail" xml:space="preserve">
+        <value>Config does not exist</value>
+    </data>
+  <data name="EnoughNotCoins" xml:space="preserve">
+        <value>You don't have enough chips to buy item</value>
+    </data>
+  <data name="InvalidNumber" xml:space="preserve">
+        <value>Invalid Quantity</value>
+    </data>
+  <data name="InvalidMoneyType" xml:space="preserve">
+        <value>Invalid money type</value>
+    </data>
+  <data name="ContinueBuying" xml:space="preserve">
+        <value>You must use this Item to continue buying</value>
+    </data>
+  <data name="NotHaveExhausted" xml:space="preserve">
+        <value>You have exhausted the number of items purchased during the day</value>
+    </data>
+  <data name="TheNumberIsTooLimited" xml:space="preserve">
+        <value>The number is too limited</value>
+    </data>
+  <data name="ToBuyANewItem" xml:space="preserve">
+        <value>To buy a new item, please use all items in the inventory</value>
+    </data>
+  <data name="YouHaveRunOutOfTimes" xml:space="preserve">
+        <value>You have run out of times to buy Item</value>
+    </data>
+  <data name="NoData" xml:space="preserve">
+        <value>No data</value>
+    </data>
+  <data name="EventEnds" xml:space="preserve">
+        <value>Event Ends</value>
+    </data>
+  <data name="YouMustHaveATurn" xml:space="preserve">
+        <value>You must have at least 1 spin and {0: #, ## 0} coins to join</value>
+    </data>
+  <data name="MustWaitMoreDays" xml:space="preserve">
+        <value>You must wait {0} more days to dial</value>
+    </data>
+  <data name="ToDayHasBeenAwarded" xml:space="preserve">
+        <value>Today's prize has been awarded</value>
+    </data>
+  <data name="HasBeenAwarded" xml:space="preserve">
+        <value>Awards were awarded</value>
+    </data>
+  <data name="CSKHService" xml:space="preserve">
+        <value>Please contact Customer Service for assistance</value>
+    </data>
+  <data name="VipNotRunning" xml:space="preserve">
+        <value>Vip Not running</value>
+    </data>
+  <data name="AccountNotVip" xml:space="preserve">
+        <value>There are no VIP in this account</value>
+    </data>
+  <data name="YourAccountAwarded" xml:space="preserve">
+        <value>You are awarded {0} to your account</value>
+    </data>
+  <data name="YouPromotioned" xml:space="preserve">
+        <value>You are promotioned {0}% based on the value of the card</value>
+    </data>
+  <data name="GameNotConfig" xml:space="preserve">
+        <value>The game has not been configured</value>
+    </data>
+  <data name="GetDataFail" xml:space="preserve">
+        <value>Failed to get data</value>
+    </data>
+  <data name="InvalidLocationId" xml:space="preserve">
+        <value>Invalid locationId</value>
+    </data>
+  <data name="InvalidChannel" xml:space="preserve">
+        <value>Invalid Channel</value>
+    </data>
+  <data name="UserNotEnoughWatch" xml:space="preserve">
+        <value>User has exceeded the limit of number of views</value>
+    </data>
+  <data name="GetDataSuccess_v1" xml:space="preserve">
+        <value>Get the data success</value>
+    </data>
+  <data name="Orther" xml:space="preserve">
+        <value>Orther</value>
+    </data>
+  <data name="Bullet" xml:space="preserve">
+        <value>Bullet</value>
+    </data>
+  <data name="Guns" xml:space="preserve">
+        <value>Guns</value>
+    </data>
+  <data name="Effect" xml:space="preserve">
+        <value>Effect</value>
+    </data>
+  <data name="NoItem" xml:space="preserve">
+        <value>No Item</value>
+    </data>
+  <data name="ItemCannotActive" xml:space="preserve">
+        <value>Item cannot be activated</value>
+    </data>
+  <data name="Itemdoesnotexist" xml:space="preserve">
+        <value>Item does not exist</value>
+    </data>
+  <data name="Buyitemssuccessfully" xml:space="preserve">
+        <value>Buy items successfully</value>
+    </data>
+  <data name="VipLevelUp" xml:space="preserve">
+        <value>Get a successful VIP level reward</value>
+    </data>
+  <data name="Norewards" xml:space="preserve">
+        <value>There are no rewards to receive</value>
+    </data>
+  <data name="Getrewardedfailure" xml:space="preserve">
+        <value>Get rewarded failure</value>
+    </data>
+  <data name="Norewardfound" xml:space="preserve">
+        <value>No reward found to receive</value>
+    </data>
+  <data name="Pointstoachieve" xml:space="preserve">
+        <value>Points to achieve</value>
+    </data>
+  <data name="Expshotfish" xml:space="preserve">
+        <value>Exp shot fish</value>
+    </data>
+  <data name="Accumulatedskill" xml:space="preserve">
+        <value>Accumulated skill</value>
+    </data>
+  <data name="Transfercoins" xml:space="preserve">
+        <value>Transfer coins</value>
+    </data>
+  <data name="Getacointransfer" xml:space="preserve">
+        <value>Get a coin transfer</value>
+    </data>
+  <data name="Donatedtimes1" xml:space="preserve">
+        <value>Donated times 1</value>
+    </data>
+  <data name="Donatedtimes2" xml:space="preserve">
+        <value>Donated times 2</value>
+    </data>
+  <data name="Expcharacter" xml:space="preserve">
+        <value>Exp character</value>
+    </data>
+  <data name="Invalidinputdata" xml:space="preserve">
+        <value>Invalid input data</value>
+    </data>
+  <data name="Levelvipup" xml:space="preserve">
+        <value>Level vip up</value>
+    </data>
+  <data name="Accumulatesuccesspoints" xml:space="preserve">
+        <value>Accumulate success points</value>
+    </data>
+  <data name="Failuretoaccumulatepointsfailed" xml:space="preserve">
+        <value>Failure to accumulate points failed</value>
+    </data>
+  <data name="Youareawardedtoyouraccount" xml:space="preserve">
+        <value>You are awarded {0} to your account</value>
+    </data>
+  <data name="Addingvipuserinformationfailed" xml:space="preserve">
+        <value>Adding vip user information failed</value>
+    </data>
+  <data name="Successfullyupdated" xml:space="preserve">
+        <value>Successfully updated</value>
+    </data>
+  <data name="Emailalreadyexists" xml:space="preserve">
+        <value>Your email already exists</value>
+    </data>
+  <data name="Accountdoesnotexist" xml:space="preserve">
+        <value>Account does not exist</value>
+    </data>
+  <data name="PleaseComeBackTomorrow" xml:space="preserve">
+        <value>Please come back tomorrow.</value>
+    </data>
+  <data name="UserReceivedAReward" xml:space="preserve">
+        <value>User received a reward</value>
+    </data>
+  <data name="BonusDailyDay" xml:space="preserve">
+        <value>Day</value>
+    </data>
+  <data name="Bronze" xml:space="preserve">
+        <value>Bronze</value>
+    </data>
+  <data name="Silver" xml:space="preserve">
+        <value>Silver</value>
+    </data>
+  <data name="Ruby" xml:space="preserve">
+        <value>Ruby</value>
+    </data>
+  <data name="Emerald" xml:space="preserve">
+        <value>Emerald</value>
+    </data>
+  <data name="Diamond" xml:space="preserve">
+        <value>Diamond</value>
+    </data>
+  <data name="Gold" xml:space="preserve">
+        <value>Gold</value>
+    </data>
+  <data name="EventDoesNotExist" xml:space="preserve">
+        <value>The event does not exist</value>
+    </data>
+  <data name="ChannelInvalid" xml:space="preserve">
+        <value>Channel is invalid</value>
+    </data>
+  <data name="UserLimitViews" xml:space="preserve">
+        <value>User has exceeded the limit of number of views</value>
+    </data>
+  <data name="UserAwarded" xml:space="preserve">
+        <value>User has been awarded gold</value>
+    </data>
+  <data name="MissionNotComplte" xml:space="preserve">
+        <value>The task is not completed</value>
+    </data>
+  <data name="RewardNotExists" xml:space="preserve">
+        <value>Rewards received or not existed</value>
+    </data>
+  <data name="EventNotYetRun" xml:space="preserve">
+        <value>The event has not yet taken place</value>
+    </data>
+  <data name="ComeBackAt" xml:space="preserve">
+        <value>Please come back at {0}</value>
+    </data>
+  <data name="CoinNotMatch" xml:space="preserve">
+        <value>Current coin does not match</value>
+    </data>
+  <data name="DevicesFailed" xml:space="preserve">
+        <value>Exceeds the number of devices</value>
+    </data>
+  <data name="UserFailed" xml:space="preserve">
+        <value>Exceeds the number of users</value>
+    </data>
+  <data name="IPFailed" xml:space="preserve">
+        <value>Exceed the number of Ip</value>
+    </data>
+  <data name="UserFreeTurn" xml:space="preserve">
+        <value>User has free turn</value>
+    </data>
+  <data name="OldNewSame" xml:space="preserve">
+        <value>Old and new passwords are the same. Please check again</value>
+    </data>
+  <data name="AllowedNotCharacters" xml:space="preserve">
+        <value>Password contains characters that are not allowed.</value>
+    </data>
+  <data name="HardPassword" xml:space="preserve">
+        <value>Please choose a harder password to protect your account. Do not select a password</value>
+    </data>
+  <data name="AllowedLimitPassword" xml:space="preserve">
+        <value>Your new password exceeds the allowed limit</value>
+    </data>
+  <data name="OldPassWordIsNotCorrect" xml:space="preserve">
+        <value>Old password is not correct. Please contact support if you do not remember your password.</value>
+    </data>
+  <data name="RegisterDateNotReward" xml:space="preserve">
+        <value>The registration date will not be accepted</value>
+    </data>
+  <data name="CoinLessThenBonus" xml:space="preserve">
+        <value>Your Coins must be less than {0} to receive a bonus</value>
+    </data>
+  <data name="OutOfStock" xml:space="preserve">
+        <value>Out of stock card</value>
+    </data>
+  <data name="AccountHasComplete" xml:space="preserve">
+        <value>Account has completed Tutorial</value>
+    </data>
+  <data name="CompeleteTutorialBonus" xml:space="preserve">
+        <value>Tutorial</value>
+    </data>
+  <data name="ConfigNotExists" xml:space="preserve">
+        <value>Config Not Exists</value>
+    </data>
+  <data name="AddGoldUserFromEvent" xml:space="preserve">
+        <value>Free Gold for new users</value>
+    </data>
+  <data name="AddGoldUserFromEventError" xml:space="preserve">
+        <value>Error giving Gold to user</value>
+    </data>
+  <data name="DeviceIdAlreadyExist" xml:space="preserve">
+        <value>Device already exist</value>
+    </data>
+  <data name="EventMinChipToReceiveGift" xml:space="preserve">
+    <value>Your Chips must be less than 5,000 to receive gift</value>
+  </data>
+  <data name="RewardsForTheDay" xml:space="preserve">
+    <value>You have received all the rewards for the day</value>
+  </data>
+  <data name="Failed" xml:space="preserve">
+        <value>Failed</value>
+    </data>
+  <!--Endregion Descript Defender-->
+  <data name="SignIn" xml:space="preserve">
+    <value>LOGIN</value>
+  </data>
+  <data name="KhuyenMaiNapGoldThecao" xml:space="preserve">
+    <value>Deposit bonus</value>
+  </data>
+  <data name="SoloMode_NotConfig Generation" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SoloMode_IsContainsChooseMaterial" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CreateTranlogError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AddGoldUserFirstChargeCardInDay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AddGoldUserChargeCard" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AddGoldUserChargeIAP" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotPromoCard" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="EvnetNapTheTichCodeSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="EvnetNapTheTichCodeSystemError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AddGoldUserRegBcst" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AddGoldUserHall" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="BonusShareSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="BonusShareError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="RegisterRefererPubUser" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="RegisterRefererPubUserAccepted" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoImportCardResponseError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoImportCardImportError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoImportCardSupplierExportError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardNotSelectCard" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardIsMaintain" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardOutOfLimit" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardOutOfRangeTime" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardNotEnoughGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardNotEnoughGoldOffset" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardErrorAdmin" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardTimeOut" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardSupGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardUpdateAccountError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardOutOflimitCard" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoExportCardSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutDataError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OutOfGoldCashOut" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutNotEnoughGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutAccountVnKashIsNotExit" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutAVnKashNotEnoughGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountCashOut" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutSupGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutBaoKimSupGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutTimeOut" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutTimeOutBaoKim" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutReturnGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutReturnGoldCSKH" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutReturnGoldCskhBaoKim" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutErrorReturnGoldCSKH" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashOutSuccessBaoKim" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositMinMoney" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Depositfail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositDealfail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositReview" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositAddGoldFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositAddGoldSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCreatePostDataFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositProcessing" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositDelay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SubGoldItem" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OutOfTurnCard" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OutOfTurnStar" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotEnoughStar" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotEnoughCardWithProductId" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageSendItemSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TransferGoldFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountIsNotExit" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountIsLock" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="HasBeenUpdated" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="InvalidUpdating" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SendingMailError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SuccessWithGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AvatarNotExists" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserNotExists" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OutOfDate" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotYetSms" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WrongCode" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OutOfTimes" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GoogleSearch" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Facebook" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Mobile" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GoogleAdword" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FacebookApp" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="EmailError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="EmailExist" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PassOrEmailError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserIsNotActive" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UsingAnotherDevice" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SuccessWithSecure" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NonExistsAccount" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UsingSMSSecure" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UsingNormalSecure" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OtpExpire" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SystemError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Unknown" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Web" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Android" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Ios" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WindowPhone" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PlatformIdEnumFacebook" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotActivate" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UsingSMS" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Normal" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AllType" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="InvalidNickName" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ExistedAccount" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="InvalidDisplayName" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotUse" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="HasBeenUpdate" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserNotRegular" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotSelectQuestion" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotAnswer" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AnswerNotRegular" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AnswerHasSignChar" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="IsEnough" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="IsMember" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="IsWaiting" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotEnoughLevel" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotPermission" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Admin" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Association" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Exp" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PubUserId" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NickName" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NameExists" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NameNotExists" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DaThamGiaBangHoi" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ChuaCapNhapThongTin" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="KhongDuGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DuplicationName" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="IsNotOwner" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="IsNotEnoughGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="IsEnoughMember" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="IsBelongToAssociation" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="HasSent" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SameUser" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="InvalidMessage" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserLeft" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccessDenied" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserTuRoi" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OwnerKick" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SubOwnerKick" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserHasSent" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="IsNotEnoughCondition" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="IsExistsAnotherAss" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="EnoughSubOwner" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AlreadyDone" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotOwner" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SameOwnUser" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotMember" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Round1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Round2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Round3" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OutOfStars" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CardPartnerFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Card" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Item" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="StarExchangeGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Vong1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Vong2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Vong3" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="InvalidSender" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="InvalidReceiver" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotEnoughGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="InvalidGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="IsNotSameAssociation" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OutOfTime" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserInGame" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="RangerGoldMaxOnDay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotEnoughLevelGame" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ExistedName" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserInAnotherGuild" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NoRight" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotExistedGuild" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ValueIncorrect" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CommentNotMember" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotExistsComment" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotExistsGuild" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="JoinIsWaiting" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CannotKickOwner" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserNotInGuild" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CannotLeftOwner" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotEnough" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NotExists" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FailTransaction" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ExistantTransaction" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="InvalidVipPoint" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="KiemTraGiaoDich" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ThatBai" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DaiLyKhongDuGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GiaoDichKhongTonTai" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TheDaSuDung" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CardAmountInvalid" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCardError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CardTypeInvalid" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TransactionInvalid" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GiaoDichThatBai" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CongVipPointLoi" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GiaoDichLoi" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CongGoldPromotionVipError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CongGoldPromotionError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CongGoldVipError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CongPromotionVipError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CongGoldError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CongPromotionError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Proccessing" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FailWhenCallUseCard" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotPromotion" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotVipPoint" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotGoldAndVip" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotPromotionAndVipPoint" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotGoldAndPromotion" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SuccessNotGoldAndPromotionAndVip" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserRequestCheckTransactionError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TimeOut" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CallbackProcessing" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CallbackError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CallbackReturnDepositAgain" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FailWhenCallGetStatus" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DelayToNextDeposit" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MemberToMember" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AssociationToMember" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="KhongDuGoldAddOrSub" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="KhongThucHienLenhNao" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CongGoldKhongThanhCong" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LoiException" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCao" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCaoKhuyenMai100" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldNganLuong" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldNganLuongKhuyenMai" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldSms" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldSmsKhuyenMai" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCaoKhuyenMaiTiepSuc" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCaoKhuyenMaiTihcLuy" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCaoKhuyenMaiChonLoc" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCaoKhuyenMaiNgayVang" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LiXiTet" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ChuyenGoldTuTaiKhoanVaoViNganHang" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ChuyenGoldTuViNganHangVaoTaiKhoan" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CongGoldEvent03" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiSaoRaTheCao" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiSaoRaGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiSaoRaVatPham" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldDaiLy" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldDaiLyKhuyenMai" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapGoldDaiLyKhuyenMaiMuaGoldChamMoc" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TriAnVip" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapTienGoogleWallet" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NapTienAppleStore" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiDoanhThuRaGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NhanThuongVQXS" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NhanThuongRaSanh" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="KhuyenMaiUserVIP" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NhanThuongThanhTuu" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="KhuyenMaiPrivateUserReal" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="KhuyenMaiPrivateUserVIP" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MainGame" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="BCST" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="BC3D" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="BCV" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogIn" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ChangeCard" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ChangeVnKash" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PlayGame" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ChangeBaoKim" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ChangeMTop" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ChangeBank" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TransferGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TopBanner" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Sliderbcst" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopupEvent" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopupEventBCST" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Hide" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="EventIsNotBegin" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="EventIsEnd" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ErrorWhenAddGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="UserNotinEvent" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TLMN" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Binh" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OanTuTi" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="U" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DanhChan" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CoTuong" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="XiTo" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DeclineInviteFriend" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SentInviteFriend" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AcceptInviteFriend" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SentNotConfirm" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SqlError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="InviteFriend" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="InviteAssociation" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage00" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage99" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage01" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage02" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage03" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage04" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage05" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage06" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage07" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage08" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage09" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage10" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage11" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage12" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage13" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage14" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage15" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage16" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage17" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage18" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage19" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage20" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage21" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage22" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage23" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage24" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage25" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage26" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage27" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage28" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage29" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage30" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms00" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms99" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms01" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms02" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms03" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms04" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms05" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms06" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms07" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms08" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms09" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms10" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms11" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms12" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms13" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms14" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms15" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms16" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms17" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms18" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms19" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms20" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms21" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms22" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms23" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms24" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms25" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DownloadSoftpinLoginFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DownloadSoftpinCallServiceFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="EpayGetCardInfoFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="EpayGetPinOrResiInfoFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransDesWating" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransInsertFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransInsertTimeOut" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransInsertError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransChargeErrorCode2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransChargeErrorCode3" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransChargeWithCallback" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransNapGoldTheCao" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransNapGoldSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransNapGoldSuccessNoHtml" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransNapTheTichCode" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SaveLogVipPointLog" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LoiTruGoldGame" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TopBangHoiUserLogTypeEnumUnKnow" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TopBangHoiUserLogTypeEnumBangHoi" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TopBangHoiUserLogTypeEnumCaNhan" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WalletError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WalletTypeError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumDoiMatKhau" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumThayDoiSDT" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumTaoMatKhauOtp" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumDoiMatKhauKhoaVi" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumKhoaVi" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumMoKhoaVi" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="BanCa" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="VQXS" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ShopOnline" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FeeOfflineMessage" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="OfflineMessage" xml:space="preserve">
+    <value></value>
+  </data>
+</LocalLanguages>

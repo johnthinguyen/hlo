@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="About" xml:space="preserve">
+    <value>Khang</value>
+  </data>
+  <data name="AboutItem1" xml:space="preserve">
+    <value>រាល់ item +10 បង្កើតចំនួនសមាជិកច្រើនបំផុតរបស់ក្រុមបក្សឡើងដល់១០នាក់</value>
+    <comment>រាល់ item +10 បង្កើតចំនួនសមាជិកច្រើនបំផុតរបស់ក្រុមបក្សឡើងដល់១០នាក់</comment>
+  </data>
+  <data name="AboutItem2" xml:space="preserve">
+    <value>你好</value>
+  </data>
+  <data name="你好" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="AboutItem6" xml:space="preserve">
+    <value>b</value>
+  </data>
+  <data name="AboutItem7" xml:space="preserve">
+    <value>b</value>
+  </data>
+  <data name="1" xml:space="preserve">
+    <value>b</value>
+  </data>
+  <data name="2" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="3" xml:space="preserve">
+    <value>eeeeeeeee</value>
+  </data>
+  <data name="asddas" xml:space="preserve">
+    <value>1111112222222</value>
+  </data>
+  <data name="aaaa" xml:space="preserve">
+    <value>54</value>
+  </data>
+  <data name="asdasd" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="AboutItem8" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="dasasdads" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="Abount1" xml:space="preserve">
+    <value>2222222222222</value>
+  </data>
+  <data name="INFO_USER_LASTED_ACHIEVEMENTa" xml:space="preserve">
+    <value>LASTED ACHIEVEMENT</value>
+  </data>
+  <data name="INFO_USER_LASTED_ACHIEVEMENTa888" xml:space="preserve">
+    <value>LASTED ACHIEVEMENT</value>
+  </data>
+  <data name="BoxEventTichCodeMailContent" xml:space="preserve">
+    <value>អ្នកបានបញ្ចូល {0} $ ជោគជ័យនិងទទួលបាន {1} លេខ CODE គឺ {2}ចូលរួមព្រឹត្តិការណ៍ "បញ្ចូលកាក់ភ្លាមទទួលបានភ្លាម 200.000.000 CHIPS" ។ ព្រឹត្តិការណ៍ចាប់ពី {3}
+ព្រឺត្តិការណ៏លម្អិត: 
+&lt;a target="_blank" href="https://live777.com/forum/art--200-000-000-chips-16-06-22-06-519"&gt;https://live777.com/forum/art--200-000-000-chips-16-06-22-06-519&lt;/a&gt;
+You have bought {0}$ successfully and get {1} code {2} to join the event "DEPOSIT NOW - RECEIVE 200.000.000 CHIPS". Time of the event: from {3} 
+&lt;a target="_blank" href="https://live777.com/forum/art-deposit-to-receive-200-000-000-chips-16-06-22-06-518"&gt;https://live777.com/forum/art-deposit-to-receive-200-000-000-chips-16-06-22-06-518&lt;/a&gt;</value>
+  </data>
+  <data name="y" xml:space="preserve">
+    <value>y</value>
+  </data>
+  <data name="ts" xml:space="preserve">
+    <value>t</value>
+  </data>
+  <data name="test6" xml:space="preserve">
+    <value>tm</value>
+  </data>
+  <data name="testq" xml:space="preserve">
+    <value>y</value>
+  </data>
+</LocalLanguages>

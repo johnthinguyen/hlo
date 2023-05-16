@@ -1,0 +1,1193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LocalLanguages>
+  <data name="Game_415">
+    <value>Play Sicbo Mini</value>
+  </data>
+  <data name="Game_412">
+    <value>poker slot</value>
+  </data>
+  <data name="Game_-1">
+    <value>Bonus Wheel</value>
+  </data>
+  <data name="Game_434">
+    <value>Kdam Klouk</value>
+  </data>
+  <data name="Game_Type_Fishing">
+    <value>Fishing Game</value>
+  </data>
+  <data name="Game_Type_Slot_Game">
+    <value>Slot Game</value>
+  </data>
+  <data name="Game_500">
+    <value>Fishing Arcade</value>
+  </data>
+  <data name="Game_425">
+    <value>TEXAS HOLD 'EM POKER</value>
+  </data>
+  <data name="Game_424">
+    <value>DIAMONDS LINK</value>
+  </data>
+  <data name="Game_423">
+    <value>MONOPOLY</value>
+  </data>
+  <data name="Game_420">
+    <value>SAMURAI</value>
+  </data>
+  <data name="Game_419">
+    <value>INDIAN DREAMING</value>
+  </data>
+  <data name="Game_417">
+    <value>GOD OF WEALTH</value>
+  </data>
+  <data name="Game_416">
+    <value>AMAZING ANIMALS</value>
+  </data>
+  <data name="Game_411">
+    <value>THREE KINGDOMS</value>
+  </data>
+  <data name="Game_410">
+    <value>GOLDEN DRAGON</value>
+  </data>
+  <data name="Game_409">
+    <value>CAO RUA</value>
+  </data>
+  <data name="Game_408">
+    <value>LUCKY</value>
+  </data>
+  <data name="Game_407">
+    <value>JACKPOT</value>
+  </data>
+  <data name="Game_406">
+    <value>GONG</value>
+  </data>
+  <data name="Game_402">
+    <value>BAR</value>
+  </data>
+  <data name="Game_209">
+    <value>ODD-EVEN</value>
+  </data>
+  <data name="Game_201">
+    <value>NORTHERN POKER</value>
+  </data>
+  <data name="Game_200">
+    <value>LIENG</value>
+  </data>
+  <data name="Game_48">
+    <value>SICBO</value>
+  </data>
+  <data name="Game_42">
+    <value>HONGKONG POKER</value>
+  </data>
+  <data name="Game_41">
+    <value>TALA</value>
+  </data>
+  <data name="Game_40">
+    <value>SOUTHERN POKER</value>
+  </data>
+  <data name="Game_34">
+    <value>CHINESE POKER</value>
+  </data>
+  <data name="Game_1">
+    <value>LUCKY SPIN</value>
+  </data>
+  <data name="Game_3">
+    <value>LUCKY SPIN</value>
+  </data>
+  <data name="Game_421">
+    <value>SUPER 777</value>
+  </data>
+  <data name="Game_422">
+    <value>SUPER FORTUNE</value>
+  </data>
+  <data name="Game_428">
+    <value>DRACULA</value>
+  </data>
+  <data name="Game_429">
+    <value>PACMAN</value>
+  </data>
+  <data name="Game_430">
+    <value>BIGTWO</value>
+  </data>
+  <data name="Game_431">
+    <value>BACCARAT</value>
+  </data>
+  <data name="Game_433">
+    <value>BET COLOR</value>
+  </data>
+  <data name="Game_426">
+    <value>CANDY</value>
+  </data>
+  <data name="Game_418">
+    <value>PACHINKO ROBOT</value>
+  </data>
+  <data name="Game_45">
+    <value>BIG SMALL</value>
+  </data>
+  <data name="Game_208">
+    <value>MYSTERY NUM</value>
+  </data>
+  <data name="Game_432">
+    <value>BLACKJACK</value>
+  </data>
+  <data name="Game_2001">
+    <value>Onet fruit</value>
+  </data>
+  <data name="Game_2002">
+    <value>BonusOnline</value>
+  </data>
+  <data name="Game_1001">
+    <value>Cotton Candy</value>
+  </data>
+  <data name="Game_1002">
+    <value>Smash Bubbles</value>
+  </data>
+  <data name="Game_1003">
+    <value>Chinese Chess</value>
+  </data>
+  <data name="Game_1005">
+    <value>Jumping Frog</value>
+  </data>
+  <data name="Game_1006">
+    <value>Platypus</value>
+  </data>
+  <data name="Game_1008">
+    <value>Fruits Slashing</value>
+  </data>
+  <data name="Game_1010">
+    <value>Jet Fighter</value>
+  </data>
+  <data name="Game_1011">
+    <value>Run away from Bear</value>
+  </data>
+  <data name="Game_1012">
+    <value>Minesweeper</value>
+  </data>
+  <data name="Game_1014">
+    <value>Lolita Plane</value>
+  </data>
+  <data name="Game_1015">
+    <value>Boxing</value>
+  </data>
+  <data name="Game_1020">
+    <value>Points Connecting</value>
+  </data>
+  <data name="Game_1021">
+    <value>Pick Right Way</value>
+  </data>
+  <data name="Game_1024">
+    <value>Classic Line</value>
+  </data>
+  <data name="Game_1025">
+    <value>Gold Miner</value>
+  </data>
+  <data name="Game_1027">
+    <value>Super Mario</value>
+  </data>
+  <data name="Game_1029">
+    <value>Castle Defend</value>
+  </data>
+  <data name="Game_1031">
+    <value>Diamond Protecting</value>
+  </data>
+  <data name="Game_1032">
+    <value>Pin Bubble</value>
+  </data>
+  <data name="Game_438">
+    <value>Mega Spin</value>
+  </data>
+  <data name="Game_439">
+    <value>Mini Poker</value>
+  </data>
+  <data name="Game_436">
+    <value>Slot Casino</value>
+  </data>
+  <data name="Game_33003206">
+    <value>OceanKing Popular</value>
+  </data>
+  <data name="Game_50000000">
+    <value>OceanKing Billionaire</value>
+  </data>
+  <data name="Game_437">
+    <value>Mini Poker</value>
+  </data>
+  <data name="Game_441">
+    <value>rising fortunes</value>
+  </data>
+  <data name="IsPlayingOtherGame">
+    <value>Your Account is playing another game</value>
+  </data>
+  <data name="Game_-300">
+    <value>LOTTO</value>
+  </data>
+  <data name="Game_508">
+    <value>Tournament Fish</value>
+  </data>
+  <data name="ReturnToTeangLenFinishGame">
+    <value>Please return to {0} game to finish the match</value>
+  </data>
+  <data name="TournamentNoEnoughCondition">
+    <value>You are not eligible for joining this round</value>
+  </data>
+  <data name="TournamentLoginRequired">
+    <value>You need to sign in to join the tournament</value>
+  </data>
+  <data name="GuessingNumberResultDay">
+    <value>Result day</value>
+  </data>
+  <data name="TournamentChipsRequired">
+    <value>You must have 20.000 CHIPS to join the tournament</value>
+  </data>
+  <data name="TournamentSeeYouNextTour">
+    <value>See you the next tournament!</value>
+  </data>
+  <data name="TournamentRoundUpdateResult">
+    <value>The Result are being updated</value>
+  </data>
+  <data name="TournamentRoundDoesNotStart">
+    <value>The round has not started yet</value>
+  </data>
+  <data name="TournamentRegisterTimeout">
+    <value>Time has run out to join the tournament</value>
+  </data>
+  <data name="Game_600">
+    <value>Ocean King</value>
+  </data>
+  <data name="Game_442">
+    <value>Mini F88</value>
+  </data>
+  <data name="Game_55555">
+    <value>New Game</value>
+  </data>
+  <data name="Game_440">
+    <value>Game </value>
+  </data>
+  <data name="Game_443">
+    <value>Ultimate Fire Link Slot</value>
+  </data>
+  <data name="Game_444">
+    <value>TEANG LEN</value>
+  </data>
+  <data name="Game_448">
+    <value>Shan Koe Mee</value>
+  </data>
+  <data name="Game_446">
+    <value>Jungle Wild</value>
+  </data>
+  <data name="Game_452">
+    <value>BOOGYI</value>
+  </data>
+  <data name="Game_-100">
+    <value>SPIN - Lucky</value>
+  </data>
+  <data name="Game_455">
+    <value>SHWESHAN</value>
+  </data>
+  <data name="Game_456">
+    <value>SHARKS</value>
+  </data>
+  <data name="Game_453">
+    <value>KingQueen</value>
+  </data>
+  <data name="Game_451">
+    <value>Game_451</value>
+  </data>
+  <data name="Game_447">
+    <value>Eureka Reels Slot</value>
+  </data>
+  <data name="Game_457">
+    <value>Gold Miner</value>
+  </data>
+  <data name="Game_449">
+    <value>Bird Slot</value>
+  </data>
+  <data name="Game_509">
+    <value>Casual games</value>
+  </data>
+  <data name="Game_510">
+    <value>Mario</value>
+  </data>
+  <data name="Game_450">
+    <value>Tongits</value>
+  </data>
+  <data name="Game_399">
+    <value>DEPOSIT</value>
+  </data>
+  <data name="Game_502">
+    <value>DINO KING</value>
+  </data>
+  <data name="Game_Return_ContinuePlaying">
+    <value>Please return to game {0} to continue playing.</value>
+  </data>
+  <data name="Game_Select_ContinueOrEnd">
+    <value>You are playing game {0} . Please click [AGREE] and then select the {0} game again to play, or select [CANCEL] to finish and lose the match that you are playing</value>
+  </data>
+  <data name="Game_499">
+    <value>Fishing Arcade</value>
+  </data>
+  <data name="NotEnoughtCoinToEnterRoomBC">
+    <value>You need to have minimum {0} chips to play this room. Do you want to recharge more?</value>
+  </data>
+  <data name="RoomFreeName">
+    <value>Free Room</value>
+  </data>
+  <data name="Game_50000011">
+    <value>Fishing Arcade</value>
+  </data>
+  <data name="Game_514">
+    <value>Dino 2</value>
+  </data>
+  <data name="Game_460">
+    <value>Bet Color</value>
+  </data>
+  <data name="Game_458">
+    <value>Pusoy</value>
+  </data>
+  <data name="Game__1">
+    <value>
+    </value>
+  </data>
+  <data name="Game__3">
+    <value>
+    </value>
+  </data>
+  <data name="VipLevelBlockRoomTextSilver">
+    <value>
+    </value>
+  </data>
+  <data name="GameLevelBlockRoomTextLevel">
+    <value>
+    </value>
+  </data>
+  <data name="GameConnectUnavailable">
+    <value>
+    </value>
+  </data>
+  <data name="NotFoundGame">
+    <value>
+    </value>
+  </data>
+  <data name="RoomFull">
+    <value>
+    </value>
+  </data>
+  <data name="UnlockWhenVipSilver">
+    <value>
+    </value>
+  </data>
+  <data name="VipLevelBlockGameSlotTextSilver">
+    <value>
+    </value>
+  </data>
+  <data name="Game_GetConfigBanCa_ArrayInvalidText">
+    <value>
+    </value>
+  </data>
+  <data name="Game_GetConfigBanCa_ArrayInvalidText1">
+    <value>
+    </value>
+  </data>
+  <data name="Game_GetConfigBanCa_CoinUnit">
+    <value>
+    </value>
+  </data>
+  <data name="Game_GetConfigBanCa_CoinUnit1">
+    <value>
+    </value>
+  </data>
+  <data name="Game_GetConfigBanCa_LoginOtherSessionMessage">
+    <value>
+    </value>
+  </data>
+  <data name="Game_GetConfigBanCa_LoginOtherSessionMessage1">
+    <value>
+    </value>
+  </data>
+  <data name="Game_GetConfigBanCa_PopupGetMessageError">
+    <value>
+    </value>
+  </data>
+  <data name="Game_GioiThieuNotFound">
+    <value>
+    </value>
+  </data>
+  <data name="Game_GioiThieuTitle">
+    <value>
+    </value>
+  </data>
+  <data name="Game_GioiThieuTut">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeIndexTitle">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeLoginForgot">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeLoginOther">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeLoginPass">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeLoginSignup">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeLoginUsername">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomePlaygameAppTitle">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomePlaygameIndexTitle">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomePlayGameMobileTitle">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomePlaygameTitle">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeRegisterDisplayName">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeRegisterInputCaptcha">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeRegisterPass">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeRegisterRegisterButton">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeRegisterTitle">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeRegisterTitle1">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeRegisterUsername">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeShowPopupGuideDetailError">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeShowPopupGuideError">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeShowPopupGuideHeading">
+    <value>
+    </value>
+  </data>
+  <data name="Game_HomeShowPopupGuideNodata">
+    <value>
+    </value>
+  </data>
+  <data name="Game_LoginTitle">
+    <value>
+    </value>
+  </data>
+  <data name="Game_PlayGamesHtml5EmbedLoading">
+    <value>
+    </value>
+  </data>
+  <data name="PlayJackPot">
+    <value>
+    </value>
+  </data>
+  <data name="ActiveFaild">
+    <value>
+    </value>
+  </data>
+  <data name="ActiveSuccess">
+    <value>
+    </value>
+  </data>
+  <data name="ChuaCauHinhTuong">
+    <value>
+    </value>
+  </data>
+  <data name="ChuaChonNguyenLieu">
+    <value>
+    </value>
+  </data>
+  <data name="ChuaChonSung">
+    <value>
+    </value>
+  </data>
+  <data name="TienHoaThanhCong">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNameTimeBetRunOut">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNameRequireMinBet">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNameRequireExitPlayingGame">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNameBetSuccessNotice">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNameNotEnoughChips">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNameErrorWhenBetting">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNameFailedBetting">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNameSuccessedBetting">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNameMinMaxRequiredBetting">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNameMinMaxRequiredXienBetting">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumerberNoJoinBetting">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberNoResult">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTextLotteryTab">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTextPlayingTab">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTextResultTab">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTextHistoryTab">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberBaoLoTextGuild">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberXien2TextGuild">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberXien3TextGuild">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberXien4TextGuild">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberDauTextGuild">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberDuoiTextGuild">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberDacBietTextGuild">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTopWinner">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoXienText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoDauDuoiText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoX80Text">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoXienTabXien2Text">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoXienTabXien3Text">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoXienTabXien4Text">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoDauTabText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoDuoiTabText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberDateBettingText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberBettingTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoX3.5TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoDauTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoDuoiTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoX80TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoXien2TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoXien3TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoXien4TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberListGuessingNumberText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberChipsWinOverNumber">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberBetttingButtonText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberFilterButtonText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberFilterAllButtonText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberConfirmTitleText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberConfirmContenText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberCompareResult">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberDateGuessingText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTypeGuessingText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoadMoreText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberChipsWinOrLose">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoX3.5Text">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumber_0">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumber_1">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumber_2">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumber_3">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumber_4">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumber_5">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumber_6">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTotalChips">
+    <value>
+    </value>
+  </data>
+  <data name="Guide_Other">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLockingBetWaitResult">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTotalBetting">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberDescriptionToWinChips">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberSpecialPrize">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberFirstPrize">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberSecondPrize">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberThirdPrize">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberFourthPrize">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberFifthPrize">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberSixthPrize">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberSeventhPrize">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTime">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberBettingNumber">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberClockLabel">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberHistoryBettingTab">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberBetType">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoXien2Text">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoXien3Text">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoXien4Text">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoDauText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberLoDuoiText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberBetTime">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberChipsWin">
+    <value>
+    </value>
+  </data>
+  <data name="TournamentCodeInvalid">
+    <value>
+    </value>
+  </data>
+  <data name="TournamentRoundHasFinished">
+    <value>
+    </value>
+  </data>
+  <data name="RoundWillStartIn">
+    <value>
+    </value>
+  </data>
+  <data name="RoundWillEndIn">
+    <value>
+    </value>
+  </data>
+  <data name="Game_49">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTextEventTopTab">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberTextGuideTab">
+    <value>
+    </value>
+  </data>
+  <data name="SevenSeaBossStoryRewardSkill_6">
+    <value>
+    </value>
+  </data>
+  <data name="SevenSeaBossStoryRewardSkill_7">
+    <value>
+    </value>
+  </data>
+  <data name="SevenSeaBossStoryRewardSkill_8">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3Lo3SoTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3LoXienTruot4TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3LoXienTruot8TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3LoXienTruot10TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3NhapChonSoTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3BaoLoTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3Lo2SoTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3DauDuoiTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3DauTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3DuoiTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3DeDauTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3DeDacBietTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3BaCangTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3LoTruotTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3LoBaCangTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChatTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3CuocMoiTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3NhapChatTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3GuiTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3DatCuocTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3TienCuoc1ConTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3TongTienCuocTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3TienThang1ConTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3Sologan1TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3Sologan2TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3Sologan3TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3Sologan4TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichLo2SoTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichLo3SoTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichXien2TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichXien3TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichXien4TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichDauTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichDuoiTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichDeDauTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichDeDacBietTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThich3CangTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichTruotXien4TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichTruotXien8TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ChuThichTruotXien10TypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThongBaoTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3TroVeTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3KetQuaXoSoTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3LichSuTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3HomQuaTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3HomNayTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3XemThemTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3QuayLaiTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GuessingNumberEightthPrize">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3Channel_1">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangJanTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangFebTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangMarTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangAprTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangMayTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangJunTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangJulTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangAugTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangSepTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangOctTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangNovTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="GNV3ThangDecTypeText">
+    <value>
+    </value>
+  </data>
+  <data name="Game_Type_Card_Game">
+    <value>
+    </value>
+  </data>
+  <data name="Game_Type_Bet_Game">
+    <value>
+    </value>
+  </data>
+  <data name="Game_Type_Bonus_Game">
+    <value>
+    </value>
+  </data>
+  <data name="Game_Type_Skills_Game">
+    <value>
+    </value>
+  </data>
+  <data name="Game_-3">
+    <value>
+    </value>
+  </data>
+</LocalLanguages>

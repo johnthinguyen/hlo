@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="About" xml:space="preserve">
+    <value>Khang</value>
+  </data>
+  <data name="AboutItem1" xml:space="preserve">
+    <value>每个+10项目将州的最大成员数增加到10。</value>
+  </data>
+  <data name="AboutItem2" xml:space="preserve">
+    <value>&lt;strong&gt;你好{0} - {1} {{3}}&lt;/strong&gt;</value>
+  </data>
+  <data name="你好" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="AboutItem6" xml:space="preserve">
+    <value>b</value>
+  </data>
+  <data name="AboutItem7" xml:space="preserve">
+    <value>e</value>
+  </data>
+  <data name="1" xml:space="preserve">
+    <value>e</value>
+  </data>
+  <data name="2" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="3" xml:space="preserve">
+    <value>ttttttttttttt</value>
+  </data>
+  <data name="asddas" xml:space="preserve">
+    <value>4555555555555557</value>
+  </data>
+  <data name="aaaa" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="asdasd" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="AboutItem8" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="dasasdads" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Abount1" xml:space="preserve">
+    <value>555555555555</value>
+  </data>
+  <data name="INFO_USER_LASTED_ACHIEVEMENTa" xml:space="preserve">
+    <value>LASTED ACHIEVEMENT</value>
+  </data>
+  <data name="INFO_USER_LASTED_ACHIEVEMENTa888" xml:space="preserve">
+    <value>LASTED ACHIEVEMENT</value>
+  </data>
+  <data name="y" xml:space="preserve">
+    <value>y</value>
+  </data>
+  <data name="test6" xml:space="preserve">
+    <value>m</value>
+  </data>
+  <data name="testq" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="123" xml:space="preserve">
+    <value>23</value>
+  </data>
+</LocalLanguages>

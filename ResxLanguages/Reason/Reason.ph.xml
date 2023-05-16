@@ -1,0 +1,1248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="Reason_998">
+    <value>x10 CHIPS</value>
+  </data>
+  <data name="Reason_417">
+    <value>Maglaro ng Sicbo Mini</value>
+  </data>
+  <data name="Reason_427">
+    <value>Maglaro ng Poker</value>
+  </data>
+  <data name="Reason_529">
+    <value>Sumali sa grupo para sa libreng pagbibigay ng chips.</value>
+  </data>
+  <data name="Reason_2">
+    <value>Magdagdag ng IAP</value>
+  </data>
+  <data name="Reason_40">
+    <value>Bumili ng Item</value>
+  </data>
+  <data name="Reason_48">
+    <value>Bumili ng background</value>
+  </data>
+  <data name="Reason_49">
+    <value>Bumili ng avatar</value>
+  </data>
+  <data name="Reason_68">
+    <value>Kumuha ng CHIPS kapag nag-level up ang association</value>
+  </data>
+  <data name="Reason_70">
+    <value>Kumuha ng CHIPS kapag nag-level up ang membership ng user kapag nagdadagdag ng CHIPS</value>
+  </data>
+  <data name="Reason_89">
+    <value>Kumuha ng CHIPS kapag nag-level up ang membership ng user kapag nagdadagdag ng CHIPS</value>
+  </data>
+  <data name="Reason_102">
+    <value>Kumuha ng CHIPS kapag nag-login</value>
+  </data>
+  <data name="Reason_105">
+    <value>Bumili ng Emosyon</value>
+  </data>
+  <data name="Reason_108">
+    <value>Ilipat ang CHIPS sa mga kaibigan</value>
+  </data>
+  <data name="Reason_116">
+    <value>Maglipat ng pera sa pagitan ng mga miyembro ng VIP</value>
+  </data>
+  <data name="Reason_117">
+    <value>Paglipat ng Mga Pondo ng Asosasyon sa mga Miyembro</value>
+  </data>
+  <data name="Reason_118">
+    <value>Magdagdag ng CHIPS</value>
+  </data>
+  <data name="Reason_119">
+    <value>Nagbibigay ang admin ng CHIPS</value>
+  </data>
+  <data name="Reason_133">
+    <value>Libreng CHIPS para sa online</value>
+  </data>
+  <data name="Reason_142">
+    <value>Deposito bonus</value>
+  </data>
+  <data name="Reason_143">
+    <value>Kumuha ng mga tagumpay</value>
+  </data>
+  <data name="Reason_161">
+    <value>Deposito bonus para sa VIP User</value>
+  </data>
+  <data name="Reason_162">
+    <value>Magbigay ng ginto sa mga bagong user kung sakaling mas maraming kaibigan ang mas masaya</value>
+  </data>
+  <data name="Reason_166">
+    <value>Magbigay ng CHIPS kapag nagparehistro sa OpenID</value>
+  </data>
+  <data name="Reason_168">
+    <value>Magbigay ng CHIPS para sa bagong kaganapan ng user</value>
+  </data>
+  <data name="Reason_169">
+    <value>Magbigay ng CHIPS sa mga user na nakikipagkarera sa nangungunang vip</value>
+  </data>
+  <data name="Reason_171">
+    <value>Pang-araw-araw na CHIPS bonus</value>
+  </data>
+  <data name="Reason_173">
+    <value>Ibinabawas ng admin ang CHIPS</value>
+  </data>
+  <data name="Reason_174">
+    <value>Magdagdag ng pera sa pamamagitan ng sms</value>
+  </data>
+  <data name="Reason_175">
+    <value>Mag-login sa fish shooting app</value>
+  </data>
+  <data name="Reason_176">
+    <value>Manalo ng Jackpot</value>
+  </data>
+  <data name="Reason_178">
+    <value>Magbigay ng CHIPS araw-araw na pag-login para sa mobile</value>
+  </data>
+  <data name="Reason_179">
+    <value>Bonus sa pagdalo</value>
+  </data>
+  <data name="Reason_180">
+    <value>Magbigay ng CHIPS para sa pag-imbita ng mga kaibigan sa facebook</value>
+  </data>
+  <data name="Reason_181">
+    <value>Magbigay ng CHIPS kapag nagrehistro ang mga kaibigan sa facebook</value>
+  </data>
+  <data name="Reason_182">
+    <value>Unang deposit bonus</value>
+  </data>
+  <data name="Reason_183">
+    <value>Magbigay ng CHIPS kapag regular na nag-log in ang mga user</value>
+  </data>
+  <data name="Reason_184">
+    <value>Magbigay ng CHIPS para sa user tulad ng fanpage sa facebook app</value>
+  </data>
+  <data name="Reason_187">
+    <value>Magbigay ng CHIPS kapag naubusan ng regalo ang user - bagong user</value>
+  </data>
+  <data name="Reason_188">
+    <value>Bigyan ng CHIPS user ang pagdaragdag ng pagpaparehistro ng card</value>
+  </data>
+  <data name="Reason_189">
+    <value>Magbigay ng CHIPS para sa pag-log in sa prime time sa mobile</value>
+  </data>
+  <data name="Reason_190">
+    <value>Magbigay ng CHIPS para sa pag-login sa prime day sa mobile</value>
+  </data>
+  <data name="Reason_191">
+    <value>Nagbibigay ang admin ng CHIPS</value>
+  </data>
+  <data name="Reason_192">
+    <value>Magbigay ng CHIPS kapag nag-a-update ng impormasyon</value>
+  </data>
+  <data name="Reason_197">
+    <value>Bonus para sa pagdaragdag ng CHIPS sa pamamagitan ng sms</value>
+  </data>
+  <data name="Reason_198">
+    <value>Bonus para sa pagdaragdag ng IAP</value>
+  </data>
+  <data name="Reason_213">
+    <value>I-play ang laro Fish Shooting</value>
+  </data>
+  <data name="Reason_300">
+    <value>Magbigay ng CHIPS Para sa Bagong Gumagamit</value>
+  </data>
+  <data name="Reason_301">
+    <value>Magbigay ng CHIPS para sa Tai Xiu Bonus Event</value>
+  </data>
+  <data name="Reason_302">
+    <value>Palitan ng CHIPS</value>
+  </data>
+  <data name="Reason_303">
+    <value>Pagpalit ng  card</value>
+  </data>
+  <data name="Reason_306">
+    <value>Pagpalit ng Ikot na ñ bonus</value>
+  </data>
+  <data name="Reason_307">
+    <value>Sistema ng supply ng ginto para sa jackpot</value>
+  </data>
+  <data name="Reason_311">
+    <value>Magdagdag ng pera sa pamamagitan ng Google Wallet</value>
+  </data>
+  <data name="Reason_312">
+    <value>Magdagdag ng pera sa pamamagitan ng Apple Store</value>
+  </data>
+  <data name="Reason_313">
+    <value>Lumikha ng Guild</value>
+  </data>
+  <data name="Reason_314">
+    <value>Mag-withdraw</value>
+  </data>
+  <data name="Reason_315">
+    <value>Idagdag</value>
+  </data>
+  <data name="Reason_316">
+    <value>Naglilipat ng pera ang may-ari sa user</value>
+  </data>
+  <data name="Reason_318">
+    <value>Tinatapos ng user ang larong pagbaril ng isda</value>
+  </data>
+  <data name="Reason_319">
+    <value>Gumagamit ng laro ng pagbaril ng isda</value>
+  </data>
+  <data name="Reason_320">
+    <value>Kumuha ng CHIPS mula sa may-ari</value>
+  </data>
+  <data name="Reason_321">
+    <value>Magbigay ng 2% ng kita ng asosasyon para sa may-ari</value>
+  </data>
+  <data name="Reason_322">
+    <value>Magbigay ng 3% ng kita ng asosasyon para sa user na nagdagdag ng pinakamaraming CHIPS</value>
+  </data>
+  <data name="Reason_325">
+    <value>Bigyan ng CHIPS ang user pagkatapos mabigo ang pagpasok sa kwarto</value>
+  </data>
+  <data name="Reason_326">
+    <value>Bigyan ng CHIPS ang user pagkatapos kanselahin ng admin ang kahilingan sa palitan</value>
+  </data>
+  <data name="Reason_327">
+    <value>Gantimpala para sa pangangaso ng isda boss</value>
+  </data>
+  <data name="Reason_328">
+    <value>Bigyan ng CHIPS ang user sa prime time na Event</value>
+  </data>
+  <data name="Reason_329">
+    <value>Bigyan ng CHIPS ang user sa Kaganapan ng refund</value>
+  </data>
+  <data name="Reason_330">
+    <value>Bigyan ng CHIPS ang user sa Kaganapan ng refund</value>
+  </data>
+  <data name="Reason_331">
+    <value>Bigyan ng CHIPS ang user na naka-log in sa shooting fish game</value>
+  </data>
+  <data name="Reason_332">
+    <value>maubusan ng CHIPS! Bumalik sa lobby at tumanggap ng libreng CHIPS</value>
+  </data>
+  <data name="Reason_333">
+    <value>Tumanggap ng mga gantimpala para sa mga pang-araw-araw na gawain</value>
+  </data>
+  <data name="Reason_334">
+    <value>Facebook ibahagi bonus</value>
+  </data>
+  <data name="Reason_335">
+    <value>Ginagantimpalaan ng system ang Jackpot Win</value>
+  </data>
+  <data name="Reason_336">
+    <value>Nabigo ang refund dahil sa pagpapalit ng card</value>
+  </data>
+  <data name="Reason_337">
+    <value>Magbigay ng CHIPS para sa pagkumpleto ng shooting fish mission</value>
+  </data>
+  <data name="Reason_338">
+    <value>Magbigay ng CHIPS para sa pagbaril ng isda pataas</value>
+  </data>
+  <data name="Reason_342">
+    <value>Inilipat ng user ang CHIPS sa ibang user</value>
+  </data>
+  <data name="Reason_343">
+    <value>Nakatanggap ang user ng CHIPS mula sa ibang user</value>
+  </data>
+  <data name="Reason_344">
+    <value>Nagbibigay ang Admin ng CHIPS Shoot Fish</value>
+  </data>
+  <data name="Reason_345">
+    <value>Nagbibigay ang Admin ng CHIPS Lather</value>
+  </data>
+  <data name="Reason_347">
+    <value>Magbigay ng CHIPS para sa ikot sa laro</value>
+  </data>
+  <data name="Reason_350">
+    <value>Magbigay ng CHIPS para sa spin sa laro</value>
+  </data>
+  <data name="Reason_351">
+    <value>Manalo ng premyo sa Xoc Rua Game</value>
+  </data>
+  <data name="Reason_352">
+    <value>Manalo sa kaganapan ng pagpasok ng code sa pagkuha ng pera</value>
+  </data>
+  <data name="Reason_353">
+    <value>Manalo sa arena game</value>
+  </data>
+  <data name="Reason_355">
+    <value>Maglaro ng laro shooting fish 3D</value>
+  </data>
+  <data name="Reason_356">
+    <value>Itapos ang Laro Pagbaril fish 3D</value>
+  </data>
+  <data name="Reason_357">
+    <value>Maglaro ng larong shooting fish 3D para sa mobile</value>
+  </data>
+  <data name="Reason_358">
+    <value>Itapos ang pagbaril ng isda 3D for mobile</value>
+  </data>
+  <data name="Reason_359">
+    <value>Makakuha ng reward para sa mga pang-araw-araw na gawain</value>
+  </data>
+  <data name="Reason_404">
+    <value>I-play ang laro Mini Xeng</value>
+  </data>
+  <data name="Reason_406">
+    <value>I-play ang laro Mini Penalty</value>
+  </data>
+  <data name="Reason_407">
+    <value>Prime time na bonus</value>
+  </data>
+  <data name="Reason_408">
+    <value>I-play ang laro Mini Fortunes88</value>
+  </data>
+  <data name="Reason_409">
+    <value>Maglaro ng Jackpot</value>
+  </data>
+  <data name="Reason_410">
+    <value>Maglaro ng Lucky Slot</value>
+  </data>
+  <data name="Reason_412">
+    <value>Maglaro ng Golden Dragon Slot</value>
+  </data>
+  <data name="Reason_413">
+    <value>Maglaro ng Tatlong Kaharian Slot</value>
+  </data>
+  <data name="Reason_418">
+    <value>I-play ang laro Kamangha-manghang Hayop</value>
+  </data>
+  <data name="Reason_419">
+    <value>I-play ang laro Dios ng Yaman</value>
+  </data>
+  <data name="Reason_420">
+    <value>I-play ang laro Pachinko Robot</value>
+  </data>
+  <data name="Reason_422">
+    <value>Maglaro ng Samurai</value>
+  </data>
+  <data name="Reason_423">
+    <value>Maglaro ng Super 777</value>
+  </data>
+  <data name="Reason_424">
+    <value>I-play ang laro Golden Turtle Mini</value>
+  </data>
+  <data name="Reason_425">
+    <value>Maglaro ng Monopoly Million Dollar</value>
+  </data>
+  <data name="Reason_426">
+    <value>I-play ang laro Diamonds Links</value>
+  </data>
+  <data name="Reason_428">
+    <value>Maglaro ng kendi</value>
+  </data>
+  <data name="Reason_430">
+    <value>I-play ang laro Dracula</value>
+  </data>
+  <data name="Reason_501">
+    <value>Manalo ng Maswerte na Ikot</value>
+  </data>
+  <data name="Reason_502">
+    <value>Bumili ng Maswerte Ikot sayo</value>
+  </data>
+  <data name="Reason_503">
+    <value>I-play ang laro Big Fish</value>
+  </data>
+  <data name="Reason_999">
+    <value>Nabuo ang log dahil wala ang IdReason</value>
+  </data>
+  <data name="Reason_36">
+    <value>I-play ang laro Sab Sam</value>
+  </data>
+  <data name="Reason_43">
+    <value>Maglaro ng Tala</value>
+  </data>
+  <data name="Reason_44">
+    <value>Maglaro ng HongKong Poker</value>
+  </data>
+  <data name="Reason_202">
+    <value>I-play ang laro Three Cards Poker</value>
+  </data>
+  <data name="Reason_203">
+    <value>Maglaro ng Northern Poker</value>
+  </data>
+  <data name="Reason_211">
+    <value>Maglaro ng SesKu</value>
+  </data>
+  <data name="Reason_504">
+    <value>Paypal</value>
+  </data>
+  <data name="Reason_155">
+    <value>I-play ang laro Tournament</value>
+  </data>
+  <data name="Reason_153">
+    <value>I-upgrade ang mga Baril</value>
+  </data>
+  <data name="Reason_154">
+    <value>Mga Baril ng Ebolusyon</value>
+  </data>
+  <data name="Reason_431">
+    <value>I-play ang laro Pacman</value>
+  </data>
+  <data name="Reason_433">
+    <value>I-play ang laro Baccarat</value>
+  </data>
+  <data name="Reason_414">
+    <value>Maglaro ng Poker Slot</value>
+  </data>
+  <data name="Reason_434">
+    <value>I-play ang laro BlackJack</value>
+  </data>
+  <data name="Reason_-1">
+    <value>I-play ang laro BlackJack</value>
+  </data>
+  <data name="Reason_510">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_511">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_512">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_513">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_514">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_515">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_129">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_509">
+    <value>i-refund</value>
+  </data>
+  <data name="Reason_517">
+    <value>Pagtuturo</value>
+  </data>
+  <data name="Reason_518">
+    <value>ADV</value>
+  </data>
+  <data name="Reason_521">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_134">
+    <value>Deposito ng  Paypal</value>
+  </data>
+  <data name="Reason_421">
+    <value>Maglaro ng Indian Slot</value>
+  </data>
+  <data name="Reason_520">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_435">
+    <value>Maglaro ng Bet Color</value>
+  </data>
+  <data name="Reason_436">
+    <value>Maglaro ng Kdam Klouk</value>
+  </data>
+  <data name="Reason_210">
+    <value>I-play ang laro Misteryo Blg</value>
+  </data>
+  <data name="Reason_156">
+    <value>Makilahok sa Tournament</value>
+  </data>
+  <data name="Reason_360">
+    <value>Nangungunang Gantimpala sa Tournament</value>
+  </data>
+  <data name="Reason_50">
+    <value>Maglaro ng BigSmall</value>
+  </data>
+  <data name="Reason_526">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_527">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_528">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_530">
+    <value>I-play ang laro Big Wheel</value>
+  </data>
+  <data name="Reason_532">
+    <value>Kumuha ng CHIPS mula sa pagbabago ng iyong avatar</value>
+  </data>
+  <data name="Reason_440">
+    <value>I-play ang laro Mega Ikot</value>
+  </data>
+  <data name="Reason_533">
+    <value>Bigyan ng CHIPS - Matagumpay na na-install ang app</value>
+  </data>
+  <data name="Reason_997">
+    <value>Nagbibigay ang admin ng CHIPS</value>
+  </data>
+  <data name="Reason_438">
+    <value>Maglaro ng Slot Casino</value>
+  </data>
+  <data name="Reason_439">
+    <value>I-play ang laro Mini Poker</value>
+  </data>
+  <data name="Reason_139">
+    <value>Maglaro ng Lotto</value>
+  </data>
+  <data name="Reason_140">
+    <value>Manalo sa Lotto</value>
+  </data>
+  <data name="Reason_141">
+    <value>Bawiin ang CHIPS</value>
+  </data>
+  <data name="Reason_534">
+    <value>Facebook share bonus ibahagi</value>
+  </data>
+  <data name="Reason_535">
+    <value>Tumanggap ng CHIPS mula sa VIP User</value>
+  </data>
+  <data name="Reason_0">
+    <value>Dahilan</value>
+  </data>
+  <data name="Reason_536">
+    <value>Pinakamataas Pataas</value>
+  </data>
+  <data name="Reason_443">
+    <value>Tumataas na kapalaran</value>
+  </data>
+  <data name="Reason_537">
+    <value>Magdeposito ng Pi Pay</value>
+  </data>
+  <data name="Reason_539">
+    <value>Ideposito ang ABA</value>
+  </data>
+  <data name="Reason_445">
+    <value>Ultimate Fire Link Slot</value>
+  </data>
+  <data name="Reason_540">
+    <value>ដក ABA</value>
+  </data>
+  <data name="Reason_542">
+    <value>ដក WAVE</value>
+  </data>
+  <data name="Reason_541">
+    <value>Deposito WAVE</value>
+  </data>
+  <data name="Reason_446">
+    <value>Maglaro ng TEANG LEN</value>
+  </data>
+  <data name="Reason_543">
+    <value>ñwelcome back sa ating laro</value>
+  </data>
+  <data name="Reason_448">
+    <value>Maglaro ng JUNGLE WILD</value>
+  </data>
+  <data name="Reason_450">
+    <value>Maglaro ng SHAN KOE MEE</value>
+  </data>
+  <data name="Reason_453">
+    <value>Maglaro ng DRAGON TIGER</value>
+  </data>
+  <data name="Reason_442">
+    <value>Maglaro ng OSPHE</value>
+  </data>
+  <data name="Reason_454">
+    <value>Maglaro ng BOOGYI</value>
+  </data>
+  <data name="Reason_457">
+    <value>MAGLARO NG SHWESHAN</value>
+  </data>
+  <data name="Reason_455">
+    <value>MAGLARO HARI AT REYNA</value>
+  </data>
+  <data name="Reason_458">
+    <value>MAGLARO NG MGA PATING</value>
+  </data>
+  <data name="Reason_365">
+    <value>Maglaro ng DinoKing</value>
+  </data>
+  <data name="Reason_545">
+    <value>WING DEPOSITO</value>
+  </data>
+  <data name="Reason_602">
+    <value>Laro Minero ng Ginto</value>
+  </data>
+  <data name="Reason_366">
+    <value>Laro Minero ng Ginto</value>
+  </data>
+  <data name="Reason_451">
+    <value>Maglaro ng  Laro Bird Slot</value>
+  </data>
+  <data name="Reason_449">
+    <value>Maglaro ng Eureka Reels Slot</value>
+  </data>
+  <data name="Reason_367">
+    <value>Naglalaro ng Ocean King 3 Solo</value>
+  </data>
+  <data name="Reason_546">
+    <value>GCASH DEPOSITO</value>
+  </data>
+  <data name="Reason_547">
+    <value>ដក GCASH</value>
+  </data>
+  <data name="Reason_603">
+    <value>Maglaro ng Laro Hot Potato</value>
+  </data>
+  <data name="Reason_452">
+    <value>Maglaro ng Larong Tongits</value>
+  </data>
+  <data name="Reason_500">
+    <value>Maglaro ng Isdang Laro</value>
+  </data>
+  <data name="Reason_1_Sub_3">
+    <value>Babawasan ang Larong  Bonus  ng Ikot</value>
+  </data>
+  <data name="Reason_1_Sub_1">
+    <value>Babawasan ang  Regular na Ikot</value>
+  </data>
+  <data name="Reason_1_Sub_2">
+    <value>Babawasan ang Libreng Ikot</value>
+  </data>
+  <data name="Reason_1_Sub_4">
+    <value>Manalo ng Ikot Slot</value>
+  </data>
+  <data name="Reason_1_Sub_5">
+    <value>Natalo ang Ikot Slot</value>
+  </data>
+  <data name="Reason_1_Sub_6">
+    <value>Manalo Bonus Laro</value>
+  </data>
+  <data name="Reason_1_Sub_7">
+    <value>Bumili Bonus Laro</value>
+  </data>
+  <data name="Reason_1_Sub_21">
+    <value>Babawasan ang Pusta</value>
+  </data>
+  <data name="Reason_1_Sub_22">
+    <value>Refund sa Pusta</value>
+  </data>
+  <data name="Reason_1_Sub_23">
+    <value>Panalo na Pusta</value>
+  </data>
+  <data name="Reason_1_Sub_24">
+    <value>Talo na Pusta</value>
+  </data>
+  <data name="Reason_1_Sub_41">
+    <value>Nabawasan na Pusta</value>
+  </data>
+  <data name="Reason_1_Sub_42">
+    <value>Nabawasan sa  insurance na Pera</value>
+  </data>
+  <data name="Reason_1_Sub_43">
+    <value>Insurance refund</value>
+  </data>
+  <data name="Reason_1_Sub_44">
+    <value>Taya Refund</value>
+  </data>
+  <data name="Reason_1_Sub_45">
+    <value>Panalo</value>
+  </data>
+  <data name="Reason_1_Sub_46">
+    <value>Talo</value>
+  </data>
+  <data name="Reason_1_Sub_47">
+    <value>Kalawang kalaban</value>
+  </data>
+  <data name="Reason_1_Sub_48">
+    <value>Talo sa kalawang kalaban</value>
+  </data>
+  <data name="Reason_1_Sub_88">
+    <value>Ibigay ang Bonus sa mataas na antas</value>
+  </data>
+  <data name="Reason_1_Sub_61">
+    <value>Panalo sa Jackpot Mini</value>
+  </data>
+  <data name="Reason_1_Sub_62">
+    <value>Panalo sa Jackpot MINOR</value>
+  </data>
+  <data name="Reason_1_Sub_63">
+    <value>Panalo sa Jackpot MIJOR</value>
+  </data>
+  <data name="Reason_1_Sub_64">
+    <value>Panalo sa Jackpot GRAND</value>
+  </data>
+  <data name="Reason_646">
+    <value>Admin nagbigay ng CHIPS</value>
+  </data>
+  <data name="Reason_1_Sub_528">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_1_Sub_539">
+    <value>Deposito ABA</value>
+  </data>
+  <data name="Reason_1_Sub_129">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_1_Sub_134">
+    <value>Deposito Paypal</value>
+  </data>
+  <data name="Reason_1_Sub_520">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_1_Sub_526">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_1_Sub_527">
+    <value>Deposito</value>
+  </data>
+  <data name="Reason_1_Sub_537">
+    <value>Deposit Pi Pay</value>
+  </data>
+  <data name="Reason_1_Sub_541">
+    <value>Deposito WAVE</value>
+  </data>
+  <data name="Reason_1_Sub_545">
+    <value>WING DEPOSITO</value>
+  </data>
+  <data name="Reason_1_Sub_546">
+    <value>GCASH DEPOSITO</value>
+  </data>
+  <data name="Reason_1_Sub_646">
+    <value>Admin nagbigay ng CHIPS</value>
+  </data>
+  <data name="Reason_1_Sub_119">
+    <value>Admin nagbigay ng CHIPS</value>
+  </data>
+  <data name="Reason_368">
+    <value>Maglaro ng DinoKing2</value>
+  </data>
+  <data name="Reason_648">
+    <value>Admin nagbigay ng CHIPS</value>
+  </data>
+  <data name="Reason_548">
+    <value>GCASH DEPOSITO</value>
+  </data>
+  <data name="Reason_549">
+    <value>Deposito WAVE</value>
+  </data>
+  <data name="Reason_2001">
+    <value>Onet fruit</value>
+  </data>
+  <data name="Reason_524">
+    <value>Kumuha ng Chips para tumaas ang antas </value>
+  </data>
+  <data name="CurrentLang">
+    <value>en</value>
+  </data>
+  <data name="RoomFree">
+    <value>Libreng Kwarto</value>
+  </data>
+  <data name="NotEnoughtCoin">
+    <value>Kailangan mong magkaroon ng pinakamababang {0} chips upang laruin ang kwartong ito. Gusto mo bang mag-recharge ng higit pa?</value>
+  </data>
+  <data name="LinkBigBanner">
+    <value>https://abc.net/forum/art-promotion-5-when-deposit-chips-by-wing-into-ABC-com-from-0h00-to-24h00-date-21-05-2020-349</value>
+  </data>
+  <data name="FindTIDTitle">
+    <value>MAGHAHANAP NG TID</value>
+  </data>
+  <data name="DepositFeedbackTitle">
+    <value>E REPORT DEPOSITO</value>
+  </data>
+  <data name="MailBoxTitle">
+    <value>hulugan ng sulat</value>
+  </data>
+  <data name="EventTitle">
+    <value>PANGYAYARI</value>
+  </data>
+  <data name="NotificationTitle">
+    <value>pagbibigay-alam</value>
+  </data>
+  <data name="GuideTitle">
+    <value>GABAY</value>
+  </data>
+  <data name="HistoryCoinTitle">
+    <value>KASAYSAYAN NG CHIPS</value>
+  </data>
+  <data name="UpdateInfoTitle">
+    <value>I-UPDATE ANG PROFILE</value>
+  </data>
+  <data name="ForgotPasswordTitle">
+    <value>NAKALIMUTAN ANG PASSWORD</value>
+  </data>
+  <data name="PaymentCoinTitle">
+    <value>DEPOSITO</value>
+  </data>
+  <data name="GiftCodeReceiveCoinTitle">
+    <value>Ipasok ang GIFT CODE na Tumatanggap ng mga CHIPS</value>
+  </data>
+  <data name="TransferCoinTitle">
+    <value>ILIPAT CHIPS</value>
+  </data>
+  <data name="SendMessTitle">
+    <value>MAGPADALA NG MENSAHE</value>
+  </data>
+  <data name="ErrorTitle">
+    <value>pagkakamali</value>
+  </data>
+  <data name="SuccessTitle">
+    <value>TAGUMPAY</value>
+  </data>
+  <data name="HistoryVQMM">
+    <value>KASAYSAYAN NG MASWERTENG IKOT</value>
+  </data>
+  <data name="GiftBoxTitle">
+    <value>Regalo na Box</value>
+  </data>
+  <data name="CashOutTitle">
+    <value>ដូររង្វាន់</value>
+  </data>
+  <data name="InformationTitle">
+    <value>IMPORMASYON</value>
+  </data>
+  <data name="NotifiMessPlayNow ">
+    <value>Kapag na-click mo ang \"Play Now\" Ang iyong account ay maaaring magkaroon ng kawalan ng seguridad at maaari mong mawala ang iyong account. Paki-update ang iyong username, password at impormasyon sa seguridad pagkatapos ng matagumpay na pagrehistro</value>
+  </data>
+  <data name="ErrorPaymentTitle">
+    <value>ERROR DEPOSIT REPORT</value>
+  </data>
+  <data name="HistoryCardStockExportTitle">
+    <value>KASAYSAYAN</value>
+  </data>
+  <data name="HistoryDepositFeedbackTitle">
+    <value>DEPOSITO NG ULAT SA KASAYSAYAN</value>
+  </data>
+  <data name="HistoryCodeEvent30000000ChipsTitle">
+    <value>MAGLARO WIN GET CODE - 200.000.000 CHIPS</value>
+  </data>
+  <data name="TIDHistoryTitle">
+    <value>Kasaysayan ng TID</value>
+  </data>
+  <data name="DepositHistoryTitle">
+    <value>DEPOSITO NG KASAYSAYAN</value>
+  </data>
+  <data name="HistoryTransferGoldGuildTitle">
+    <value>KASAYSAYAN NG PAGLIPAT NG CHIPS SA GROUPO</value>
+  </data>
+  <data name="HistoryContributeByLevelGuildTitle">
+    <value>MAG-AMBAG NG ANTAS</value>
+  </data>
+  <data name="HistoryContributeByMemberGuildTitle">
+    <value>MAG-AMBOT NG MIYEMBRO</value>
+  </data>
+  <data name="CreateNotificationGuildTitle">
+    <value>MAGPADALA NG MENSAHE SA MGA MIYEMBRO</value>
+  </data>
+  <data name="ListNotificationGuildTitle">
+    <value>LISTAHAN NG MENSAHE</value>
+  </data>
+  <data name="NotificationGuildTitle">
+    <value>MGA MENSAHE MULA SA GROUPO MASTER</value>
+  </data>
+  <data name="NeedMoreVipPoint">
+    <value>Kailangan pa</value>
+  </data>
+  <data name="CreateGuildTitle">
+    <value>GUMAWA NG GRUPO</value>
+  </data>
+  <data name="PolicyGuildTitle">
+    <value>GROUPO NG PATAKARAN</value>
+  </data>
+  <data name="GuildTitle">
+    <value>GRUPO</value>
+  </data>
+  <data name="GuildDetailTitle">
+    <value>IMPORMASYON NG GRUPO</value>
+  </data>
+  <data name="NotifiUpdateProfile">
+    <value>Ayon sa mga regulasyon ng ahensya ng pamamahala ng Estado, ang mga manlalaro ay kailangang magbigay ng buong personal na impormasyon kapag nagrerehistro ng isang gaming account</value>
+  </data>
+  <data name="ReceiveAward">
+    <value>Makakuha ng gantimpala</value>
+  </data>
+  <data name="Seconds">
+    <value>Segundo</value>
+  </data>
+  <data name="Minute">
+    <value>minuto</value>
+  </data>
+  <data name="Hours">
+    <value>Oras</value>
+  </data>
+  <data name="Days">
+    <value>Araw</value>
+  </data>
+  <data name="PostBy">
+    <value>Nai-post ni</value>
+  </data>
+  <data name="ConfirmTitlle">
+    <value>Gusto mo bang magpatuloy?</value>
+  </data>
+  <data name="Validation1">
+    <value>Ilagay ang iyong username.</value>
+  </data>
+  <data name="Validation2">
+    <value>Ang username ay hindi bababa sa 3 character, kasama lamang ang mga titik mula sa a-z, A-Z at 0-9.</value>
+  </data>
+  <data name="Validation3">
+    <value>Hindi maaaring maglaman ng mga puwang ang username.</value>
+  </data>
+  <data name="Validation4">
+    <value>Ilagay ang naka  display pangalan</value>
+  </data>
+  <data name="Validation5">
+    <value>Ang pangalan ay nagpapakita ng hindi bababa sa 3 mga character, kabilang ang mga titik lamang mula sa a-z, A-Z at 0-9.</value>
+  </data>
+  <data name="Validation6">
+    <value>Ang naka display na pangalan ay hindi maaaring pareho sa Ginamit na Pangalan.</value>
+  </data>
+  <data name="Validation7">
+    <value>Ilagay ang password.</value>
+  </data>
+  <data name="Validation8">
+    <value>Dapat na hindi bababa sa 6 na karakterang password.</value>
+  </data>
+  <data name="Validation9">
+    <value>Ilagay ang captcha code.</value>
+  </data>
+  <data name="Validation10">
+    <value>Ilagay ang iyong buong pangalan.</value>
+  </data>
+  <data name="Validation11">
+    <value>Ilagay ang permanenteng nakatira.</value>
+  </data>
+  <data name="Validation12">
+    <value>Ilagay ang Pagkakinlanlan card.</value>
+  </data>
+  <data name="Validation13">
+    <value>p0Identity card ng ID card ay hindi maayos na na-format.</value>
+  </data>
+  <data name="Validation14">
+    <value>Ipasok ang lugar ng Pagkakinlanlan ng  card.</value>
+  </data>
+  <data name="Validation15">
+    <value>Ilagay ang iyong numero ng telepono.</value>
+  </data>
+  <data name="Validation16">
+    <value>Ipasok ang Email.</value>
+  </data>
+  <data name="Validation17">
+    <value>Ipasok ang lumang password.</value>
+  </data>
+  <data name="Validation18">
+    <value>Ipasok ang bagong password.</value>
+  </data>
+  <data name="Validation20">
+    <value>Matagumpay na na-update ang password.</value>
+  </data>
+  <data name="Validation21">
+    <value>Pakilagay ang code</value>
+  </data>
+  <data name="Validation22">
+    <value>Mangyaring ipasok ang verification code</value>
+  </data>
+  <data name="Validation23">
+    <value>Mangyaring magpasok ng nilalaman</value>
+  </data>
+  <data name="Validation24">
+    <value>Lumikha ng nabigong commnet</value>
+  </data>
+  <data name="Validation25">
+    <value>Walang piniling commnet na tanggalin</value>
+  </data>
+  <data name="Validation26">
+    <value>Ang pangalan ng grupo ay nasa pagitan ng 5 at 30 character ang haba</value>
+  </data>
+  <data name="Validation27">
+    <value>Wala pang napiling miyembro</value>
+  </data>
+  <data name="Validation28">
+    <value>Pakipasok ang grupong sologan.</value>
+  </data>
+  <data name="Validation29">
+    <value>Pakilagay ang iyong facebook address.</value>
+  </data>
+  <data name="Validation30">
+    <value>Ang address na iyong inilagay ay hindi facebook.</value>
+  </data>
+  <data name="Validation31">
+    <value>Ang kapasidad ng larawan ay dapat na &lt;500Kb.</value>
+  </data>
+  <data name="Validation32">
+    <value>Mangyaring piliin ang &lt;strong&gt; Mula sa petsa &lt;/strong&gt; !!!</value>
+  </data>
+  <data name="Validation33">
+    <value>Mangyaring piliin ang &lt;strong&gt; Sa ngayon &lt;/strong&gt; !!!</value>
+  </data>
+  <data name="Validation34">
+    <value>&lt;strong&gt; Mula sa petsa &lt;/strong&gt; ay mas malaki kaysa sa &lt;strong&gt; Sa ngayon &lt;/strong&gt;, mangyaring pumili muli !!!</value>
+  </data>
+  <data name="Validation35">
+    <value>&lt;strong&gt; Pinili lamang hanggang 31 araw &lt;/strong&gt;, pakisubukang muli !!!</value>
+  </data>
+  <data name="Validation36">
+    <value>&lt;span class='error col-sm-6 col-xs-6 no-padding' style='color:red;'&gt;Pakilagay ang iyong account number&lt;/span&gt;</value>
+  </data>
+  <data name="Validation37">
+    <value>&lt;span class='error ohyea__color-yellow' style='margin-top: 12px;'&gt;&lt;/br&gt;Ilagay ang halagang ililipat&lt;/span&gt;</value>
+  </data>
+  <data name="Validation38">
+    <value>Ang halaga ng paglipat ay dapat na mas malaki kaysa sa o katumbas ng</value>
+  </data>
+  <data name="Validation39">
+    <value>Ang halaga ng paglilipat ay dapat na mas mababa sa o katumbas ng</value>
+  </data>
+  <data name="Validation40">
+    <value>&lt;span class='error ohyea__color-yellow' style='margin-top: 12px;'&gt;&lt;/br&gt;Dapat na mahahati ng 10,000 ang halaga ng paglilipat!&lt;/span&gt;</value>
+  </data>
+  <data name="Validation41">
+    <value>&lt;span class='error ohyea__color-yellow' style='margin-top: 12px;'&gt;&lt;/br&gt;Ang kabuuang halaga ng transaksyon ay mas malaki kaysa sa magagamit na halaga&lt;/span&gt;</value>
+  </data>
+  <data name="Validation42">
+    <value>Gumagawa ka ng paglipat</value>
+  </data>
+  <data name="Validation43">
+    <value>para sa account</value>
+  </data>
+  <data name="Validation44">
+    <value>.Ang bilang ng CHIPS na ibinawas ay</value>
+  </data>
+  <data name="Validation45">
+    <value>.Gusto mo bang magpatuloy?</value>
+  </data>
+  <data name="Validation46">
+    <value>Mali ang pagkumpirma ng password</value>
+  </data>
+  <data name="Validation47">
+    <value>Walang bisa ang email</value>
+  </data>
+  <data name="NotifiMess1">
+    <value>Salamat sa iyong feedback!</value>
+  </data>
+  <data name="NotifiMess2">
+    <value>Ipinadala</value>
+  </data>
+  <data name="NotifiMess3">
+    <value>Nagkaroon ng error habang pinoproseso</value>
+  </data>
+  <data name="NotifiMess4">
+    <value>May naganap na error. Mangyaring subukan muli sa ibang pagkakataon</value>
+  </data>
+  <data name="NotifiMess5">
+    <value>Tinatanggal mo ba ang mga komentong ito?</value>
+  </data>
+  <data name="NotifiMess6">
+    <value>Tanggalin ang nabigong komento</value>
+  </data>
+  <data name="NotifiMess8">
+    <value>Sigurado ka bang tatanggihan mo ang miyembrong ito sa iyong grupo?</value>
+  </data>
+  <data name="NotifiMess7">
+    <value>Gusto mo bang sumali ang miyembrong ito sa iyong grupo?</value>
+  </data>
+  <data name="NotifiMess9">
+    <value>Matagumpay ang pag-update.</value>
+  </data>
+  <data name="NotifiMess10">
+    <value>Hindi mabasa ang larawan. Ang error na ito ay maaaring sanhi ng mas lumang bersyon ng browser. Mangyaring makipag-ugnayan sa admin para sa suporta.</value>
+  </data>
+  <data name="NotifiMess11">
+    <value>Sigurado ka bang gusto mong umalis sa grupo?</value>
+  </data>
+  <data name="NotifiMess12">
+    <value>Gusto mo bang sipain ang miyembrong ito?</value>
+  </data>
+  <data name="NotifiMess13">
+    <value>Matagumpay na i-update ang slogan ng pangkat.</value>
+  </data>
+  <data name="NotifiMess14">
+    <value>Matagumpay na na-update ang address ng fanpage.</value>
+  </data>
+  <data name="NotifiMess15">
+    <value>Wala kang liko! Mangyaring i-load ang CHIPS para sa isang pagliko.</value>
+  </data>
+  <data name="NotifiMess16">
+    <value>Gusto mo bang imbitahan ang miyembrong ito sa grupo?</value>
+  </data>
+  <data name="NotifiMess17">
+    <value>Nilalaman na hahanapin ng hindi bababa sa 3 character</value>
+  </data>
+  <data name="TransferCoinRequiredAccReceive">
+    <value>Mangyaring ipasok ang pagtanggap ng ID account</value>
+  </data>
+  <data name="TransferCoinRequiredCoin">
+    <value>Pakipasok ang halaga ng CHIPS na ililipat</value>
+  </data>
+  <data name="TransferCoinMustLowerEqual">
+    <value>Ang halaga ng CHIPS ay dapat na mas mababa o katumbas</value>
+  </data>
+  <data name="TransferCoinConfirm_0">
+    <value>Pinoproseso mo ang transaksyon</value>
+  </data>
+  <data name="TransferCoinConfirm_1">
+    <value>sa account</value>
+  </data>
+  <data name="TransferCoinConfirm_2">
+    <value>Ang halaga ng pagbabawas ng CHIPS ay</value>
+  </data>
+  <data name="TransferCoinConfirm_3">
+    <value>Gusto mo bang magpatuloy?</value>
+  </data>
+  <data name="LoppyBigWin">
+    <value>manalo</value>
+  </data>
+  <data name="LoppySkill">
+    <value>Larong Kasanayan</value>
+  </data>
+  <data name="LoppyNew">
+    <value>Bago</value>
+  </data>
+  <data name="LoppyNewTitle">
+    <value>Bago</value>
+  </data>
+  <data name="lobby_th_point">
+    <value>PUNTO</value>
+  </data>
+  <data name="lobby_kick_User">
+    <value>Pag-login ng account mula sa ibang device!</value>
+  </data>
+  <data name="lobby_free_game">
+    <value>Libreng laro</value>
+  </data>
+  <data name="MeNoRequestFriend">
+    <value>Walang hiling kaibigan</value>
+  </data>
+  <data name="MeNoRequestFriendMore">
+    <value>wlaang nag add na kaibigan pa</value>
+  </data>
+  <data name="MeDeleteCommentText">
+    <value>Tanggalin</value>
+  </data>
+  <data name="MeCommentLoadMore">
+    <value>Mag-load pa</value>
+  </data>
+  <data name="MeDeleteFriendConfirm">
+    <value>I-unfriend ang miyembrong ito?</value>
+  </data>
+  <data name="MeNoComment">
+    <value>Walang komento</value>
+  </data>
+  <data name="MeNoFriend">
+    <value>Walang kaibigan</value>
+  </data>
+  <data name="MeNoFriendMore">
+    <value>Wala nang kaibigan</value>
+  </data>
+  <data name="MeGame">
+    <value>Pangalan</value>
+  </data>
+  <data name="MeGameLevel">
+    <value>Antas</value>
+  </data>
+  <data name="MeGameLose">
+    <value>Talo</value>
+  </data>
+  <data name="MeGameDraw">
+    <value>Gumuhit</value>
+  </data>
+  <data name="MeGameWin">
+    <value>manalo</value>
+  </data>
+  <data name="GuessingNumberExistsNumberText">
+    <value>Napili mo na ang numerong ito</value>
+  </data>
+  <data name="GuessingNumberJustChoiceMaxLengthText">
+    <value>Maaari lamang pumili ng max {0} na numero</value>
+  </data>
+  <data name="GuessingNumberTextResultText">
+    <value>Petsa ng resulta</value>
+  </data>
+  <data name="SelectedNumberRequire">
+    <value>Wala kang pinipiling numero</value>
+  </data>
+  <data name="E2004_TitlePopup">
+    <value>magbahagi ng kaganapan upang makatanggap ng +10.000 CHIPS</value>
+  </data>
+  <data name="Tournament_Ocean_King">
+    <value>Paligsahan ng Karagatan ng Hari</value>
+  </data>
+  <data name="TopUser">
+    <value>Nangungunang User</value>
+  </data>
+  <data name="Player">
+    <value>Manlalaro</value>
+  </data>
+  <data name="Rank">
+    <value>Ranggo</value>
+  </data>
+  <data name="PopupInvitation">
+    <value>Mga Imbitasyon ng Grupo</value>
+  </data>
+  <data name="NotifiMess18">
+    <value>Gusto mo bang tanggihan ang imbitasyon ng Grupo?</value>
+  </data>
+  <data name="TooltipMedusaScene1">
+    <value>Kumpletuhin ang mga pakikipagsapalaran upang mas mabilis na ipatawag si Boss.</value>
+  </data>
+  <data name="TooltipMedusaScene2">
+    <value>Wasakin ang rebulto upang mahanap ang misteryo</value>
+  </data>
+  <data name="TooltipMedusaScene4">
+    <value>Medusa</value>
+  </data>
+  <data name="TooltipPoseidonScene1">
+    <value>Abutin ang Sirena upang mangolekta ng mga piraso ng Photonic na baril</value>
+  </data>
+  <data name="TooltipPoseidonScene2">
+    <value>Poseidon</value>
+  </data>
+  <data name="TooltipRoomPoseidon">
+    <value>Poseidon &lt;br&gt; Talunin ang Medusa para i-unlock</value>
+  </data>
+  <data name="TooltipRoomHades">
+    <value>Hades &lt;br&gt; Talunin si Poseidon para i-unlock</value>
+  </data>
+  <data name="TooltipHadesScene1">
+    <value>Mangolekta ng mga barya mula sa Poseidon upang pumasa sa mga antas ng mas mabilis</value>
+  </data>
+  <data name="TooltipHadesScene2">
+    <value>Talunin si Cerberus para matugunan si Hades</value>
+  </data>
+  <data name="TooltipHadesScene3">
+    <value>impyerno</value>
+  </data>
+  <data name="WinCoinUpTo">
+    <value>Coefficient para patayin ang amo</value>
+  </data>
+  <data name="UpTo">
+    <value>Hanggang sa</value>
+  </data>
+  <data name="TooltipHadesCoin">
+    <value>Itinalagang ferryman sa Hades hell</value>
+  </data>
+  <data name="HadesCoin">
+    <value>Pera ng empiyerno</value>
+  </data>
+  <data name="Receive">
+    <value>Tumanggap</value>
+  </data>
+  <data name="Reload">
+    <value>magkargang muli</value>
+  </data>
+  <data name="ComingSoon">
+    <value>Paparating na &lt;br&gt;</value>
+  </data>
+  <data name="Close">
+    <value>Isara</value>
+  </data>
+  <data name="RoomNormal">
+    <value>Normal Kwarto</value>
+  </data>
+  <data name="RoomVip">
+    <value>Vip Kwarto</value>
+  </data>
+  <data name="Service">
+    <value>Serbisyo</value>
+  </data>
+  <data name="ChooseService">
+    <value>Pumili ng Serbisyo</value>
+  </data>
+  <data name="Reason_538" xml:space="preserve">
+    <value>ដកPi Pay</value>
+  </data>
+  <data name="Game_453" xml:space="preserve">
+    <value>Maglaro ng Hari&amp;Reyna</value>
+  </data>
+  <data name="Reason_462" xml:space="preserve">
+    <value>Play game Bet Color</value>
+  </data>
+  <data name="Reason_460" xml:space="preserve">
+    <value>Pusoy</value>
+  </data>
+</LocalLanguages>

@@ -1,0 +1,1626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="EventNhapMaDuocTienCongra">
+    <value>You have won today. 1 nick can only CHIPS 1 gift code per day</value>
+  </data>
+  <data name="RegisInMobilePassword">
+    <value>Password must be at least 6 characters.</value>
+  </data>
+  <data name="NonexistSecurityCode">
+    <value>Captcha is incorrect</value>
+  </data>
+  <data name="InvalidSecurityCode">
+    <value>Captcha is incorrect</value>
+  </data>
+  <data name="InvalidCaptchaCode">
+    <value>Captcha is incorrect</value>
+  </data>
+  <data name="BonusLogin">
+    <value>Bonus Login</value>
+  </data>
+  <data name="Game_Type_Fishing">
+    <value>Fishing Game</value>
+  </data>
+  <data name="Game_Type_Slot_Game">
+    <value>Slot Game</value>
+  </data>
+  <data name="Game_Type_Orther">
+    <value>Orther Game</value>
+  </data>
+  <data name="BanNick">
+    <value> The account has been locked </value>
+  </data>
+  <data name="BanNickForever">
+    <value> The account has been permanently locked </value>
+  </data>
+  <data name="SoloMode_Default">
+    <value>Fish Hunting Gun</value>
+  </data>
+  <data name="SoloMode_Medusa">
+    <value> Gun Medusa</value>
+  </data>
+  <data name="SoloMode_NhanMa">
+    <value>Sagittarius Gun</value>
+  </data>
+  <data name="SoloMode_Poseidon">
+    <value>Poseidon Gun</value>
+  </data>
+  <data name="SoloMode_Mermaid">
+    <value>Gun Mermaid</value>
+  </data>
+  <data name="SoloMode_Cerberus">
+    <value>Cerberus Gun</value>
+  </data>
+  <data name="SoloMode_Dragon">
+    <value>Dragon gun</value>
+  </data>
+  <data name="SoloMode_Success">
+    <value>Success</value>
+  </data>
+  <data name="SoloMode_Failed">
+    <value>Failure</value>
+  </data>
+  <data name="SoloMode_InvalidDataInput">
+    <value>Invalid data</value>
+  </data>
+  <data name="SoloMode_NotHaveGunKind">
+    <value>User does not have a suitable gun</value>
+  </data>
+  <data name="SoloMode_NotConfigGunKind">
+    <value>Gun not configured</value>
+  </data>
+  <data name="SoloMode_NotConfigGeneration">
+    <value>The gun generation is not configured</value>
+  </data>
+  <data name="SoloMode_GunLevelMax">
+    <value>The gun has reached the maximum level</value>
+  </data>
+  <data name="SoloMode_OverLimitActiveGun">
+    <value>The gun is selected too specified</value>
+  </data>
+  <data name="SoloMode_DuplicateActiveChoiseGun">
+    <value>Cannot select the same gun</value>
+  </data>
+  <data name="SoloMode_NotContainsChoiseGun">
+    <value>Don't choose a gun you don't have.</value>
+  </data>
+  <data name="SoloMode_UpdateIsFailed">
+    <value>There was an error during the upgrade process</value>
+  </data>
+  <data name="SoloMode_HaveOnlyDefaultGun">
+    <value>User only has the default gun.</value>
+  </data>
+  <data name="SoloMode_NotEnoughLevelToEvolution">
+    <value>The gun cannot evolve</value>
+  </data>
+  <data name="SoloMode_EvolutionIsFailed">
+    <value>Has an evolutionary error</value>
+  </data>
+  <data name="SoloMode_NotAnyMineral">
+    <value>No material available.</value>
+  </data>
+  <data name="SoloMode_NotContainsChoiseMineral">
+    <value>Materials are not available in the inventory</value>
+  </data>
+  <data name="SoloMode_NotConfigMineral">
+    <value>The configuration has not been configured in the user pocket</value>
+  </data>
+  <data name="SoloMode_NotAnyMaterial">
+    <value>User has no evolutionary material</value>
+  </data>
+  <data name="SoloMode_IsContainsChoiseMaterial">
+    <value>Materials are not available in the inventory</value>
+  </data>
+  <data name="SoloMode_NotConfigMaterial">
+    <value>Not configured Material in user bag</value>
+  </data>
+  <data name="SoloMode_MaterialChoiseNotMatchConfig">
+    <value>The material is not suitable</value>
+  </data>
+  <data name="SoloMode_NotHaveSkillKind">
+    <value>Does not have this skill</value>
+  </data>
+  <data name="SoloMode_OverLimitActiveSkill">
+    <value>The selected skill is too specified</value>
+  </data>
+  <data name="SoloMode_DuplicateActiveChoiseSkill">
+    <value>Do not select the same skill.</value>
+  </data>
+  <data name="SoloMode_NotContainsChoiseSkill">
+    <value>Don't choose skills you don't have.</value>
+  </data>
+  <data name="SoloMode_WallNotFound">
+    <value>Wall does not exist</value>
+  </data>
+  <data name="SoloMode_WallInvalidStage">
+    <value>Play to the game screen to allow upgrades</value>
+  </data>
+  <data name="SoloMode_NotHaveTowerKind">
+    <value>User has no matching tower</value>
+  </data>
+  <data name="SoloMode_NotConfigTowerKind">
+    <value>The tower has not been configured</value>
+  </data>
+  <data name="SoloMode_NotConfigTowerGeneration">
+    <value>The tower generation has not been configured</value>
+  </data>
+  <data name="SoloMode_TowerLevelMax">
+    <value>The tower has reached its maximum level</value>
+  </data>
+  <data name="SoloMode_OverLimitActiveTower">
+    <value>The tower is selected beyond the specified limit</value>
+  </data>
+  <data name="SoloMode_DuplicateActiveChoiseTower">
+    <value>Do not select the same tower</value>
+  </data>
+  <data name="SoloMode_NotContainsChoiseTower">
+    <value>Do not select the tower you do not have.</value>
+  </data>
+  <data name="SoloMode_UpdateTowerIsFailed">
+    <value>There was an error during the upgrade process</value>
+  </data>
+  <data name="SoloMode_HaveOnlyDefaultTower">
+    <value>User only has the default tower</value>
+  </data>
+  <data name="SoloMode_NotEnoughCoin">
+    <value>User does not have enough coins.</value>
+  </data>
+  <data name="SoloMode_CheckNotExists">
+    <value>The test function does not exist</value>
+  </data>
+  <data name="Success">
+    <value>Success</value>
+  </data>
+  <data name="Fail">
+    <value>Failuretest</value>
+  </data>
+  <data name="Skill">
+    <value>Skill</value>
+  </data>
+  <data name="ConfigFail">
+    <value>Config does not exist</value>
+  </data>
+  <data name="EnoughNotCoins">
+    <value>You don't have enough chips to buy item</value>
+  </data>
+  <data name="InvalidNumber">
+    <value>Invalid Quantity</value>
+  </data>
+  <data name="InvalidMoneyType">
+    <value>Invalid money type</value>
+  </data>
+  <data name="ContinueBuying">
+    <value>You must use this Item to continue buying</value>
+  </data>
+  <data name="NotHaveExhausted">
+    <value>You have exhausted the number of items purchased during the day</value>
+  </data>
+  <data name="TheNumberIsTooLimited">
+    <value>The number is too limited</value>
+  </data>
+  <data name="ToBuyANewItem">
+    <value>To buy a new item, please use all items in the inventory</value>
+  </data>
+  <data name="YouHaveRunOutOfTimes">
+    <value>You have run out of times to buy Item</value>
+  </data>
+  <data name="NoData">
+    <value>No data</value>
+  </data>
+  <data name="EventEnds">
+    <value>Event Ends</value>
+  </data>
+  <data name="YouMustHaveATurn">
+    <value>You must have at least 1 spin and {0: #, ## 0} coins to join</value>
+  </data>
+  <data name="MustWaitMoreDays">
+    <value>You must wait {0} more days to dial</value>
+  </data>
+  <data name="ToDayHasBeenAwarded">
+    <value>Today's prize has been awarded</value>
+  </data>
+  <data name="HasBeenAwarded">
+    <value>Awards were awarded</value>
+  </data>
+  <data name="CSKHService">
+    <value>Please contact Customer Service for assistance</value>
+  </data>
+  <data name="VipNotRunning">
+    <value>Vip Not running</value>
+  </data>
+  <data name="AccountNotVip">
+    <value>There are no VIP in this account</value>
+  </data>
+  <data name="YourAccountAwarded">
+    <value>You are awarded {0} to your account</value>
+  </data>
+  <data name="YouPromotioned">
+    <value>You are promotioned {0}% based on the value of the card</value>
+  </data>
+  <data name="GameNotConfig">
+    <value>The game has not been configured</value>
+  </data>
+  <data name="GetDataFail">
+    <value>Failed to get data</value>
+  </data>
+  <data name="InvalidLocationId">
+    <value>Invalid locationId</value>
+  </data>
+  <data name="InvalidChannel">
+    <value>Invalid Channel</value>
+  </data>
+  <data name="UserNotEnoughWatch">
+    <value>User has exceeded the limit of number of views</value>
+  </data>
+  <data name="GetDataSuccess_v1">
+    <value>Get the data success</value>
+  </data>
+  <data name="Orther">
+    <value>Orther</value>
+  </data>
+  <data name="Bullet">
+    <value>Bullet</value>
+  </data>
+  <data name="Guns">
+    <value>Guns</value>
+  </data>
+  <data name="Effect">
+    <value>Effect</value>
+  </data>
+  <data name="NoItem">
+    <value>No Item</value>
+  </data>
+  <data name="ItemCannotActive">
+    <value>Item cannot be activated</value>
+  </data>
+  <data name="Itemdoesnotexist">
+    <value>Item does not exist</value>
+  </data>
+  <data name="Buyitemssuccessfully">
+    <value>Buy items successfully</value>
+  </data>
+  <data name="VipLevelUp">
+    <value>Get a successful VIP level reward</value>
+  </data>
+  <data name="Norewards">
+    <value>There are no rewards to receive</value>
+  </data>
+  <data name="Getrewardedfailure">
+    <value>Get rewarded failure</value>
+  </data>
+  <data name="Norewardfound">
+    <value>No reward found to receive</value>
+  </data>
+  <data name="Pointstoachieve">
+    <value>Points to achieve</value>
+  </data>
+  <data name="Expshotfish">
+    <value>Exp shot fish</value>
+  </data>
+  <data name="Accumulatedskill">
+    <value>Accumulated skill</value>
+  </data>
+  <data name="Transfercoins">
+    <value>Transfer coins</value>
+  </data>
+  <data name="Getacointransfer">
+    <value>Get a coin transfer</value>
+  </data>
+  <data name="Donatedtimes1">
+    <value>Donated times 1</value>
+  </data>
+  <data name="Donatedtimes2">
+    <value>Donated times 2</value>
+  </data>
+  <data name="Expcharacter">
+    <value>Exp character</value>
+  </data>
+  <data name="Invalidinputdata">
+    <value>Invalid input data</value>
+  </data>
+  <data name="Levelvipup">
+    <value>Level vip up</value>
+  </data>
+  <data name="Accumulatesuccesspoints">
+    <value>Accumulate success points</value>
+  </data>
+  <data name="Failuretoaccumulatepointsfailed">
+    <value>Failure to accumulate points failed</value>
+  </data>
+  <data name="Youareawardedtoyouraccount">
+    <value>You are awarded {0} to your account</value>
+  </data>
+  <data name="Addingvipuserinformationfailed">
+    <value>Adding vip user information failed</value>
+  </data>
+  <data name="Successfullyupdated">
+    <value>Successfully updated</value>
+  </data>
+  <data name="Emailalreadyexists">
+    <value>Your email already exists</value>
+  </data>
+  <data name="Accountdoesnotexist">
+    <value>Account does not exist</value>
+  </data>
+  <data name="PleaseComeBackTomorrow">
+    <value>Please come back tomorrow.</value>
+  </data>
+  <data name="UserReceivedAReward">
+    <value>User received a reward</value>
+  </data>
+  <data name="BonusDailyDay">
+    <value>Day</value>
+  </data>
+  <data name="Bronze">
+    <value>Bronze</value>
+  </data>
+  <data name="Silver">
+    <value>Silver</value>
+  </data>
+  <data name="Ruby">
+    <value>Ruby</value>
+  </data>
+  <data name="Emerald">
+    <value>Emerald</value>
+  </data>
+  <data name="Diamond">
+    <value>Diamond</value>
+  </data>
+  <data name="Gold">
+    <value>Gold</value>
+  </data>
+  <data name="EventDoesNotExist">
+    <value>The event does not exist</value>
+  </data>
+  <data name="ChannelInvalid">
+    <value>Channel is invalid</value>
+  </data>
+  <data name="UserLimitViews">
+    <value>User has exceeded the limit of number of views</value>
+  </data>
+  <data name="UserAwarded">
+    <value>User has been awarded gold</value>
+  </data>
+  <data name="MissionNotComplte">
+    <value>The task is not completed</value>
+  </data>
+  <data name="RewardNotExists">
+    <value>Rewards received or not existed</value>
+  </data>
+  <data name="EventNotYetRun">
+    <value>The event has not yet taken place</value>
+  </data>
+  <data name="ComeBackAt">
+    <value>Please come back at {0}</value>
+  </data>
+  <data name="CoinNotMatch">
+    <value>Current coin does not match</value>
+  </data>
+  <data name="DevicesFailed">
+    <value>Exceeds the number of devices</value>
+  </data>
+  <data name="UserFailed">
+    <value>Exceeds the number of users</value>
+  </data>
+  <data name="IPFailed">
+    <value>Exceed the number of Ip</value>
+  </data>
+  <data name="UserFreeTurn">
+    <value>User has free turn</value>
+  </data>
+  <data name="OldNewSame">
+    <value>Old and new passwords are the same. Please check again</value>
+  </data>
+  <data name="AllowedNotCharacters">
+    <value>Password contains characters that are not allowed.</value>
+  </data>
+  <data name="HardPassword">
+    <value>Please choose a harder password to protect your account. Do not select a password</value>
+  </data>
+  <data name="AllowedLimitPassword">
+    <value>Your new password exceeds the allowed limit</value>
+  </data>
+  <data name="OldPassWordIsNotCorrect">
+    <value>Old password is not correct. Please contact support if you do not remember your password.</value>
+  </data>
+  <data name="RegisterDateNotReward">
+    <value>The registration date will not be accepted</value>
+  </data>
+  <data name="CoinLessThenBonus">
+    <value>Your Coins must be less than {0} to receive a bonus</value>
+  </data>
+  <data name="OutOfStock">
+    <value>Out of stock card</value>
+  </data>
+  <data name="AccountHasComplete">
+    <value>Account has completed Tutorial</value>
+  </data>
+  <data name="CompeleteTutorialBonus">
+    <value>Tutorial</value>
+  </data>
+  <data name="ConfigNotExists">
+    <value>Config Not Exists</value>
+  </data>
+  <data name="AddGoldUserFromEvent">
+    <value>Free Gold for new users</value>
+  </data>
+  <data name="AddGoldUserFromEventError">
+    <value>Error giving Gold to user</value>
+  </data>
+  <data name="DeviceIdAlreadyExist">
+    <value>Device already exist</value>
+  </data>
+  <data name="EventMinChipToReceiveGift">
+    <value>Your Chips must be less than 5,000 to receive gift</value>
+  </data>
+  <data name="RewardsForTheDay">
+    <value>You have received all the rewards for the day</value>
+  </data>
+  <data name="Failed">
+    <value>Failed</value>
+  </data>
+  <data name="SignIn">
+    <value>LOGIN</value>
+  </data>
+  <data name="KhuyenMaiNapGoldThecao">
+    <value>Deposit bonus</value>
+  </data>
+  <data name="SoloMode_NotConfig Generation">
+    <value></value>
+  </data>
+  <data name="SoloMode_IsContainsChooseMaterial">
+    <value></value>
+  </data>
+  <data name="CreateTranlogError">
+    <value></value>
+  </data>
+  <data name="AddGoldUserFirstChargeCardInDay">
+    <value></value>
+  </data>
+  <data name="AddGoldUserChargeCard">
+    <value></value>
+  </data>
+  <data name="AddGoldUserChargeIAP">
+    <value></value>
+  </data>
+  <data name="NotPromoCard">
+    <value></value>
+  </data>
+  <data name="EvnetNapTheTichCodeSuccess">
+    <value></value>
+  </data>
+  <data name="EvnetNapTheTichCodeSystemError">
+    <value></value>
+  </data>
+  <data name="AddGoldUserRegBcst">
+    <value></value>
+  </data>
+  <data name="AddGoldUserHall">
+    <value></value>
+  </data>
+  <data name="BonusShareSuccess">
+    <value></value>
+  </data>
+  <data name="BonusShareError">
+    <value></value>
+  </data>
+  <data name="RegisterRefererPubUser">
+    <value></value>
+  </data>
+  <data name="RegisterRefererPubUserAccepted">
+    <value></value>
+  </data>
+  <data name="DoImportCardResponseError">
+    <value></value>
+  </data>
+  <data name="DoImportCardImportError">
+    <value></value>
+  </data>
+  <data name="DoImportCardSupplierExportError">
+    <value></value>
+  </data>
+  <data name="DoExportCardNotSelectCard">
+    <value></value>
+  </data>
+  <data name="DoExportCardIsMaintain">
+    <value></value>
+  </data>
+  <data name="DoExportCardOutOfLimit">
+    <value></value>
+  </data>
+  <data name="DoExportCardOutOfRangeTime">
+    <value></value>
+  </data>
+  <data name="DoExportCardNotEnoughGold">
+    <value></value>
+  </data>
+  <data name="DoExportCardNotEnoughGoldOffset">
+    <value></value>
+  </data>
+  <data name="DoExportCardError">
+    <value></value>
+  </data>
+  <data name="DoExportCardErrorAdmin">
+    <value></value>
+  </data>
+  <data name="DoExportCardTimeOut">
+    <value></value>
+  </data>
+  <data name="DoExportCardSupGold">
+    <value></value>
+  </data>
+  <data name="DoExportCardUpdateAccountError">
+    <value></value>
+  </data>
+  <data name="DoExportCardOutOflimitCard">
+    <value></value>
+  </data>
+  <data name="DoExportCardSuccess">
+    <value></value>
+  </data>
+  <data name="CashOutDataError">
+    <value></value>
+  </data>
+  <data name="CashOutError">
+    <value></value>
+  </data>
+  <data name="OutOfGoldCashOut">
+    <value></value>
+  </data>
+  <data name="CashOutNotEnoughGold">
+    <value></value>
+  </data>
+  <data name="CashOutAccountVnKashIsNotExit">
+    <value></value>
+  </data>
+  <data name="CashOutAVnKashNotEnoughGold">
+    <value></value>
+  </data>
+  <data name="AccountCashOut">
+    <value></value>
+  </data>
+  <data name="CashOutSupGold">
+    <value></value>
+  </data>
+  <data name="CashOutBaoKimSupGold">
+    <value></value>
+  </data>
+  <data name="CashOutTimeOut">
+    <value></value>
+  </data>
+  <data name="CashOutTimeOutBaoKim">
+    <value></value>
+  </data>
+  <data name="CashOutReturnGold">
+    <value></value>
+  </data>
+  <data name="CashOutReturnGoldCSKH">
+    <value></value>
+  </data>
+  <data name="CashOutReturnGoldCskhBaoKim">
+    <value></value>
+  </data>
+  <data name="CashOutErrorReturnGoldCSKH">
+    <value></value>
+  </data>
+  <data name="CashOutSuccess">
+    <value></value>
+  </data>
+  <data name="CashOutSuccessBaoKim">
+    <value></value>
+  </data>
+  <data name="DepositMinMoney">
+    <value></value>
+  </data>
+  <data name="Depositfail">
+    <value></value>
+  </data>
+  <data name="DepositDealfail">
+    <value></value>
+  </data>
+  <data name="DepositReview">
+    <value></value>
+  </data>
+  <data name="DepositAddGoldFail">
+    <value></value>
+  </data>
+  <data name="DepositAddGoldSuccess">
+    <value></value>
+  </data>
+  <data name="DepositCreatePostDataFail">
+    <value></value>
+  </data>
+  <data name="DepositProcessing">
+    <value></value>
+  </data>
+  <data name="DepositDelay">
+    <value></value>
+  </data>
+  <data name="SubGoldItem">
+    <value></value>
+  </data>
+  <data name="OutOfTurnCard">
+    <value></value>
+  </data>
+  <data name="OutOfTurnStar">
+    <value></value>
+  </data>
+  <data name="NotEnoughStar">
+    <value></value>
+  </data>
+  <data name="NotEnoughCardWithProductId">
+    <value></value>
+  </data>
+  <data name="MessageSendItemSuccess">
+    <value></value>
+  </data>
+  <data name="TransferGoldFail">
+    <value></value>
+  </data>
+  <data name="AccountIsNotExit">
+    <value></value>
+  </data>
+  <data name="AccountIsLock">
+    <value></value>
+  </data>
+  <data name="HasBeenUpdated">
+    <value></value>
+  </data>
+  <data name="InvalidUpdating">
+    <value></value>
+  </data>
+  <data name="SendingMailError">
+    <value></value>
+  </data>
+  <data name="SuccessWithGold">
+    <value></value>
+  </data>
+  <data name="AvatarNotExists">
+    <value></value>
+  </data>
+  <data name="UserNotExists">
+    <value></value>
+  </data>
+  <data name="OutOfDate">
+    <value></value>
+  </data>
+  <data name="NotYetSms">
+    <value></value>
+  </data>
+  <data name="WrongCode">
+    <value></value>
+  </data>
+  <data name="OutOfTimes">
+    <value></value>
+  </data>
+  <data name="None">
+    <value></value>
+  </data>
+  <data name="GoogleSearch">
+    <value></value>
+  </data>
+  <data name="Facebook">
+    <value></value>
+  </data>
+  <data name="Mobile">
+    <value></value>
+  </data>
+  <data name="GoogleAdword">
+    <value></value>
+  </data>
+  <data name="FacebookApp">
+    <value></value>
+  </data>
+  <data name="EmailError">
+    <value></value>
+  </data>
+  <data name="EmailExist">
+    <value></value>
+  </data>
+  <data name="PassOrEmailError">
+    <value></value>
+  </data>
+  <data name="UserIsNotActive">
+    <value></value>
+  </data>
+  <data name="UsingAnotherDevice">
+    <value></value>
+  </data>
+  <data name="SuccessWithSecure">
+    <value></value>
+  </data>
+  <data name="NonExistsAccount">
+    <value></value>
+  </data>
+  <data name="UsingSMSSecure">
+    <value></value>
+  </data>
+  <data name="UsingNormalSecure">
+    <value></value>
+  </data>
+  <data name="OtpExpire">
+    <value></value>
+  </data>
+  <data name="SystemError">
+    <value></value>
+  </data>
+  <data name="Unknown">
+    <value></value>
+  </data>
+  <data name="Web">
+    <value></value>
+  </data>
+  <data name="Android">
+    <value></value>
+  </data>
+  <data name="Ios">
+    <value></value>
+  </data>
+  <data name="WindowPhone">
+    <value></value>
+  </data>
+  <data name="PlatformIdEnumFacebook">
+    <value></value>
+  </data>
+  <data name="NotActivate">
+    <value></value>
+  </data>
+  <data name="UsingSMS">
+    <value></value>
+  </data>
+  <data name="Normal">
+    <value></value>
+  </data>
+  <data name="AllType">
+    <value></value>
+  </data>
+  <data name="InvalidNickName">
+    <value></value>
+  </data>
+  <data name="ExistedAccount">
+    <value></value>
+  </data>
+  <data name="InvalidDisplayName">
+    <value></value>
+  </data>
+  <data name="NotUse">
+    <value></value>
+  </data>
+  <data name="HasBeenUpdate">
+    <value></value>
+  </data>
+  <data name="UserNotRegular">
+    <value></value>
+  </data>
+  <data name="NotSelectQuestion">
+    <value></value>
+  </data>
+  <data name="NotAnswer">
+    <value></value>
+  </data>
+  <data name="AnswerNotRegular">
+    <value></value>
+  </data>
+  <data name="AnswerHasSignChar">
+    <value></value>
+  </data>
+  <data name="IsEnough">
+    <value></value>
+  </data>
+  <data name="IsMember">
+    <value></value>
+  </data>
+  <data name="IsWaiting">
+    <value></value>
+  </data>
+  <data name="NotEnoughLevel">
+    <value></value>
+  </data>
+  <data name="NotPermission">
+    <value></value>
+  </data>
+  <data name="Admin">
+    <value></value>
+  </data>
+  <data name="Association">
+    <value></value>
+  </data>
+  <data name="Exp">
+    <value></value>
+  </data>
+  <data name="PubUserId">
+    <value></value>
+  </data>
+  <data name="NickName">
+    <value></value>
+  </data>
+  <data name="NameExists">
+    <value></value>
+  </data>
+  <data name="NameNotExists">
+    <value></value>
+  </data>
+  <data name="DaThamGiaBangHoi">
+    <value></value>
+  </data>
+  <data name="ChuaCapNhapThongTin">
+    <value></value>
+  </data>
+  <data name="KhongDuGold">
+    <value></value>
+  </data>
+  <data name="DuplicationName">
+    <value></value>
+  </data>
+  <data name="IsNotOwner">
+    <value></value>
+  </data>
+  <data name="IsNotEnoughGold">
+    <value></value>
+  </data>
+  <data name="IsEnoughMember">
+    <value></value>
+  </data>
+  <data name="IsBelongToAssociation">
+    <value></value>
+  </data>
+  <data name="HasSent">
+    <value></value>
+  </data>
+  <data name="SameUser">
+    <value></value>
+  </data>
+  <data name="InvalidMessage">
+    <value></value>
+  </data>
+  <data name="UserLeft">
+    <value></value>
+  </data>
+  <data name="AccessDenied">
+    <value></value>
+  </data>
+  <data name="UserTuRoi">
+    <value></value>
+  </data>
+  <data name="OwnerKick">
+    <value></value>
+  </data>
+  <data name="SubOwnerKick">
+    <value></value>
+  </data>
+  <data name="UserHasSent">
+    <value></value>
+  </data>
+  <data name="IsNotEnoughCondition">
+    <value></value>
+  </data>
+  <data name="IsExistsAnotherAss">
+    <value></value>
+  </data>
+  <data name="EnoughSubOwner">
+    <value></value>
+  </data>
+  <data name="AlreadyDone">
+    <value></value>
+  </data>
+  <data name="NotOwner">
+    <value></value>
+  </data>
+  <data name="SameOwnUser">
+    <value></value>
+  </data>
+  <data name="NotMember">
+    <value></value>
+  </data>
+  <data name="Round1">
+    <value></value>
+  </data>
+  <data name="Round2">
+    <value></value>
+  </data>
+  <data name="Round3">
+    <value></value>
+  </data>
+  <data name="OutOfStars">
+    <value></value>
+  </data>
+  <data name="CardPartnerFail">
+    <value></value>
+  </data>
+  <data name="Card">
+    <value></value>
+  </data>
+  <data name="Item">
+    <value></value>
+  </data>
+  <data name="StarExchangeGold">
+    <value></value>
+  </data>
+  <data name="Vong1">
+    <value></value>
+  </data>
+  <data name="Vong2">
+    <value></value>
+  </data>
+  <data name="Vong3">
+    <value></value>
+  </data>
+  <data name="InvalidSender">
+    <value></value>
+  </data>
+  <data name="InvalidReceiver">
+    <value></value>
+  </data>
+  <data name="NotEnoughGold">
+    <value></value>
+  </data>
+  <data name="InvalidGold">
+    <value></value>
+  </data>
+  <data name="IsNotSameAssociation">
+    <value></value>
+  </data>
+  <data name="OutOfTime">
+    <value></value>
+  </data>
+  <data name="UserInGame">
+    <value></value>
+  </data>
+  <data name="RangerGoldMaxOnDay">
+    <value></value>
+  </data>
+  <data name="NotEnoughLevelGame">
+    <value></value>
+  </data>
+  <data name="ExistedName">
+    <value></value>
+  </data>
+  <data name="UserInAnotherGuild">
+    <value></value>
+  </data>
+  <data name="NoRight">
+    <value></value>
+  </data>
+  <data name="NotExistedGuild">
+    <value></value>
+  </data>
+  <data name="ValueIncorrect">
+    <value></value>
+  </data>
+  <data name="CommentNotMember">
+    <value></value>
+  </data>
+  <data name="NotExistsComment">
+    <value></value>
+  </data>
+  <data name="NotExistsGuild">
+    <value></value>
+  </data>
+  <data name="JoinIsWaiting">
+    <value></value>
+  </data>
+  <data name="CannotKickOwner">
+    <value></value>
+  </data>
+  <data name="UserNotInGuild">
+    <value></value>
+  </data>
+  <data name="CannotLeftOwner">
+    <value></value>
+  </data>
+  <data name="NotEnough">
+    <value></value>
+  </data>
+  <data name="NotExists">
+    <value></value>
+  </data>
+  <data name="FailTransaction">
+    <value></value>
+  </data>
+  <data name="ExistantTransaction">
+    <value></value>
+  </data>
+  <data name="InvalidVipPoint">
+    <value></value>
+  </data>
+  <data name="NapGold">
+    <value></value>
+  </data>
+  <data name="KiemTraGiaoDich">
+    <value></value>
+  </data>
+  <data name="ThatBai">
+    <value></value>
+  </data>
+  <data name="DaiLyKhongDuGold">
+    <value></value>
+  </data>
+  <data name="GiaoDichKhongTonTai">
+    <value></value>
+  </data>
+  <data name="TheDaSuDung">
+    <value></value>
+  </data>
+  <data name="CardAmountInvalid">
+    <value></value>
+  </data>
+  <data name="DepositCardError">
+    <value></value>
+  </data>
+  <data name="CardTypeInvalid">
+    <value></value>
+  </data>
+  <data name="TransactionInvalid">
+    <value></value>
+  </data>
+  <data name="GiaoDichThatBai">
+    <value></value>
+  </data>
+  <data name="CongVipPointLoi">
+    <value></value>
+  </data>
+  <data name="GiaoDichLoi">
+    <value></value>
+  </data>
+  <data name="CongGoldPromotionVipError">
+    <value></value>
+  </data>
+  <data name="CongGoldPromotionError">
+    <value></value>
+  </data>
+  <data name="CongGoldVipError">
+    <value></value>
+  </data>
+  <data name="CongPromotionVipError">
+    <value></value>
+  </data>
+  <data name="CongGoldError">
+    <value></value>
+  </data>
+  <data name="CongPromotionError">
+    <value></value>
+  </data>
+  <data name="Proccessing">
+    <value></value>
+  </data>
+  <data name="FailWhenCallUseCard">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotGold">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotPromotion">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotVipPoint">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotGoldAndVip">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotPromotionAndVipPoint">
+    <value></value>
+  </data>
+  <data name="SuccessAllNotGoldAndPromotion">
+    <value></value>
+  </data>
+  <data name="SuccessNotGoldAndPromotionAndVip">
+    <value></value>
+  </data>
+  <data name="UserRequestCheckTransactionError">
+    <value></value>
+  </data>
+  <data name="TimeOut">
+    <value></value>
+  </data>
+  <data name="CallbackProcessing">
+    <value></value>
+  </data>
+  <data name="CallbackError">
+    <value></value>
+  </data>
+  <data name="CallbackReturnDepositAgain">
+    <value></value>
+  </data>
+  <data name="FailWhenCallGetStatus">
+    <value></value>
+  </data>
+  <data name="DelayToNextDeposit">
+    <value></value>
+  </data>
+  <data name="MemberToMember">
+    <value></value>
+  </data>
+  <data name="AssociationToMember">
+    <value></value>
+  </data>
+  <data name="KhongDuGoldAddOrSub">
+    <value></value>
+  </data>
+  <data name="KhongThucHienLenhNao">
+    <value></value>
+  </data>
+  <data name="CongGoldKhongThanhCong">
+    <value></value>
+  </data>
+  <data name="LoiException">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCao">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCaoKhuyenMai100">
+    <value></value>
+  </data>
+  <data name="NapGoldNganLuong">
+    <value></value>
+  </data>
+  <data name="NapGoldNganLuongKhuyenMai">
+    <value></value>
+  </data>
+  <data name="NapGoldSms">
+    <value></value>
+  </data>
+  <data name="NapGoldSmsKhuyenMai">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCaoKhuyenMaiTiepSuc">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCaoKhuyenMaiTihcLuy">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCaoKhuyenMaiChonLoc">
+    <value></value>
+  </data>
+  <data name="NapGoldTheCaoKhuyenMaiNgayVang">
+    <value></value>
+  </data>
+  <data name="LiXiTet">
+    <value></value>
+  </data>
+  <data name="ChuyenGoldTuTaiKhoanVaoViNganHang">
+    <value></value>
+  </data>
+  <data name="ChuyenGoldTuViNganHangVaoTaiKhoan">
+    <value></value>
+  </data>
+  <data name="CongGoldEvent03">
+    <value></value>
+  </data>
+  <data name="DoiSaoRaTheCao">
+    <value></value>
+  </data>
+  <data name="DoiSaoRaGold">
+    <value></value>
+  </data>
+  <data name="DoiSaoRaVatPham">
+    <value></value>
+  </data>
+  <data name="NapGoldDaiLy">
+    <value></value>
+  </data>
+  <data name="NapGoldDaiLyKhuyenMai">
+    <value></value>
+  </data>
+  <data name="NapGoldDaiLyKhuyenMaiMuaGoldChamMoc">
+    <value></value>
+  </data>
+  <data name="TriAnVip">
+    <value></value>
+  </data>
+  <data name="NapTienGoogleWallet">
+    <value></value>
+  </data>
+  <data name="NapTienAppleStore">
+    <value></value>
+  </data>
+  <data name="DoiDoanhThuRaGold">
+    <value></value>
+  </data>
+  <data name="NhanThuongVQXS">
+    <value></value>
+  </data>
+  <data name="NhanThuongRaSanh">
+    <value></value>
+  </data>
+  <data name="KhuyenMaiUserVIP">
+    <value></value>
+  </data>
+  <data name="NhanThuongThanhTuu">
+    <value></value>
+  </data>
+  <data name="KhuyenMaiPrivateUserReal">
+    <value></value>
+  </data>
+  <data name="KhuyenMaiPrivateUserVIP">
+    <value></value>
+  </data>
+  <data name="MainGame">
+    <value></value>
+  </data>
+  <data name="BCST">
+    <value></value>
+  </data>
+  <data name="BC3D">
+    <value></value>
+  </data>
+  <data name="BCV">
+    <value></value>
+  </data>
+  <data name="LogIn">
+    <value></value>
+  </data>
+  <data name="ChangeCard">
+    <value></value>
+  </data>
+  <data name="ChangeVnKash">
+    <value></value>
+  </data>
+  <data name="PlayGame">
+    <value></value>
+  </data>
+  <data name="ChangeBaoKim">
+    <value></value>
+  </data>
+  <data name="ChangeMTop">
+    <value></value>
+  </data>
+  <data name="ChangeBank">
+    <value></value>
+  </data>
+  <data name="TransferGold">
+    <value></value>
+  </data>
+  <data name="TopBanner">
+    <value></value>
+  </data>
+  <data name="Sliderbcst">
+    <value></value>
+  </data>
+  <data name="PopupEvent">
+    <value></value>
+  </data>
+  <data name="PopupEventBCST">
+    <value></value>
+  </data>
+  <data name="Hide">
+    <value></value>
+  </data>
+  <data name="Show">
+    <value></value>
+  </data>
+  <data name="Delete">
+    <value></value>
+  </data>
+  <data name="EventIsNotBegin">
+    <value></value>
+  </data>
+  <data name="EventIsEnd">
+    <value></value>
+  </data>
+  <data name="ErrorWhenAddGold">
+    <value></value>
+  </data>
+  <data name="UserNotinEvent">
+    <value></value>
+  </data>
+  <data name="TLMN">
+    <value></value>
+  </data>
+  <data name="Binh">
+    <value></value>
+  </data>
+  <data name="OanTuTi">
+    <value></value>
+  </data>
+  <data name="U">
+    <value></value>
+  </data>
+  <data name="DanhChan">
+    <value></value>
+  </data>
+  <data name="CoTuong">
+    <value></value>
+  </data>
+  <data name="XiTo">
+    <value></value>
+  </data>
+  <data name="DeclineInviteFriend">
+    <value></value>
+  </data>
+  <data name="SentInviteFriend">
+    <value></value>
+  </data>
+  <data name="AcceptInviteFriend">
+    <value></value>
+  </data>
+  <data name="SentNotConfirm">
+    <value></value>
+  </data>
+  <data name="SqlError">
+    <value></value>
+  </data>
+  <data name="InviteFriend">
+    <value></value>
+  </data>
+  <data name="InviteAssociation">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage00">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage99">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage01">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage02">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage03">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage04">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage05">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage06">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage07">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage08">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage09">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage10">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage11">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage12">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage13">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage14">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage15">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage16">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage17">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage18">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage19">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage20">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage21">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage22">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage23">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage24">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage25">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage26">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage27">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage28">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage29">
+    <value></value>
+  </data>
+  <data name="GetErrorMessage30">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms00">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms99">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms01">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms02">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms03">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms04">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms05">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms06">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms07">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms08">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms09">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms10">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms11">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms12">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms13">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms14">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms15">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms16">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms17">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms18">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms19">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms20">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms21">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms22">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms23">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms24">
+    <value></value>
+  </data>
+  <data name="GetErrorMessageSms25">
+    <value></value>
+  </data>
+  <data name="DownloadSoftpinLoginFail">
+    <value></value>
+  </data>
+  <data name="DownloadSoftpinCallServiceFail">
+    <value></value>
+  </data>
+  <data name="EpayGetCardInfoFail">
+    <value></value>
+  </data>
+  <data name="EpayGetPinOrResiInfoFail">
+    <value></value>
+  </data>
+  <data name="LogCardTransDesWating">
+    <value></value>
+  </data>
+  <data name="LogCardTransInsertFail">
+    <value></value>
+  </data>
+  <data name="LogCardTransInsertTimeOut">
+    <value></value>
+  </data>
+  <data name="LogCardTransInsertError">
+    <value></value>
+  </data>
+  <data name="LogCardTransChargeErrorCode2">
+    <value></value>
+  </data>
+  <data name="LogCardTransChargeErrorCode3">
+    <value></value>
+  </data>
+  <data name="LogCardTransChargeWithCallback">
+    <value></value>
+  </data>
+  <data name="LogCardTransNapGoldTheCao">
+    <value></value>
+  </data>
+  <data name="LogCardTransNapGoldSuccess">
+    <value></value>
+  </data>
+  <data name="LogCardTransNapGoldSuccessNoHtml">
+    <value></value>
+  </data>
+  <data name="LogCardTransNapTheTichCode">
+    <value></value>
+  </data>
+  <data name="SaveLogVipPointLog">
+    <value></value>
+  </data>
+  <data name="LoiTruGoldGame">
+    <value></value>
+  </data>
+  <data name="TopBangHoiUserLogTypeEnumUnKnow">
+    <value></value>
+  </data>
+  <data name="TopBangHoiUserLogTypeEnumBangHoi">
+    <value></value>
+  </data>
+  <data name="TopBangHoiUserLogTypeEnumCaNhan">
+    <value></value>
+  </data>
+  <data name="WalletError">
+    <value></value>
+  </data>
+  <data name="WalletTypeError">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumDoiMatKhau">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumThayDoiSDT">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumTaoMatKhauOtp">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumDoiMatKhauKhoaVi">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumKhoaVi">
+    <value></value>
+  </data>
+  <data name="WalletUserLogTypeEnumMoKhoaVi">
+    <value></value>
+  </data>
+  <data name="BanCa">
+    <value></value>
+  </data>
+  <data name="VQXS">
+    <value></value>
+  </data>
+  <data name="ShopOnline">
+    <value></value>
+  </data>
+  <data name="FeeOfflineMessage">
+    <value></value>
+  </data>
+  <data name="OfflineMessage">
+    <value></value>
+  </data>
+</LocalLanguages>

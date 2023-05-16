@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LocalLanguages>
+  <data name="MeRequestFriendHeader">
+    <value>Listahan ng Kahilingan sa Kaibigan</value>
+  </data>
+  <data name="MeAcceptFriend">
+    <value>Tanggapin</value>
+  </data>
+  <data name="MeRejectFriend">
+    <value>Huwag tanggapin</value>
+  </data>
+  <data name="MeDeleteFriend">
+    <value>I-unfriend</value>
+  </data>
+  <data name="MeUnauthorized">
+    <value>Walang mga pahintulot sa pag-access</value>
+  </data>
+  <data name="MeCommentTitleBox">
+    <value>Magkomento</value>
+  </data>
+  <data name="MeCommentSendButton">
+    <value>Ipadala</value>
+  </data>
+  <data name="MeCommentDeletedBefore">
+    <value>Ang komento ay tinanggal</value>
+  </data>
+  <data name="MeNotOwnerComment">
+    <value>Hindi matanggal ang ibang komento</value>
+  </data>
+  <data name="MeUnknownError">
+    <value>Hindi kilalang error</value>
+  </data>
+  <data name="MeMakeFriendSameUser">
+    <value>Parehong Mga Account</value>
+  </data>
+  <data name="MeMakeFriendUnknownType">
+    <value>Hindi kilalang status ng kaibigan</value>
+  </data>
+  <data name="MeMakeFriendDuplicateRequest">
+    <value>Naipadala mo na ang kahilingang ito</value>
+  </data>
+  <data name="MeAcceptFriendFail">
+    <value>Nabigong tanggapin ang kahilingan ng kaibigan</value>
+  </data>
+  <data name="MeNoRequestMakeFriend">
+    <value>Hindi mahanap ang friend request</value>
+  </data>
+  <data name="MeIsFriendBefore">
+    <value>Magkaibigan na kayong dalawa</value>
+  </data>
+  <data name="MeIsRejectFriendBefore">
+    <value>Tinanggihan mo na ang kahilingang ito ng kaibigan</value>
+  </data>
+  <data name="MeInvalidSender">
+    <value>Di-wastong account para magpadala ng kahilingan</value>
+  </data>
+  <data name="MeInvalideReceiver">
+    <value>Di-wastong account para makatanggap ng kahilingan</value>
+  </data>
+  <data name="MeUserID">
+    <value>GINAMIT NA PAGKAKINLANLAN</value>
+  </data>
+  <data name="MeNickName">
+    <value>Palayaw</value>
+  </data>
+  <data name="MeNoneGuild">
+    <value>Walang Grupo</value>
+  </data>
+  <data name="MeChip">
+    <value>CHIPS</value>
+  </data>
+  <data name="MeVipLevelPoint">
+    <value>VIP</value>
+  </data>
+  <data name="MeBasicInfoTitleBox">
+    <value>Impormasyon</value>
+  </data>
+  <data name="MeCaptionTooltip">
+    <value>I-edit</value>
+  </data>
+  <data name="MeSaveCaptionButton">
+    <value>I-save</value>
+  </data>
+  <data name="MeCancelCaptionButton">
+    <value>Kanselahin</value>
+  </data>
+  <data name="MeShareFeeling">
+    <value>Ibahagi ang iyong nararamdaman</value>
+  </data>
+  <data name="MeUploadCover">
+    <value>I-update ang takip</value>
+  </data>
+  <data name="MeUploadAvatar">
+    <value>I-update ang Avatar</value>
+  </data>
+  <data name="MeManageProfile">
+    <value>Pamamahala ng Profile</value>
+  </data>
+  <data name="MeShare">
+    <value>Ibahagi</value>
+  </data>
+  <data name="MeInviteToGuild">
+    <value>Mag-imbita sa grupo</value>
+  </data>
+  <data name="MeSendMessage">
+    <value>Magpadala ng mensahe</value>
+  </data>
+  <data name="MeAddFriend">
+    <value>Magdagdag ng kaibigan</value>
+  </data>
+  <data name="MeFriends">
+    <value>Mga kaibigan</value>
+  </data>
+  <data name="MeViewAllRequestFriends">
+    <value>Tingnan lahat</value>
+  </data>
+  <data name="MeListOfFriends">
+    <value>Mga kaibigan</value>
+  </data>
+  <data name="MeRequestedFriend">
+    <value>Hiniling</value>
+  </data>
+  <data name="MeEnterSearchName">
+    <value>Hanapin ang iyong mga kaibigan</value>
+  </data>
+  <data name="MeRequestedResponse">
+    <value>Tumugon sa kahilingan ng kaibigan</value>
+  </data>
+  <data name="MeListGame">
+    <value>Naglaro na ang mga laro</value>
+  </data>
+  <data name="MeViewAllGames">
+    <value>Tingnan ang lahat ng mga laro</value>
+  </data>
+  <data name="MeLogActivities">
+    <value>Mga aktibidad</value>
+  </data>
+  <data name="MeViewAllLogActivities">
+    <value>Tingnan lahat</value>
+  </data>
+  <data name="MeMessageSendMakeFriend">
+    <value>{0}ay nagpadala ng kahilingang kaibigan sa{1}</value>
+  </data>
+  <data name="MeMessageAcceptFriend">
+    <value>{0}ay tinanggap ang kahilingang kaibigan kasama si{1}</value>
+  </data>
+  <data name="MeMessageRejectFriend">
+    <value>{0}ay hindi tinanggap ang kahilingang makipagkaibigan sa{1}</value>
+  </data>
+  <data name="MeMessageUnFriend">
+    <value>{0}ay kinansela ang kahilingan sa kaibigan sa{1}</value>
+  </data>
+  <data name="MeViewAllFriends">
+    <value>Tingnan lahat</value>
+  </data>
+  <data name="MeListFriendHeader">
+    <value>Mga kaibigan</value>
+  </data>
+  <data name="MeOverMaxRequestFriendNumber">
+    <value>Nagpapadala ka ng napakaraming kahilingan sa kaibigan, pakisubukang muli sa ibang pagkakataon</value>
+  </data>
+  <data name="MeLetCommentFirst">
+    <value>Maunang magkomento</value>
+  </data>
+  <data name="MeGroupInviteHeader">
+    <value>Mga Imbitasyon ng Grupo</value>
+  </data>
+</LocalLanguages>

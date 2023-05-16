@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LocalLanguages>
+  <data name="CashOutNotEnoughGold">
+    <value>Ang balanse ng account ay hindi sapat upang gumawa ng mga transaksyon!</value>
+  </data>
+  <data name="TransferGold_Valid_Label">
+    <value>Ang halaga ng CHIPS ay dapat na mas mataas o katumbas ng {0}</value>
+  </data>
+  <data name="CashOut_Valid_Address">
+    <value>Di-wasto ang Tirahan!</value>
+  </data>
+  <data name="CashOut_Valid_Type">
+    <value>Hindi wasto ang uri!</value>
+  </data>
+  <data name="CashOut_Valid_Amount">
+    <value>Hindi wasto ang halaga!</value>
+  </data>
+</LocalLanguages>

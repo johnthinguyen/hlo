@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="BoxEventTichCodeMailTitle" xml:space="preserve">
+        <value>Event Announcement "QUICK DEPOSIT - RECEIVE MILLION CHIPS"</value>
+    </data>
+  <data name="UserNameInvalit4" xml:space="preserve">
+        <value>ชื่อผู้ใช้นี้มีอยู่แล้ว</value>
+    </data>
+  <data name="RegisterBouns" xml:space="preserve">
+    <value>ขอแสดงความยินดีที่ลงทะเบียนเรียบร้อยแล้ว! ผู้ดูแลระบบจะมอบชิปให้คุณเพื่อเล่นเกม</value>
+  </data>
+  <data name="RegisterBounsTitle" xml:space="preserve">
+    <value>ขอแสดงความยินดีที่ลงทะเบียนเรียบร้อยแล้ว!</value>
+	</data>
+  <data name="Level_LevelUp" xml:space="preserve">
+    <value>คุณได้เลื่อนระดับ</value>
+  </data>
+  <data name="Level_LogPointSuccess" xml:space="preserve">
+    <value>สะสมคะแนนสำเร็จ</value>
+  </data>
+  <data name="Level_LogPointError" xml:space="preserve">
+    <value>ไม่สามารถรับคะแนนในระดับ</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigListGameText" xml:space="preserve">
+    <value>คุณต้องถึงระดับ {0}</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigBanCaRoomText" xml:space="preserve">
+    <value>คุณต้องถึงระดับ {0}</value>
+  </data>
+  <data name="Level_DescriptionUnlockGame" xml:space="preserve">
+    <value>ขอแสดงความยินดีกับการปลดล็อคเกม {0}</value>
+  </data>
+  <data name="UpdateInfoSuccess" xml:space="preserve">
+        <value>อัปเดตข้อมูลสำเร็จ</value>
+    </data>
+  <data name="EmailExists" xml:space="preserve">
+        <value>ได้รับอีเมล์นี้เรียบร้อยแล้ว</value>
+    </data>
+  <data name="ValidationPhone2" xml:space="preserve">
+        <value>หมายเลขโทรศัพท์ที่ใช้อยู่แล้ว</value>
+    </data>
+  <data name="ErrorMessValidation7" xml:space="preserve">
+        <value>หมายเลขโทรศัพท์ไม่ถูกต้อง</value>
+    </data>
+  <data name="ValidationDisplayName6" xml:space="preserve">
+    <value>ชื่อที่แสดงมีอยู่แล้ว</value>
+  </data>
+  <data name="ValidationLogin12" xml:space="preserve">
+    <value>ไม่มีบัญชี</value>
+  </data>
+  <data name="Reason_538" xml:space="preserve">
+    <value>ถอน Pi Pay</value>
+  </data>
+  <data name="gifts_code_mail_title" xml:space="preserve">
+    <value>ยินดีต้อนรับพอร์ทัลเกมออนไลน์ที่มีชื่อเสียงที่สุด Win8</value>
+  </data>
+  <data name="gifts_code_mail_content" xml:space="preserve">
+    <value> คุณได้รับ {0} CHIPS ที่เข้าร่วมในเกม Win888 App จากเว็บไซต์ &lt;a href="http://nagagamestudio.com/" target="_blank"&gt;nagagamestudio.com&lt;/a&gt; และของขวัญอื่น ๆ อีกมากมายกำลังรอคุณอยู่
+</value>
+  </data>
+  <data name="FacebookLoginNewError" xml:space="preserve">
+    <value>Login failed, please contact customer service for supporting</value>
+  </data>
+  <data name="Reason_CTV_blockAcc" xml:space="preserve">
+    <value>You are locked because of suspicion of cheating in TEANG LEN, admin will check again - your account will be locked until 10am. Any questions please contact customer service for more details</value>
+  </data>
+  <data name="SystemMaintenance" xml:space="preserve">
+    <value>ระบบอยู่ระหว่างการบำรุงรักษาโปรดลองอีกครั้ง</value>
+  </data>
+  <data name="VerifyAccountNotify" xml:space="preserve">
+    <value>Please verify your account level 2 by following this link &lt;a href='{0}' target='_blank'&gt;{0} &lt;/a&gt; to receive 1.000.000 chips. The checking process will be completed within 48 hours</value>
+  </data>
+  <data name="VerifyEmailTitle" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="registerV3_Registration" xml:space="preserve">
+    <value>Registration</value>
+  </data>
+  <data name="registerV3_Support" xml:space="preserve">
+    <value>SUPPORT</value>
+  </data>
+  <data name="registerV3_Other_way_to_login" xml:space="preserve">
+    <value>Other way to login</value>
+  </data>
+</LocalLanguages>

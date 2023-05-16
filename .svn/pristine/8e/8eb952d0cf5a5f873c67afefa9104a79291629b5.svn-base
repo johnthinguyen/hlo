@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="About" xml:space="preserve">
+    <value>Khang</value>
+  </data>
+  <data name="AboutItem1" xml:space="preserve">
+    <value>Mỗi item +10 tăng số lượng thành viên tối đa của bang lên 10 người. Mỗi item +10 tăng số lượng thành viên tối đa của bang lên 10 người.</value>
+  </data>
+  <data name="AboutItem2" xml:space="preserve">
+    <value>你好</value>
+  </data>
+  <data name="你好" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="AboutItem6" xml:space="preserve">
+    <value>b</value>
+  </data>
+  <data name="AboutItem7" xml:space="preserve">
+    <value>d</value>
+  </data>
+  <data name="1" xml:space="preserve">
+    <value>d</value>
+  </data>
+  <data name="2" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="3" xml:space="preserve">
+    <value>rrrrrrrrrrr</value>
+  </data>
+  <data name="asddas" xml:space="preserve">
+    <value>4444444444444</value>
+  </data>
+  <data name="aaaa" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="asdasd" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="AboutItem8" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="dasasdads" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Abount1" xml:space="preserve">
+    <value>444444444444444</value>
+  </data>
+  <data name="INFO_USER_LASTED_ACHIEVEMENTa" xml:space="preserve">
+    <value>LASTED ACHIEVEMENT</value>
+  </data>
+  <data name="INFO_USER_LASTED_ACHIEVEMENTa888" xml:space="preserve">
+    <value>LASTED ACHIEVEMENT</value>
+  </data>
+  <data name="y" xml:space="preserve">
+    <value>y</value>
+  </data>
+  <data name="test6" xml:space="preserve">
+    <value>m</value>
+  </data>
+  <data name="testq" xml:space="preserve">
+    <value></value>
+  </data>
+</LocalLanguages>

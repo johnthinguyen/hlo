@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="Friend_FriendNotExist">
+    <value>Walang kaibigan!</value>
+  </data>
+  <data name="Friend_FriendApproveSuccess">
+    <value>Matagumpay na tinanggap ang imbitasyon!</value>
+  </data>
+  <data name="Friend_FriendError1">
+    <value>Nagpadala ng imbitasyon sa kaibigan para sa user na ito dati.</value>
+  </data>
+  <data name="Friend_FriendError2">
+    <value>Kaibigan mo na ang taong ito.</value>
+  </data>
+  <data name="Friend_FriendFull">
+    <value>Hindi makapagpadala ng imbitasyon dahil puno na ang iyong numero!</value>
+  </data>
+  <data name="Friend_FriendNoData">
+    <value>Walang data</value>
+  </data>
+  <data name="Friend_FriendNoInvitation">
+    <value>Walang imbitasyon sa kaibigan ang user</value>
+  </data>
+  <data name="Friend_FriendNotYou">
+    <value>Hindi ka maaaring magpadala ng mga imbitasyon sa iyong sarili.</value>
+  </data>
+  <data name="Friend_FriendNumberInvitaion">
+    <value>Mayroon kang {0} mga kahilingan sa kaibigan!</value>
+  </data>
+  <data name="Friend_FriendRejectSuccess">
+    <value>Matagumpay na tanggihan ang imbitasyon!</value>
+  </data>
+  <data name="Friend_FriendRequiredLevel">
+    <value>I-unlock kapag umabot sa VIP {0}</value>
+  </data>
+  <data name="Friend_FriendSearchNoData">
+    <value>Walang nahanap na kaibigan!</value>
+  </data>
+  <data name="Friend_FriendSeverError">
+    <value>Error sa server!</value>
+  </data>
+  <data name="Friend_FriendUserNotExists">
+    <value>Walang gumagamit.</value>
+  </data>
+  <data name="AcceptedSuccessfully">
+    <value>Matagumpay na tinanggap ang imbitasyon</value>
+  </data>
+  <data name="CantSendRequestFriend">
+    <value>lHindi makapagpadala ng imbitasyon dahil puno na ang iyong dami</value>
+  </data>
+  <data name="InvalidQuantity">
+    <value>Di-wastong dami</value>
+  </data>
+  <data name="NoFriendsFound">
+    <value>Walang nahanap na kaibigan</value>
+  </data>
+  <data name="PersonFriend">
+    <value>Ang taong ito ay kaibigan na</value>
+  </data>
+  <data name="RejectSuccessfully">
+    <value>Matagumpay na tanggihan ang imbitasyon</value>
+  </data>
+  <data name="RewardeUserInviteFriend">
+    <value>Gantimpala ang imbitasyon ng user sa kaibigan</value>
+  </data>
+  <data name="SentThisPerson">
+    <value>Nagpadala ng imbitasyon sa kaibigan sa taong ito</value>
+  </data>
+  <data name="UnlockVip">
+    <value>I-unlock kapag naglalagay ng vip</value>
+  </data>
+  <data name="UserCannotSendInvitationsToUser">
+    <value>0Hindi ka maaaring magpadala ng mga imbitasyon sa iyong sarili</value>
+  </data>
+  <data name="UserHasNoFriendInvitation">
+    <value>Walang imbitasyon sa kaibigan ang user</value>
+  </data>
+  <data name="UserHaveFriendInvitation">
+    <value>Mayroon kang {0} imbitasyon ng kaibigan!</value>
+  </data>
+  <data name="UserHaveRunOutOfRewarded">
+    <value>Naubusan ka na ng reward</value>
+  </data>
+  <data name="UserMustInviteEnough">
+    <value>Dapat kang mag-imbita ng sapat na {0} taong bago upang makatanggap ng regalo</value>
+  </data>
+  <data name="UserNotExists">
+    <value>Walang gumagamit</value>
+  </data>
+  <data name="ContentIsNotAllow">
+    <value>Hindi naaangkop ang nilalaman.</value>
+  </data>
+  <data name="Fail" xml:space="preserve">
+    <value>Nabigo</value>
+  </data>
+  <data name="NoData" xml:space="preserve">
+    <value>Walang data</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Tagumpay</value>
+  </data>
+  <data name="ServerMaintenance" xml:space="preserve">
+    <value>Pagpapanatili ng server</value>
+  </data>
+</LocalLanguages>

@@ -1,0 +1,1030 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="DepositMessageBlockInDay" xml:space="preserve">
+    <value>you can only deposit a maximum of {0} times a day (SMS)</value>
+  </data>
+  <data name="MessageFirstPurchase" xml:space="preserve">
+    <value>{0}% more coins for your 1st purchase</value>
+  </data>
+  <data name="Please_deposit_more_to_withdraw" xml:space="preserve">
+    <value>Please deposit more to withdraw</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_OneTimeOffer_Title" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_OneTimeOffer_Title</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_OneTimeOffer_Content" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_OneTimeOffer_Content</value>
+  </data>
+  <data name="InAppPurchase_Thanks_First_Purchase_Title" xml:space="preserve">
+    <value>InAppPurchase_Thanks_First_Purchase_Title</value>
+  </data>
+  <data name="InAppPurchase_Thanks_First_Purchase_Content" xml:space="preserve">
+    <value>InAppPurchase_Thanks_First_Purchase_Content</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_SubscribePackage_Title" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_SubscribePackage_Title</value>
+  </data>
+  <data name="InAppPurchase_Purchase_Notice_SubscribePackage_{X}_Content" xml:space="preserve">
+    <value>InAppPurchase_Purchase_Notice_SubscribePackage_{0}_Content</value>
+  </data>
+  <data name="Withdrawal_successful_maill_title" xml:space="preserve">
+    <value>Withdrawal ${0} successful - ការបញ្ជាដកលុយ ${0} បានសម្រេច</value>
+  </data>
+  <data name="Withdrawal_successful_maill_content" xml:space="preserve">
+    <value>Your withdrawal has been successful, please check your Wing TID {0}. Hope you have fun!
+ការបញ្ជាដកលុយរបស់អ្នកបានសម្រេច សូមចូលពិនិត្យមើលគណនី Wing TID {0} សូមចូលរួមលេងហ្គេមបានតាមសប្បាយរីករាយ។</value>
+  </data>
+  <data name="choose_amount_to_top_up" xml:space="preserve">
+    <value>សូមជ្រើសរើសចំនួនទឹកប្រាក់ដែលត្រូវបញ្ចូល - Please choose the amount to top up</value>
+  </data>
+  <data name="top_up_phone_number_incorrect" xml:space="preserve">
+    <value>លេខទូរស័ព្ទដែលអ្នកបានបញ្ចូលមិនត្រឹមត្រូវ - Your phone number is incorrect</value>
+  </data>
+  <data name="top_up_check_phone_number_and_confirm" xml:space="preserve">
+    <value>សូមពិនិត្យមើលលេខទូរស័ព្ទរបស់អ្នកម្តងទៀតនិងបញ្ជាក់លេខនេះជាលេខទូរស័ព្ទរបស់អ្នក! - Please check again the Phone Number and confirm this is your Phone Number!</value>
+  </data>
+  <data name="top_up_money_choosing_incorrect" xml:space="preserve">
+    <value>ចំនួនទឹកប្រាក់ដែលអ្នកបានជ្រើសរើសមិនត្រឹមត្រូវ - Your money choosing is incorrect</value>
+  </data>
+  <data name="top_up_deposit_succeed" xml:space="preserve">
+    <value>ការស្នើសុំបញ្ចូលទឹកប្រាក់ក្នុងទូរស័ព្ទ [{0}] ${1}$  ទទួលបានជោគជ័យ - Deposit request from phone number [{0}] ${1} has succeed</value>
+  </data>
+  <data name="top_up_deposit_succeed_check_again" xml:space="preserve">
+    <value>ការស្នើសុំដាក់ប្រាក់តាមទូរស័ព្ទរបស់អ្នក [{0}] ${1} បានជោគជ័យសូមពិនិត្យមើលលេខទូរស័ព្ទរបស់អ្នក។ សង្ឃឹមថាអ្នកនឹងមានភាពសប្បាយរីករាយ! - Deposit request from phone number [{0}] ${1} has succeed, please check again your phone number.
+Hope you have fun</value>
+  </data>
+  <data name="top_up_enter_phone_here" xml:space="preserve">
+    <value>Enter your phone number that you want to top up here</value>
+  </data>
+  <data name="topup_name" xml:space="preserve">
+    <value>TOP UP</value>
+  </data>
+  <data name="sms_spam_warning" xml:space="preserve">
+    <value>ចំណាំ: អ្នកកំពុងតែបញ្ចូលលុយផុតកំណត់ {0}សារ/ថ្ងៃ។
+បើអ្នកនូវតែមានចេត្តនាបញ្ចូលបន្ត {1}និងទទួល {2} chipsនិងរាល់ការចម្ងាល់adminនិងមិនចំនួយទេណា។
+
+Note: You have deposited over the limit {0} messages/day. If you keep going to deposit {1}, you will receive {2} CHIPS. These problems won't be supported by ADMIN.</value>
+  </data>
+  <data name="sms_spam_warning_title" xml:space="preserve">
+    <value>បញ្ចូលលុយផុតកំណត់ {0}សារ/ថ្ងៃ។
+Deposit over the limit {0} messages/ day</value>
+  </data>
+  <data name="top_up_transaction_phone_incorrect" xml:space="preserve">
+    <value>ប្រតិបត្តិការមិនបានធ្វើទេព្រោះលេខទូរស័ព្ទរបស់អ្នកមិនត្រឹមត្រូវ។ - The transaction was not made cause your phone number is incorrect</value>
+  </data>
+  <data name="top_up_transaction_refund" xml:space="preserve">
+    <value>លេខទូរស័ព្ទដែលអ្នកបានបញ្ចូលមិនត្រឹមត្រូវយើងខ្ញុំបានវេប្រាក់វិញសូមបញ្ចូលម្តងទៀតជាមួយលេខទូរស័ព្ទត្រឹមត្រូវ។ - The phone number entered is invalid, admin has been refunded, please top up again with the correct phone number</value>
+  </data>
+  <data name="Coin_play_free_game" xml:space="preserve">
+    <value>Coin play free game Os Phe, Poker,...</value>
+  </data>
+  <data name="Deposit_new_wallet" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="WalletProductNotConfig" xml:space="preserve">
+    <value>This product is not available. Please buy another one.</value>
+  </data>
+  <data name="FsCashOut_MessageValidation" xml:space="preserve">
+    <value>Your CHIPS are not enough to withdraw</value>
+  </data>
+  <data name="FsCashOut_MessageValidation1" xml:space="preserve">
+    <value> The wing account code is invalid </value>
+  </data>
+  <data name="Deposit_ClickWhenCompletedTransfer" xml:space="preserve">
+    <value>When you have completed the transfer, click here go get chips</value>
+  </data>
+  <data name="FsCashOut_MinWithdraw" xml:space="preserve">
+    <value> Amount withdrawn at least {0}</value>
+  </data>
+  <data name="FsCashOutWave_divisible_withdraw" xml:space="preserve">
+    <value>The amount withdrawn must be divisible by 1000 {0}</value>
+  </data>
+  <data name="MaxDepositInday" xml:space="preserve">
+    <value>Server maintenance</value>
+  </data>
+  <data name="Config_MaximumSmsDay" xml:space="preserve">
+    <value>Warning: you can only deposit a maximum of 30 messages a day</value>
+  </data>
+  <data name="FsCashOut_RequestSuccess" xml:space="preserve">
+    <value>Request to ដក money from the wing wallet: {0}@wing ${1} has been completed</value>
+  </data>
+  <data name="FsCashOut_RequestSuccess2" xml:space="preserve">
+    <value>Successful withdrawal request</value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapPhilippine" xml:space="preserve">
+    <value>Please choose the method to ដក (Philippines)</value>
+  </data>
+  <data name="FsCashOut_Wave_RequestSuccess" xml:space="preserve">
+    <value>Request to ដក money from the Wave  wallet: {0}@Wave {1} KYAT has been completed</value>
+  </data>
+  <data name="FsCashOut_ABA_RequestSuccess" xml:space="preserve">
+    <value>Request to ដក money from the ABA wallet: {0}@ABA ${1} has been completed</value>
+  </data>
+  <data name="FsCashOut_PiPay_RequestSuccess" xml:space="preserve">
+    <value>Request to ដក money from the Pi Pay wallet: {0}@pipay ${1} has been completed</value>
+  </data>
+  <data name="Waiting" xml:space="preserve">
+    <value>WAITING...</value>
+  </data>
+  <data name="TopupSuccess" xml:space="preserve">
+    <value>TOPUP SUCCESS</value>
+  </data>
+  <data name="WAVE_Service_Maintenance" xml:space="preserve">
+    <value>Wave wallet is under maintenance please come back later! Thank you for your understanding</value>
+  </data>
+  <data name="ABA_Service_Maintenance" xml:space="preserve">
+    <value>Aba wallet is under maintenance please come back later! Thank you for your understanding</value>
+  </data>
+  <data name="TransferCoinMustHigerEqual" xml:space="preserve">
+    <value>Amount of CHIPS must higher or equal &gt;= {0}</value>
+  </data>
+  <data name="DepositWalletAccountNotNull" xml:space="preserve">
+    <value>DepositWalletAccountNotNull</value>
+  </data>
+  <data name="Deposit_GCASH_AccountID" xml:space="preserve">
+    <value>GCASH Account ID</value>
+  </data>
+  <data name="Deposit_GCASH_AccountName" xml:space="preserve">
+    <value>GCASH Account Name</value>
+  </data>
+  <data name="Deposit_GCASH_Note1" xml:space="preserve">
+    <value>Step 1: Enter your GCASH account number. You will be charged ₱{0}</value>
+  </data>
+  <data name="Deposit_GCASH_Note2" xml:space="preserve">
+    <value>Step 2: Note: you must transfer correctly to the GCASH wallet below, we will not be able to support if you transfer to wrong GCASH account. The GCASH account number will be changed every time when you deposit, you should check the exact GCASH  account number before transfering in the form deposit</value>
+  </data>
+  <data name="GCASH_NUMBER_ARE_YOU_SURE" xml:space="preserve">
+    <value>Please check again your GCASH Account Number {0} and confirm this is your GCASH Account Number</value>
+  </data>
+  <data name="Tab_TitleWithDraw_GCASH" xml:space="preserve">
+    <value>ដកGCASH</value>
+  </data>
+  <data name="FsCashOut_GCASH_RequestSuccess" xml:space="preserve">
+    <value>Request to ដក money from the GCASH wallet: {0}@GCASH ₱{1} has been completed</value>
+  </data>
+  <data name="CashoutGCASH_MessageTitle_UpdateStatusSuccess" xml:space="preserve">
+    <value>Withdrawal ₱{0} successful</value>
+  </data>
+  <data name="CashoutGCASH_MessageContent_UpdateStatusSuccess" xml:space="preserve">
+    <value>Your withdrawal has been successful, please check your GCASH TID {0}. Hope you have fun!</value>
+  </data>
+  <data name="FsCashOutGCash_lableTyGia" xml:space="preserve">
+    <value>Exchange rate: &lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; = ₱&lt;strong class="ohyea__color-yellow"&gt;{1} 
+ &lt;/strong&gt;</value>
+  </data>
+  <data name="FsCashOutGCash_lableSoDu" xml:space="preserve">
+    <value>Your balance &lt;strong class="ohyea__color-yellow"&gt;{0}&lt;/strong&gt; (equal to ₱&lt;strong class="ohyea__color-yellow"&gt;{1} &lt;/strong&gt;)</value>
+  </data>
+  <data name="FsCashOutGCash_minimum_withdraw" xml:space="preserve">
+    <value>The minimum amount to ដក  is ₱{0}</value>
+  </data>
+  <data name="FsCashOutGCash_divisible_withdraw" xml:space="preserve">
+    <value>The amount withdrawn must be divisible by {0}</value>
+  </data>
+  <data name="FsCashOutGCash_lableBanMuonRutBnhieu" xml:space="preserve">
+    <value>How much money do you want to withdraw?</value>
+  </data>
+  <data name="FsCashOut_lableDienTKGCash" xml:space="preserve">
+    <value>Enter your GCASH account to receive money</value>
+  </data>
+  <data name="GCASH_TID_successful_mail" xml:space="preserve">
+    <value>You have successful deposited GCASH TID {0} into our game. Have fun time with Live777</value>
+  </data>
+  <data name="GCASH_Service_Maintenance" xml:space="preserve">
+    <value>GCASH wallet is under maintenance please come back later! Thank you for your understanding</value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapPhilippines" xml:space="preserve">
+    <value>Please choose the method to ដក (Philippines)</value>
+  </data>
+  <data name="FsCashOut_GCash_RequestSuccess" xml:space="preserve">
+    <value>Request to ដក money from the GCASH wallet: {0}@GCASH ₱{1} has been completed</value>
+  </data>
+  <data name="ACCOUNT_OR_TID_INVALID" xml:space="preserve">
+    <value>Your account number or tid invalid</value>
+  </data>
+  <data name="WING_NUMBER_ARE_YOU_SURE" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TID_HISTORY" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TRANSFER_MIN_COIN_POCKET_AFTER_TRANSFER" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CODA_WING_USER_WALLET_NOT_EXISTS" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CODA_WING_TRAN_NOT_COMPLETE" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CODA_WING_GUIDE_6_DIGIT_CODE" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WITHDRAW_CARD_DENOMINATION" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WITHDRAW_CARD_VALUE" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WITHDRAW_CARD_NOW" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WITHDRAW_CARD_FAIL" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WITHDRAW_CARD_SUCCESS_TITLE" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WITHDRAW_CARD_Please_choose" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WITHDRAW_CARD_under_maintenance" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WITHDRAW_CARD_successfully_go_mail_box" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WITHDRAW_CARD_SUCCESS" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Withdrawal_MaximumSmsDay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MaximumSmsDay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCardAmountNotAllow" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCardIsUsed" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCreateTransactionFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositDelayTime" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositErrorCauseBlockMultipleFailed" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositMultipleFailed" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositSelectCardAmountWrong" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositSmsTelcoNoSupport" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositSmsTelcoValueNoSupport" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositSupportText" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositTransactionChargeWithCallback" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositTransactionError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositTransactionTimeOut" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongCardOutOfLimit" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongCardOutOfRangeTime" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongCardStockRunOut" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongCardSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongCardSuccessReview" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongCreateTranlogError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongMaintainance" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongMaintainanceUpdate" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongNotEnoughGoldOffset" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongRequireVipLevel" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongUpdateCoinError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositGetProductMethodInvalid" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositSuccessAddVipFailed" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositSuccessAddCoinVipFailed" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NumberDepositOnDay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SuccessButAddGoldFail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TransactionNotExists" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CurrentCoinNotEnought" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ChonNhaMang" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CuPhap" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositAlert_Card" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositAlert_CardError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositBaoKim" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCode_Input2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositConfirm" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositInputCaptcha" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositMoneyCost2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositSms" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositSmsGui" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongMaXacNhan" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongPhiChuyen" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongSoTienChuyen" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongSoXuHienCo" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongTaiKhoan" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongTenTaiKhoan" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongThucHien" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongXu" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DoiThuongXuBiTru" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GhiChuNapSMS" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GhiChuNapSMS1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GhiChuNapSMS2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="GhiChuNapSMSMobile" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MenhGia" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ValidationMenhGiaThe" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ValidationPayment" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ValidationPayment2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ValidationPayment3" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ValidationPayment4" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ValidationPayment5" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ValidationPayment6" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LogCardTransNapGoldSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountReceiveNotExists" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountTransferMoneyLockedOut" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountTransferNotYetVip" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountTransferVipLevelNotSatisfactory" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ValidAccount" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NumberOfTransferDivisible" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="NumberOfMovesSmaller" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="LoginSession" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CannotTransferCoinYourSeft" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountTransferLockedPleaseCSKH" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountNotRoleCoinTransfer" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountIsNotEnoughMakeTransaction" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TransferCoinSuccessfully" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountLockTransferGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountNotYetVip" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountRequiredVip" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="AccountExceedTransferOrTransferGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TitleMessBonusDepoistFisrt" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ContentMessBonusDepoistFisrt" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ContentNoteDeposit" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_MessageValidation2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_MessageValidation3" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_MessageValidation4" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_MessageValidation5" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_HistoryCashOutTitle" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_HistoryCashOut_Col_Amount" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_HistoryCashOut_Col_Status" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Status_DescRequest" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Status_DescSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Status_DescCancel" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Status_DescProcessing" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Status_DescError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Status_DescCallbackReturnError" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableSoDu" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableTyGia" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableSoDu2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableTyGia2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableBanMuonRutBnhieu" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableChonMenhGia" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_btnNext" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_btnBack" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_btnRutTien" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableDienTKWing" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableDienPhone" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableSupport" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_CoinAndAmountNotMatch" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Status_ErrorSubtractGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Status_EnoughGold" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_MessageValidationType" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_MessageValidationAddress" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Amount" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Type" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_CoinAddress" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Coinleast" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCoin_Step1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCoin_Step2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCoin_Step2_Note" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCoin_Step3" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WithdrawCoin_Step1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WithdrawCoin_Step2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WithdrawCoin_Step2_Note" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WithdrawCoin_Step3" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WithdrawCoin_FsCashOut_RateCashInAndCashOutForUser" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_RateCashInAndCashOutForServer" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_Account_IsBanWithdraw" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="DepositCoin_Noted" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Tab_TitleDeposit" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Tab_TitleWithDraw" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Tab_TitleHistoryWithDraw" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Tab_TitleDepositETH" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Tab_TitleWithDrawETH" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_btnBuy" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_Title" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_Amount" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_WingAccount" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_TID" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationCardType" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationAmount" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationWingAccount" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationTID" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationCaptcha" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationLimitInDay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationSendDelay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_ValidationExists" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_Success" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_Error" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_CardType_V2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_CardAmount_V2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_PinCard_V2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_Serial_V2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_BtnSend_V2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_Noted_V2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_V2_CardType_Title" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_V2_CardAmount_Title" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_V2_PinCard_Title" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_V2_Serial_Title" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_V2_Status_Title" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_V2_Createdate_Title" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_StatusEnum_Createnew" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_StatusEnum_Processing" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_StatusEnum_Success" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_FeedBack_StatusEnum_Reject" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="HOW_TO_BUY" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_Note_1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_Note_2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_WING_ID_INPUT" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_WING_ID" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_WING_Account_Name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_Success_1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_Success_2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_Success_2_2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_Success_3" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_WING_ID_Valid_1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W5_Submit_Notice" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WingTransactionFindID_NotExistsTID" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WingTransactionFindID_PleaseWaitting" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WingTransactionFindID_NotEmptyTID" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WingTransactionFindID_TID_Placeholder" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WingTransactionFindID_Btn_Search" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WingTransactionFindID_Amount_Label" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WingTransactionFindID_TransactionDate_Label" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WingTransactionFindID_UserID_Label" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WingTransactionFindID_DisplayName_Label" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WingTransactionFindID_FindMyTID" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="History_Deposit_Title" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="History_Deposit" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TransferGoldAccountSender" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TransferCoinMustDevi" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Metfone_Limits_PerDay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="top_up_transaction_coinnotvalid" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="top_up_transaction_coinneed" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="top_up_metfone_currentlyUnavailable" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_PIPAY_AccountID" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_PIPAY_AccountName" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_PIPAY_Note1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_PIPAY_Note2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PIPAY_NUMBER_ARE_YOU_SURE" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableDienTKPiPay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Tab_TitleWithDraw_PiPay" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_btnWithdraw" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="default_par_value_withdraw" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Tab_TitleWithDraw_Wing" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapCam" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapThai" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashoutPipay_MessageTitle_UpdateStatusSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashoutPipay_MessageContent_UpdateStatusSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_ABA_AccountID" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_ABA_AccountName" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_ABA_Note1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_ABA_Note2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ABA_NUMBER_ARE_YOU_SURE" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableDienTKABA" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Tab_TitleWithDraw_ABA" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashoutABA_MessageTitle_UpdateStatusSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashoutABA_MessageContent_UpdateStatusSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_WAVE_MONEY_AccountID" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_WAVE_MONEY_AccountName" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_WAVE_MONEY_Note1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_WAVE_MONEY_Note2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WAVE_MONEY_NUMBER_ARE_YOU_SURE" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableDienTKWAVE_MONEY" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Tab_TitleWithDraw_WAVE_MONEY" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_WAVE_MONEY_RequestSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashoutWAVE_MONEY_MessageTitle_UpdateStatusSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashoutWAVE_MONEY_MessageContent_UpdateStatusSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WAVE_MONEY_TID_successful_mail" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOutWave_lableTyGia" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOutWave_lableBanMuonRutBnhieu" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOut_lableDienTKWave" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WAVE_NUMBER_ARE_YOU_SURE" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOutWave_lableSoDu" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FsCashOutWave_minimum_withdraw" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashoutWave_MessageTitle_UpdateStatusSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="CashoutWave_MessageContent_UpdateStatusSuccess" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Coda_warning_withdraw_refund_without_using_game" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Config_Alert" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Config_TextConfirm" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WalletProductCurrentcyCoin" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Cashout_LablelChonLoaiNapMyanmar" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="TRANSFER_CHIPS_FEE_NOTICE" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_Note_1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_WING_TID_Valid_1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_Note_2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_WING_ID_INPUT" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_WING_ID" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_WING_Account_Name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_Success_1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_Success_2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_Success_3" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_WING_ID_Valid_1" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_Submit_Notice" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Deposit_W6_Success_2_2" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="WAITING..." xml:space="preserve">
+    <value></value>
+  </data>
+</LocalLanguages>

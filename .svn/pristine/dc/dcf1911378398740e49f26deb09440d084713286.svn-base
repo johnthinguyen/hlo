@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LocalLanguages>
+  <data name="AcceptedSuccessfully">
+    <value>Accepted the invitation successfully</value>
+  </data>
+  <data name="CantSendRequestFriend">
+    <value>Can't send invitation because your quantity is full</value>
+  </data>
+  <data name="Fail">
+    <value>Fail</value>
+  </data>
+  <data name="InvalidQuantity">
+    <value>Invalid quantity</value>
+  </data>
+  <data name="NoData">
+    <value>No Data</value>
+  </data>
+  <data name="NoFriendsFound">
+    <value>No friends found</value>
+  </data>
+  <data name="PersonFriend">
+    <value>This person is already a friend</value>
+  </data>
+  <data name="RejectSuccessfully">
+    <value>Reject the invitation successfully</value>
+  </data>
+  <data name="RewardeUserInviteFriend">
+    <value>Rewarde user invite friend</value>
+  </data>
+  <data name="SentThisPerson">
+    <value>Has sent a friend invitation to this person</value>
+  </data>
+  <data name="ServerMaintenance">
+    <value>Server Maintenance</value>
+  </data>
+  <data name="Success">
+    <value>Success</value>
+  </data>
+  <data name="UnlockVip">
+    <value>Unlock when placing vip</value>
+  </data>
+  <data name="UserCannotSendInvitationsToUser">
+    <value>You cannot send invitations to yourself</value>
+  </data>
+  <data name="UserHasNoFriendInvitation">
+    <value>User has no friend invitation</value>
+  </data>
+  <data name="UserHaveFriendInvitation">
+    <value>You have {0} friend invitation!</value>
+  </data>
+  <data name="UserHaveRunOutOfRewarded">
+    <value>You have run out of rewarded</value>
+  </data>
+  <data name="UserMustInviteEnough">
+    <value>You must invite enough {0} the person who is new to receive the gift</value>
+  </data>
+  <data name="UserNotExists">
+    <value>User does not exist</value>
+  </data>
+  <data name="ContentIsNotAllow">
+    <value>Content inappropriate.</value>
+  </data>
+  <data name="Friend_FriendNotExist">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendApproveSuccess">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendError1">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendError2">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendFull">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendNoData">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendNoInvitation">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendNotYou">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendNumberInvitaion">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendRejectSuccess">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendRequiredLevel">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendSearchNoData">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendSeverError">
+    <value>
+    </value>
+  </data>
+  <data name="Friend_FriendUserNotExists">
+    <value>
+    </value>
+  </data>
+</LocalLanguages>

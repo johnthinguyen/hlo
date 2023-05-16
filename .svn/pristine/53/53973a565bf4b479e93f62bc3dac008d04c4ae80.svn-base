@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="About" xml:space="preserve">
+    <value>Khang</value>
+  </data>
+  <data name="AboutItem1" xml:space="preserve">
+    <value>Mỗi item +10 tăng số lượng thành viên tối đa của bang lên 10 người. Mỗi item +10 tăng số lượng thành viên tối đa của bang lên 10 người.</value>
+  </data>
+  <data name="AboutItem2" xml:space="preserve">
+    <value>&lt;strong&gt;你好{0} - {1} {{3}}&lt;/strong&gt;</value>
+  </data>
+  <data name="3" xml:space="preserve">
+    <value>yyyyyyyyyy</value>
+  </data>
+  <data name="asddas" xml:space="preserve">
+    <value>666666666666</value>
+  </data>
+  <data name="aaaa" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="asdasd" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="你好" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="AboutItem6" xml:space="preserve">
+    <value>b</value>
+  </data>
+  <data name="AboutItem7" xml:space="preserve">
+    <value>f</value>
+  </data>
+  <data name="AboutItem8" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="dasasdads" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Abount1" xml:space="preserve">
+    <value>666666666666</value>
+  </data>
+  <data name="INFO_USER_LASTED_ACHIEVEMENTa" xml:space="preserve">
+    <value>ပြီးခဲ့သည့်အောင်မြင်မှု</value>
+  </data>
+  <data name="INFO_USER_LASTED_ACHIEVEMENTa888" xml:space="preserve">
+    <value>ပြီးခဲ့သည့်အောင်မြင်မှု</value>
+  </data>
+  <data name="BoxEventTichCodeMailContent" xml:space="preserve">
+    <value>You have bought {0}$ successfully and get {1} code {2} to join the event "DEPOSIT NOW - RECEIVE 200.000.000 CHIPS". Time of the event: from {3} 
+&lt;a target="_blank" href="https://live777.com/forum/art-deposit-to-receive-200-000-000-chips-16-06-22-06-518"&gt;https://live777.com/forum/art-deposit-to-receive-200-000-000-chips-16-06-22-06-518&lt;/a&gt;</value>
+  </data>
+  <data name="y" xml:space="preserve">
+    <value>y</value>
+  </data>
+  <data name="test6" xml:space="preserve">
+    <value>tm</value>
+  </data>
+  <data name="testq" xml:space="preserve">
+    <value>y</value>
+  </data>
+</LocalLanguages>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LocalLanguages>
+  <data name="ActiveItem_UserHasActiveJackpot" xml:space="preserve">
+    <value>Bạn đang có 1 lượt chơi jackpot. Bạn có muốn chơi ngay ?</value>
+  </data>
+  <data name="ActiveItem_UserCanNotActiveMoreInJackpot" xml:space="preserve">
+    <value>Bạn không thể kích hoạt thêm item khi chưa sử dụng hết lượt Jackpot</value>
+  </data>
+</LocalLanguages>

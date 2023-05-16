@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LocalLanguages>
+  <data name="BoxEventScore">
+    <value>Point</value>
+  </data>
+  <data name="EventAccountFirstGift">
+    <value>Account received gift for the first time.</value>
+  </data>
+  <data name="EventAchievementBoss">
+    <value>Boss</value>
+  </data>
+  <data name="EventAchievementBossDescription">
+    <value>Destroy fish boss {0} times</value>
+  </data>
+  <data name="EventAchievementBossName">
+    <value>Destroy fish boss</value>
+  </data>
+  <data name="EventAchievementCaDo">
+    <value>Red fish</value>
+  </data>
+  <data name="EventAchievementGiftBoxDescription">
+    <value>Destroy gift box {0} times</value>
+  </data>
+  <data name="EventAchievementGiftBoxName">
+    <value>Destroy gift box</value>
+  </data>
+  <data name="EventAchievementHopQua">
+    <value>Gift box</value>
+  </data>
+  <data name="EventAchievementItem">
+    <value>Item</value>
+  </data>
+  <data name="EventAchievementItemDescription">
+    <value>Use Item {0} times</value>
+  </data>
+  <data name="EventAchievementItemName">
+    <value>Use Item</value>
+  </data>
+  <data name="EventAchievementLoginDescription">
+    <value>Login to shoot fish</value>
+  </data>
+  <data name="EventAchievementLoginName">
+    <value>Login to shoot fish</value>
+  </data>
+  <data name="EventAchievementOther">
+    <value>Other</value>
+  </data>
+  <data name="EventAchievementRedFishDescription">
+    <value>Destroy red fish {0} times</value>
+  </data>
+  <data name="EventAchievementRedFishName">
+    <value>Destroy red fish</value>
+  </data>
+  <data name="EventAchievementSkill">
+    <value>Skill</value>
+  </data>
+  <data name="EventAchievementSkillBombDescription">
+    <value>Use bomb skill {0} times</value>
+  </data>
+  <data name="EventAchievementSkillBombName">
+    <value>Use Bomb skill</value>
+  </data>
+  <data name="EventAchievementSkillDescription">
+    <value>Use skill gun {0} times</value>
+  </data>
+  <data name="EventAchievementSkillLaserDescription">
+    <value>Use laser skill gun {0} times</value>
+  </data>
+  <data name="EventAchievementSkillLaserName">
+    <value>Use laser skill gun</value>
+  </data>
+  <data name="EventAchievementSkillName">
+    <value>Use skill guns</value>
+  </data>
+  <data name="EventAchievementSkillWaveAirDescription">
+    <value>Use sound wave skill {0} times</value>
+  </data>
+  <data name="EventAchievementSkillWaveAirName">
+    <value>Use sound wave skill</value>
+  </data>
+  <data name="EventAchievementUpLevelDescription">
+    <value>Level up </value>
+  </data>
+  <data name="EventAchievementUpLevelName">
+    <value>Level up </value>
+  </data>
+  <data name="EventAchivementNotComplete">
+    <value>Incomplete achievements</value>
+  </data>
+  <data name="EventChipCounts">
+    <value>{0} CHIPS</value>
+  </data>
+  <data name="EventChooseNotAllow">
+    <value>Event select invalid key {0}</value>
+  </data>
+  <data name="EventDailyBonusLoginName">
+    <value>Day</value>
+  </data>
+  <data name="EventDontHaveNew">
+    <value>No new events </value>
+  </data>
+  <data name="EventEnoughtTimeToGift">
+    <value>Enough time to receive gift.</value>
+  </data>
+  <data name="EventGaveGiftToUser">
+    <value>You received a gift</value>
+  </data>
+  <data name="EventGetListSuccess">
+    <value>Get event list successfully</value>
+  </data>
+  <data name="EventGiftIsWrong">
+    <value>Gift is wrong</value>
+  </data>
+  <data name="EventGiftNotAvailable">
+    <value>Gift received or not available</value>
+  </data>
+  <data name="EventGiveGiftFail">
+    <value>Give gift failed. Please try again later</value>
+  </data>
+  <data name="EventGiveGiftSuccessAndCheckMail">
+    <value>Give gift successfully. Please check mail.</value>
+  </data>
+  <data name="EventMessageYouHasMoneyFromEve">
+    <value>You get {0} CHIPS from the event.</value>
+  </data>
+  <data name="EventMinChipToReceiveGift">
+    <value>Your CHIPS must be less than 5,000 to receive gift</value>
+  </data>
+  <data name="EventMissionNotComplete">
+    <value>Mission is not completed</value>
+  </data>
+  <data name="EventNoData">
+    <value>No data</value>
+  </data>
+  <data name="EventNotEnoughtTimeToGift">
+    <value>Not enough time to receive gift.</value>
+  </data>
+  <data name="EventNotExist">
+    <value>Event does not exist</value>
+  </data>
+  <data name="EventNotRunning">
+    <value>Event is suspended</value>
+  </data>
+  <data name="EventNotTimeUp">
+    <value>It is not time to gift. Please try again later</value>
+  </data>
+  <data name="EventQuicklyRegisterCannotRegisterMore">
+    <value>Cannot register to play now, please register for a new account</value>
+  </data>
+  <data name="EventReceivedGift">
+    <value>Received gift</value>
+  </data>
+  <data name="EventReceiveGiftSuccess">
+    <value>Receive gift successfully</value>
+  </data>
+  <data name="EventReceiveLevelVip">
+    <value>Receive gift for VIP level up</value>
+  </data>
+  <data name="EventSecondCount">
+    <value>{0} seconds</value>
+  </data>
+  <data name="EventSystemMaintainingChooseOther">
+    <value>System {0} is under maintenance, please choose another card type</value>
+  </data>
+  <data name="EventTitleBonusHall">
+    <value>You get {0} to your account</value>
+  </data>
+  <data name="EventTurnsCount">
+    <value>{0} turns</value>
+  </data>
+  <data name="EventTypeCardCount">
+    <value>Card {0} {1} </value>
+  </data>
+  <data name="EventUploadSuccessButFail">
+    <value>Uploaded successfully, the event update failed.</value>
+  </data>
+  <data name="EventVipAnchorPoint">
+    <value>Anchor Point</value>
+  </data>
+  <data name="EventVipDepositBonus">
+    <value>Deposit bonus</value>
+  </data>
+  <data name="EventVipExpFish">
+    <value>Shooting fish Exp</value>
+  </data>
+  <data name="EventVipNotRunning">
+    <value>Vip Not running</value>
+  </data>
+  <data name="EventVipTichLuySkill">
+    <value>Accumulated skill</value>
+  </data>
+  <data name="EventVipTransferChip">
+    <value>Transfer CHIPS</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_Faile">
+    <value>Receiving rewards is not successful</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_BonusFirst">
+    <value>Get rewarded for the first time</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_BonusInDay">
+    <value>Received reward today</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_ResetBonus">
+    <value>The date of receiving the prize is not consecutive</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_Bonus7Days">
+    <value>Receive consecutive day rewards</value>
+  </data>
+  <data name="E1806_BonusDailyDayEnum_Bonus7DaysThen">
+    <value>Receive rewards for more than 7 days</value>
+  </data>
+  <data name="BoxTopEventAppTitle">
+    <value>Top shooting events for hunting fish.</value>
+  </data>
+  <data name="EventNhapMaDuocTienCaptcha">
+    <value>Captcha</value>
+  </data>
+  <data name="EventNhapMaDuocTienCode">
+    <value>Gift code</value>
+  </data>
+  <data name="EventNhapMaDuocTienConfirm">
+    <value>CONFIRM</value>
+  </data>
+  <data name="EventNhapMaDuocTienCongra">
+    <value>You have won today. 1 nick can only CHIPS 1 gift code per day</value>
+  </data>
+  <data name="EventNhapMaDuocTienTitle">
+    <value>GIFT IMPORT CODE RECEIVING MONEY</value>
+  </data>
+  <data name="JackpotMetaDesc">
+    <value>Shoot Hot 2018 Fish. Play Directly On Website Or Mobile No Installation Required.</value>
+  </data>
+  <data name="JackpotPlay">
+    <value>PLAY JACKPOT</value>
+  </data>
+  <data name="JackpotTitle">
+    <value>Shoot Fish</value>
+  </data>
+  <data name="ListEvent3DHeading">
+    <value>Title</value>
+  </data>
+  <data name="ListEvent3DMessageNoData">
+    <value>No data</value>
+  </data>
+  <data name="ListEvent3DSubTitle">
+    <value>Gift Code</value>
+  </data>
+  <data name="ListEvent3DTitle">
+    <value>SUMMARY &lt;br /&gt; AWARDS</value>
+  </data>
+  <data name="ListEvent_Event">
+    <value>EVENT</value>
+  </data>
+  <data name="ListEvent_Gala">
+    <value>AWARDS</value>
+  </data>
+  <data name="ListEvent_GiftCode">
+    <value>Gift Code</value>
+  </data>
+  <data name="ListEvent_Heading">
+    <value>Title</value>
+  </data>
+  <data name="ListEvent_MessageNodata">
+    <value>No data</value>
+  </data>
+  <data name="ListTongKetTraoGiaiHeading">
+    <value>Title</value>
+  </data>
+  <data name="ListTongKetTraoGiaiMessageNodata">
+    <value>No data</value>
+  </data>
+  <data name="ListTongKetTraoGiaiTitle">
+    <value>Recharge - redeem reward hunting fish</value>
+  </data>
+  <data name="ShareSocialMetaDesc">
+    <value>Shoot Hot 2018 Fish. Play Directly On Website Or Mobile No Installation Required.</value>
+  </data>
+  <data name="ShareSocialShareAction">
+    <value>Share</value>
+  </data>
+  <data name="ShareSocialSharing">
+    <value>Share with friends:</value>
+  </data>
+  <data name="ShareSocialTitle">
+    <value>Share social title</value>
+  </data>
+  <data name="ShareSocial_CongraFB">
+    <value>You receive a reward from the sharing event of receiving a gift</value>
+  </data>
+  <data name="STT">
+    <value>No</value>
+  </data>
+  <data name="Top">
+    <value>TOP</value>
+  </data>
+  <data name="EventNull">
+    <value>There are no events yet</value>
+  </data>
+  <data name="CoinChange">
+    <value>Change</value>
+  </data>
+  <data name="CurrentCoin">
+    <value>Balance</value>
+  </data>
+  <data name="Errror1">
+    <value>An error occurred during the process of retrieving the list.</value>
+  </data>
+  <data name="Noted">
+    <value>Note</value>
+  </data>
+  <data name="Time">
+    <value>Time</value>
+  </data>
+  <data name="GuiTinNhan">
+    <value>Send Message</value>
+  </data>
+  <data name="HopThu">
+    <value>Mailbox</value>
+  </data>
+  <data name="KhongCoThu">
+    <value>No new mail !!!</value>
+  </data>
+  <data name="NgayGui">
+    <value>Sent date</value>
+  </data>
+  <data name="NguoiGui">
+    <value>Sender</value>
+  </data>
+  <data name="DatCuoc">
+    <value>Bet</value>
+  </data>
+  <data name="KetQua">
+    <value>Result</value>
+  </data>
+  <data name="MoTa">
+    <value>Description</value>
+  </data>
+  <data name="NgayDat">
+    <value>Date</value>
+  </data>
+  <data name="Trat">
+    <value>Miss</value>
+  </data>
+  <data name="Trung">
+    <value>Winning</value>
+  </data>
+  <data name="Message">
+    <value>Message</value>
+  </data>
+  <data name="GiftCodeValidation1">
+    <value>The code you entered is incorrect</value>
+  </data>
+  <data name="GiftCodeValidation2">
+    <value>Today you got a reward. 1 nick can only receive 1 gift code during the day</value>
+  </data>
+  <data name="GiftCodeValidation3">
+    <value>Used GiftCode</value>
+  </data>
+  <data name="GiftCodeValidation4">
+    <value>The GiftCode you entered is incorrect</value>
+  </data>
+  <data name="GiftCodeValidation5">
+    <value>You have been awarded {0} CHIPS. Win event Enter the money code. 1 nick can only win 1 gift code in a day.</value>
+  </data>
+  <data name="GiftCodeValidation6">
+    <value>GiftCode is invalid</value>
+  </data>
+  <data name="GiftCodeValidation7">
+    <value>GiftCode does not exist</value>
+  </data>
+  <data name="GiftCodeValidation8">
+    <value>GiftCode has been locked</value>
+  </data>
+  <data name="GiftCodeValidation9">
+    <value>Plus CHIPS failed</value>
+  </data>
+  <data name="GiftCodeLabel">
+    <value>GiftCode</value>
+  </data>
+  <data name="GiftCodeLabelPH">
+    <value>Enter GiftCode</value>
+  </data>
+  <data name="GiftCodeReceive">
+    <value>Receive</value>
+  </data>
+  <data name="DailyQuest_01_Day">
+    <value>Daily Quest</value>
+  </data>
+  <data name="DailyQuest_Spin_Slot_{X}_Time">
+    <value>Spin slot {0} time(s)</value>
+  </data>
+  <data name="DailyQuest_Collect_Ads_{X}_Time">
+    <value>Collect chips for watch ads {0} time(s)</value>
+  </data>
+  <data name="DailyQuest_BigWin_{X}_Time">
+    <value>Won BigWin {0} time(s)</value>
+  </data>
+  <data name="DailyQuest_Shot_{X}_Bullet">
+    <value>Shot {0} bullet(s) in fishing game</value>
+  </data>
+  <data name="DailyQuest_Not_Running">
+    <value>Daily Quest is not running</value>
+  </data>
+  <data name="DailyQuest_Contribute_{X}_Point">
+    <value>Earn {0} point(s)</value>
+  </data>
+  <data name="DailyQuest_Receive_Fail">
+    <value>Failed to receive rewards</value>
+  </data>
+  <data name="DailyQuest_Receive_Infor_NotMatch">
+    <value>The information is invalid or you have received a reward</value>
+  </data>
+  <data name="Daily_Quest_Contribute_Value_Invalid">
+    <value>Accumulated value is invalid</value>
+  </data>
+  <data name="Daily_Quest_Mission_Not_Config">
+    <value>Daily quest are not configuring this quest</value>
+  </data>
+  <data name="Daily_Quest_Not_Running">
+    <value>Daily Quest is not running</value>
+  </data>
+  <data name="SpinBonus_NoSpin">
+    <value>No turn to play</value>
+  </data>
+  <data name="SpinBonus_NoItem">
+    <value>Reward list has run out</value>
+  </data>
+  <data name="SpinBonus_NoSpinHasNotUse">
+    <value>Run out of turns</value>
+  </data>
+  <data name="Deposit_Promotion_Mail_Title">
+    <value>ប្រម៉ូតសីន - Deposit Promotion</value>
+  </data>
+  <data name="Bonus_Wheel_Mail_Content">
+    <value>អ្នកទើបទទួលបាន {0} ការបង្វិលកងសំណាង ចូលលេងភ្លាម!
+You have received {0} turns BONUS WHEEL</value>
+  </data>
+  <data name="Bonus_Mega_Spin_Mail_Content">
+    <value>អ្នកទទួលបាន {0} CHIPS BONUS ដើម្បីលេង Mega Spin.
+You recieved {0} CHIPS BONUS to play Mega Spin game. Play Now!!!</value>
+  </data>
+  <data name="ScreenCaptureGame_UserMaxInDay">
+    <value>Exceeded the number of allowed times, up to {0} / day</value>
+  </data>
+  <data name="ScreenCaptureGame_UserNextTime">
+    <value>Operation is too fast, please wait {0} minutes to resubmit</value>
+  </data>
+  <data name="ScreenCaptureGame_DeviceMaxInDay">
+    <value>Exceeded the number of allowed times, up to {0} / day</value>
+  </data>
+  <data name="ScreenCaptureGame_DeviceNextTime">
+    <value>Operation is too fast, please wait {0} minutes to resubmit</value>
+  </data>
+  <data name="ScreenCaptureGame_UploadFail">
+    <value>Upload failed</value>
+  </data>
+  <data name="KhuyenMaiNapGoldThecao">
+    <value>Deposit bonus</value>
+  </data>
+  <data name="LuckyTIDNumber_Title">
+    <value>LUCKY TID NUMBER - X2 YOUR WALLET</value>
+  </data>
+  <data name="LuckyTIDNumber_Content">
+    <value>You just deposited {0} for the event  Lucky TID number - X2 your wallet.
+TID {1} ID GAME {2} - the last number of ID GAME and TID number are not even/odd number. So you don't get the amount X2 to your wallet.
+Better luck next time!</value>
+  </data>
+  <data name="LuckyTIDNumber_Title_Win">
+    <value>Congratulations on winning the game LUCKY TID NUMBER - X2 Your Wallet</value>
+  </data>
+  <data name="LuckyTIDNumber_Content_Win">
+    <value>Admin transfers {0} you received and the winning amounts {1} (minus 2% fee). Good luck to you and continue to get X2 amounts to your wallet!</value>
+  </data>
+  <data name="EventVipAccountNoVip">
+    <value>
+    </value>
+  </data>
+  <data name="EventOverMaxViewLimit">
+    <value>
+    </value>
+  </data>
+  <data name="Today">
+    <value>
+    </value>
+  </data>
+  <data name="BoxEventNapXuTichCode">
+    <value>
+    </value>
+  </data>
+  <data name="VQMM_WithDrawErrorMess">
+    <value>
+    </value>
+  </data>
+  <data name="VQMM_WithDrawMessAward">
+    <value>
+    </value>
+  </data>
+  <data name="VQMM_WithDraw_RequestSuccess">
+    <value>
+    </value>
+  </data>
+  <data name="E2001_PlayGameTichCode_CodeLabel">
+    <value>
+    </value>
+  </data>
+  <data name="E2001_PlayGameTichCode_GameLabel">
+    <value>
+    </value>
+  </data>
+  <data name="HistoryDepositGetCodeEventChipsTitle">
+    <value>
+    </value>
+  </data>
+  <data name="E2004_BonusSharePost_UserHaveBonus">
+    <value>
+    </value>
+  </data>
+  <data name="E2004_BonusSharePost_ShareSuccess">
+    <value>
+    </value>
+  </data>
+  <data name="E2005_InvalidUser">
+    <value>
+    </value>
+  </data>
+  <data name="E2005_Title">
+    <value>
+    </value>
+  </data>
+  <data name="E2004_MailTitle">
+    <value>
+    </value>
+  </data>
+  <data name="E2004_MailContent">
+    <value>
+    </value>
+  </data>
+  <data name="E2004_ShareBanner">
+    <value>
+    </value>
+  </data>
+  <data name="E2004_Hashtag">
+    <value>
+    </value>
+  </data>
+  <data name="E2004_Title">
+    <value>
+    </value>
+  </data>
+  <data name="EventCodeRunOut">
+    <value>
+    </value>
+  </data>
+  <data name="EventCodeCreateFail">
+    <value>
+    </value>
+  </data>
+  <data name="ResxEventCalendar">
+    <value>
+    </value>
+  </data>
+  <data name="Code_Event_PlayGame">
+    <value>
+    </value>
+  </data>
+</LocalLanguages>

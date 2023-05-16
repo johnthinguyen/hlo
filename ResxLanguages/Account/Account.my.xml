@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="BoxEventTichCodeMailTitle" xml:space="preserve">
+        <value>test</value>
+    </data>
+  <data name="UserNameInvalit4" xml:space="preserve">
+        <value>Username already exists</value>
+    </data>
+  <data name="RegisterBouns" xml:space="preserve">
+    <value>Congratulation for successfully register! Admin will give you {0} CHIPS to play gamesTEST</value>
+  </data>
+  <data name="RegisterBounsTitle" xml:space="preserve">
+    <value>Congratulation for successfully register! </value>
+	</data>
+  <data name="Level_LevelUp" xml:space="preserve">
+    <value>Level up successfully</value>
+  </data>
+  <data name="Level_LogPointSuccess" xml:space="preserve">
+    <value>	Store up point level successfully </value>
+  </data>
+  <data name="Level_LogPointError" xml:space="preserve">
+    <value>Fail to store up point level</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigListGameText" xml:space="preserve">
+    <value>You need to reach level {0}</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigBanCaRoomText" xml:space="preserve">
+    <value>You need to reach level {0}</value>
+  </data>
+  <data name="Level_DescriptionUnlockGame" xml:space="preserve">
+    <value>Congratulation! You have unlocked the game {0}</value>
+  </data>
+  <data name="UpdateInfoSuccess" xml:space="preserve">
+        <value>Successfully updated</value>
+    </data>
+  <data name="EmailExists" xml:space="preserve">
+        <value>This e-mail is already taken</value>
+    </data>
+  <data name="ValidationPhone2" xml:space="preserve">
+        <value>Phone number already in use</value>
+    </data>
+  <data name="ErrorMessValidation7" xml:space="preserve">
+        <value>Invalid phone number.</value>
+    </data>
+  <data name="ValidationDisplayName6" xml:space="preserve">
+    <value>The display name already exists</value>
+  </data>
+  <data name="ValidationLogin12" xml:space="preserve">
+    <value>Account does not exist</value>
+  </data>
+  <data name="Reason_538" xml:space="preserve">
+    <value>ដកPi Pay</value>
+  </data>
+  <data name="gifts_code_mail_title" xml:space="preserve">
+    <value>សូមស្វាគមន៍វិបផតថលហ្គេម អនឡាយ win8 គួឧ្យមានទំនុកចិត្ត - 
+Welcome to the most trusted game online WIN8</value>
+  </data>
+  <data name="gifts_code_mail_content" xml:space="preserve">
+    <value>
+អ្នកទទួលបាន {0} CHIPS សំរាប់ចូលរួមលេងហ្គេម Win888 ពីគេហទំព័រ &lt;a href="http://nagagamestudio.com" target="_blank" &gt;nagagamestudio.com&lt;/a&gt; និងកាដូជាច្រើនទៀតកំពុងរង់ចាំអ្នក។ -
+You receive {0} CHIPS to play game WIN8 from page &lt;a href="http://nagagamestudio.com" target="_blank"&gt;nagagamestudio.com&lt;/a&gt; and many other gifts are waiting for you.
+</value>
+  </data>
+  <data name="FacebookLoginNewError" xml:space="preserve">
+    <value>လော့ဂ်အင်၀င်ရောက်မှု မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ အကူအညီအတွက်  Customer ၀န်ဆောင်မှုထံသို့ ဆက်သွယ်ပါ။</value>
+  </data>
+  <data name="Reason_CTV_blockAcc" xml:space="preserve">
+    <value>သင့်ကို TEANG LEN ဂိမ်း၌လိမ်လည်လှည့်ဖျားပြီးကစားသည့် မသက်ာသူကစားသမားဖြစ်​သောကြောင့် လော့ခ်ခတ်ထားသည် အက်မင်မှမနက် ၁၀နာရီအထိသင့်အကောင့်ကိုလော့ခ်ခတ်ထားပြီး ပြန်လည် စစ်ဆေးပါလိမ့်မည် မည်သည့်ပြသာနာအခက်အခဲမဆို ပိုမိုသိရှိရန် အတွက် ကျွန်ုပ်တို့ရဲ့ ဝန်ဆောင်မှုသို့ ဆက်သွယ်ပါ</value>
+  </data>
+  <data name="SystemMaintenance" xml:space="preserve">
+    <value>ဗဟိုစနစ်သည်ထိန်းသိမ်းပြုပြင်နေဆဲဖြစ်သည် , ကျေးဇူးပြု၍ထပ်မံ ကြိုးစားပါ</value>
+  </data>
+  <data name="VerifyAccountNotify" xml:space="preserve">
+    <value>1.000.000 ချစ်ပ်များကို လက်ခံရရှိရန် ဤလင့်ခ် &lt;a href='{0}' target='_blank'&gt;{0}&lt;/a&gt; ကို လိုက်နာခြင်းဖြင့် သင့်အကောင့် အဆင့် 2 ကို အတည်ပြုပါ။  စစ်ဆေးခြင်းလုပ်ငန်းစဉ်သည် 48 နာရီအတွင်းပြီးစီးပါလိမ့်မည်။</value>
+  </data>
+  <data name="VerifyEmailTitle" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="registerV3_Registration" xml:space="preserve">
+    <value>မှတ်ပုံတင်သည်</value>
+  </data>
+  <data name="registerV3_Support" xml:space="preserve">
+    <value>ပံ့ပိုးမှု</value>
+  </data>
+  <data name="registerV3_Other_way_to_login" xml:space="preserve">
+    <value>လော့ခ်အင်ဝင်ရောက်ရန်အခြားနည်းလမ်း</value>
+  </data>
+  <data name="AcceptAward" xml:space="preserve">
+    <value>Mag-browse ng mga application ng reward</value>
+  </data>
+</LocalLanguages>

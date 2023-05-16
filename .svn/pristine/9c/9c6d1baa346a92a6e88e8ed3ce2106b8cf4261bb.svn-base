@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="BoxEventTichCodeMailTitle" xml:space="preserve">
+        <value>test</value>
+    </data>
+  <data name="UserNameInvalit4" xml:space="preserve">
+        <value>Username already exists</value>
+    </data>
+  <data name="RegisterBouns" xml:space="preserve">
+    <value>祝贺成功注册！管理员会给你{0} CHIPS来玩游戏TESt</value>
+  </data>
+  <data name="RegisterBounsTitle" xml:space="preserve">
+    <value>祝賀成功註冊！</value>
+	</data>
+  <data name="Level_LevelUp" xml:space="preserve">
+    <value>你已经升级了</value>
+  </data>
+  <data name="Level_LogPointSuccess" xml:space="preserve">
+    <value>成功累积积分水平</value>
+  </data>
+  <data name="Level_LogPointError" xml:space="preserve">
+    <value>未能获得等级积分</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigListGameText" xml:space="preserve">
+    <value>你需要达到{0}级</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigBanCaRoomText" xml:space="preserve">
+    <value>你需要达到{0}级</value>
+  </data>
+  <data name="Level_DescriptionUnlockGame" xml:space="preserve">
+    <value>恭喜解锁游戏{0}</value>
+  </data>
+  <data name="UpdateInfoSuccess" xml:space="preserve">
+        <value>成功更新信息</value>
+    </data>
+  <data name="EmailExists" xml:space="preserve">
+        <value>该E-mail已经采取</value>
+    </data>
+  <data name="ValidationPhone2" xml:space="preserve">
+        <value>电话号码已被使用</value>
+    </data>
+  <data name="ErrorMessValidation7" xml:space="preserve">
+        <value>电话号码无效。</value>
+    </data>
+  <data name="ValidationDisplayName6" xml:space="preserve">
+    <value>显示名称已存在</value>
+  </data>
+  <data name="ValidationLogin12" xml:space="preserve">
+    <value>帐户不存在</value>
+  </data>
+  <data name="Reason_538" xml:space="preserve">
+    <value>撤 Pi Pay</value>
+  </data>
+  <data name="gifts_code_mail_title" xml:space="preserve">
+    <value>Welcome to the most trusted game online WIN8</value>
+  </data>
+  <data name="gifts_code_mail_content" xml:space="preserve">
+    <value>You receive {0} CHIPS to play game WIN8 from page &lt;a href="http://nagagamestudio.com/" target="_blank"&gt;nagagamestudio.com&lt;/a&gt; and many other gifts are waiting for you.
+</value>
+  </data>
+  <data name="FacebookLoginNewError" xml:space="preserve">
+    <value>Login failed, please contact customer service for supporting</value>
+  </data>
+  <data name="Reason_CTV_blockAcc" xml:space="preserve">
+    <value>You are locked because of suspicion of cheating in TEANG LEN, admin will check again - your account will be locked until 10am. Any questions please contact customer service for more details</value>
+  </data>
+  <data name="SystemMaintenance" xml:space="preserve">
+    <value>系统正在维护中，请重试。</value>
+  </data>
+  <data name="VerifyAccountNotify" xml:space="preserve">
+    <value>Please verify your account level 2 by following this link &lt;a href='{0}' target='_blank'&gt;{0} &lt;/a&gt; to receive 1.000.000 chips. The checking process will be completed within 48 hours</value>
+  </data>
+  <data name="VerifyEmailTitle" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="registerV3_Registration" xml:space="preserve">
+    <value>Registration</value>
+  </data>
+  <data name="registerV3_Support" xml:space="preserve">
+    <value>SUPPORT</value>
+  </data>
+  <data name="registerV3_Other_way_to_login" xml:space="preserve">
+    <value>Other way to login</value>
+  </data>
+  <data name="AcceptAward" xml:space="preserve">
+    <value>Mag-browse ng mga application ng reward</value>
+  </data>
+</LocalLanguages>

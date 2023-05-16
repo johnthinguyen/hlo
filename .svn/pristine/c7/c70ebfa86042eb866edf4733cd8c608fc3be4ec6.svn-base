@@ -1,0 +1,2847 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLanguages>
+  <data name="INFO_USER_LASTED_ACHIEVEMENT">
+    <value>NAGTAGGAL NA MGA ACHIEVEMENTS</value>
+  </data>
+  <data name="INFO_USER_CHANGE_PASSWORD">
+    <value>PALITAN ANG PASSWORD</value>
+  </data>
+  <data name="INFO_USER_UPDATE_INFO">
+    <value>I-UPDATE ANG IMPORMASYON</value>
+  </data>
+  <data name="INFO_USER_COPY">
+    <value>KOPYA</value>
+  </data>
+  <data name="NeedMoreVP">
+    <value>Kailangan ng higit pang {0} VP</value>
+  </data>
+  <data name="BUY_NOW">
+    <value>Bumili ka na ngayon</value>
+  </data>
+  <data name="ListHistoryCoin_No">
+    <value>Huwag</value>
+  </data>
+  <data name="ListHistoryCoin_Balance">
+    <value>Balanse</value>
+  </data>
+  <data name="ListHistoryCoin_ChangeChips">
+    <value>Baguhin ang CHIPS</value>
+  </data>
+  <data name="ListHistoryCoin_Time">
+    <value>Oras</value>
+  </data>
+  <data name="ListHistoryCoin_Note">
+    <value>Tandaan</value>
+  </data>
+  <data name="BoxEventTichCodeMailTitle">
+    <value>test</value>
+  </data>
+  <data name="About">
+    <value>Ipakilala</value>
+  </data>
+  <data name="AboutItem1">
+    <value>Ang bawat +10 item ay nagdaragdag sa maximum na bilang ng mga miyembro ng estado sa 10.</value>
+  </data>
+  <data name="AboutItem2">
+    <value>Buhay ng istante: permanente.</value>
+  </data>
+  <data name="AboutItem3">
+    <value>Halimbawa: antas 4 ng estado ang maximum na bilang ng mga miyembro ay 50. Bumili ng 1 item +10 ang maximum na bilang ng mga miyembro ay magiging 60.</value>
+  </data>
+  <data name="AcceptAward">
+    <value>Mag-browse ng mga application ng reward</value>
+  </data>
+  <data name="AcceptGuild">
+    <value>Mangyaring sumali sa estado</value>
+  </data>
+  <data name="AcceptImgType">
+    <value>Tanggapin lamang ang mga larawang jpg, png, gif.</value>
+  </data>
+  <data name="AcceptRule">
+    <value>Tanggapin ang mga tuntunin</value>
+  </data>
+  <data name="AcceptRules">
+    <value>Mangyaring basahin at tanggapin ang mga tuntunin ng ABCNET</value>
+  </data>
+  <data name="AccMTopError">
+    <value>Mali ang MTop account.</value>
+  </data>
+  <data name="AccountFb">
+    <value>FACEBOOK ACCOUNT</value>
+  </data>
+  <data name="AccountHasUpdatedBefore">
+    <value>Na-update na dati ang iyong account</value>
+  </data>
+  <data name="AccountNoExist">
+    <value>Walang account</value>
+  </data>
+  <data name="AccountReceivedFriendInvalid">
+    <value>Ang account na tumatanggap ng hiling na kaibigan ay hindi wasto</value>
+  </data>
+  <data name="AccountRequestFriendInvalid">
+    <value>Hindi wastong kahilingan sa pagsusumite ng account</value>
+  </data>
+  <data name="AccountUsed">
+    <value>Ginagamit na ang account. Mangyaring pumili ng ibang pangalan.</value>
+  </data>
+  <data name="AccountWeb">
+    <value>WEB ACCOUNT</value>
+  </data>
+  <data name="AccoutEnoughGold">
+    <value>Ang iyong pangunahing account ay hindi sapat na Manalo upang ilipat</value>
+  </data>
+  <data name="AccVnKashError">
+    <value>Ang VnKash account ay hindi tama.</value>
+  </data>
+  <data name="AccWingError">
+    <value>Wing account ay hindi tama.</value>
+  </data>
+  <data name="Agency">
+    <value>AHENSIYA</value>
+  </data>
+  <data name="And">
+    <value>at</value>
+  </data>
+  <data name="AssCoin">
+    <value>Panalo akumulasyon:</value>
+  </data>
+  <data name="Asset">
+    <value>Asset</value>
+  </data>
+  <data name="Avatar">
+    <value>Avatar</value>
+  </data>
+  <data name="AwardActivityGuild">
+    <value>MGA REWARD SA SOCIAL ACTIVITY</value>
+  </data>
+  <data name="BackToTop">
+    <value>Bumalik</value>
+  </data>
+  <data name="BanNickNote">
+    <value>Naka-lock ang iyong account &lt;strong&gt;{0} &lt;/strong&gt; araw, mula &lt;strong&gt; {1} &lt;/strong&gt; hanggang &lt;strong&gt; {2} &lt;/strong&gt;. Dahilan: &lt;strong&gt; {3} &lt;/strong&gt;. &lt;br/&gt; Anumang mga katanungan mangyaring makipag-ugnayan sa online na suporta para sa mga sagot.</value>
+  </data>
+  <data name="BanNickShowPopup">
+    <value>Naka-lock ang iyong account</value>
+  </data>
+  <data name="BigGuild">
+    <value>MALAKING GRUPOñ</value>
+  </data>
+  <data name="Birthday">
+    <value>Kaarawan:</value>
+  </data>
+  <data name="BirthdayInvalid">
+    <value>Di-wastong petsa ng kapanganakan</value>
+  </data>
+  <data name="BlackFriday">
+    <value>Pangyayari sa Black Friday</value>
+  </data>
+  <data name="BlockAccContactCS">
+    <value>Na-lock ang iyong account. Mangyaring makipag-ugnayan sa pangangalaga sa customer</value>
+  </data>
+  <data name="BlockAccTransferTo">
+    <value>Ang account na gusto mong ilipat ay kasalukuyang naka-lock. Mangyaring makipag-ugnayan sa Customer Service</value>
+  </data>
+  <data name="BlockComment">
+    <value>Ikaw ay pinagbawalan mula sa talakayan.</value>
+  </data>
+  <data name="BlockTranferGold">
+    <value>Ang iyong account ay naka-lock sa Win</value>
+  </data>
+  <data name="BongBong">
+    <value>Mga lobo</value>
+  </data>
+  <data name="BuildingOffline">
+    <value>Offline ang punong-tanggapan</value>
+  </data>
+  <data name="ButtonDongY">
+    <value>Sumang-ayon</value>
+  </data>
+  <data name="ButtonLogin">
+    <value>Mag log in</value>
+  </data>
+  <data name="ButtonTuChoi">
+    <value>Tanggihan</value>
+  </data>
+  <data name="BuyGoldFail">
+    <value>Nabigo ang pagbili, pakisubukang muli sa ibang pagkakataon</value>
+  </data>
+  <data name="BuySuccWithGold">
+    <value>Matagumpay kang nakabili gamit ang Win number</value>
+  </data>
+  <data name="CanChangeNickNotRegMobile">
+    <value>Matagumpay kang nakabili gamit ang Win number</value>
+  </data>
+  <data name="Captcha">
+    <value>Captcha</value>
+  </data>
+  <data name="CaptchaNotNull">
+    <value>Ilagay ang confirmation code</value>
+  </data>
+  <data name="Card">
+    <value>GASGAS NG BARAHA</value>
+  </data>
+  <data name="CardInvalid">
+    <value>Di-wastong impormasyon ng card, pakisubukang muli ...</value>
+  </data>
+  <data name="CardValue">
+    <value>Halaga ng mukha ng card (USD)</value>
+  </data>
+  <data name="ChangeAvatar">
+    <value>Baguhin ang Avatar</value>
+  </data>
+  <data name="ChangePass">
+    <value>Palitan ANG password</value>
+  </data>
+  <data name="ChangePassFail">
+    <value>Kumpirmahin na nabigo ang pagbabago ng password, pakisubukang muli sa ibang pagkakataon!</value>
+  </data>
+  <data name="ChangePassSuccess">
+    <value>Matagumpay na baguhin ang iyong password, maaari kang mag-login gamit ang isang bagong password!</value>
+  </data>
+  <data name="ChangeXu">
+    <value>Baguhin</value>
+  </data>
+  <data name="Charater">
+    <value>mga karakter</value>
+  </data>
+  <data name="Chart">
+    <value>Tsart</value>
+  </data>
+  <data name="Chat">
+    <value>Makipag-chat sa mga kaibigan</value>
+  </data>
+  <data name="ChatAll">
+    <value>mundo</value>
+  </data>
+  <data name="CheckEmailOrderResetPassword">
+    <value>Pakisuri ang iyong email upang makatanggap ng bagong password</value>
+  </data>
+  <data name="ChoseCard">
+    <value>uri ng baraha</value>
+  </data>
+  <data name="ChoseCardToExchange">
+    <value>Mangyaring piliin ang uri ng card na babaguhin</value>
+  </data>
+  <data name="ChoseCmtDel">
+    <value>Kailangan mong pumili ng komentong tatanggalin.</value>
+  </data>
+  <data name="ChoseMemberGuild">
+    <value>Mangyaring pumili muna ng isang miyembro</value>
+  </data>
+  <data name="ChoseOnlyOneUser">
+    <value>Ang bawat user ay maaari lamang lumitaw nang isang beses sa listahan ng Win transfer.</value>
+  </data>
+  <data name="ChoseType">
+    <value>Pumili ng carrier</value>
+  </data>
+  <data name="Click">
+    <value>Mangyaring pindutin ang pindutan ng pagkumpirma upang makumpleto ang pag-upload ng banner</value>
+  </data>
+  <data name="CoinHistoryErrorConfirm">
+    <value>Gustong magsumite ng kahilingan sa pagkumpirma?</value>
+  </data>
+  <data name="CoinHistoryErrorContent">
+    <value>Natanggap namin ang iyong kahilingan. Mangyaring maghintay.</value>
+  </data>
+  <data name="CoinHistoryErrorRequested">
+    <value>Hiling</value>
+  </data>
+  <data name="Colm2D">
+    <value>2D na hanay</value>
+  </data>
+  <data name="Comment">
+    <value>COMMENT</value>
+  </data>
+  <data name="ConfirmExclude">
+    <value>Gusto mo bang paalisin</value>
+  </data>
+  <data name="ConfirmPass">
+    <value>Kumpirmahin ang password</value>
+  </data>
+  <data name="ConsequenceDisplayNameNotCorrect">
+    <value>Ang display name na "lumabag sa paraan ng pagbibigay ng pangalan ay pansamantalang ila-lock at mangangailangan ng bagong pagpapalit ng pangalan</value>
+  </data>
+  <data name="ContactCustomerCare">
+    <value>Mangyaring makipag-ugnayan sa Customer Service para sa tulong</value>
+  </data>
+  <data name="ContentIsNull">
+    <value>Walang nakitang nilalaman</value>
+  </data>
+  <data name="Coppyright">
+    <value>COPYRIGHT © 2018 ABCNET - MGA TUNTUNIN NG SERBISYO - PRIVACY</value>
+  </data>
+  <data name="CreateAccount">
+    <value>Lumikha ng Account</value>
+  </data>
+  <data name="CreateAccSucc">
+    <value>Matagumpay na nagawa ang account</value>
+  </data>
+  <data name="CreateComment">
+    <value>Pagtalakay sa Pagsulat</value>
+  </data>
+  <data name="CreateDate">
+    <value>Pagtatag:</value>
+  </data>
+  <data name="CreateDay">
+    <value>Petsa ng Pagpaparehistro:</value>
+  </data>
+  <data name="CreateDeputyGuild">
+    <value>Deputy ng estado</value>
+  </data>
+  <data name="CreateGuild">
+    <value>REHISTRO SA MGA GROUPO</value>
+  </data>
+  <data name="CreateGuildPlay">
+    <value>Lumikha ng Grupo - Mga Online na Card</value>
+  </data>
+  <data name="CreatePassLv2">
+    <value>Nabigo ang paggawa ng level 2 na password</value>
+  </data>
+  <data name="CreateViFail">
+    <value>Nabigo ang paglikha ng Wallet</value>
+  </data>
+  <data name="CurrentXu">
+    <value>Kasalukuyang CHIPS</value>
+  </data>
+  <data name="DataNull">
+    <value>Mangyaring sumulat ng mga patakaran</value>
+  </data>
+  <data name="DateCreate">
+    <value>Pagtatag</value>
+  </data>
+  <data name="DateTo">
+    <value>Hanggang ngayon</value>
+  </data>
+  <data name="DateWin">
+    <value>Araw ng Tagumpay</value>
+  </data>
+  <data name="DaysAllowKickUser">
+    <value>Ang kasalukuyang petsa ay hindi pinapayagan ang sipa</value>
+  </data>
+  <data name="DealCancelSucc">
+    <value>Matagumpay na nakansela ang transaksyon!</value>
+  </data>
+  <data name="DealFail">
+    <value>Nabigo ang transaksyon</value>
+  </data>
+  <data name="DealFailTryAgain">
+    <value>Nabigo ang transaksyon, pakisubukang muli</value>
+  </data>
+  <data name="DealInvalid">
+    <value>Ang transaksyon ay hindi wasto</value>
+  </data>
+  <data name="DealSuccess">
+    <value>Matagumpay na transaksyon!</value>
+  </data>
+  <data name="DelBannerSucc">
+    <value>Matagumpay na alisin ang banner.</value>
+  </data>
+  <data name="DelCmt">
+    <value>Tanggalin ang Komento</value>
+  </data>
+  <data name="DelectSuccess">
+    <value>Matagumpay na alisin ang banner</value>
+  </data>
+  <data name="Delete">
+    <value>Tanggalin</value>
+  </data>
+  <data name="DeleteComment">
+    <value>Tanggalin ang Talakayan</value>
+  </data>
+  <data name="DepositExchange">
+    <value>Recharge card - kunin ang reward</value>
+  </data>
+  <data name="DepositGoldFailReason">
+    <value>Nabigo ang pag-load ng panalo dahil sa</value>
+  </data>
+  <data name="DepositNganLuong">
+    <value>I-load ang halaga ng panalo</value>
+  </data>
+  <data name="DepositSuccess">
+    <value>Matagumpay mong na-load</value>
+  </data>
+  <data name="Detail">
+    <value>Detalye</value>
+  </data>
+  <data name="DialogKeyboard">
+    <value>Virtual keyboard</value>
+  </data>
+  <data name="DieuKhoan">
+    <value>Mga Tuntunin ng Paggamit</value>
+  </data>
+  <data name="DisplayNameComplex">
+    <value>Ang pangalan ay nagpapakita ng hindi bababa sa 6 na mga character, hanggang sa 32 mga character at kasama lamang ang mga titik mula sa a-z, A-Z at 0-9.</value>
+  </data>
+  <data name="DisplayNameError">
+    <value>Ang display name ay hindi maaaring pareho sa Username</value>
+  </data>
+  <data name="DisplayNameExist">
+    <value>Umiiral na ang display name</value>
+  </data>
+  <data name="DisplayNameInvalid">
+    <value>Di-wastong display name</value>
+  </data>
+  <data name="DisplayNameLengthMin6">
+    <value>Dapat na hindi bababa sa 6 na character ang display name</value>
+  </data>
+  <data name="DisplayNameNotBadWord">
+    <value>Huwag gumamit ng mga nakakasakit, mapang-uyam at nababagabag na mga salita</value>
+  </data>
+  <data name="DisplayNameNotNull">
+    <value>pPakipili ang "Display name" para sa iyong sarili</value>
+  </data>
+  <data name="DisplayNameRule">
+    <value>Ang display name ay dapat na hindi bababa sa 3 hanggang 15 character ang haba, kasama lamang ang mga character mula sa a-z, A-Z at 0-9</value>
+  </data>
+  <data name="DoiGold">
+    <value>Baguhin ang panalo</value>
+  </data>
+  <data name="DoiThuong">
+    <value>CHANGE BONUS - ISANG POSITIBO NA PAGBABAGO NG MGA REGALO</value>
+  </data>
+  <data name="DontExchangeSMS">
+    <value>Hindi mapalitan dahil ginagamit ang password ng SMS</value>
+  </data>
+  <data name="EditProfile">
+    <value>I-edit ang impormasyo</value>
+  </data>
+  <data name="EmailExists">
+    <value>Ang e-mail na ito ay nakuha na</value>
+  </data>
+  <data name="EmailNotExists">
+    <value>Walang email</value>
+  </data>
+  <data name="EmailWrongFormat">
+    <value>Maling format ang inilagay ng email.</value>
+  </data>
+  <data name="ErrorCmt">
+    <value>Error sa komento</value>
+  </data>
+  <data name="ErrorDeposit">
+    <value>Nagkaroon ng error sa paglo-load ng Win. Mangyaring makipag-ugnayan sa Customer Service para sa suporta!</value>
+  </data>
+  <data name="ErrorInfo">
+    <value>Hindi ma-authenticate ang impormasyon</value>
+  </data>
+  <data name="ErrorProcess">
+    <value>Error habang pinoproseso.</value>
+  </data>
+  <data name="ErrorSytem">
+    <value>Error sa system. Mangyaring makipag-ugnayan sa administrator</value>
+  </data>
+  <data name="EventPage">
+    <value>PANGYAYARI</value>
+  </data>
+  <data name="Exchange">
+    <value>PALITAN ANG BONUS</value>
+  </data>
+  <data name="ExchangeCardSucc1">
+    <value>Matagumpay mong napalitan ang card &lt;br /&gt;</value>
+  </data>
+  <data name="ExchangeCardSucc2">
+    <value>Serial: &lt;strong style = 'color: green'&gt;</value>
+  </data>
+  <data name="ExchangeCardSucc3">
+    <value>&lt;/br&gt; Card code: &lt;strong style = 'color: green'&gt;</value>
+  </data>
+  <data name="ExchangeCardSucc4">
+    <value>&lt;/br&gt; Maaari kang pumunta sa mailbox upang suriin ang card code.</value>
+  </data>
+  <data name="ExchangeItem">
+    <value>Binabati kita sa matagumpay na pagbabago ng mga item:</value>
+  </data>
+  <data name="ExchangeNow">
+    <value>Magbago ka na</value>
+  </data>
+  <data name="ExchangeSuccess">
+    <value>Matagumpay mong napalitan ang card n Serial:</value>
+  </data>
+  <data name="ExchangeSuccess1">
+    <value>Mag-click ka sa nilalaman ng card code upang hawakan ng 3 segundo upang maisagawa ang kopya ng character.</value>
+  </data>
+  <data name="ExchangeSuccess2">
+    <value></value>
+  </data>
+  <data name="ExpNo">
+    <value>Mga naipon na puntos:</value>
+  </data>
+  <data name="ExpPoint">
+    <value>Exp. Mga puntos</value>
+  </data>
+  <data name="FacebookFooterCopyright">
+    <value>Copyright © 2018 ABCNET Ang pinakamahusay na komunidad ng paglalaro sa Cambodia</value>
+  </data>
+  <data name="FacebookFooterEmail">
+    <value>Email: hotro@gmail.com</value>
+  </data>
+  <data name="FacebookFooterHotLine">
+    <value>Hotline: {0}</value>
+  </data>
+  <data name="FacebookHeaderDoi">
+    <value>I-redeem ang Mga Gantimpala</value>
+  </data>
+  <data name="FacebookHeaderHuongDan">
+    <value>Gabay</value>
+  </data>
+  <data name="FacebookLayoutOgDescription">
+    <value>Webgame card game online - Samahan ng mga mahilig sa online gaming</value>
+  </data>
+  <data name="FacebookLayoutOgTitle">
+    <value>Maglaro ng mga card online, maglaro ng mga card online nang libre</value>
+  </data>
+  <data name="FacebookLayoutTitle">
+    <value>Maglaro ng mga card online, maglaro ng mga card online nang libre</value>
+  </data>
+  <data name="FacebookLayoutTwitterDescription">
+    <value>Webgame card game online - Samahan ng mga mahilig sa online gaming</value>
+  </data>
+  <data name="FacebookLayoutTwitterTitle">
+    <value>Maglaro ng mga card online, maglaro ng mga card online nang libre</value>
+  </data>
+  <data name="Fail">
+    <value>Nabigo</value>
+  </data>
+  <data name="FailMaxUserTranferGold">
+    <value>Nabigo ang Win switch. Ang maximum na bilang ng mga user ng Win sa araw na {0} ay: {1} Win.</value>
+  </data>
+  <data name="FailTimesToTranfer">
+    <value>Nabigo ang paglipat ng Panalo sa manlalarong {0} dahil sa pagtatapos ng paglipat ng mga pangkat ng Win</value>
+  </data>
+  <data name="FailTranferGoldTryAgain">
+    <value>Nabigo ang Win switch. Subukang muli mamaya</value>
+  </data>
+  <data name="FailUpdateInfo">
+    <value>Nabigo ang pag-update ng impormasyon. Subukang muli mamaya.</value>
+  </data>
+  <data name="FailUserPlayingGame">
+    <value>Nabigo ang paglipat ng Win sa player na {0} dahil nilalaro ng user ang laro</value>
+  </data>
+  <data name="FAQs">
+    <value>Mga FAQ</value>
+  </data>
+  <data name="FAQsMobileEmty">
+    <value>Ina-update ang impormasyon</value>
+  </data>
+  <data name="FAQsMobileLink">
+    <value>GABAY</value>
+  </data>
+  <data name="FeatureMaintance">
+    <value>Ang kasalukuyang function ay pinapanatili. Pakisubukang muli sa</value>
+  </data>
+  <data name="Female">
+    <value>Babae</value>
+  </data>
+  <data name="FileCheck">
+    <value>Mag-upload lamang ng mga larawan sa jpg, png, gif na format.</value>
+  </data>
+  <data name="FinalAward">
+    <value>Buod at gantimpala</value>
+  </data>
+  <data name="Finance">
+    <value>Pananalapi ng estado</value>
+  </data>
+  <data name="Footer">
+    <value>ABCNET © 2018</value>
+  </data>
+  <data name="FormRegisterAccount">
+    <value>Mag-sign up gamit ang isang account</value>
+  </data>
+  <data name="FormRegisterTitle">
+    <value>Direktang pagpaparehistro</value>
+  </data>
+  <data name="Forum">
+    <value>PAGTITIPON</value>
+  </data>
+  <data name="From">
+    <value>Mula sa</value>
+  </data>
+  <data name="GameBai">
+    <value>Baraha</value>
+  </data>
+  <data name="Gender">
+    <value>Kasarian:</value>
+  </data>
+  <data name="GeneralGuild">
+    <value>Master synthesis ng estado</value>
+  </data>
+  <data name="GiftToReaching">
+    <value>GINTO ANG GANTIMPALA</value>
+  </data>
+  <data name="Gold">
+    <value>manalo</value>
+  </data>
+  <data name="GoldAccuDay">
+    <value>Panalo ng akumulasyon / araw:</value>
+  </data>
+  <data name="GoldAccuMount">
+    <value>Panalo ng akumulasyon / buwan:</value>
+  </data>
+  <data name="GoldBorrow">
+    <value>Manalo ng mga aplikante</value>
+  </data>
+  <data name="GoldGiftLevelUp">
+    <value>Maharlika Ginto ang award</value>
+  </data>
+  <data name="GoldGiftLogin">
+    <value>Ang mga rekord ng ginto ay mahuhusay</value>
+  </data>
+  <data name="GoldGiftVip">
+    <value>Ipinapakita ng ginto ang kaarawan ng VIP</value>
+  </data>
+  <data name="GoldGuild">
+    <value>Manalo ng mga grupo</value>
+  </data>
+  <data name="GoldInvalidToTranfer">
+    <value>Ang numero ng Panalo ay hindi wasto kapag ipinasa sa user na {0}.</value>
+  </data>
+  <data name="GoldNumberInterger">
+    <value>Ang numero ng panalo ay dapat na isang integer</value>
+  </data>
+  <data name="GoldOwner">
+    <value>Manalo ng host state</value>
+  </data>
+  <data name="Guide">
+    <value>Gabay</value>
+  </data>
+  <data name="GuidePlay">
+    <value>Mga tagubilin sa paglalaro</value>
+  </data>
+  <data name="GuidePlayGameLink">
+    <value>GABAY</value>
+  </data>
+  <data name="Guild">
+    <value>Grupo</value>
+  </data>
+  <data name="GuildAccumulationMemberInfo">
+    <value>Impormasyon ng miyembro</value>
+  </data>
+  <data name="GuildAccumulationPoint">
+    <value>Mga puntos ng kontribusyon</value>
+  </data>
+  <data name="GuildCoinWillReceive">
+    <value>Inaasahan ni Win na makatanggap</value>
+  </data>
+  <data name="GuildCommentDisable">
+    <value>Pagbabawal sa komento</value>
+  </data>
+  <data name="GuildCommentDisableAsk">
+    <value>Gusto mo bang i-ban ang user na ito?</value>
+  </data>
+  <data name="GuildCommentDisabled">
+    <value>Pagbabawal</value>
+  </data>
+  <data name="GuildCreate">
+    <value>Gumawa ng malaking grupo</value>
+  </data>
+  <data name="GuildInfoAccumulationByLevel">
+    <value>Mag-ambag ng impormasyon sa antas</value>
+  </data>
+  <data name="GuildInputToSearch">
+    <value>magpasok ng pangalan ng estado upang maghanap ...</value>
+  </data>
+  <data name="GuildInviteLink">
+    <value>Mag-imbita ng miyembro ng imbitasyon</value>
+  </data>
+  <data name="GuildKickMember">
+    <value>Mga kategorya ng membership mula sa malalaking grupo</value>
+  </data>
+  <data name="GuildKickMemberAsk">
+    <value>Gusto mo bang paalisin ang mga user sa estado?</value>
+  </data>
+  <data name="GuildListUserReceiveCoin">
+    <value>Natanggap ang listahan ng miyembro</value>
+  </data>
+  <data name="GuildListUserWaiting">
+    <value>Ang iyong pangalan, mangyaring sumali sa grupo</value>
+  </data>
+  <data name="GuildMemberCount">
+    <value>Mga miyembro</value>
+  </data>
+  <data name="GuildMemberLeave">
+    <value>Gusto mo bang umalis sa estado?</value>
+  </data>
+  <data name="GuildMemberList">
+    <value>Listahan ng miyembro ng mga miyembro</value>
+  </data>
+  <data name="GuildMemberRemoveAsk">
+    <value>Sigurado ka bang gusto mong tanggalin ang miyembrong ito?</value>
+  </data>
+  <data name="GuildMemberTopPayment">
+    <value>Na-load ang mga nangungunang miyembro</value>
+  </data>
+  <data name="GuildMyGuild">
+    <value>Ang aking site</value>
+  </data>
+  <data name="GuildName">
+    <value>Pangalan ng guild</value>
+  </data>
+  <data name="GuildNewComment">
+    <value>komento.</value>
+  </data>
+  <data name="GuildNewTitle">
+    <value>BALITA at PANGYAYARI</value>
+  </data>
+  <data name="GuildNewView">
+    <value>mga pananaw.</value>
+  </data>
+  <data name="GuildNotExist">
+    <value>Ang grupo ay hindi umiiral</value>
+  </data>
+  <data name="GuildNotify">
+    <value>Pansinin</value>
+  </data>
+  <data name="GuildNotifyCreate">
+    <value>Gumawa ng notification</value>
+  </data>
+  <data name="GuildNotifyDeleteAsk">
+    <value>Sigurado ka bang gusto mong tanggalin ang napiling mensahe?</value>
+  </data>
+  <data name="GuildNotifyList">
+    <value>Listahan ng mga abiso sa estado</value>
+  </data>
+  <data name="GuildOutAsk">
+    <value>Gusto mo bang umalis sa estado?</value>
+  </data>
+  <data name="GuildOwner">
+    <value>May-ari ng grupo</value>
+  </data>
+  <data name="GuildPolicy">
+    <value>Patakaran ng grupo</value>
+  </data>
+  <data name="GuildRevenueInfo">
+    <value>Impormasyon sa kita ng estado</value>
+  </data>
+  <data name="GuildSetting">
+    <value>Pamamahala ng estado</value>
+  </data>
+  <data name="GuildTop">
+    <value>kataas-taasang Konseho</value>
+  </data>
+  <data name="GuildTopCreateNew">
+    <value>Bagong Estado</value>
+  </data>
+  <data name="GuildTopMemberAccumulation">
+    <value>Nangungunang mga istatistika ng miyembro</value>
+  </data>
+  <data name="GuildTopRich">
+    <value>Mga iminungkahing estado</value>
+  </data>
+  <data name="GuildTopSuggest">
+    <value>Iminumungkahi ng lipunan</value>
+  </data>
+  <data name="GuildTopVip">
+    <value>NANGUNGUNANG BUWAN</value>
+  </data>
+  <data name="GuildTopVipPoint">
+    <value>NANGUNGUNANG ANTAS NG PACKAGE</value>
+  </data>
+  <data name="GuildTotalAccumulation">
+    <value>Iminungkahi ng grupo ang  miyembro</value>
+  </data>
+  <data name="GuildUpdateFanpage">
+    <value>Sigurado ka bang gusto mong i-update ang LinkFanpage?</value>
+  </data>
+  <data name="GuildUpdateFanpageError">
+    <value>Di-wasto ang link ng fanpage</value>
+  </data>
+  <data name="Have">
+    <value>Oo</value>
+  </data>
+  <data name="HistoryCoin">
+    <value>Panalo sa kasaysayan</value>
+  </data>
+  <data name="HistoryCoinNote">
+    <value>Tandaan</value>
+  </data>
+  <data name="HistoryCoinTime">
+    <value>Oras</value>
+  </data>
+  <data name="HistoryJackpot">
+    <value>Nakatanggap ang kasaysayan ng JackPot</value>
+  </data>
+  <data name="HistoryMiniBossHopQua">
+    <value>History Touch Gift Box</value>
+  </data>
+  <data name="HistoryMiniBossNhan">
+    <value>Kunin ang premyo</value>
+  </data>
+  <data name="HistoryMissionBanCaIncomplete">
+    <value>Hindi pa tapos</value>
+  </data>
+  <data name="HistoryMissionBanCaProcessing">
+    <value>Isinasagawa</value>
+  </data>
+  <data name="HistoryMoney">
+    <value>Kasaysayan ng pera</value>
+  </data>
+  <data name="HistoryMoneyError">
+    <value>Kasaysayan ng Bibliya</value>
+  </data>
+  <data name="HistoryNL">
+    <value>Kasaysayan ng Siyam</value>
+  </data>
+  <data name="HistoryTranferGold">
+    <value>Kasaysayan ng Panalo</value>
+  </data>
+  <data name="HistoryXu">
+    <value>Panalo sa Kasaysayan</value>
+  </data>
+  <data name="Hobpy">
+    <value>Mga interes:</value>
+  </data>
+  <data name="HomePage">
+    <value>BAHAY</value>
+  </data>
+  <data name="HowToGetStar">
+    <value>1. Paano makarating doon?</value>
+  </data>
+  <data name="HowToGetStarAnswer">
+    <value>Maglaro lang ng laro (XT, Ù, TLMN, BTC, Mark, Sniper, Liang) kung manalo ka, pagkatapos makolekta ng system ang 5% ng halaga ng talahanayan, 1% , awtomatikong inililipat ng system ang 15% ng natitirang Panalo.</value>
+  </data>
+  <data name="HowToUseMTOP">
+    <value>Paano gamitin ang MTOP</value>
+  </data>
+  <data name="IdCardsHasNotSpecialChar">
+    <value>Ang ID card ay hindi maaaring maglaman ng mga espesyal na character</value>
+  </data>
+  <data name="IdCardsIsEmpty">
+    <value>Hindi dapat blangko ang ID card</value>
+  </data>
+  <data name="IdCardsMustNumber">
+    <value>Ang ID card ay dapat na isang numerong karakter</value>
+  </data>
+  <data name="IdNumberLength">
+    <value>I-verify ang mga titik mula 9 hanggang&gt; 12 digit</value>
+  </data>
+  <data name="IdReasonRemoveMoney">
+    <value>Id Reason minus kapag tumaya ang manlalaro</value>
+  </data>
+  <data name="ImgSize">
+    <value>Laki ng file &lt;= 500Kb.</value>
+  </data>
+  <data name="InfoCardInvalid">
+    <value>Di-wastong impormasyon ng card</value>
+  </data>
+  <data name="InfoInvalid">
+    <value>Ang impormasyon ay hindi wasto!</value>
+  </data>
+  <data name="Infor">
+    <value>Impormasyon</value>
+  </data>
+  <data name="InputAccBaoKim">
+    <value>Pakipasok ang Bao Kim account</value>
+  </data>
+  <data name="InputAccMTop">
+    <value>Pakipasok ang MTop account</value>
+  </data>
+  <data name="InputAccReceive">
+    <value>Pakilagay ang code para makatanggap ng Win</value>
+  </data>
+  <data name="InputAccTransferTo">
+    <value>Pakilagay ang winnings account</value>
+  </data>
+  <data name="InputAccVnKash">
+    <value>Mangyaring ipasok ang VnKash account.</value>
+  </data>
+  <data name="InputCapcha">
+    <value>Security code...</value>
+  </data>
+  <data name="InputCmt">
+    <value>Ipasok ang nilalaman ng talakayan.</value>
+  </data>
+  <data name="InputConfirmPassWallet">
+    <value>Kumpirmahin ang level 2 na password..</value>
+  </data>
+  <data name="InputDisplayname">
+    <value>Ilagay ang display name.</value>
+  </data>
+  <data name="InputFullName">
+    <value>Ilagay ang buong pangalan.</value>
+  </data>
+  <data name="InputGold">
+    <value>Ilagay ang numero ng panalo na gusto mong ilipat...</value>
+  </data>
+  <data name="InputIdNumber">
+    <value>Ilagay ang ID.</value>
+  </data>
+  <data name="InputIDOrUsername">
+    <value>Ilagay ang iyong account o login code.</value>
+  </data>
+  <data name="InputMessage">
+    <value>Mangyaring magpasok ng mensahe.</value>
+  </data>
+  <data name="InputNewPassWallet">
+    <value>Bagong Level 2 na Password ...</value>
+  </data>
+  <data name="InputNickName">
+    <value>Maglagay ng username</value>
+  </data>
+  <data name="InputNote">
+    <value>Mga Tala...</value>
+  </data>
+  <data name="InputPassWallet">
+    <value>Level 2 na password...</value>
+  </data>
+  <data name="InputPhoneRequire">
+    <value>Ipasok ang telepono.</value>
+  </data>
+  <data name="InputPinCard">
+    <value>Ilagay ang card code...</value>
+  </data>
+  <data name="InputRuleGuild">
+    <value>Mangyaring ipasok ang mga patakaran.</value>
+  </data>
+  <data name="InputSeri">
+    <value>Ilagay ang serial number...</value>
+  </data>
+  <data name="InputSlogan">
+    <value>Mangyaring maglagay ng slogan.</value>
+  </data>
+  <data name="Instruction">
+    <value>GABAY</value>
+  </data>
+  <data name="Introduce">
+    <value>Ipakilala mo ang iyong sarili:</value>
+  </data>
+  <data name="IntroItem">
+    <value>Tungkol sa item</value>
+  </data>
+  <data name="IntroUserVip">
+    <value>Ang mga VIP user ay may maraming impluwensya at kontribusyon sa komunidad ng ABCnet. Samakatuwid, ang mga gumagamit ng VIP ay makikinabang mula sa maraming iba't ibang mga benepisyo tulad ng mga premyong ginto, mga antas ng VIP, mga kagamitan sa ginto, mga espesyal na alok na may ginto sa pamamagitan ng mga ahente ...</value>
+  </data>
+  <data name="IntroWeb">
+    <value>Tungkol sa ABCNET</value>
+  </data>
+  <data name="IntroWeb1">
+    <value>Ang ABCNET ay isang website</value>
+  </data>
+  <data name="IntroWeb2">
+    <value>Isa sa mga nangungunang online na laro</value>
+  </data>
+  <data name="InvalidGold">
+    <value>Ang numero ng panalo ay hindi wasto</value>
+  </data>
+  <data name="InvalidSign">
+    <value>Chữ ký sai</value>
+  </data>
+  <data name="InvalidUser">
+    <value>Ang manlalarong {0} ay wala</value>
+  </data>
+  <data name="InviteFriend">
+    <value>Mag-imbita ng higit pang mga kaibigan</value>
+  </data>
+  <data name="InviteFriend1">
+    <value>kahilingang maging kaibigan.</value>
+  </data>
+  <data name="InviteFriend2">
+    <value>Mag-imbita ng higit pang mga kaibigan</value>
+  </data>
+  <data name="InviteGuild">
+    <value>Ang imbitasyon na sumali sa estado ay ipinadala sa miyembrong ito.</value>
+  </data>
+  <data name="InviteJoinGuild">
+    <value>imbitasyon na sumali sa estado.</value>
+  </data>
+  <data name="Item">
+    <value>MGA ITEM</value>
+  </data>
+  <data name="JoinGuild">
+    <value>Sumali sa estado:</value>
+  </data>
+  <data name="KCard">
+    <value>Binago ni K ang petsa</value>
+  </data>
+  <data name="Keywords">
+    <value>Bai online na laro, listahan online, laro online, laro offline</value>
+  </data>
+  <data name="KickMember">
+    <value>Simulan ang Bang</value>
+  </data>
+  <data name="LeftGuildCurrent">
+    <value>Mangyaring umalis muna sa kasalukuyang estado.</value>
+  </data>
+  <data name="LevelNo">
+    <value>Ranggo:</value>
+  </data>
+  <data name="LimitCmt10">
+    <value>Upang makilahok sa komento, ang post na kailangan mong laruin ang laro nang hindi bababa sa 10 oras.</value>
+  </data>
+  <data name="LimitTranferGold">
+    <value>Nabigo ang Win switch. Ang maximum na bilang ng mga Nanalo ng Panalo sa araw na {0} ay: {1} Manalo</value>
+  </data>
+  <data name="LimitTranferGoldInGuild">
+    <value>Maaari ka lamang maglipat mula sa 200,000 CHIPS.</value>
+  </data>
+  <data name="LimitTranferUser">
+    <value>Maaari ka lamang maglipat ng hanggang 5 tao.</value>
+  </data>
+  <data name="Line">
+    <value>kalye</value>
+  </data>
+  <data name="Listdoithe">
+    <value>Listahan ng pagbabago ng card</value>
+  </data>
+  <data name="ListExchangeCard">
+    <value>LISTAHAN NG BONUS CHANGE</value>
+  </data>
+  <data name="ListGuild">
+    <value>Listahan ng mga pangkat</value>
+  </data>
+  <data name="ListMemReGold">
+    <value>Ang listahan ng mga aplikasyon para sa mga miyembro ng Win</value>
+  </data>
+  <data name="ListSubOwner">
+    <value>LISTAHAN NG DEPARTMENTO</value>
+  </data>
+  <data name="LogicError">
+    <value>Lohikal na pagkakamali</value>
+  </data>
+  <data name="Login">
+    <value>Mag-login gamit ang ABCNET account</value>
+  </data>
+  <data name="LoginAgain">
+    <value>Mangyaring mag-log in muli</value>
+  </data>
+  <data name="LoginAgainTodo">
+    <value>Kailangan mong mag-log in muli upang maisagawa ang function na ito.</value>
+  </data>
+  <data name="LoginAgainToTranferGold">
+    <value>Mangyaring mag-login muli upang ilipat ang Win</value>
+  </data>
+  <data name="LoginBy">
+    <value>Mag-sign in gamit ang:</value>
+  </data>
+  <data name="LoginError">
+    <value>Nagkaroon ng error sa proseso ng pag-log in.</value>
+  </data>
+  <data name="LoginToCmt">
+    <value>Dapat kang naka-log in upang sumali sa talakayan.</value>
+  </data>
+  <data name="LoginToDepositMoney">
+    <value>Mangyaring mag-login upang i-load ang panalo</value>
+  </data>
+  <data name="LoginToDo">
+    <value>Mangyaring mag-login upang maisagawa ang pagpapaandar na ito.</value>
+  </data>
+  <data name="LogOut">
+    <value>Mag Log out</value>
+  </data>
+  <data name="MakeFriendAlreadyFriend">
+    <value>Makipagkaibigan</value>
+  </data>
+  <data name="MakeFriendAlreadyRequestFriend">
+    <value>Ikaw ay hiniling ng User na ito</value>
+  </data>
+  <data name="MakeFriendCanNotMakeFriendYourSelf">
+    <value>Hindi marunong makipagkaibigan sa sarili mo</value>
+  </data>
+  <data name="Male">
+    <value>lalaki</value>
+  </data>
+  <data name="ManageGuild">
+    <value>PANGASIWAAN ANG GROUPO</value>
+  </data>
+  <data name="ManagementGuild">
+    <value>Pamamahala ng estado</value>
+  </data>
+  <data name="Member">
+    <value>LISTAHAN NG MAG-AARAL</value>
+  </data>
+  <data name="MessageContentRequired">
+    <value>Mangyaring magpasok ng mensahe</value>
+  </data>
+  <data name="MiniGameBVKC">
+    <value>Protektahan ang mga diamante</value>
+  </data>
+  <data name="MiniGameBvkcOrient">
+    <value>Ginagamit sa kaso ng mga portrait</value>
+  </data>
+  <data name="MiniGameChayTronGau">
+    <value>Tumatakas na Oso</value>
+  </data>
+  <data name="MiniGameChemTraiCay">
+    <value>Pagputol ng prutas</value>
+  </data>
+  <data name="MiniGameChimMoVit">
+    <value>Duckbill</value>
+  </data>
+  <data name="MiniGameChonHuong">
+    <value>Piliin ang Tamang Direksyon</value>
+  </data>
+  <data name="MiniGameCoTuong">
+    <value>Chess</value>
+  </data>
+  <data name="MiniGameCoTuongEasy">
+    <value>Madaling Antas</value>
+  </data>
+  <data name="MiniGameCoTuongHard">
+    <value>Antas ng kahirapan</value>
+  </data>
+  <data name="MiniGameCoTuongRedo">
+    <value>Pumunta ka</value>
+  </data>
+  <data name="MiniGameCoTuongType">
+    <value>Estilo ng chessboard</value>
+  </data>
+  <data name="MiniGameDoMin">
+    <value>Deteksyon ng minahan</value>
+  </data>
+  <data name="MiniGameEchNhay">
+    <value>Tumalon na Palaka</value>
+  </data>
+  <data name="MiniGameGiuThanh">
+    <value>Panatilihin ang Lungsod</value>
+  </data>
+  <data name="MiniGameKeoBong">
+    <value>mundo ng na bulak kendi</value>
+  </data>
+  <data name="MiniGameLolita">
+    <value>Lolita na sasakyang panghimpapawid</value>
+  </data>
+  <data name="MiniGameMario">
+    <value>Super Mario</value>
+  </data>
+  <data name="MiniGameMayBay">
+    <value>Mga sasakyang panghimpapawid ng labanan</value>
+  </data>
+  <data name="MiniGameNhanhMat">
+    <value>Mabilis na mata</value>
+  </data>
+  <data name="MiniGameNhaySieuCao">
+    <value>Pinakamataas na Talon</value>
+  </data>
+  <data name="MiniGameNoiDiem">
+    <value>Pagtutugma ng Katulad na Mga Punto</value>
+  </data>
+  <data name="MiniGameNongTrai">
+    <value>sakahan</value>
+  </data>
+  <data name="MiniGameRong">
+    <value>Batang dragon at kayamanan</value>
+  </data>
+  <data name="MiniGameSocNhay">
+    <value>Tumalon si Squirrel</value>
+  </data>
+  <data name="MiniGameTungTrung">
+    <value>Mga itlog</value>
+  </data>
+  <data name="MinLenghtUser">
+    <value>Ang username ay naglalaman ng hindi bababa sa 3 character, kabilang ang mga character mula sa a-z A-Z at 0-9</value>
+  </data>
+  <data name="MobileCommentUserMustLogin">
+    <value>Dapat kang naka-log in upang sumali sa talakayan.</value>
+  </data>
+  <data name="MobileCommentUserMustPlay">
+    <value>Upang makilahok sa komento, ang post na kailangan mong laruin ang laro nang hindi bababa sa 10 oras.</value>
+  </data>
+  <data name="MobileCommentUserSend">
+    <value>IPADALA</value>
+  </data>
+  <data name="MobileCommentUserTitle">
+    <value>Magkomento</value>
+  </data>
+  <data name="MobileCreateGuildbtn">
+    <value>GUMAWA NG GRUPO</value>
+  </data>
+  <data name="MobileCreateGuildRule">
+    <value>Tingnan ang mga panuntunan para sa paggawa ng grupo &gt;&gt;</value>
+  </data>
+  <data name="MobileGuildDetailChatTitle">
+    <value>Pag-usapan</value>
+  </data>
+  <data name="MobileGuildDetailRuleFinish">
+    <value>Nakumpleto</value>
+  </data>
+  <data name="MobileGuildDetailRuleTitle">
+    <value>Panuntunan</value>
+  </data>
+  <data name="MobileGuildDetailTopMember">
+    <value>Mga nangungunang miyembro</value>
+  </data>
+  <data name="MobileGuildDetailUserJoin">
+    <value>User na sumali</value>
+  </data>
+  <data name="MobileGuildDetailUserNull">
+    <value>Wala pang miyembro ang nag-apply</value>
+  </data>
+  <data name="MobileGuildMemberVipFromDay">
+    <value>Buhat noon</value>
+  </data>
+  <data name="MobileGuildMemberVipMember">
+    <value>Miyembro</value>
+  </data>
+  <data name="MobileGuildMemberVipPoint">
+    <value>Punto</value>
+  </data>
+  <data name="MobileGuildMemberVipSearch">
+    <value>Tingnan mo</value>
+  </data>
+  <data name="MobileGuildMemberVipTime">
+    <value>Oras</value>
+  </data>
+  <data name="MoneyMultipleOf">
+    <value>Ang numero ng panalo ay dapat na isang multiple ng</value>
+  </data>
+  <data name="MoneyTranferInvalid">
+    <value>Ang bilang ng mga win transfer ay hindi wasto.</value>
+  </data>
+  <data name="MoneyWin">
+    <value>Panalo panalo</value>
+  </data>
+  <data name="More">
+    <value>TINGNAN PA</value>
+  </data>
+  <data name="MostVibrant">
+    <value>Ang Pinakamahusay</value>
+  </data>
+  <data name="MostView">
+    <value>Karamihan sa view</value>
+  </data>
+  <data name="MTK">
+    <value>MTK</value>
+  </data>
+  <data name="MTKIsNotNull">
+    <value>Ilagay ang MTK o Palayaw ...</value>
+  </data>
+  <data name="MustLogin1">
+    <value>Kailangan mo</value>
+  </data>
+  <data name="MustLogin2">
+    <value>mag log in</value>
+  </data>
+  <data name="MustLogin3">
+    <value>Bago sa talakayan.</value>
+  </data>
+  <data name="Name">
+    <value>Pangalan:</value>
+  </data>
+  <data name="NameGuild">
+    <value>Pangalan ng grupo</value>
+  </data>
+  <data name="NameGuildMaxLenght">
+    <value>Ang pangalan ng grupo ay hindi lalampas sa 30 character.</value>
+  </data>
+  <data name="NameGuildNotEmpty">
+    <value>Hindi maaaring walang laman ang pangalan ng grupo.</value>
+  </data>
+  <data name="NewEvent">
+    <value>BAGONG KAGANAPAN</value>
+  </data>
+  <data name="NewGuild">
+    <value>BAGO</value>
+  </data>
+  <data name="NewMessage">
+    <value>bagong mail.</value>
+  </data>
+  <data name="NewPass">
+    <value>Bagong PIN code</value>
+  </data>
+  <data name="NewPasswordSameOldPassword">
+    <value>Ang mga bagong password at lumang password ay pareho</value>
+  </data>
+  <data name="News">
+    <value>BALITA</value>
+  </data>
+  <data name="NewsEvent">
+    <value>Balita - Mga Kaganapan</value>
+  </data>
+  <data name="NichnameEqual">
+    <value>Ang display name ay hindi maaaring pareho sa username.</value>
+  </data>
+  <data name="Nick">
+    <value>Palayaw</value>
+  </data>
+  <data name="NickMail">
+    <value>Nick / Email</value>
+  </data>
+  <data name="NickNameChangedBefore">
+    <value>Nagpalit ka ng palayaw noon</value>
+  </data>
+  <data name="NicknameContent">
+    <value>Ang username ay hindi dapat magkaroon ng mga accent at mga espesyal na character.</value>
+  </data>
+  <data name="NickNameExist">
+    <value>Ginagamit na ang username na ito, mangyaring pumili ng ibang pangalan..</value>
+  </data>
+  <data name="NickNameLeght">
+    <value>Ang username ay hindi bababa sa 3 character at hanggang 15 character.</value>
+  </data>
+  <data name="NicknameNull">
+    <value>Ang username ay naglalaman ng mga pangalan na hindi pinapayagan.</value>
+  </data>
+  <data name="NickNameRule">
+    <value>Ang user name ay hindi bababa sa 3 hanggang 15 character ang haba, isama lamang ang mga titik mula sa a-z, A-Z at 0-9.</value>
+  </data>
+  <data name="NickNameWrong">
+    <value>Mali ang username</value>
+  </data>
+  <data name="NickOrPasswordIsWrong">
+    <value>Mali ang username o password</value>
+  </data>
+  <data name="No">
+    <value>Kanselahin</value>
+  </data>
+  <data name="NoAllowEditArticle">
+    <value>Wala kang pahintulot na i-edit ang artikulong ito!</value>
+  </data>
+  <data name="NoData">
+    <value>Walang data</value>
+  </data>
+  <data name="NoEnoughGold">
+    <value>Ang mga numero ng panalo ay hindi sapat upang ilipat.</value>
+  </data>
+  <data name="NoEnoughGoldToUser">
+    <value>Wala kang sapat na Panalo upang ilipat sa manlalarong {0}.</value>
+  </data>
+  <data name="NoGuild">
+    <value>Hindi ka pa sumali sa estado, hindi maaaring ilipat ang Win Assembly</value>
+  </data>
+  <data name="NoLogin">
+    <value>HUWAG MAG-LOG IN</value>
+  </data>
+  <data name="NoRequestMakeFriend">
+    <value>Kasalukuyan kang walang mga kahilingan sa kaibigan</value>
+  </data>
+  <data name="NotAwarded">
+    <value>Hindi pa nag-donate</value>
+  </data>
+  <data name="Note">
+    <value>Tandaan</value>
+  </data>
+  <data name="NotExchangeCard">
+    <value>Hindi ma-redeem ang mga reward. Mangyaring makipag-ugnayan sa pangangalaga sa customer</value>
+  </data>
+  <data name="NotExchangeFromMTop">
+    <value>Hindi ma-redeem ang mga reward sa MTop. Mangyaring makipag-ugnayan sa pangangalaga sa customer</value>
+  </data>
+  <data name="NotExchangeFromVnKash">
+    <value>Hindi ma-redeem ang mga reward sa VnKash. Mangyaring makipag-ugnayan sa pangangalaga sa customer</value>
+  </data>
+  <data name="NotExitReward">
+    <value>Wala pang kahilingan para sa Win</value>
+  </data>
+  <data name="NotFindNewArticle">
+    <value>Walang nakitang panimulang artikulo</value>
+  </data>
+  <data name="NotGrantTodo">
+    <value>Wala kang karapatang gawin ang function na ito.</value>
+  </data>
+  <data name="Notify">
+    <value>Abiso</value>
+  </data>
+  <data name="NotifyError">
+    <value>Maling mensahe</value>
+  </data>
+  <data name="NotInGuild">
+    <value>Hindi pa sumali sa estado</value>
+  </data>
+  <data name="NotTranferForYour">
+    <value>Hindi mo maililipat ang Win sa iyong sarili.</value>
+  </data>
+  <data name="NotTransfer">
+    <value>Wala kang pahintulot na ilipat ang Win!</value>
+  </data>
+  <data name="NotTransferCoinCauseMaxReceived">
+    <value>Hindi mailipat ang Win dahil nakatanggap ang user ng maximum na {0} Win ngayon</value>
+  </data>
+  <data name="NotTransferForThisUser">
+    <value>Hindi mo maililipat ang Win sa User na ito!</value>
+  </data>
+  <data name="NumberAccept">
+    <value>Bilang ng mga pagsusuri</value>
+  </data>
+  <data name="NumberMember">
+    <value>Mga miyembro</value>
+  </data>
+  <data name="NumMember">
+    <value>Miyembro:</value>
+  </data>
+  <data name="OAuNewAcc">
+    <value>Bagong account</value>
+  </data>
+  <data name="OAuPlayerNotActive">
+    <value>Hindi nag-activate ang player</value>
+  </data>
+  <data name="OAuSecurityCode">
+    <value>Security Code</value>
+  </data>
+  <data name="OAuSMSCode">
+    <value>SMS security code</value>
+  </data>
+  <data name="OldPass">
+    <value>Lumang password</value>
+  </data>
+  <data name="OneVipPoint">
+    <value>Ikaw ay ipinagbabawal na pag-usapan ang bawat 10,000 VND = 1 VIP point pagdating mo</value>
+  </data>
+  <data name="OnlineFree">
+    <value>online nang libre</value>
+  </data>
+  <data name="OnlinePlayGameCard">
+    <value>online - Maglaro ng mga Baraha na pañaro</value>
+  </data>
+  <data name="OnlyAdminChange">
+    <value>Ang admin lang ang makakapagbago ng content</value>
+  </data>
+  <data name="OutGameToTranferGold">
+    <value>Hindi mailipat si Win. Dapat kang umalis sa laro</value>
+  </data>
+  <data name="OwnerReviewReward">
+    <value>Inaprubahan ng host state ang reward</value>
+  </data>
+  <data name="OwnerSub">
+    <value>BANG VICE</value>
+  </data>
+  <data name="PageNoExist">
+    <value>Walang nakitang mga pahina</value>
+  </data>
+  <data name="PanNickForever">
+    <value>Permanenteng naka-lock ang iyong account. Dahilan: &lt;strong&gt; {0} &lt;/strong&gt;. &lt;br/&gt; Anumang mga katanungan mangyaring makipag-ugnayan sa online na suporta para sa mga sagot.</value>
+  </data>
+  <data name="PanNickForeverShowPopup">
+    <value>Permanenteng naka-lock ang iyong account</value>
+  </data>
+  <data name="PassDifferent">
+    <value>Ang password ay hindi pareho</value>
+  </data>
+  <data name="PassLenghtMax">
+    <value>Ang password ay dapat na max</value>
+  </data>
+  <data name="PassLenghtMin">
+    <value>Ang password ay dapat na hindi bababa sa</value>
+  </data>
+  <data name="PassLv2Wrong">
+    <value>Ang password sa level 2 ay hindi tama</value>
+  </data>
+  <data name="PassMinLenght">
+    <value>Dapat maglaman ang password ng hindi bababa sa 6 na character</value>
+  </data>
+  <data name="PassNewWeak">
+    <value>Masyadong maikli ang bagong password</value>
+  </data>
+  <data name="PassOldWrong">
+    <value>Hindi tama ang lumang password. Mangyaring makipag-ugnayan sa suporta kung hindi mo matandaan ang iyong password.</value>
+  </data>
+  <data name="PassRule">
+    <value>Ang {0} ay dapat magkaroon ng hindi bababa sa {1} mga character ..</value>
+  </data>
+  <data name="PassSMSTimeout">
+    <value>Ang password ng SMS ay nag-expire na</value>
+  </data>
+  <data name="PassTooLong">
+    <value>Masyadong mahaba ang password</value>
+  </data>
+  <data name="PassUnlockWrong">
+    <value>Hindi tama ang password</value>
+  </data>
+  <data name="PassViWrong">
+    <value>Mali ang password ng wallet</value>
+  </data>
+  <data name="Password">
+    <value>Password:</value>
+  </data>
+  <data name="PasswordIsEmpty">
+    <value>Walang laman ang password {0}</value>
+  </data>
+  <data name="PasswordNotNull">
+    <value>Ilagay ang password</value>
+  </data>
+  <data name="Personal">
+    <value>personal</value>
+  </data>
+  <data name="Personality">
+    <value>karakter:</value>
+  </data>
+  <data name="Phom">
+    <value>Phew</value>
+  </data>
+  <data name="PhoneIsRequired">
+    <value>Hindi maaaring iwanang blangko ang numero ng telepono</value>
+  </data>
+  <data name="PhoneLength">
+    <value>Ang mga numero ng telepono ay 10 o 11 digit</value>
+  </data>
+  <data name="PhoneMustNumber">
+    <value>Ang mga numero ng telepono ay 10 o 11 digit</value>
+  </data>
+  <data name="Pie2D">
+    <value>2D na singsing</value>
+  </data>
+  <data name="PinCard">
+    <value>Numero ng card</value>
+  </data>
+  <data name="PlayCardOnline">
+    <value>Maglaro ng mga Online Card6</value>
+  </data>
+  <data name="PlayerIsBlockedAcc">
+    <value>Bina-block ang account</value>
+  </data>
+  <data name="PlayerUnBlockedAcc">
+    <value>Ang mga manlalaro ay hindi naka-block na account</value>
+  </data>
+  <data name="PlayFunny">
+    <value>. Sana masaya ka sa paglalaro</value>
+  </data>
+  <data name="PlayGameMobile">
+    <value>Maglaro ng mga mobile na laro</value>
+  </data>
+  <data name="PointAccuDay">
+    <value>Mga naipon na puntos / araw:</value>
+  </data>
+  <data name="PointAccuMonth">
+    <value>Mga naipon na puntos / buwan:</value>
+  </data>
+  <data name="Policy">
+    <value>Patakaran</value>
+  </data>
+  <data name="PolicyVip">
+    <value>patakaran ng ppVIP</value>
+  </data>
+  <data name="PrescribeActivitie">
+    <value>Mga regulasyon sa pagpapatakbo</value>
+  </data>
+  <data name="Profile">
+    <value>Personal na impormasyon:</value>
+  </data>
+  <data name="ProfileBasic">
+    <value>Pangunahing impormasyon:</value>
+  </data>
+  <data name="QuantityInvalid">
+    <value>Di-wastong numero</value>
+  </data>
+  <data name="Questions">
+    <value>Mga madalas itanong</value>
+  </data>
+  <data name="RegisInMobileAccept">
+    <value>Nabasa ko at tinanggap ko ang mga tuntunin ng ABCNET</value>
+  </data>
+  <data name="RegisInMobileBtnRegis">
+    <value>Pagpaparehistro</value>
+  </data>
+  <data name="RegisInMobileConfirmPasswordPH">
+    <value>Ipasok ang password</value>
+  </data>
+  <data name="RegisInMobileDisplayname">
+    <value>Ang display name ay hindi maaaring magkapareho sa NickName, hindi bababa sa 3 character.</value>
+  </data>
+  <data name="RegisInMobileDisplaynamePH">
+    <value>Display name</value>
+  </data>
+  <data name="RegisInMobileimgCaptchaPH">
+    <value>Pagpapatunay</value>
+  </data>
+  <data name="RegisInMobilePassword">
+    <value>Dapat na hindi bababa sa 6 na character ang password.</value>
+  </data>
+  <data name="RegisInMobilePasswordPH">
+    <value>password</value>
+  </data>
+  <data name="RegisInMobileUserName">
+    <value>Ang username ay hindi bababa sa 3 character, kasama lamang ang mga titik mula sa a-z, A-Z at 0-9.</value>
+  </data>
+  <data name="RegisInMobileUserNamePH">
+    <value>Ginamit na pangalan</value>
+  </data>
+  <data name="RegisterSuccess">
+    <value>Tagumpay sa Pag-sign Up</value>
+  </data>
+  <data name="Reply">
+    <value>Sumagot</value>
+  </data>
+  <data name="Report2Month">
+    <value>Maaari ka lamang mag-statistic sa loob ng 2 buwan</value>
+  </data>
+  <data name="ReportDay">
+    <value>Mga istatistika sa araw</value>
+  </data>
+  <data name="ReportMonth">
+    <value>Mga istatistika ayon sa buwan</value>
+  </data>
+  <data name="RequestFriendUnknownStatus">
+    <value>Katayuan ng paghiling ng kaibigan không rõ</value>
+  </data>
+  <data name="ResFail">
+    <value>Nabigo ang pagpaparehistro. Subukang muli mamaya.</value>
+  </data>
+  <data name="Responsibility">
+    <value>Pananagutan</value>
+  </data>
+  <data name="ResSucc">
+    <value>Matagumpay mong nairehistro ang iyong account</value>
+  </data>
+  <data name="Reward">
+    <value>Gantimpala</value>
+  </data>
+  <data name="RightMemGuild">
+    <value>Magandang maidudulot</value>
+  </data>
+  <data name="RightOwner">
+    <value>Magandang maidudulot</value>
+  </data>
+  <data name="RuleblockAcc">
+    <value>Patakaran sa lockout ng account</value>
+  </data>
+  <data name="RuleComment">
+    <value>Upang makilahok sa komento, ang post na kailangan mong laruin ang laro nang hindi bababa sa 10 oras.</value>
+  </data>
+  <data name="RuleCreateGuild">
+    <value>MGA KONDISYON NG ESTABLISHMENT</value>
+  </data>
+  <data name="SaveGold">
+    <value>Manalo ng akumulasyon</value>
+  </data>
+  <data name="SavePoint">
+    <value>Mga naipon na puntos</value>
+  </data>
+  <data name="SaveSuccess">
+    <value>Matagumpay na nai-save.</value>
+  </data>
+  <data name="Search">
+    <value>PAGHAHANAP</value>
+  </data>
+  <data name="Search2Month">
+    <value>* Suportahan ang paghahanap sa loob ng 2 buwan</value>
+  </data>
+  <data name="SearchMember">
+    <value>Maghanap ayon sa estado ng miyembro</value>
+  </data>
+  <data name="SecurityCodeAccount">
+    <value>Ilagay ang code ng seguridad ng account</value>
+  </data>
+  <data name="SecurityCodeSMS">
+    <value>Ilagay ang SMS security code</value>
+  </data>
+  <data name="SelectImage">
+    <value>Walang napiling mga larawan.</value>
+  </data>
+  <data name="SendComment">
+    <value>Magpadala ng talakayan</value>
+  </data>
+  <data name="SendDiscuss">
+    <value>IPADALA ANG TALAKAYAN</value>
+  </data>
+  <data name="SendMail">
+    <value>Magpadala ng email</value>
+  </data>
+  <data name="Seri">
+    <value>Seri number</value>
+  </data>
+  <data name="SessionLoginOut">
+    <value>Nag-expire na ang session sa pag-log in.</value>
+  </data>
+  <data name="Show">
+    <value>Pagpapakita</value>
+  </data>
+  <data name="ShowchangeFromDate">
+    <value>Tingnan ang mga transaksyon mula sa araw</value>
+  </data>
+  <data name="SinhNhatVip">
+    <value>VIP Birthday</value>
+  </data>
+  <data name="SizeChek">
+    <value>Ang kapasidad ng larawan ay dapat na &lt;= 500Kb</value>
+  </data>
+  <data name="Start">
+    <value>Bituin:</value>
+  </data>
+  <data name="SubOwner">
+    <value>Paggawa ng deputy state - Association</value>
+  </data>
+  <data name="SubOwner1">
+    <value>DEPARTMENT 1</value>
+  </data>
+  <data name="Success">
+    <value>Tagumpay</value>
+  </data>
+  <data name="SuccesUpdate">
+    <value>Matagumpay ang pag-update!</value>
+  </data>
+  <data name="SuccesUpdateGiftXu">
+    <value>Matagumpay ang pag-update. Makakakuha ka ng {0} Panalo</value>
+  </data>
+  <data name="Support">
+    <value>Suporta</value>
+  </data>
+  <data name="Support4room">
+    <value>Suporta sa pamamagitan ng Forum</value>
+  </data>
+  <data name="SupportEmail">
+    <value>Suporta sa Email</value>
+  </data>
+  <data name="SupportOnline">
+    <value>Online na suporta</value>
+  </data>
+  <data name="SystemMaintenance">
+    <value>Nasa ilalim ng maintenance ang system, pakisubukang muli.</value>
+  </data>
+  <data name="TGBongBong">
+    <value>Bubble World</value>
+  </data>
+  <data name="ThanksUserComeback">
+    <value>Salamat {0} sa pagbabalik. Iginawad ka ng {1} Panalo sa iyong account. Bumalik sa susunod na araw upang magpatuloy sa pagtanggap ng mga reward</value>
+  </data>
+  <data name="Thongbao">
+    <value>Notification !</value>
+  </data>
+  <data name="TienLen">
+    <value>Sige lang</value>
+  </data>
+  <data name="TimeOutLogin">
+    <value>Time out. Mangyaring mag-log in muli.</value>
+  </data>
+  <data name="TokenExpired">
+    <value>Nag-expire ang pag-login</value>
+  </data>
+  <data name="TokenNotFound">
+    <value>Walang nakitang session sa pag-log in</value>
+  </data>
+  <data name="TopDongGop">
+    <value>PINAKAMATAAS NA IMPAKE</value>
+  </data>
+  <data name="TopExpByMonth">
+    <value>NANGUNGUNANG KARANASAN</value>
+  </data>
+  <data name="TopGuildTitle">
+    <value>Mga nangungunang grupo</value>
+  </data>
+  <data name="TopTichLuyTitle">
+    <value>NANGUNGUNANG ACCUMULATION</value>
+  </data>
+  <data name="TopWin">
+    <value>NANGUNGUNANG PANALO</value>
+  </data>
+  <data name="TotalAsset">
+    <value>Kabuuang asset</value>
+  </data>
+  <data name="TotalGold">
+    <value>Panalo ang Heneral</value>
+  </data>
+  <data name="TotalTimePlay">
+    <value>Kabuuang oras ng paglalaro:</value>
+  </data>
+  <data name="TouchAvatarOrderToUpdateInfo">
+    <value>Mag-click sa avatar upang i-update ang impormasyon ng proteksyon ng iyong account</value>
+  </data>
+  <data name="TranferCash">
+    <value>PALITAN ANG BARAHA NG PERA</value>
+  </data>
+  <data name="TranferGift">
+    <value>Pagpapalitan ng regalo</value>
+  </data>
+  <data name="TranferGold">
+    <value>Ilipat ang Panalo</value>
+  </data>
+  <data name="TranferGoldFail">
+    <value>Kabiguan Trading</value>
+  </data>
+  <data name="TranferGoldFromViSucc">
+    <value>Maglipat mula sa wallet patungo sa matagumpay na pangunahing account</value>
+  </data>
+  <data name="TranferGoldGuild">
+    <value>Ilipat ang mga pangkat ng Win</value>
+  </data>
+  <data name="TranferGoldOwner">
+    <value>Paglipat ng tado ng  Host</value>
+  </data>
+  <data name="TranferGoldSucc">
+    <value>Matagumpay na nailipat ang Panalo. Binawas ka</value>
+  </data>
+  <data name="TranferGoldToUser">
+    <value>Matagumpay mong nailipat ang Win sa player: {0}.</value>
+  </data>
+  <data name="TranferGoldToViSucc">
+    <value>Matagumpay na nailipat ang panalo sa wallet</value>
+  </data>
+  <data name="TranferInvalidUser">
+    <value>Nabigo ang paglipat ng Win sa player {0} dahil wala ang nagpadala</value>
+  </data>
+  <data name="TranferNotGuildLeader">
+    <value>Nabigo ang paglipat ng Win para sa user na {0} dahil ang nagpadala ay hindi ang master state</value>
+  </data>
+  <data name="TranferWalletVnkash">
+    <value>ILIPAT ANG PANALO SA VNKASH.COM</value>
+  </data>
+  <data name="TransferAccountReceivedInvalid">
+    <value>Hindi wastong account ang natanggap</value>
+  </data>
+  <data name="TransferAccountSendInvalid">
+    <value>Di-wastong paglilipat</value>
+  </data>
+  <data name="TransferBothAccountInvalid">
+    <value>Ang paglilipat ng account (tumanggap) ay hindi wasto</value>
+  </data>
+  <data name="TransferFailCauseMinCoinRequired">
+    <value>Nabigo ang Win switch. Halagang mas mababa sa {0} Panalo</value>
+  </data>
+  <data name="TryPassDifficult">
+    <value>Mangyaring pumili ng mas mahirap na password upang maprotektahan ang iyong account. Huwag pumili ng password</value>
+  </data>
+  <data name="TypeJackPot">
+    <value>Uri ng Jackpot</value>
+  </data>
+  <data name="TypeMember">
+    <value>Uri ng miyembro:</value>
+  </data>
+  <data name="TypeVip">
+    <value>Uri ng VIP</value>
+  </data>
+  <data name="Unknown">
+    <value>Hindi natukoy</value>
+  </data>
+  <data name="Update">
+    <value>I-UPDATE</value>
+  </data>
+  <data name="UpdateDay">
+    <value>Petsa ng huling pag-log in:</value>
+  </data>
+  <data name="UpdateFail">
+    <value>Nabigo ang pag-update ng impormasyon. Subukang muli mamaya.</value>
+  </data>
+  <data name="UpdateInfo1">
+    <value>1. Dapat i-update ang malinaw na personal na impormasyon upang ang Lupon ng Pamamahala ay maaaring makipag-ugnayan at tumulong sa pamamahala ng estado. &lt;br&gt;</value>
+  </data>
+  <data name="UpdateInfo2">
+    <value>2. Gastos sa pagtatatag ng estado: &lt;maikling panahon&gt; 1,000,000,000 CHIPS (1 bilyong CHIPS) &lt;/maikling panahon&gt; &lt;br&gt;</value>
+  </data>
+  <data name="UpdateInfo3">
+    <value>3. Ang pinakamababang bilang ng mga miyembro sa &lt;maikling panahon&gt; 3 araw &lt;/maikling panahon&gt; pagkatapos ng pagtatatag ay &lt;span&gt; 6 na miyembro &lt;/maikling panahon&gt; (kabilang ang May-ari ng Estado)</value>
+  </data>
+  <data name="UpdateProfileReGold">
+    <value>Manalo ng Gantimpala. Paki-update ang iyong account para makakuha ng higit pang Panalo!</value>
+  </data>
+  <data name="UpdateRuleSucc">
+    <value>Ang matagumpay na pag-update ng mga patakaran</value>
+  </data>
+  <data name="UpdateSuccess">
+    <value>Matagumpay na na-update ang password</value>
+  </data>
+  <data name="UpLoad">
+    <value>MAG-UPLOAD NG MGA LARAWAN</value>
+  </data>
+  <data name="UploadAvatarFailed">
+    <value>Nabigo ang pag-upload ng awatara</value>
+  </data>
+  <data name="UploadBannerSucc">
+    <value>Matagumpay na naglagay ng pangunahin.</value>
+  </data>
+  <data name="UploadFile">
+    <value>- Tanggapin lamang ang mga larawan ng buntot: &lt;maikling panahon&gt; gif, png, jpg &lt;/maikling panahon&gt;. Mas maliit na laki &lt;maikling panahon&gt; 500KB &lt;/maikling panahon&gt;. &lt;br&gt;</value>
+  </data>
+  <data name="UploadImgSucc">
+    <value>Mag-upload ng matagumpay na awatara.</value>
+  </data>
+  <data name="UploadPixel">
+    <value>- Inirerekomendang mag-upload ng mga larawang may &lt;maikling panahon&gt; 1: 1 &lt;/maikling panahon&gt; ratio at pinakamababang &lt;maikling panahon&gt; 150x150 &lt;/maikling panahon&gt; pixels.</value>
+  </data>
+  <data name="UserInfoBC3DBoss">
+    <value>Boss ng isda</value>
+  </data>
+  <data name="UserInfoBC3DGift">
+    <value>Kahon ng mga gantimpala</value>
+  </data>
+  <data name="UserInfoBC3DInfo">
+    <value>Impormasyon</value>
+  </data>
+  <data name="UserInfoBC3DMission">
+    <value>Misyon</value>
+  </data>
+  <data name="UserInfoBC3DNewPass">
+    <value>Bagong ispili kowd</value>
+  </data>
+  <data name="UserInfoBC3DOldPass">
+    <value>Lumang aspili</value>
+  </data>
+  <data name="UserInfoBC3DThanhTich">
+    <value>Kapasidad</value>
+  </data>
+  <data name="UserInvalidFormat">
+    <value>Mali ang impormasyon ng account</value>
+  </data>
+  <data name="UserIsNotActivePopupContent">
+    <value>&lt;div klasi = 'teksto-gitna'&gt; Mangyaring i-activate ang account &lt;/div&gt;</value>
+  </data>
+  <data name="UserIsNotActivePopupTitle">
+    <value>Hindi pa naa-activate ang account</value>
+  </data>
+  <data name="UserLoginFailsPopupContent">
+    <value>&lt;div class = 'text-center'&gt; Nabigo ang pag-login. Subukang muli mamaya. &lt;/div&gt;</value>
+  </data>
+  <data name="UserLoginFailsPopupTitle">
+    <value>Hindi tagumpay ang pag-login</value>
+  </data>
+  <data name="UsernameInvalid">
+    <value>Di-wastong pangalan ng account</value>
+  </data>
+  <data name="UsernameIsExist">
+    <value>Umiiral na ang username na ito.</value>
+  </data>
+  <data name="UserNotCompareDis">
+    <value>Ang display name ay hindi maaaring maging palayaw ng hindi bababa sa 3 character</value>
+  </data>
+  <data name="UserNotInGuild">
+    <value>Ang manlalarong {0} ay wala sa grupo</value>
+  </data>
+  <data name="UserReceiveInboxInvalid">
+    <value>Hindi wastong account ang natanggap</value>
+  </data>
+  <data name="UserSendInboxInvalid">
+    <value>Hindi wastong account ang ipinadala</value>
+  </data>
+  <data name="UserTransferGold">
+    <value>paglipat ng panalo</value>
+  </data>
+  <data name="UserTransferxu">
+    <value>paglipat ng panalo</value>
+  </data>
+  <data name="ValidateCaptcha">
+    <value>Mali ang kumpirmasyon ng kowd.</value>
+  </data>
+  <data name="ValidateDisplayName">
+    <value>Ang display name ay naglalaman ng mga pangalan na hindi pinapayagan.</value>
+  </data>
+  <data name="ValidateDisplayNameLeght">
+    <value>Ipakita ang pangalan ng hindi bababa sa 3 hanggang 15 character.</value>
+  </data>
+  <data name="ValidateDisplayNameNull">
+    <value>Hindi maaaring maglaman ng mga puwang ang display name.</value>
+  </data>
+  <data name="ValidatEmail">
+    <value>Di-wastong email</value>
+  </data>
+  <data name="ValidateNickName">
+    <value>Hindi maaaring maglaman ng mga puwang ang username.</value>
+  </data>
+  <data name="ValidatePass">
+    <value>Ang password ay naglalaman ng mga character na hindi pinapayagan.</value>
+  </data>
+  <data name="ValidatId">
+    <value>Di-wastong kard ng pagkakakilanlan</value>
+  </data>
+  <data name="ValidatPhone">
+    <value>di-wastong numero ng telepono</value>
+  </data>
+  <data name="Value">
+    <value>Halaga</value>
+  </data>
+  <data name="VersionNotMatch">
+    <value>Hindi mabasa ang larawan. Ang error na ito ay maaaring sanhi ng mas lumang bersyon ng browser. Mangyaring makipag-ugnayan sa admin para sa suporta.</value>
+  </data>
+  <data name="ViBlocked">
+    <value>Naka-lock ang portomeneda</value>
+  </data>
+  <data name="ViEnoghGoldToTranfer">
+    <value>Ang iyong wallet ay hindi sapat na Manalo upang ilipat</value>
+  </data>
+  <data name="ViewGold">
+    <value>Tingnan ang Panalo, naipon na mga puntos</value>
+  </data>
+  <data name="ViewGoldAndPoint">
+    <value>Manalo ng akumulasyon at pagtatabing puntos</value>
+  </data>
+  <data name="ViNotExist">
+    <value>Ang iyong Portomeneda ay hindi pa nagagawa</value>
+  </data>
+  <data name="VipPointNum">
+    <value>punto ng vip</value>
+  </data>
+  <data name="Wait2Minute">
+    <value>at maghintay ng 2 minuto!</value>
+  </data>
+  <data name="Wallet">
+    <value>portomeneda:</value>
+  </data>
+  <data name="WalletBank">
+    <value>portomeneda sa Bangko</value>
+  </data>
+  <data name="WantToMakeFriend">
+    <value>Gusto ni {0} na makipagkaibigan sa iyo</value>
+  </data>
+  <data name="Welcome">
+    <value>Maligayang pagdating sa komunidad ng ABCNET</value>
+  </data>
+  <data name="WelcomeNewUser">
+    <value>Iginawad ka ng {0} na mga bonus na manalo. I-click mo ang avatar icon (avatar) para i-update ang ACCOUNT SECURITY INFORMATION para makatanggap ng mas maraming Panalo!</value>
+  </data>
+  <data name="WelcomeNewUserHasEventUpdateInfo">
+    <value>Iginawad ka ng {0} na mga bonus na manalo. Mag-click ka sa icon ng avatar (avatar) para i-update ang ACCOUNT SECURITY INFORMATION para makatanggap ng {1} Win!</value>
+  </data>
+  <data name="WhatCanStarDo">
+    <value>2. Para saan ito ginagamit?</value>
+  </data>
+  <data name="WhatCanStarDoAnswer">
+    <value>Sa anuman ito, maaari mo itong palitan sa: &lt;br /&gt;  &lt;div style = " padding-left: 10px; "&gt;  + Change to phone scratch card &lt;br /&gt; + Change star to Win, 1 star = 1 Win rate &lt;/div&gt; Kung mayroon kang anumang mga tanong o mungkahi, mangyaring makipag-ugnayan sa online na suporta o magpadala ng sulat sa support@ABCNET para sa mga sagot.</value>
+  </data>
+  <data name="WhoBuy">
+    <value>Panalo ka ay:</value>
+  </data>
+  <data name="XiTo">
+    <value>elemento ng poker</value>
+  </data>
+  <data name="XuReceive">
+    <value>Panalo ang natanggap</value>
+  </data>
+  <data name="XuToAccount">
+    <value>Manalo sa account!</value>
+  </data>
+  <data name="YouAward">
+    <value>. Ginawaran ka</value>
+  </data>
+  <data name="MessageEmpty">
+    <value>Walang mail</value>
+  </data>
+  <data name="MessageNotFound">
+    <value>Ang mensahe ay wala</value>
+  </data>
+  <data name="EmailNotEmpty">
+    <value>Hindi dapat blangko ang email</value>
+  </data>
+  <data name="NotEnoughLevelTranferGold">
+    <value>Wala kang sapat na antas ng laro para ilipat ang Win</value>
+  </data>
+  <data name="FeedbackTitleRequire">
+    <value>Ang pamagat ay dapat maglaman ng mga character o numero</value>
+  </data>
+  <data name="FeedbackContentRequire">
+    <value>Ang nilalaman ay dapat na may hindi bababa sa 10 mga character</value>
+  </data>
+  <data name="FeedbackFail">
+    <value>Magpadala ng komentong nabigo, pakisubukang muli</value>
+  </data>
+  <data name="FeedbackSuccess">
+    <value>Matagumpay na magpadala, salamat sa kontribusyon na ito, hilingin sa iyo ng isang masayang laro</value>
+  </data>
+  <data name="ExchangeCardSelectCardPls">
+    <value>Mangyaring piliin ang uri ng card na babaguhin</value>
+  </data>
+  <data name="ExchangeCardSystemMaintainance">
+    <value>Ang system {0} ay nasa ilalim ng pagpapanatili, mangyaring pumili ng ibang uri ng card</value>
+  </data>
+  <data name="ExchangeCardSuccessMessageTitle">
+    <value>Scratch card {0} {1} mga pagbabago sa {2}</value>
+  </data>
+  <data name="ExchangeCardSuccessMessageContent">
+    <value>Matagumpay mong napalitan ang card n Serial: {0} NP: {1} n Mag-click sa nilalaman ng card code upang humawak ng 3 segundo upang maisagawa ang kopya ng character</value>
+  </data>
+  <data name="ExchangeCardSuccessNoticeContent">
+    <value>Matagumpay mong napalitan ang card. Mangyaring pumunta sa Notification -&gt; Message para tingnan ang card code</value>
+  </data>
+  <data name="ExchangeProductInvalid">
+    <value>Ang produktong gusto mong baguhin ay hindi wasto</value>
+  </data>
+  <data name="ExchangeSuccessNoticeContent">
+    <value>Matagumpay mong nabago ang {0}. Paki-update ang impormasyon ng proteksyon ng iyong account at mangyaring makipag-ugnayan sa amin sa Hotline number ({1}) upang matanggap ang iyong reward.</value>
+  </data>
+  <data name="ExchangeSuccessNoticeTitle">
+    <value>Matagumpay mong nabago ang {0}</value>
+  </data>
+  <data name="ExchangeProductInvalidCode">
+    <value>Di-wasto ang code ng produkto</value>
+  </data>
+  <data name="SupportText">
+    <value>Anumang mga katanungan mangyaring makipag-ugnayan sa {0} para sa tulong</value>
+  </data>
+  <data name="DepositSuccessAddCoinFailed">
+    <value>Matagumpay na na-load ang panalo. Ngunit nagkaroon ng error sa proseso ng paglipat ng Win</value>
+  </data>
+  <data name="ValidateDisplayNameAZ">
+    <value>Hindi dapat magkaroon ng mga espesyal na character at character ang display name.</value>
+  </data>
+  <data name="ValidateNickName1">
+    <value>Hindi dapat blangko ang username.</value>
+  </data>
+  <data name="ValidateDisplayNameNotEmpty">
+    <value>Hindi maaaring blangko ang display name.</value>
+  </data>
+  <data name="ValidatePasswordNotEmpty">
+    <value>Hindi maaaring blangko ang password.</value>
+  </data>
+  <data name="ValidationPassword4">
+    <value>Mangyaring pumili ng mas mahirap na password upang maprotektahan ang iyong account. Hindi mapili ang password ng {0}</value>
+  </data>
+  <data name="TurnsInvalid">
+    <value>Di-wastong paglalaro</value>
+  </data>
+  <data name="NewPassword">
+    <value>Isang bagong password</value>
+  </data>
+  <data name="DisplayNameDoDai">
+    <value>Dapat na may hindi bababa sa 3 hanggang 15 character ang display name.</value>
+  </data>
+  <data name="DisplayNameKhoangTrang">
+    <value>Hindi maaaring maglaman ng mga puwang ang display name.</value>
+  </data>
+  <data name="DisplayNameNotCorrect">
+    <value>Ang display name ay naglalaman ng mga di-wastong character.</value>
+  </data>
+  <data name="DisplayNameNotCorrect1">
+    <value>Hindi maaaring pareho ang username sa display name.</value>
+  </data>
+  <data name="DisplayNameNull">
+    <value>Hindi maaaring blangko ang display name</value>
+  </data>
+  <data name="ExistedAccount">
+    <value>Ginagamit na ang account. Mangyaring pumili ng ibang pangalan...</value>
+  </data>
+  <data name="Failed">
+    <value>Nabigo</value>
+  </data>
+  <data name="GetAvatarSuccess">
+    <value>Matagumpay na makakuha ng Avatar Link</value>
+  </data>
+  <data name="GetMailSuccess">
+    <value>Matagumpay na Kumuha ng Listahan ng Mail</value>
+  </data>
+  <data name="GetUserOnlineSuccess">
+    <value>Matagumpay na makakuha ng online na listahan ng user</value>
+  </data>
+  <data name="HistoriCoinBanCaSuccess">
+    <value>Matagumpay na makakuha ng kasaysayan ng pera</value>
+  </data>
+  <data name="imageLength">
+    <value>Laki ng file &lt;= 500Kb.</value>
+  </data>
+  <data name="InvalidDisplayName">
+    <value>Umiiral na ang display name.</value>
+  </data>
+  <data name="InvalidDisplayName2">
+    <value>Di-wastong display name</value>
+  </data>
+  <data name="InvalidNickName">
+    <value>Di-wastong pangalan ng account</value>
+  </data>
+  <data name="isValidExtension">
+    <value>Tanggapin lamang ang mga file na jpg, png, gif.</value>
+  </data>
+  <data name="LoginFailed">
+    <value>Error sa pag-login. Pakiulit!</value>
+  </data>
+  <data name="LoginSuccess">
+    <value>Matagumpay na naka-log in</value>
+  </data>
+  <data name="NonExistsFaceAccount">
+    <value>Ang Facebook Account ay hindi nakarehistro</value>
+  </data>
+  <data name="NotHaveMail">
+    <value>Wala kang mail.</value>
+  </data>
+  <data name="OAuthLoginError">
+    <value>Ang impormasyon sa Facebook ay hindi tama, mangyaring mag-login muli</value>
+  </data>
+  <data name="OAuthLoginError1">
+    <value>Hindi tumutugma ang impormasyon sa Facebook, pakisubukang muli.</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_NotExistAccount">
+    <value>Walang account</value>
+  </data>
+  <data name="RegisterCaptchaInvalid">
+    <value>Di-wastong captcha</value>
+  </data>
+  <data name="RegisterCaptchaNotExists">
+    <value>Ang Captcha ay wala</value>
+  </data>
+  <data name="RegisterFailed">
+    <value>Nabigo ang nakarehistro. Subukang muli mamaya.</value>
+  </data>
+  <data name="UpdateSuccessAddCoin">
+    <value>Matagumpay na na-update. Iginawad ka ng {0} na barya sa iyong account!</value>
+  </data>
+  <data name="UserAndPassError">
+    <value>Ang UserName at password ay hindi tama!</value>
+  </data>
+  <data name="UserInvalit">
+    <value>Hindi ma-authenticate ang impormasyon</value>
+  </data>
+  <data name="UserNameHaveEmpty">
+    <value>Hindi maaaring maglaman ng mga puwang ang username.</value>
+  </data>
+  <data name="UserNameInvalit">
+    <value>Ang username ay hindi maaaring maglaman ng unicode at mga espesyal na character.</value>
+  </data>
+  <data name="UserNameInvalit2">
+    <value>Ang username ay naglalaman ng mga hindi wastong character</value>
+  </data>
+  <data name="UserNameInvalit3">
+    <value>Hindi maaaring pareho ang username sa display name.</value>
+  </data>
+  <data name="UserNameInvalit4">
+    <value>Mayroon nang ganitong username</value>
+  </data>
+  <data name="UserNameLenght">
+    <value>Ang username ay hindi bababa sa 3 character at hanggang 15 character.</value>
+  </data>
+  <data name="UserNameNull">
+    <value>Hindi dapat blangko ang username.</value>
+  </data>
+  <data name="ValidationLogin15">
+    <value>Error sa system</value>
+  </data>
+  <data name="ValidationPassword">
+    <value>Ilagay ang password.</value>
+  </data>
+  <data name="ValidationPassword2">
+    <value>Dapat na hindi bababa sa 6 na character at maximum na 15 character ang password.</value>
+  </data>
+  <data name="ValidationPassword3">
+    <value>Ang password ay naglalaman ng mga hindi wastong character</value>
+  </data>
+  <data name="ChangePasswordTitle">
+    <value>Baguhin ang password</value>
+  </data>
+  <data name="PassNewLable">
+    <value>Isang bagong password</value>
+  </data>
+  <data name="PassNewConfirmLable">
+    <value>Maglagay ng bagong password</value>
+  </data>
+  <data name="ValidationPassword5">
+    <value>Hindi tugma ang bagong password</value>
+  </data>
+  <data name="ValidationPhone">
+    <value>Walang numero ng telepono</value>
+  </data>
+  <data name="ValidationPhone2">
+    <value>Ginagamit na ang numero ng telepono</value>
+  </data>
+  <data name="ValidationPhone3">
+    <value>Di-wastong numero ng telepono</value>
+  </data>
+  <data name="ValidationPhone4">
+    <value>Hindi dapat blangko ang numero ng telepono</value>
+  </data>
+  <data name="UpdatePasswordSuccess">
+    <value>Matagumpay na na-update ang password</value>
+  </data>
+  <data name="UpdatePasswordError">
+    <value>Hindi tama ang verification code, pakisubukang muli.</value>
+  </data>
+  <data name="CaptchaIncorrect">
+    <value>Hindi tama ang verification code, pakisubukang muli.</value>
+  </data>
+  <data name="ValidationCountryCode">
+    <value>Mangyaring piliin ang bansa</value>
+  </data>
+  <data name="CountryCodeLabel">
+    <value>Piliin ang country code</value>
+  </data>
+  <data name="PhoneLabel">
+    <value>Telepono</value>
+  </data>
+  <data name="ReceiveOTP">
+    <value>Tumanggap ng OTP code</value>
+  </data>
+  <data name="OTPLabel">
+    <value>Ilagay ang OTP code</value>
+  </data>
+  <data name="UserNameLabel">
+    <value>User name</value>
+  </data>
+  <data name="DisplayNameLabel">
+    <value>Naka display na Pangalan</value>
+  </data>
+  <data name="PassWordLabel">
+    <value>Password</value>
+  </data>
+  <data name="ConfirmPhoneTitle">
+    <value>I-verify ang numero ng telepono</value>
+  </data>
+  <data name="SDTDaCapNhatTruocDo">
+    <value>Ang numero ng telepono ay na-update dati</value>
+  </data>
+  <data name="AuthRegisterChooseAvatarLabel">
+    <value>Mangyaring piliin ang iyong kinatawan na display name.</value>
+  </data>
+  <data name="AuthRegisterConfirm">
+    <value>Okay</value>
+  </data>
+  <data name="AuthRegisterDisplayName">
+    <value>Nakadisplay na pangalan</value>
+  </data>
+  <data name="AuthRegisterHelper">
+    <value>Pakipili ang pangalan ng display ng iyong kinatawan sa abc.net</value>
+  </data>
+  <data name="AuthRegisterNickname">
+    <value>Palayaw...</value>
+  </data>
+  <data name="AuthRegisterWelcome">
+    <value>Maligayang pagdating sa komunidad ng abc.net</value>
+  </data>
+  <data name="BounsUpdateMail">
+    <value></value>
+  </data>
+  <data name="BounsUpdateMailHeading">
+    <value>I-update ang email</value>
+  </data>
+  <data name="BounsUpdateMailRequireMsg">
+    <value>&lt;label&gt; Paki-update ang iyong email upang makatanggap kaagad &lt;span class = "happiness_inner__content - body_inner-alert"&gt; 100,000 Coins &lt;/span&gt; at makatanggap ng mga karagdagang regalo para sa mga sumusunod na kaganapan &lt;/label&gt;</value>
+  </data>
+  <data name="BounsUpdateMailSuccess">
+    <value>Nakatanggap ang account na ito ng mga reward</value>
+  </data>
+  <data name="BounsUpdateMailTitle">
+    <value>LIBRENG CHIPS</value>
+  </data>
+  <data name="BounsUpdateMailUpdateEmail">
+    <value>I-update ang email</value>
+  </data>
+  <data name="BounsUpdateMailWelcome">
+    <value>Kamusta,</value>
+  </data>
+  <data name="EditProfileV2ID">
+    <value>Pagkakinlanlan</value>
+  </data>
+  <data name="EditProfileV2Phone">
+    <value>Numero ng telepono</value>
+  </data>
+  <data name="EditProfileV2Update">
+    <value>Magpabago</value>
+  </data>
+  <data name="ForgetPasswordPhone">
+    <value>Telepono:</value>
+  </data>
+  <data name="ForgetPasswordTut">
+    <value>Mangyaring makipag-ugnayan sa suporta upang makuha ang iyong password.</value>
+  </data>
+  <data name="HistoryKillMiniBoss3DCongra">
+    <value>Nanalo:</value>
+  </data>
+  <data name="HistoryKillMiniBossCongra">
+    <value>Nanalo:</value>
+  </data>
+  <data name="HistoryMiniBossOpt_All">
+    <value>Lahat</value>
+  </data>
+  <data name="HistoryMiniBossOpt_Bullet">
+    <value>Bala</value>
+  </data>
+  <data name="HistoryMiniBossOpt_Card">
+    <value>Baraha</value>
+  </data>
+  <data name="HistoryMiniBossOpt_Coin">
+    <value>barya</value>
+  </data>
+  <data name="HistoryMiniBossOpt_Turns">
+    <value>Lumiko</value>
+  </data>
+  <data name="HistoryMiniBossReceive">
+    <value>Makatanggap ng gantimpala</value>
+  </data>
+  <data name="HistoryMissionBanCaBuilding">
+    <value>Pinoproseso</value>
+  </data>
+  <data name="HistoryMissionBanCaNoData">
+    <value>Walang data</value>
+  </data>
+  <data name="HistoryMissionBanCaUnsucess">
+    <value>Hindi natapos</value>
+  </data>
+  <data name="HistorySpinHit">
+    <value>Panalo</value>
+  </data>
+  <data name="HistorySpinMiss">
+    <value>mali</value>
+  </data>
+  <data name="HistorySpinOpt_Date">
+    <value>Set ng Petsa</value>
+  </data>
+  <data name="HistorySpinOpt_Desc">
+    <value>Paglalarawan</value>
+  </data>
+  <data name="HistorySpinOpt_Order">
+    <value>Maglagay ng taya</value>
+  </data>
+  <data name="HistorySpinOpt_Res">
+    <value>Resulta</value>
+  </data>
+  <data name="ListGunBossLoading">
+    <value>Naglo-load</value>
+  </data>
+  <data name="LuckySpinIntroNodata">
+    <value>Walang data</value>
+  </data>
+  <data name="ManagerAvatarBrowse">
+    <value>Pumili ng larawan</value>
+  </data>
+  <data name="ManagerAvatarUpload">
+    <value>Mag-upload</value>
+  </data>
+  <data name="OpenAuthConfirmLoginSuccessHeading">
+    <value>MATAGUMPAY NA NAG-LOG IN</value>
+  </data>
+  <data name="OpenAuthConfirmLoginSuccessLabel">
+    <value>Tagumpay</value>
+  </data>
+  <data name="OpenAuthConfirmLoginTitle">
+    <value>Mag log in</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AccountUserSecure">
+    <value>Gumagamit ang account ng seguridad</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AccountUserSMSSecure">
+    <value>Security account gamit ang SMS</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserHasBeenLocked">
+    <value>Naka-lock ang iyong account</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserHasBeenLockedForever">
+    <value>Permanenteng na-lock ang account</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserLocked">
+    <value>ang account ay naka-lock</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserLockedLongMessage">
+    <value>Naka-lock ang iyong account &lt;strong&gt; {0} &lt;/strong&gt; araw, mula &lt;strong&gt; {1} &lt;/strong&gt; hanggang &lt;strong&gt; {2} &lt;/strong&gt;. Dahilan: &lt;strong&gt; {3} &lt;/strong&gt;. &lt;br/&gt; Anumang mga katanungan mangyaring makipag-ugnayan sa online na suporta para sa mga sagot.</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserLockedLongMessageForever">
+    <value>Permanenteng naka-lock ang iyong account. Dahilan: &lt;strong&gt; {0} &lt;/strong&gt;. &lt;br/&gt; Anumang mga katanungan mangyaring makipag-ugnayan sa online na suporta para sa mga sagot.</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserNotActive">
+    <value>Hindi pa naa-activate ang account</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertUserNotActiveLabel">
+    <value>Mangyaring i-activate ang iyong account</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_AlertWrongUsernameOrPass">
+    <value>Mali ang email o password</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_Failed">
+    <value>Hindi tagumpay ang pag-login</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_FailedHTML">
+    <value>&lt;div class = 'text-center'&gt; Nabigo ang pag-login. Subukang muli mamaya. &lt;/div&gt;</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_NotExistSecureCode">
+    <value>Walang security code</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_OtherUser">
+    <value>Gumagamit ang user ng ibang device</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_SuccesAndSecureCode">
+    <value>Tagumpay at code ng seguridad</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_SystemError">
+    <value>Error sa system</value>
+  </data>
+  <data name="OpenAuthConfirmLogin_WrongExistSecureCode">
+    <value>Mali ang security code</value>
+  </data>
+  <data name="RegisterSuccessTitle">
+    <value>Tagumpay sa Pag-signUp</value>
+  </data>
+  <data name="UserInfo3D_BoxGift">
+    <value>Kahon ng regalo</value>
+  </data>
+  <data name="UserInfo3D_Change">
+    <value>Baguhin</value>
+  </data>
+  <data name="UserInfo3D_ChangeAva">
+    <value>Baguhin ang Avatar</value>
+  </data>
+  <data name="UserInfo3D_Event">
+    <value>Kaganapan</value>
+  </data>
+  <data name="UserInfo3D_FishBoss">
+    <value>Boss isda</value>
+  </data>
+  <data name="UserInfo3D_Gem">
+    <value>hiyas:</value>
+  </data>
+  <data name="UserInfo3D_History">
+    <value>MGA ACHIEVEMENTS</value>
+  </data>
+  <data name="UserInfo3D_Info">
+    <value>IMPORMASYON</value>
+  </data>
+  <data name="UserInfo3D_Mission">
+    <value>Misyon</value>
+  </data>
+  <data name="UserInfo3D_NewPass">
+    <value>BAGONG PASSWORD</value>
+  </data>
+  <data name="UserInfo3D_OldPass">
+    <value>LUMANG PASSWORD</value>
+  </data>
+  <data name="UserInfo3D_Upload">
+    <value>Mag-upload</value>
+  </data>
+  <data name="UsersTichCodeHeading">
+    <value>Kaganapan</value>
+  </data>
+  <data name="AuthRegisterAddress">
+    <value>Permanenteng address</value>
+  </data>
+  <data name="AuthRegisterCaptcha">
+    <value>Captcha</value>
+  </data>
+  <data name="AuthRegisterCMND">
+    <value>Kard ng pagkakakilanlan</value>
+  </data>
+  <data name="AuthRegisterEmail">
+    <value>Email</value>
+  </data>
+  <data name="AuthRegisterFullName">
+    <value>Buong pangalan</value>
+  </data>
+  <data name="AuthRegisterNgayCap">
+    <value>Petsa ng isyu</value>
+  </data>
+  <data name="AuthRegisterNgaySinh">
+    <value>Kaarawan</value>
+  </data>
+  <data name="AuthRegisterNoiCap">
+    <value>Inilabas ni</value>
+  </data>
+  <data name="AuthRegisterPassWord">
+    <value>Kontrasenyas</value>
+  </data>
+  <data name="AuthRegisterSDT">
+    <value>Numero ng telepono</value>
+  </data>
+  <data name="AuthRegisterUserName">
+    <value>Ginamit na pangalan</value>
+  </data>
+  <data name="EditProfileV2Email">
+    <value>Email</value>
+  </data>
+  <data name="SoLuong">
+    <value>Halaga</value>
+  </data>
+  <data name="STT">
+    <value>Hindi</value>
+  </data>
+  <data name="ValidationAddress">
+    <value>Ilagay ang Address</value>
+  </data>
+  <data name="ValidationCaptcha">
+    <value>Ipasok ang captcha</value>
+  </data>
+  <data name="ValidationCaptcha2">
+    <value>Mali ang conpirmasyon code.</value>
+  </data>
+  <data name="ValidationCMND">
+    <value>Hindi dapat blangko ang ID card at maximum na 20 character</value>
+  </data>
+  <data name="ValidationDateOfBirthday">
+    <value>Ilagay ang petsa ng kapanganakan</value>
+  </data>
+  <data name="ValidationDisplayName">
+    <value>Ilagay ang nakalagay na Pangalan</value>
+  </data>
+  <data name="ValidationDisplayName2">
+    <value>Ang pangalan ay nagpapakita ng hindi bababa sa 3 mga character, hanggang sa 15 mga character at kasama lamang ang mga titik mula sa a-z, A-Z at 0-9.</value>
+  </data>
+  <data name="ValidationEmail">
+    <value>Maglagay ng email.</value>
+  </data>
+  <data name="ValidationFullName">
+    <value>Ilagay ang iyong buong pangalan.</value>
+  </data>
+  <data name="ValidationLogin">
+    <value>Mangyaring mag-log in muli.</value>
+  </data>
+  <data name="ValidationNgayCap">
+    <value>Ilagay ang petsa ng isyu.</value>
+  </data>
+  <data name="ValidationNoiCap">
+    <value>Ipasok ang lugar ng isyu.</value>
+  </data>
+  <data name="ValidationRegisterError">
+    <value>Nabigo ang pagpaparehistro. Subukang muli mamaya.</value>
+  </data>
+  <data name="ValidationSDT">
+    <value>Ilagay ang iyong numero ng telepono.</value>
+  </data>
+  <data name="ValidationSDT2">
+    <value>Hindi maayos na na-format ang mga numero ng telepono.</value>
+  </data>
+  <data name="ValidationUserName">
+    <value>Ilagay ang iyong ginamit na pangalan.</value>
+  </data>
+  <data name="ValidationUserName2">
+    <value>Ang username ay hindi bababa sa 3 character, hanggang 15 character at kasama lang ang mga character mula sa a-z, A-Z at 0-9.</value>
+  </data>
+  <data name="ValidationUserName3">
+    <value>Umiiral na ang username na ito.</value>
+  </data>
+  <data name="ValidationUserName4">
+    <value>Ang username ay naglalaman ng mga pangalan na hindi pinapayagan.</value>
+  </data>
+  <data name="ValidationUserName5">
+    <value>Hindi dapat maglaman ng mga puwang ang username.</value>
+  </data>
+  <data name="ValidationUserName6">
+    <value>Umiiral na ang username na ito.</value>
+  </data>
+  <data name="ValidationDisplayName3">
+    <value>Ang display name ay hindi maaaring pareho sa ginamit na pangalan</value>
+  </data>
+  <data name="ValidationDisplayName4">
+    <value>Ang display name ay naglalaman ng mga pangalan na hindi pinapayagan</value>
+  </data>
+  <data name="ValidationDisplayName5">
+    <value>Hindi maaaring maglaman ng mga puwang ang display name.</value>
+  </data>
+  <data name="ValidationDisplayName6">
+    <value>Umiiral na ang nakadisplay na pangalan</value>
+  </data>
+  <data name="ValidationEmail2">
+    <value>Di-wastong email</value>
+  </data>
+  <data name="ValidationLogin10">
+    <value>Mali ang security code</value>
+  </data>
+  <data name="ValidationLogin11">
+    <value>Nagamit na ang security code. Pakisulat ang bagong security code!</value>
+  </data>
+  <data name="ValidationLogin12">
+    <value>Walang account</value>
+  </data>
+  <data name="ValidationLogin13">
+    <value>Security account gamit ang SMS</value>
+  </data>
+  <data name="ValidationLogin14">
+    <value>Gumagamit ang account ng seguridad</value>
+  </data>
+  <data name="ValidationLogin2">
+    <value>Mali ang username o password</value>
+  </data>
+  <data name="ValidationLogin3">
+    <value>Naka-lock ang account</value>
+  </data>
+  <data name="ValidationLogin4">
+    <value>Naka-lock ang iyong account &lt;strong&gt; {0} &lt;/strong&gt; araw, mula &lt;strong&gt; {1} &lt;/strong&gt; hanggang &lt;strong&gt; {2} &lt;/strong&gt;. Dahilan: &lt;strong&gt; {3} &lt;/strong&gt;. &lt;br/&gt; Anumang mga katanungan mangyaring makipag-ugnayan sa online na suporta para sa mga sagot.</value>
+  </data>
+  <data name="ValidationLogin5">
+    <value>Permanenteng na-lock ang account</value>
+  </data>
+  <data name="ValidationLogin6">
+    <value>Permanenteng naka-lock ang iyong account. Dahilan: &lt;strong&gt; {0} &lt;/strong&gt;. &lt;br/&gt; Anumang mga katanungan mangyaring makipag-ugnayan sa online na suporta para sa mga sagot.</value>
+  </data>
+  <data name="ValidationLogin7">
+    <value>Hindi pa naa-activate ang account.</value>
+  </data>
+  <data name="ValidationLogin8">
+    <value>Gumagamit ang user ng ibang device</value>
+  </data>
+  <data name="ValidationLogin9">
+    <value>Walang security code</value>
+  </data>
+  <data name="ValidationRegister1">
+    <value>Hindi makapagrehistro</value>
+  </data>
+  <data name="ValidationRegister2">
+    <value>Hindi ma-authenticate ang impormasyon</value>
+  </data>
+  <data name="ValidationUserName7">
+    <value>Pangalan ng User ginagamit na. Mangyaring pumili ng ibang pangalan....</value>
+  </data>
+  <data name="ValidationUserName8">
+    <value>Ang account na ito ay Di-wasto.</value>
+  </data>
+  <data name="AuthRegisterNhapMa">
+    <value>Ipasok ang code</value>
+  </data>
+  <data name="AuthRegisterDoiMatKhau">
+    <value>Palitan ANG password</value>
+  </data>
+  <data name="ValidationLogin16">
+    <value>Mangyaring mag-login upang maisagawa ang pagpapaandar na ito.</value>
+  </data>
+  <data name="UpdateProfileNote">
+    <value>Ayon sa mga regulasyon ng ahensya ng pamamahala ng Estado, ang mga manlalaro ay kailangang magbigay ng buong personal na impormasyon kapag nagrerehistro ng isang gaming account</value>
+  </data>
+  <data name="ErrorMessValidation1">
+    <value>Ang impormasyon na iyong inilagay ay hindi tama</value>
+  </data>
+  <data name="ErrorMessValidation10">
+    <value>Maling ID card.</value>
+  </data>
+  <data name="ErrorMessValidation2">
+    <value>Ang iyong bagong password ay lumampas sa pinapayagang limitasyon</value>
+  </data>
+  <data name="ErrorMessValidation3">
+    <value>Hindi tama ang lumang password. Mangyaring makipag-ugnayan sa suporta kung hindi mo matandaan ang iyong password.</value>
+  </data>
+  <data name="ErrorMessValidation4">
+    <value>Hindi maaaring walang laman ang pangalan.</value>
+  </data>
+  <data name="ErrorMessValidation5">
+    <value>Hindi maaaring walang laman ang lugar ng isyu.</value>
+  </data>
+  <data name="ErrorMessValidation6">
+    <value>Hindi maaaring walang laman ang address.</value>
+  </data>
+  <data name="ErrorMessValidation7">
+    <value>Di-wastong numero ng telepono.</value>
+  </data>
+  <data name="ErrorMessValidation8">
+    <value>Mangyaring piliin ang petsa ng kapanganakan.</value>
+  </data>
+  <data name="ErrorMessValidation9">
+    <value>Mangyaring piliin ang petsa ng ID card.</value>
+  </data>
+  <data name="ValidationDisplayName7">
+    <value>Di-wastong nakadisplay na pangalan.</value>
+  </data>
+  <data name="EmailSupport">
+    <value>Suporta sa email</value>
+  </data>
+  <data name="VisitFanpageFacebook">
+    <value>Bisitahin ang aming laro ng fanpage</value>
+  </data>
+  <data name="ErrorMessValidation11">
+    <value>Pinapayagan lamang na mag-upload ng parehong domain</value>
+  </data>
+  <data name="ErrorMessValidation12">
+    <value>Mali ang pag-upload ng larawan</value>
+  </data>
+  <data name="ErrorMessValidation13">
+    <value>Mali ang kapasidad sa pag-upload ng larawan</value>
+  </data>
+  <data name="ErrorMessValidation14">
+    <value>Hindi ka karapat-dapat na gamitin ang function na ito</value>
+  </data>
+  <data name="ErrorMessValidation15">
+    <value>Matagumpay mong na-upload, mangyaring maghintay para sa susunod na pag-upload</value>
+  </data>
+  <data name="ErrorMessValidation16">
+    <value>Matagumpay na i-update ang iyong avatar</value>
+  </data>
+  <data name="ErrorMessValidation17">
+    <value>Tanggapin lamang ang mga larawang jpg, png, gif</value>
+  </data>
+  <data name="ValidationLogin17">
+    <value>Hindi tagumpay ang pag-login</value>
+  </data>
+  <data name="ValidationLogin18">
+    <value>Mangyaring i-activate ang iyong account</value>
+  </data>
+  <data name="ValidationLogin19">
+    <value>Hindi tagumpay ang pag-login. Subukang muli mamaya.</value>
+  </data>
+  <data name="UpdateInfoSuccess">
+    <value>Matagumpay na na-update</value>
+  </data>
+  <data name="RegisterPlayNowButton">
+    <value>Maglaro Ngayon</value>
+  </data>
+  <data name="LoginBouns">
+    <value>Ang abc.net ay magpadala ng {0} CHIPS sa iyo para sa matagumpay na pag-log in. Sana maging masaya ka!!!</value>
+  </data>
+  <data name="RegisterBounsTitle">
+    <value>Binabati kita sa matagumpay na pagrehistro!</value>
+  </data>
+  <data name="hope_you_have_fun">
+    <value>Sana maging masaya ka!!!</value>
+  </data>
+  <data name="RegisterBouns">
+    <value>Binabati kita sa matagumpay na pagrehistro! Bibigyan ka ng admin ng {0} CHIPS para maglaro sa abc.netTEST</value>
+  </data>
+  <data name="UserIDAndDisplayName">
+    <value>Ginamit na ID - Nakadisplay na pangalan</value>
+  </data>
+  <data name="MessagePleaseSelectUser">
+    <value>Mangyaring pumili ng isang gumagamit</value>
+  </data>
+  <data name="MessageMe">
+    <value>,Ako</value>
+  </data>
+  <data name="MessageTabUserLabel">
+    <value>GUMAGAMIT</value>
+  </data>
+  <data name="MessageTabAdminLabel">
+    <value>ADMIN</value>
+  </data>
+  <data name="AccPiPayError">
+    <value>Ang Pi Pay account ay hindi tama.</value>
+  </data>
+  <data name="MessageTabGroupLabel">
+    <value>Grupo</value>
+  </data>
+  <data name="AccAbaError">
+    <value>Ang ABA account ay hindi tama.</value>
+  </data>
+  <data name="AccWAVE_MONEYError">
+    <value>Hindi tama ang WAVE MONEY account.</value>
+  </data>
+  <data name="AccWaveError">
+    <value>Hindi tama ang WAVE account.</value>
+  </data>
+  <data name="goldBouns_Facebook_Login">
+    <value>10K</value>
+  </data>
+  <data name="UsernameAvailable">
+    <value>pwede ang username</value>
+  </data>
+  <data name="Reason_CTV_blockAcc">
+    <value>Na-lock ka dahil sa hinala ng dayaan sa TEANG LEN, susuriin muli ng admin - mai-lock ang account mo hanggang 10am. Anumang mga katanungan mangyaring makipag-ugnayan sa customer service para sa higit pang mga detalye</value>
+  </data>
+  <data name="AccGCASHError">
+    <value>Hindi tama ang GCASH account.</value>
+  </data>
+  <data name="VerifyAccountNotify">
+    <value>Paki-verify ang antas 2 ng iyong account sa pamamagitan ng pagsunod sa link na ito &lt;a href='{0}' target='_blank'&gt;{0} &lt;/a&gt; upang makatanggap ng 1.000.000 chips. Ang proseso ng pagsusuri ay makukumpleto sa loob ng 48 oras</value>
+  </data>
+  <data name="Use_an_exitsting_account">
+    <value>Gumamit ng papalabas na account</value>
+  </data>
+  <data name="Register_get_gift">
+    <value>Magparehistro NGAYON para makatanggap ng REGALO</value>
+  </data>
+  <data name="registerV3_Create_a_new_account">
+    <value>gumawa ng bagong account</value>
+  </data>
+  <data name="registerV3_account_login">
+    <value>pag-login ng account</value>
+  </data>
+  <data name="registerV3_Login_to_agree">
+    <value>Mag-login upang sumang-ayon</value>
+  </data>
+  <data name="registerV3_Register_agreement">
+    <value>Magrehistro ng kasunduan</value>
+  </data>
+  <data name="registerV3_submit">
+    <value>ipasa</value>
+  </data>
+  <data name="VerifyEmailTitle">
+    <value>ADMIN</value>
+  </data>
+  <data name="registerV3_Registration">
+    <value>Pagpaparehistro</value>
+  </data>
+  <data name="registerV3_Support">
+    <value>SUPORTA</value>
+  </data>
+  <data name="registerV3_Other_way_to_login">
+    <value>Iba pang paraan sa pag-login</value>
+  </data>
+  <data name="Level_LevelUp">
+    <value>Matagumpay na mag-level up</value>
+  </data>
+  <data name="Level_LogPointSuccess">
+    <value>Matagumpay na mag-imbak ng antas ng punto</value>
+  </data>
+  <data name="Level_LogPointError">
+    <value>Nabigong mag-imbak ng antas ng punto</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigListGameText">
+    <value>Kailangan mong maabot ang antas {0}</value>
+  </data>
+  <data name="Level_LevelInfo_ConfigBanCaRoomText">
+    <value>Kailangan mong maabot ang antas {0}</value>
+  </data>
+  <data name="Level_DescriptionUnlockGame">
+    <value>Congratulations! Na-unlock mo ang laro {0}</value>
+  </data>
+  <data name="Reason_538">
+    <value>ដកPi Pay</value>
+  </data>
+  <data name="gifts_code_mail_title">
+    <value>Maligayang pagdating sa pinakapinagkakatiwalaang laro online ABC</value>
+  </data>
+  <data name="gifts_code_mail_content">
+    <value>Makakatanggap ka ng {0} CHIPS para maglaro ng ABC mula sa page na &lt;a href="http://ABCgamestudio.com" target="_blank"&gt;ABCgamestudio.com&lt;/a&gt; at marami pang ibang regalo ang naghihintay sa iyo.</value>
+  </data>
+  <data name="FacebookLoginNewError">
+    <value>Nabigo ang pag-login, mangyaring makipag-ugnayan sa customer service para sa pagsuporta</value>
+  </data>
+</LocalLanguages>

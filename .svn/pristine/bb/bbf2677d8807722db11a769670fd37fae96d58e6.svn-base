@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LocalLanguages>
+  <data name="ActiveItem_UserHasActiveJackpot" xml:space="preserve">
+    <value>អ្នកមាន 1 វគ្គលេង  jackpot អ្នកចង់លេងភ្លាមទេ?</value>
+  </data>
+  <data name="ActiveItem_UserCanNotActiveMoreInJackpot" xml:space="preserve">
+    <value>អ្នកមិនអាចដំឡើង Item បន្ថែមពេលមិនទាន់ប្រើអស់វគ្គ Jackpot</value>
+  </data>
+</LocalLanguages>
